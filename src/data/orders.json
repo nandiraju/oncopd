@@ -1,0 +1,3510 @@
+[
+  {
+    "id": "ORD-0001",
+    "patientId": "PT-0039",
+    "patientName": "Lakshmi Reddy",
+    "scenario": "Family history",
+    "category": "Genomic Profiling",
+    "tests": [
+      "Comprehensive Genomic Profiling (500+ genes)"
+    ],
+    "status": "Pending Approval",
+    "priority": "Routine",
+    "orderedBy": "Dr. Harish Verma",
+    "orderedDate": "2026-06-12",
+    "expectedTat": "10 days",
+    "lab": "In-house Pathology",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0002",
+    "patientId": "PT-0053",
+    "patientName": "Arjun Menon",
+    "scenario": "Trial eligibility",
+    "category": "HER2",
+    "tests": [
+      "HER2 SISH",
+      "HER2 IHC + FISH"
+    ],
+    "status": "Resulted",
+    "priority": "Routine",
+    "orderedBy": "Dr. Pooja Gupta",
+    "orderedDate": "2026-06-26",
+    "expectedTat": "18 days",
+    "lab": "In-house Pathology",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0003",
+    "patientId": "PT-0093",
+    "patientName": "Deepa Malhotra",
+    "scenario": "MRD monitoring",
+    "category": "Pharmacogenomics",
+    "tests": [
+      "UGT1A1 Genotyping"
+    ],
+    "status": "Resulted",
+    "priority": "Routine",
+    "orderedBy": "Dr. Pooja Gupta",
+    "orderedDate": "2026-07-03",
+    "expectedTat": "15 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0004",
+    "patientId": "PT-0056",
+    "patientName": "Ananya Nair",
+    "scenario": "Therapy resistance",
+    "category": "Liquid Biopsy",
+    "tests": [
+      "Guardant360 CDx",
+      "ctDNA Liquid Biopsy"
+    ],
+    "status": "Pending Approval",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-19",
+    "expectedTat": "8 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0005",
+    "patientId": "PT-0083",
+    "patientName": "Harish Kumar",
+    "scenario": "MRD monitoring",
+    "category": "Germline Testing",
+    "tests": [
+      "Hereditary Cancer Germline Panel"
+    ],
+    "status": "Draft",
+    "priority": "STAT",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-04-08",
+    "expectedTat": "12 days",
+    "lab": "Strand Life Sciences",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0006",
+    "patientId": "PT-0060",
+    "patientName": "Lakshmi Verma",
+    "scenario": "MRD monitoring",
+    "category": "PD-L1",
+    "tests": [
+      "PD-L1 IHC 22C3",
+      "PD-L1 SP263"
+    ],
+    "status": "Approved",
+    "priority": "STAT",
+    "orderedBy": "Dr. Vikram Shetty",
+    "orderedDate": "2026-07-02",
+    "expectedTat": "13 days",
+    "lab": "MedGenome",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0007",
+    "patientId": "PT-0098",
+    "patientName": "Vidya Menon",
+    "scenario": "Newly diagnosed lung cancer",
+    "category": "MRD",
+    "tests": [
+      "MRD ctDNA Monitoring"
+    ],
+    "status": "Pending Approval",
+    "priority": "Routine",
+    "orderedBy": "Dr. Radha Reddy",
+    "orderedDate": "2026-04-11",
+    "expectedTat": "11 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0008",
+    "patientId": "PT-0061",
+    "patientName": "Naveen Nair",
+    "scenario": "Family history",
+    "category": "PD-L1",
+    "tests": [
+      "PD-L1 SP263"
+    ],
+    "status": "Pending Approval",
+    "priority": "Routine",
+    "orderedBy": "Dr. Rekha Sharma",
+    "orderedDate": "2026-06-02",
+    "expectedTat": "8 days",
+    "lab": "In-house Pathology",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0009",
+    "patientId": "PT-0081",
+    "patientName": "Pooja Iyer",
+    "scenario": "MRD monitoring",
+    "category": "Liquid Biopsy",
+    "tests": [
+      "Guardant360 CDx"
+    ],
+    "status": "Approved",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-03-24",
+    "expectedTat": "14 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0010",
+    "patientId": "PT-0008",
+    "patientName": "Meera Nair",
+    "scenario": "Family history",
+    "category": "Liquid Biopsy",
+    "tests": [
+      "cfDNA Panel",
+      "ctDNA Liquid Biopsy"
+    ],
+    "status": "Sample Collected",
+    "priority": "Routine",
+    "orderedBy": "Dr. Pooja Gupta",
+    "orderedDate": "2026-03-19",
+    "expectedTat": "14 days",
+    "lab": "Strand Life Sciences",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0011",
+    "patientId": "PT-0042",
+    "patientName": "Nisha Desai",
+    "scenario": "Recurrence",
+    "category": "HER2",
+    "tests": [
+      "HER2 SISH",
+      "HER2 IHC + FISH"
+    ],
+    "status": "Cancelled",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-04",
+    "expectedTat": "14 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0012",
+    "patientId": "PT-0096",
+    "patientName": "Geetha Joshi",
+    "scenario": "Recurrence",
+    "category": "Pharmacogenomics",
+    "tests": [
+      "DPYD Genotyping",
+      "PGx Panel"
+    ],
+    "status": "Cancelled",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-04-03",
+    "expectedTat": "12 days",
+    "lab": "MedGenome",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0013",
+    "patientId": "PT-0086",
+    "patientName": "Sanjay Nair",
+    "scenario": "Newly diagnosed lung cancer",
+    "category": "Genomic Profiling",
+    "tests": [
+      "Solid Tumor NGS Panel",
+      "Hotspot Panel"
+    ],
+    "status": "Draft",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-06-04",
+    "expectedTat": "11 days",
+    "lab": "Strand Life Sciences",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0014",
+    "patientId": "PT-0048",
+    "patientName": "Divya Malhotra",
+    "scenario": "Therapy resistance",
+    "category": "MRD",
+    "tests": [
+      "Signatera bespoke MRD",
+      "MRD ctDNA Monitoring"
+    ],
+    "status": "Cancelled",
+    "priority": "STAT",
+    "orderedBy": "Dr. Gopal Iyer",
+    "orderedDate": "2026-04-01",
+    "expectedTat": "6 days",
+    "lab": "Strand Life Sciences",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0015",
+    "patientId": "PT-0067",
+    "patientName": "Kavya Malhotra",
+    "scenario": "Trial eligibility",
+    "category": "Pharmacogenomics",
+    "tests": [
+      "UGT1A1 Genotyping"
+    ],
+    "status": "Approved",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Rao",
+    "orderedDate": "2026-04-14",
+    "expectedTat": "16 days",
+    "lab": "MedGenome",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0016",
+    "patientId": "PT-0093",
+    "patientName": "Deepa Malhotra",
+    "scenario": "Newly diagnosed lung cancer",
+    "category": "Liquid Biopsy",
+    "tests": [
+      "cfDNA Panel"
+    ],
+    "status": "Resulted",
+    "priority": "Routine",
+    "orderedBy": "Dr. Pooja Gupta",
+    "orderedDate": "2026-06-27",
+    "expectedTat": "11 days",
+    "lab": "Strand Life Sciences",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0017",
+    "patientId": "PT-0078",
+    "patientName": "Sneha Verma",
+    "scenario": "MRD monitoring",
+    "category": "RNA Fusion Panel",
+    "tests": [
+      "RNA Fusion NGS Panel"
+    ],
+    "status": "Sample Collected",
+    "priority": "STAT",
+    "orderedBy": "Dr. Vidya Kapoor",
+    "orderedDate": "2026-06-15",
+    "expectedTat": "14 days",
+    "lab": "MedGenome",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0018",
+    "patientId": "PT-0026",
+    "patientName": "Nisha Sharma",
+    "scenario": "Therapy resistance",
+    "category": "RNA Fusion Panel",
+    "tests": [
+      "Archer FusionPlex"
+    ],
+    "status": "Resulted",
+    "priority": "Routine",
+    "orderedBy": "Dr. Karthik Pillai",
+    "orderedDate": "2026-05-23",
+    "expectedTat": "9 days",
+    "lab": "Strand Life Sciences",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0019",
+    "patientId": "PT-0001",
+    "patientName": "Karthik Rao",
+    "scenario": "Newly diagnosed lung cancer",
+    "category": "MRD",
+    "tests": [
+      "Signatera bespoke MRD"
+    ],
+    "status": "Pending Approval",
+    "priority": "STAT",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-13",
+    "expectedTat": "8 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0020",
+    "patientId": "PT-0022",
+    "patientName": "Deepak Verma",
+    "scenario": "Therapy resistance",
+    "category": "HER2",
+    "tests": [
+      "HER2 SISH",
+      "HER2 IHC + FISH"
+    ],
+    "status": "Approved",
+    "priority": "Routine",
+    "orderedBy": "Dr. Pooja Gupta",
+    "orderedDate": "2026-05-02",
+    "expectedTat": "5 days",
+    "lab": "Strand Life Sciences",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0021",
+    "patientId": "PT-0082",
+    "patientName": "Sneha Reddy",
+    "scenario": "Therapy resistance",
+    "category": "MRD",
+    "tests": [
+      "Signatera bespoke MRD"
+    ],
+    "status": "Approved",
+    "priority": "STAT",
+    "orderedBy": "Dr. Meera Shetty",
+    "orderedDate": "2026-04-12",
+    "expectedTat": "9 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0022",
+    "patientId": "PT-0037",
+    "patientName": "Anil Verma",
+    "scenario": "Newly diagnosed lung cancer",
+    "category": "Germline Testing",
+    "tests": [
+      "BRCA1/2 Germline"
+    ],
+    "status": "Resulted",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-04-26",
+    "expectedTat": "11 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0023",
+    "patientId": "PT-0088",
+    "patientName": "Vidya Bose",
+    "scenario": "Trial eligibility",
+    "category": "MRD",
+    "tests": [
+      "MRD ctDNA Monitoring"
+    ],
+    "status": "Resulted",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Rekha Sharma",
+    "orderedDate": "2026-06-11",
+    "expectedTat": "15 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0024",
+    "patientId": "PT-0014",
+    "patientName": "Rohan Rao",
+    "scenario": "Trial eligibility",
+    "category": "Pharmacogenomics",
+    "tests": [
+      "DPYD Genotyping",
+      "UGT1A1 Genotyping"
+    ],
+    "status": "Resulted",
+    "priority": "STAT",
+    "orderedBy": "Dr. Nisha Rao",
+    "orderedDate": "2026-04-05",
+    "expectedTat": "5 days",
+    "lab": "Roche Foundation One",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0025",
+    "patientId": "PT-0022",
+    "patientName": "Deepak Verma",
+    "scenario": "MRD monitoring",
+    "category": "RNA Fusion Panel",
+    "tests": [
+      "Archer FusionPlex"
+    ],
+    "status": "In Lab",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Pooja Gupta",
+    "orderedDate": "2026-05-27",
+    "expectedTat": "14 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0026",
+    "patientId": "PT-0065",
+    "patientName": "Naveen Nair",
+    "scenario": "Family history",
+    "category": "Germline Testing",
+    "tests": [
+      "Lynch Syndrome Panel",
+      "BRCA1/2 Germline"
+    ],
+    "status": "Draft",
+    "priority": "Routine",
+    "orderedBy": "Dr. Rekha Shetty",
+    "orderedDate": "2026-06-26",
+    "expectedTat": "14 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0027",
+    "patientId": "PT-0100",
+    "patientName": "Harish Pillai",
+    "scenario": "MRD monitoring",
+    "category": "Liquid Biopsy",
+    "tests": [
+      "Guardant360 CDx",
+      "cfDNA Panel"
+    ],
+    "status": "Approved",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-04-25",
+    "expectedTat": "20 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0028",
+    "patientId": "PT-0048",
+    "patientName": "Divya Malhotra",
+    "scenario": "Recurrence",
+    "category": "Genomic Profiling",
+    "tests": [
+      "Comprehensive Genomic Profiling (500+ genes)",
+      "Hotspot Panel"
+    ],
+    "status": "In Lab",
+    "priority": "STAT",
+    "orderedBy": "Dr. Gopal Iyer",
+    "orderedDate": "2026-03-08",
+    "expectedTat": "19 days",
+    "lab": "Roche Foundation One",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0029",
+    "patientId": "PT-0045",
+    "patientName": "Priya Shetty",
+    "scenario": "MTB recommendation",
+    "category": "HRD",
+    "tests": [
+      "Myriad myChoice CDx",
+      "HRD Score (Genomic Instability)"
+    ],
+    "status": "Draft",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-26",
+    "expectedTat": "14 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0030",
+    "patientId": "PT-0073",
+    "patientName": "Sanjay Menon",
+    "scenario": "Therapy resistance",
+    "category": "MRD",
+    "tests": [
+      "MRD ctDNA Monitoring"
+    ],
+    "status": "Cancelled",
+    "priority": "Routine",
+    "orderedBy": "Dr. Gopal Patel",
+    "orderedDate": "2026-03-10",
+    "expectedTat": "9 days",
+    "lab": "MedGenome",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0031",
+    "patientId": "PT-0008",
+    "patientName": "Meera Nair",
+    "scenario": "Trial eligibility",
+    "category": "Imaging",
+    "tests": [
+      "CECT Thorax/Abdomen"
+    ],
+    "status": "Draft",
+    "priority": "STAT",
+    "orderedBy": "Dr. Pooja Gupta",
+    "orderedDate": "2026-03-31",
+    "expectedTat": "5 days",
+    "lab": "Roche Foundation One",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0032",
+    "patientId": "PT-0053",
+    "patientName": "Arjun Menon",
+    "scenario": "Family history",
+    "category": "Germline Testing",
+    "tests": [
+      "Hereditary Cancer Germline Panel",
+      "Lynch Syndrome Panel"
+    ],
+    "status": "Cancelled",
+    "priority": "STAT",
+    "orderedBy": "Dr. Pooja Gupta",
+    "orderedDate": "2026-03-18",
+    "expectedTat": "10 days",
+    "lab": "In-house Pathology",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0033",
+    "patientId": "PT-0080",
+    "patientName": "Anil Rao",
+    "scenario": "MTB recommendation",
+    "category": "Germline Testing",
+    "tests": [
+      "Hereditary Cancer Germline Panel",
+      "BRCA1/2 Germline"
+    ],
+    "status": "Pending Approval",
+    "priority": "STAT",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-03-16",
+    "expectedTat": "19 days",
+    "lab": "In-house Pathology",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0034",
+    "patientId": "PT-0021",
+    "patientName": "Radha Desai",
+    "scenario": "MRD monitoring",
+    "category": "Imaging",
+    "tests": [
+      "MRI Brain with contrast"
+    ],
+    "status": "In Lab",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-07-05",
+    "expectedTat": "6 days",
+    "lab": "MedGenome",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0035",
+    "patientId": "PT-0095",
+    "patientName": "Anjali Pillai",
+    "scenario": "Trial eligibility",
+    "category": "Liquid Biopsy",
+    "tests": [
+      "cfDNA Panel",
+      "ctDNA Liquid Biopsy"
+    ],
+    "status": "Pending Approval",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-04-07",
+    "expectedTat": "17 days",
+    "lab": "In-house Pathology",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0036",
+    "patientId": "PT-0099",
+    "patientName": "Deepak Desai",
+    "scenario": "Newly diagnosed lung cancer",
+    "category": "Genomic Profiling",
+    "tests": [
+      "Hotspot Panel"
+    ],
+    "status": "Draft",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-04-06",
+    "expectedTat": "6 days",
+    "lab": "MedGenome",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0037",
+    "patientId": "PT-0010",
+    "patientName": "Ashok Desai",
+    "scenario": "Therapy resistance",
+    "category": "Germline Testing",
+    "tests": [
+      "BRCA1/2 Germline"
+    ],
+    "status": "In Lab",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Rao",
+    "orderedDate": "2026-04-29",
+    "expectedTat": "7 days",
+    "lab": "In-house Pathology",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0038",
+    "patientId": "PT-0049",
+    "patientName": "Meera Menon",
+    "scenario": "MRD monitoring",
+    "category": "Germline Testing",
+    "tests": [
+      "Lynch Syndrome Panel",
+      "Hereditary Cancer Germline Panel"
+    ],
+    "status": "Draft",
+    "priority": "STAT",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-04",
+    "expectedTat": "12 days",
+    "lab": "In-house Pathology",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0039",
+    "patientId": "PT-0030",
+    "patientName": "Priya Gupta",
+    "scenario": "Therapy resistance",
+    "category": "HER2",
+    "tests": [
+      "HER2 IHC + FISH"
+    ],
+    "status": "In Lab",
+    "priority": "STAT",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-01",
+    "expectedTat": "5 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0040",
+    "patientId": "PT-0061",
+    "patientName": "Naveen Nair",
+    "scenario": "MTB recommendation",
+    "category": "Liquid Biopsy",
+    "tests": [
+      "Guardant360 CDx",
+      "ctDNA Liquid Biopsy"
+    ],
+    "status": "Resulted",
+    "priority": "STAT",
+    "orderedBy": "Dr. Rekha Sharma",
+    "orderedDate": "2026-06-13",
+    "expectedTat": "15 days",
+    "lab": "MedGenome",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0041",
+    "patientId": "PT-0032",
+    "patientName": "Ananya Kumar",
+    "scenario": "Newly diagnosed lung cancer",
+    "category": "MRD",
+    "tests": [
+      "Signatera bespoke MRD"
+    ],
+    "status": "Cancelled",
+    "priority": "Routine",
+    "orderedBy": "Dr. Shreya Rao",
+    "orderedDate": "2026-05-25",
+    "expectedTat": "5 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0042",
+    "patientId": "PT-0017",
+    "patientName": "Naveen Verma",
+    "scenario": "Trial eligibility",
+    "category": "HRD",
+    "tests": [
+      "Myriad myChoice CDx",
+      "HRD Score (Genomic Instability)"
+    ],
+    "status": "Pending Approval",
+    "priority": "STAT",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-03-30",
+    "expectedTat": "11 days",
+    "lab": "In-house Pathology",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0043",
+    "patientId": "PT-0077",
+    "patientName": "Harish Desai",
+    "scenario": "Trial eligibility",
+    "category": "HRD",
+    "tests": [
+      "Myriad myChoice CDx"
+    ],
+    "status": "Cancelled",
+    "priority": "Routine",
+    "orderedBy": "Dr. Radha Chatterjee",
+    "orderedDate": "2026-04-19",
+    "expectedTat": "14 days",
+    "lab": "Strand Life Sciences",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0044",
+    "patientId": "PT-0070",
+    "patientName": "Rohan Patel",
+    "scenario": "MRD monitoring",
+    "category": "Pharmacogenomics",
+    "tests": [
+      "UGT1A1 Genotyping"
+    ],
+    "status": "Cancelled",
+    "priority": "Routine",
+    "orderedBy": "Dr. Vikram Sharma",
+    "orderedDate": "2026-05-25",
+    "expectedTat": "5 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0045",
+    "patientId": "PT-0049",
+    "patientName": "Meera Menon",
+    "scenario": "Recurrence",
+    "category": "Imaging",
+    "tests": [
+      "MRI Brain with contrast",
+      "PET-CT Restaging"
+    ],
+    "status": "Resulted",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-03-24",
+    "expectedTat": "17 days",
+    "lab": "MedGenome",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0046",
+    "patientId": "PT-0030",
+    "patientName": "Priya Gupta",
+    "scenario": "Therapy resistance",
+    "category": "Germline Testing",
+    "tests": [
+      "Lynch Syndrome Panel"
+    ],
+    "status": "In Lab",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-19",
+    "expectedTat": "20 days",
+    "lab": "Strand Life Sciences",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0047",
+    "patientId": "PT-0067",
+    "patientName": "Kavya Malhotra",
+    "scenario": "Trial eligibility",
+    "category": "HER2",
+    "tests": [
+      "HER2 SISH"
+    ],
+    "status": "Approved",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Rao",
+    "orderedDate": "2026-05-27",
+    "expectedTat": "5 days",
+    "lab": "MedGenome",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0048",
+    "patientId": "PT-0018",
+    "patientName": "Nisha Shetty",
+    "scenario": "Family history",
+    "category": "Genomic Profiling",
+    "tests": [
+      "Hotspot Panel",
+      "Comprehensive Genomic Profiling (500+ genes)"
+    ],
+    "status": "Cancelled",
+    "priority": "STAT",
+    "orderedBy": "Dr. Sanjay Pillai",
+    "orderedDate": "2026-06-01",
+    "expectedTat": "12 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0049",
+    "patientId": "PT-0011",
+    "patientName": "Rajesh Menon",
+    "scenario": "MRD monitoring",
+    "category": "Pharmacogenomics",
+    "tests": [
+      "UGT1A1 Genotyping"
+    ],
+    "status": "Draft",
+    "priority": "Routine",
+    "orderedBy": "Dr. Latha Iyer",
+    "orderedDate": "2026-06-13",
+    "expectedTat": "13 days",
+    "lab": "Strand Life Sciences",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0050",
+    "patientId": "PT-0018",
+    "patientName": "Nisha Shetty",
+    "scenario": "Newly diagnosed lung cancer",
+    "category": "Pharmacogenomics",
+    "tests": [
+      "DPYD Genotyping",
+      "UGT1A1 Genotyping"
+    ],
+    "status": "Cancelled",
+    "priority": "Routine",
+    "orderedBy": "Dr. Sanjay Pillai",
+    "orderedDate": "2026-03-08",
+    "expectedTat": "18 days",
+    "lab": "In-house Pathology",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0051",
+    "patientId": "PT-0015",
+    "patientName": "Latha Gupta",
+    "scenario": "Newly diagnosed lung cancer",
+    "category": "HRD",
+    "tests": [
+      "HRD Score (Genomic Instability)"
+    ],
+    "status": "Resulted",
+    "priority": "STAT",
+    "orderedBy": "Dr. Meera Shetty",
+    "orderedDate": "2026-04-04",
+    "expectedTat": "11 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0052",
+    "patientId": "PT-0025",
+    "patientName": "Anil Verma",
+    "scenario": "Family history",
+    "category": "Germline Testing",
+    "tests": [
+      "Lynch Syndrome Panel"
+    ],
+    "status": "Resulted",
+    "priority": "STAT",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-06-11",
+    "expectedTat": "19 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0053",
+    "patientId": "PT-0006",
+    "patientName": "Geetha Verma",
+    "scenario": "Trial eligibility",
+    "category": "Pharmacogenomics",
+    "tests": [
+      "DPYD Genotyping",
+      "UGT1A1 Genotyping"
+    ],
+    "status": "In Lab",
+    "priority": "STAT",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-04-23",
+    "expectedTat": "19 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0054",
+    "patientId": "PT-0037",
+    "patientName": "Anil Verma",
+    "scenario": "Therapy resistance",
+    "category": "PD-L1",
+    "tests": [
+      "PD-L1 IHC 22C3",
+      "PD-L1 SP263"
+    ],
+    "status": "Sample Collected",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-07",
+    "expectedTat": "7 days",
+    "lab": "MedGenome",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0055",
+    "patientId": "PT-0005",
+    "patientName": "Arjun Malhotra",
+    "scenario": "Recurrence",
+    "category": "Liquid Biopsy",
+    "tests": [
+      "Guardant360 CDx",
+      "cfDNA Panel"
+    ],
+    "status": "Approved",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-06-05",
+    "expectedTat": "9 days",
+    "lab": "Roche Foundation One",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0056",
+    "patientId": "PT-0089",
+    "patientName": "Geetha Gupta",
+    "scenario": "Family history",
+    "category": "HER2",
+    "tests": [
+      "HER2 IHC + FISH"
+    ],
+    "status": "In Lab",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-18",
+    "expectedTat": "5 days",
+    "lab": "Roche Foundation One",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0057",
+    "patientId": "PT-0061",
+    "patientName": "Naveen Nair",
+    "scenario": "Recurrence",
+    "category": "Liquid Biopsy",
+    "tests": [
+      "cfDNA Panel",
+      "ctDNA Liquid Biopsy"
+    ],
+    "status": "Pending Approval",
+    "priority": "Routine",
+    "orderedBy": "Dr. Rekha Sharma",
+    "orderedDate": "2026-05-07",
+    "expectedTat": "8 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0058",
+    "patientId": "PT-0015",
+    "patientName": "Latha Gupta",
+    "scenario": "Therapy resistance",
+    "category": "Liquid Biopsy",
+    "tests": [
+      "cfDNA Panel",
+      "ctDNA Liquid Biopsy"
+    ],
+    "status": "Pending Approval",
+    "priority": "Routine",
+    "orderedBy": "Dr. Meera Shetty",
+    "orderedDate": "2026-06-09",
+    "expectedTat": "15 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0059",
+    "patientId": "PT-0038",
+    "patientName": "Suresh Desai",
+    "scenario": "Family history",
+    "category": "HRD",
+    "tests": [
+      "Myriad myChoice CDx",
+      "HRD Score (Genomic Instability)"
+    ],
+    "status": "Draft",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Shreya Desai",
+    "orderedDate": "2026-04-27",
+    "expectedTat": "10 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0060",
+    "patientId": "PT-0049",
+    "patientName": "Meera Menon",
+    "scenario": "Family history",
+    "category": "Liquid Biopsy",
+    "tests": [
+      "cfDNA Panel",
+      "Guardant360 CDx"
+    ],
+    "status": "Pending Approval",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-06-19",
+    "expectedTat": "6 days",
+    "lab": "In-house Pathology",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0061",
+    "patientId": "PT-0078",
+    "patientName": "Sneha Verma",
+    "scenario": "MTB recommendation",
+    "category": "Genomic Profiling",
+    "tests": [
+      "Comprehensive Genomic Profiling (500+ genes)"
+    ],
+    "status": "Draft",
+    "priority": "STAT",
+    "orderedBy": "Dr. Vidya Kapoor",
+    "orderedDate": "2026-06-28",
+    "expectedTat": "11 days",
+    "lab": "In-house Pathology",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0062",
+    "patientId": "PT-0008",
+    "patientName": "Meera Nair",
+    "scenario": "MRD monitoring",
+    "category": "Liquid Biopsy",
+    "tests": [
+      "Guardant360 CDx",
+      "ctDNA Liquid Biopsy"
+    ],
+    "status": "Cancelled",
+    "priority": "Routine",
+    "orderedBy": "Dr. Pooja Gupta",
+    "orderedDate": "2026-05-17",
+    "expectedTat": "13 days",
+    "lab": "MedGenome",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0063",
+    "patientId": "PT-0087",
+    "patientName": "Ashok Kapoor",
+    "scenario": "Therapy resistance",
+    "category": "MRD",
+    "tests": [
+      "Signatera bespoke MRD"
+    ],
+    "status": "Approved",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Gopal Iyer",
+    "orderedDate": "2026-05-04",
+    "expectedTat": "18 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0064",
+    "patientId": "PT-0001",
+    "patientName": "Karthik Rao",
+    "scenario": "Trial eligibility",
+    "category": "HRD",
+    "tests": [
+      "Myriad myChoice CDx"
+    ],
+    "status": "Sample Collected",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-04-30",
+    "expectedTat": "10 days",
+    "lab": "Roche Foundation One",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0065",
+    "patientId": "PT-0100",
+    "patientName": "Harish Pillai",
+    "scenario": "MRD monitoring",
+    "category": "Germline Testing",
+    "tests": [
+      "Lynch Syndrome Panel"
+    ],
+    "status": "In Lab",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-03-09",
+    "expectedTat": "8 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0066",
+    "patientId": "PT-0069",
+    "patientName": "Sushma Kapoor",
+    "scenario": "MRD monitoring",
+    "category": "PD-L1",
+    "tests": [
+      "PD-L1 SP263",
+      "PD-L1 IHC 22C3"
+    ],
+    "status": "Resulted",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-06-16",
+    "expectedTat": "13 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0067",
+    "patientId": "PT-0038",
+    "patientName": "Suresh Desai",
+    "scenario": "Recurrence",
+    "category": "Imaging",
+    "tests": [
+      "MRI Brain with contrast"
+    ],
+    "status": "Pending Approval",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Shreya Desai",
+    "orderedDate": "2026-03-17",
+    "expectedTat": "20 days",
+    "lab": "In-house Pathology",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0068",
+    "patientId": "PT-0006",
+    "patientName": "Geetha Verma",
+    "scenario": "MRD monitoring",
+    "category": "Genomic Profiling",
+    "tests": [
+      "Solid Tumor NGS Panel",
+      "Hotspot Panel"
+    ],
+    "status": "Cancelled",
+    "priority": "STAT",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-04-21",
+    "expectedTat": "5 days",
+    "lab": "Roche Foundation One",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0069",
+    "patientId": "PT-0006",
+    "patientName": "Geetha Verma",
+    "scenario": "Family history",
+    "category": "Germline Testing",
+    "tests": [
+      "BRCA1/2 Germline",
+      "Lynch Syndrome Panel"
+    ],
+    "status": "Draft",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-31",
+    "expectedTat": "16 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0070",
+    "patientId": "PT-0061",
+    "patientName": "Naveen Nair",
+    "scenario": "Family history",
+    "category": "RNA Fusion Panel",
+    "tests": [
+      "RNA Fusion NGS Panel"
+    ],
+    "status": "Sample Collected",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Rekha Sharma",
+    "orderedDate": "2026-04-16",
+    "expectedTat": "16 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0071",
+    "patientId": "PT-0042",
+    "patientName": "Nisha Desai",
+    "scenario": "Recurrence",
+    "category": "PD-L1",
+    "tests": [
+      "PD-L1 SP263"
+    ],
+    "status": "Draft",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-04-07",
+    "expectedTat": "12 days",
+    "lab": "MedGenome",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0072",
+    "patientId": "PT-0049",
+    "patientName": "Meera Menon",
+    "scenario": "Therapy resistance",
+    "category": "Genomic Profiling",
+    "tests": [
+      "Hotspot Panel"
+    ],
+    "status": "Sample Collected",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-04-30",
+    "expectedTat": "18 days",
+    "lab": "MedGenome",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0073",
+    "patientId": "PT-0011",
+    "patientName": "Rajesh Menon",
+    "scenario": "Newly diagnosed lung cancer",
+    "category": "RNA Fusion Panel",
+    "tests": [
+      "Archer FusionPlex",
+      "RNA Fusion NGS Panel"
+    ],
+    "status": "Pending Approval",
+    "priority": "Routine",
+    "orderedBy": "Dr. Latha Iyer",
+    "orderedDate": "2026-05-03",
+    "expectedTat": "15 days",
+    "lab": "Roche Foundation One",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0074",
+    "patientId": "PT-0041",
+    "patientName": "Bhavana Rao",
+    "scenario": "Therapy resistance",
+    "category": "Germline Testing",
+    "tests": [
+      "Lynch Syndrome Panel",
+      "BRCA1/2 Germline"
+    ],
+    "status": "Cancelled",
+    "priority": "STAT",
+    "orderedBy": "Dr. Rekha Shetty",
+    "orderedDate": "2026-05-24",
+    "expectedTat": "11 days",
+    "lab": "MedGenome",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0075",
+    "patientId": "PT-0090",
+    "patientName": "Vivek Joshi",
+    "scenario": "Recurrence",
+    "category": "MRD",
+    "tests": [
+      "MRD ctDNA Monitoring"
+    ],
+    "status": "Approved",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-06-06",
+    "expectedTat": "6 days",
+    "lab": "Roche Foundation One",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0076",
+    "patientId": "PT-0048",
+    "patientName": "Divya Malhotra",
+    "scenario": "Recurrence",
+    "category": "HRD",
+    "tests": [
+      "HRD Score (Genomic Instability)",
+      "Myriad myChoice CDx"
+    ],
+    "status": "Pending Approval",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Gopal Iyer",
+    "orderedDate": "2026-04-02",
+    "expectedTat": "8 days",
+    "lab": "Roche Foundation One",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0077",
+    "patientId": "PT-0076",
+    "patientName": "Geetha Joshi",
+    "scenario": "Therapy resistance",
+    "category": "RNA Fusion Panel",
+    "tests": [
+      "RNA Fusion NGS Panel",
+      "Archer FusionPlex"
+    ],
+    "status": "In Lab",
+    "priority": "STAT",
+    "orderedBy": "Dr. Rekha Kumar",
+    "orderedDate": "2026-06-29",
+    "expectedTat": "20 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0078",
+    "patientId": "PT-0095",
+    "patientName": "Anjali Pillai",
+    "scenario": "MRD monitoring",
+    "category": "RNA Fusion Panel",
+    "tests": [
+      "Archer FusionPlex",
+      "RNA Fusion NGS Panel"
+    ],
+    "status": "In Lab",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-04-22",
+    "expectedTat": "15 days",
+    "lab": "Roche Foundation One",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0079",
+    "patientId": "PT-0063",
+    "patientName": "Vidya Sharma",
+    "scenario": "Newly diagnosed lung cancer",
+    "category": "PD-L1",
+    "tests": [
+      "PD-L1 SP263",
+      "PD-L1 IHC 22C3"
+    ],
+    "status": "Sample Collected",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-07-03",
+    "expectedTat": "18 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0080",
+    "patientId": "PT-0005",
+    "patientName": "Arjun Malhotra",
+    "scenario": "Trial eligibility",
+    "category": "HER2",
+    "tests": [
+      "HER2 IHC + FISH"
+    ],
+    "status": "Resulted",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-06-11",
+    "expectedTat": "20 days",
+    "lab": "In-house Pathology",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0081",
+    "patientId": "PT-0076",
+    "patientName": "Geetha Joshi",
+    "scenario": "MRD monitoring",
+    "category": "RNA Fusion Panel",
+    "tests": [
+      "Archer FusionPlex",
+      "RNA Fusion NGS Panel"
+    ],
+    "status": "Approved",
+    "priority": "Routine",
+    "orderedBy": "Dr. Rekha Kumar",
+    "orderedDate": "2026-05-05",
+    "expectedTat": "14 days",
+    "lab": "Roche Foundation One",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0082",
+    "patientId": "PT-0068",
+    "patientName": "Divya Joshi",
+    "scenario": "Newly diagnosed lung cancer",
+    "category": "RNA Fusion Panel",
+    "tests": [
+      "RNA Fusion NGS Panel"
+    ],
+    "status": "Draft",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-23",
+    "expectedTat": "17 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0083",
+    "patientId": "PT-0054",
+    "patientName": "Meera Nair",
+    "scenario": "Newly diagnosed lung cancer",
+    "category": "Imaging",
+    "tests": [
+      "CECT Thorax/Abdomen",
+      "MRI Brain with contrast"
+    ],
+    "status": "Draft",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-03-25",
+    "expectedTat": "16 days",
+    "lab": "Roche Foundation One",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0084",
+    "patientId": "PT-0076",
+    "patientName": "Geetha Joshi",
+    "scenario": "Newly diagnosed lung cancer",
+    "category": "Genomic Profiling",
+    "tests": [
+      "Comprehensive Genomic Profiling (500+ genes)",
+      "Hotspot Panel"
+    ],
+    "status": "Resulted",
+    "priority": "Routine",
+    "orderedBy": "Dr. Rekha Kumar",
+    "orderedDate": "2026-05-31",
+    "expectedTat": "16 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0085",
+    "patientId": "PT-0056",
+    "patientName": "Ananya Nair",
+    "scenario": "Trial eligibility",
+    "category": "Germline Testing",
+    "tests": [
+      "Hereditary Cancer Germline Panel",
+      "BRCA1/2 Germline"
+    ],
+    "status": "Sample Collected",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-27",
+    "expectedTat": "18 days",
+    "lab": "In-house Pathology",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0086",
+    "patientId": "PT-0085",
+    "patientName": "Suresh Sharma",
+    "scenario": "Recurrence",
+    "category": "Genomic Profiling",
+    "tests": [
+      "Comprehensive Genomic Profiling (500+ genes)",
+      "Solid Tumor NGS Panel"
+    ],
+    "status": "Resulted",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Rao",
+    "orderedDate": "2026-03-11",
+    "expectedTat": "9 days",
+    "lab": "Strand Life Sciences",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0087",
+    "patientId": "PT-0012",
+    "patientName": "Lakshmi Sharma",
+    "scenario": "MRD monitoring",
+    "category": "Imaging",
+    "tests": [
+      "CECT Thorax/Abdomen"
+    ],
+    "status": "Sample Collected",
+    "priority": "Routine",
+    "orderedBy": "Dr. Shreya Rao",
+    "orderedDate": "2026-04-02",
+    "expectedTat": "9 days",
+    "lab": "Strand Life Sciences",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0088",
+    "patientId": "PT-0060",
+    "patientName": "Lakshmi Verma",
+    "scenario": "MRD monitoring",
+    "category": "Pharmacogenomics",
+    "tests": [
+      "DPYD Genotyping"
+    ],
+    "status": "In Lab",
+    "priority": "STAT",
+    "orderedBy": "Dr. Vikram Shetty",
+    "orderedDate": "2026-06-13",
+    "expectedTat": "8 days",
+    "lab": "Strand Life Sciences",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0089",
+    "patientId": "PT-0027",
+    "patientName": "Ashok Iyer",
+    "scenario": "Trial eligibility",
+    "category": "Genomic Profiling",
+    "tests": [
+      "Solid Tumor NGS Panel"
+    ],
+    "status": "In Lab",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-03-09",
+    "expectedTat": "9 days",
+    "lab": "In-house Pathology",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0090",
+    "patientId": "PT-0082",
+    "patientName": "Sneha Reddy",
+    "scenario": "Therapy resistance",
+    "category": "Germline Testing",
+    "tests": [
+      "Hereditary Cancer Germline Panel"
+    ],
+    "status": "Draft",
+    "priority": "Routine",
+    "orderedBy": "Dr. Meera Shetty",
+    "orderedDate": "2026-04-06",
+    "expectedTat": "10 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0091",
+    "patientId": "PT-0080",
+    "patientName": "Anil Rao",
+    "scenario": "Recurrence",
+    "category": "Genomic Profiling",
+    "tests": [
+      "Hotspot Panel",
+      "Solid Tumor NGS Panel"
+    ],
+    "status": "Cancelled",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-06-30",
+    "expectedTat": "7 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0092",
+    "patientId": "PT-0068",
+    "patientName": "Divya Joshi",
+    "scenario": "MRD monitoring",
+    "category": "RNA Fusion Panel",
+    "tests": [
+      "RNA Fusion NGS Panel"
+    ],
+    "status": "In Lab",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-04-18",
+    "expectedTat": "10 days",
+    "lab": "Strand Life Sciences",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0093",
+    "patientId": "PT-0005",
+    "patientName": "Arjun Malhotra",
+    "scenario": "Newly diagnosed lung cancer",
+    "category": "Germline Testing",
+    "tests": [
+      "BRCA1/2 Germline",
+      "Lynch Syndrome Panel"
+    ],
+    "status": "Sample Collected",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-03-31",
+    "expectedTat": "5 days",
+    "lab": "Roche Foundation One",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0094",
+    "patientId": "PT-0061",
+    "patientName": "Naveen Nair",
+    "scenario": "MTB recommendation",
+    "category": "Liquid Biopsy",
+    "tests": [
+      "cfDNA Panel",
+      "Guardant360 CDx"
+    ],
+    "status": "Cancelled",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Rekha Sharma",
+    "orderedDate": "2026-05-30",
+    "expectedTat": "13 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0095",
+    "patientId": "PT-0099",
+    "patientName": "Deepak Desai",
+    "scenario": "Therapy resistance",
+    "category": "RNA Fusion Panel",
+    "tests": [
+      "Archer FusionPlex",
+      "RNA Fusion NGS Panel"
+    ],
+    "status": "Pending Approval",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-06-29",
+    "expectedTat": "7 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0096",
+    "patientId": "PT-0065",
+    "patientName": "Naveen Nair",
+    "scenario": "Recurrence",
+    "category": "Germline Testing",
+    "tests": [
+      "Hereditary Cancer Germline Panel",
+      "BRCA1/2 Germline"
+    ],
+    "status": "Sample Collected",
+    "priority": "STAT",
+    "orderedBy": "Dr. Rekha Shetty",
+    "orderedDate": "2026-03-29",
+    "expectedTat": "18 days",
+    "lab": "MedGenome",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0097",
+    "patientId": "PT-0029",
+    "patientName": "Meera Krishnan",
+    "scenario": "Family history",
+    "category": "MRD",
+    "tests": [
+      "Signatera bespoke MRD"
+    ],
+    "status": "Cancelled",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-04-21",
+    "expectedTat": "20 days",
+    "lab": "In-house Pathology",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0098",
+    "patientId": "PT-0022",
+    "patientName": "Deepak Verma",
+    "scenario": "Therapy resistance",
+    "category": "Pharmacogenomics",
+    "tests": [
+      "PGx Panel"
+    ],
+    "status": "Approved",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Pooja Gupta",
+    "orderedDate": "2026-03-19",
+    "expectedTat": "8 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0099",
+    "patientId": "PT-0025",
+    "patientName": "Anil Verma",
+    "scenario": "Therapy resistance",
+    "category": "MRD",
+    "tests": [
+      "MRD ctDNA Monitoring",
+      "Signatera bespoke MRD"
+    ],
+    "status": "Sample Collected",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-04-05",
+    "expectedTat": "5 days",
+    "lab": "Strand Life Sciences",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0100",
+    "patientId": "PT-0052",
+    "patientName": "Vikram Mehta",
+    "scenario": "Trial eligibility",
+    "category": "HRD",
+    "tests": [
+      "HRD Score (Genomic Instability)"
+    ],
+    "status": "Resulted",
+    "priority": "Routine",
+    "orderedBy": "Dr. Naveen Shetty",
+    "orderedDate": "2026-03-21",
+    "expectedTat": "9 days",
+    "lab": "Strand Life Sciences",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0101",
+    "patientId": "PT-0028",
+    "patientName": "Vivek Menon",
+    "scenario": "MRD monitoring",
+    "category": "PD-L1",
+    "tests": [
+      "PD-L1 IHC 22C3",
+      "PD-L1 SP263"
+    ],
+    "status": "Sample Collected",
+    "priority": "STAT",
+    "orderedBy": "Dr. Meera Shetty",
+    "orderedDate": "2026-06-10",
+    "expectedTat": "18 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0102",
+    "patientId": "PT-0006",
+    "patientName": "Geetha Verma",
+    "scenario": "Therapy resistance",
+    "category": "Genomic Profiling",
+    "tests": [
+      "Solid Tumor NGS Panel"
+    ],
+    "status": "Sample Collected",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-03",
+    "expectedTat": "6 days",
+    "lab": "MedGenome",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0103",
+    "patientId": "PT-0049",
+    "patientName": "Meera Menon",
+    "scenario": "Family history",
+    "category": "HER2",
+    "tests": [
+      "HER2 SISH"
+    ],
+    "status": "Draft",
+    "priority": "STAT",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-04-15",
+    "expectedTat": "13 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0104",
+    "patientId": "PT-0086",
+    "patientName": "Sanjay Nair",
+    "scenario": "Therapy resistance",
+    "category": "RNA Fusion Panel",
+    "tests": [
+      "RNA Fusion NGS Panel",
+      "Archer FusionPlex"
+    ],
+    "status": "Cancelled",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-21",
+    "expectedTat": "19 days",
+    "lab": "Strand Life Sciences",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0105",
+    "patientId": "PT-0080",
+    "patientName": "Anil Rao",
+    "scenario": "Therapy resistance",
+    "category": "Imaging",
+    "tests": [
+      "MRI Brain with contrast"
+    ],
+    "status": "Approved",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-04-02",
+    "expectedTat": "5 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0106",
+    "patientId": "PT-0100",
+    "patientName": "Harish Pillai",
+    "scenario": "Recurrence",
+    "category": "RNA Fusion Panel",
+    "tests": [
+      "RNA Fusion NGS Panel"
+    ],
+    "status": "Resulted",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-04-06",
+    "expectedTat": "7 days",
+    "lab": "In-house Pathology",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0107",
+    "patientId": "PT-0019",
+    "patientName": "Kavya Kumar",
+    "scenario": "Therapy resistance",
+    "category": "MRD",
+    "tests": [
+      "Signatera bespoke MRD"
+    ],
+    "status": "Resulted",
+    "priority": "Routine",
+    "orderedBy": "Dr. Vidya Kapoor",
+    "orderedDate": "2026-04-08",
+    "expectedTat": "9 days",
+    "lab": "Roche Foundation One",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0108",
+    "patientId": "PT-0086",
+    "patientName": "Sanjay Nair",
+    "scenario": "Recurrence",
+    "category": "MRD",
+    "tests": [
+      "MRD ctDNA Monitoring",
+      "Signatera bespoke MRD"
+    ],
+    "status": "In Lab",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-07-02",
+    "expectedTat": "9 days",
+    "lab": "Strand Life Sciences",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0109",
+    "patientId": "PT-0026",
+    "patientName": "Nisha Sharma",
+    "scenario": "MTB recommendation",
+    "category": "HER2",
+    "tests": [
+      "HER2 IHC + FISH"
+    ],
+    "status": "Approved",
+    "priority": "Routine",
+    "orderedBy": "Dr. Karthik Pillai",
+    "orderedDate": "2026-07-04",
+    "expectedTat": "17 days",
+    "lab": "Strand Life Sciences",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0110",
+    "patientId": "PT-0024",
+    "patientName": "Harish Menon",
+    "scenario": "Family history",
+    "category": "Liquid Biopsy",
+    "tests": [
+      "Guardant360 CDx"
+    ],
+    "status": "Draft",
+    "priority": "Routine",
+    "orderedBy": "Dr. Shreya Desai",
+    "orderedDate": "2026-06-21",
+    "expectedTat": "10 days",
+    "lab": "Roche Foundation One",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0111",
+    "patientId": "PT-0063",
+    "patientName": "Vidya Sharma",
+    "scenario": "Recurrence",
+    "category": "Imaging",
+    "tests": [
+      "CECT Thorax/Abdomen"
+    ],
+    "status": "Approved",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-04-12",
+    "expectedTat": "19 days",
+    "lab": "In-house Pathology",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0112",
+    "patientId": "PT-0031",
+    "patientName": "Aravind Rao",
+    "scenario": "MTB recommendation",
+    "category": "Germline Testing",
+    "tests": [
+      "Lynch Syndrome Panel",
+      "Hereditary Cancer Germline Panel"
+    ],
+    "status": "In Lab",
+    "priority": "Routine",
+    "orderedBy": "Dr. Rekha Sharma",
+    "orderedDate": "2026-03-31",
+    "expectedTat": "7 days",
+    "lab": "Roche Foundation One",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0113",
+    "patientId": "PT-0079",
+    "patientName": "Gopal Iyer",
+    "scenario": "Recurrence",
+    "category": "RNA Fusion Panel",
+    "tests": [
+      "RNA Fusion NGS Panel",
+      "Archer FusionPlex"
+    ],
+    "status": "Sample Collected",
+    "priority": "Routine",
+    "orderedBy": "Dr. Latha Joshi",
+    "orderedDate": "2026-04-15",
+    "expectedTat": "14 days",
+    "lab": "MedGenome",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0114",
+    "patientId": "PT-0087",
+    "patientName": "Ashok Kapoor",
+    "scenario": "Trial eligibility",
+    "category": "PD-L1",
+    "tests": [
+      "PD-L1 IHC 22C3",
+      "PD-L1 SP263"
+    ],
+    "status": "Approved",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Gopal Iyer",
+    "orderedDate": "2026-03-08",
+    "expectedTat": "15 days",
+    "lab": "Roche Foundation One",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0115",
+    "patientId": "PT-0052",
+    "patientName": "Vikram Mehta",
+    "scenario": "Newly diagnosed lung cancer",
+    "category": "Genomic Profiling",
+    "tests": [
+      "Comprehensive Genomic Profiling (500+ genes)"
+    ],
+    "status": "Pending Approval",
+    "priority": "Routine",
+    "orderedBy": "Dr. Naveen Shetty",
+    "orderedDate": "2026-05-17",
+    "expectedTat": "8 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0116",
+    "patientId": "PT-0043",
+    "patientName": "Deepa Reddy",
+    "scenario": "Recurrence",
+    "category": "HER2",
+    "tests": [
+      "HER2 IHC + FISH"
+    ],
+    "status": "Approved",
+    "priority": "Routine",
+    "orderedBy": "Dr. Lakshmi Gupta",
+    "orderedDate": "2026-04-17",
+    "expectedTat": "8 days",
+    "lab": "MedGenome",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0117",
+    "patientId": "PT-0002",
+    "patientName": "Rohan Bose",
+    "scenario": "Recurrence",
+    "category": "Genomic Profiling",
+    "tests": [
+      "Hotspot Panel",
+      "Comprehensive Genomic Profiling (500+ genes)"
+    ],
+    "status": "Sample Collected",
+    "priority": "STAT",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-06-07",
+    "expectedTat": "15 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0118",
+    "patientId": "PT-0038",
+    "patientName": "Suresh Desai",
+    "scenario": "MTB recommendation",
+    "category": "HRD",
+    "tests": [
+      "HRD Score (Genomic Instability)"
+    ],
+    "status": "Cancelled",
+    "priority": "STAT",
+    "orderedBy": "Dr. Shreya Desai",
+    "orderedDate": "2026-07-04",
+    "expectedTat": "17 days",
+    "lab": "Roche Foundation One",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0119",
+    "patientId": "PT-0054",
+    "patientName": "Meera Nair",
+    "scenario": "Family history",
+    "category": "PD-L1",
+    "tests": [
+      "PD-L1 SP263"
+    ],
+    "status": "Draft",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-08",
+    "expectedTat": "13 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0120",
+    "patientId": "PT-0051",
+    "patientName": "Naveen Verma",
+    "scenario": "MTB recommendation",
+    "category": "Imaging",
+    "tests": [
+      "MRI Brain with contrast",
+      "CECT Thorax/Abdomen"
+    ],
+    "status": "Cancelled",
+    "priority": "STAT",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-03-23",
+    "expectedTat": "19 days",
+    "lab": "In-house Pathology",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0121",
+    "patientId": "PT-0031",
+    "patientName": "Aravind Rao",
+    "scenario": "MTB recommendation",
+    "category": "Genomic Profiling",
+    "tests": [
+      "Hotspot Panel",
+      "Comprehensive Genomic Profiling (500+ genes)"
+    ],
+    "status": "Pending Approval",
+    "priority": "Routine",
+    "orderedBy": "Dr. Rekha Sharma",
+    "orderedDate": "2026-03-30",
+    "expectedTat": "7 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0122",
+    "patientId": "PT-0083",
+    "patientName": "Harish Kumar",
+    "scenario": "MRD monitoring",
+    "category": "Imaging",
+    "tests": [
+      "PET-CT Restaging",
+      "CECT Thorax/Abdomen"
+    ],
+    "status": "Draft",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-04-19",
+    "expectedTat": "6 days",
+    "lab": "Roche Foundation One",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0123",
+    "patientId": "PT-0091",
+    "patientName": "Divya Malhotra",
+    "scenario": "Newly diagnosed lung cancer",
+    "category": "Imaging",
+    "tests": [
+      "PET-CT Restaging"
+    ],
+    "status": "Approved",
+    "priority": "STAT",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-03-30",
+    "expectedTat": "17 days",
+    "lab": "Roche Foundation One",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0124",
+    "patientId": "PT-0005",
+    "patientName": "Arjun Malhotra",
+    "scenario": "Newly diagnosed lung cancer",
+    "category": "Germline Testing",
+    "tests": [
+      "BRCA1/2 Germline",
+      "Lynch Syndrome Panel"
+    ],
+    "status": "Draft",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-04-21",
+    "expectedTat": "6 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0125",
+    "patientId": "PT-0051",
+    "patientName": "Naveen Verma",
+    "scenario": "Therapy resistance",
+    "category": "Liquid Biopsy",
+    "tests": [
+      "ctDNA Liquid Biopsy",
+      "Guardant360 CDx"
+    ],
+    "status": "In Lab",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-24",
+    "expectedTat": "15 days",
+    "lab": "MedGenome",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0126",
+    "patientId": "PT-0023",
+    "patientName": "Vivek Joshi",
+    "scenario": "MTB recommendation",
+    "category": "HRD",
+    "tests": [
+      "Myriad myChoice CDx"
+    ],
+    "status": "Approved",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Vikram Shetty",
+    "orderedDate": "2026-04-01",
+    "expectedTat": "5 days",
+    "lab": "MedGenome",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0127",
+    "patientId": "PT-0093",
+    "patientName": "Deepa Malhotra",
+    "scenario": "Family history",
+    "category": "Genomic Profiling",
+    "tests": [
+      "Hotspot Panel",
+      "Solid Tumor NGS Panel"
+    ],
+    "status": "Resulted",
+    "priority": "STAT",
+    "orderedBy": "Dr. Pooja Gupta",
+    "orderedDate": "2026-06-25",
+    "expectedTat": "20 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0128",
+    "patientId": "PT-0054",
+    "patientName": "Meera Nair",
+    "scenario": "Family history",
+    "category": "HRD",
+    "tests": [
+      "HRD Score (Genomic Instability)"
+    ],
+    "status": "Approved",
+    "priority": "STAT",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-06-30",
+    "expectedTat": "9 days",
+    "lab": "Roche Foundation One",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0129",
+    "patientId": "PT-0032",
+    "patientName": "Ananya Kumar",
+    "scenario": "Family history",
+    "category": "Germline Testing",
+    "tests": [
+      "Hereditary Cancer Germline Panel",
+      "Lynch Syndrome Panel"
+    ],
+    "status": "Resulted",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Shreya Rao",
+    "orderedDate": "2026-04-16",
+    "expectedTat": "18 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0130",
+    "patientId": "PT-0007",
+    "patientName": "Ananya Pillai",
+    "scenario": "Family history",
+    "category": "Genomic Profiling",
+    "tests": [
+      "Solid Tumor NGS Panel"
+    ],
+    "status": "Pending Approval",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-06-10",
+    "expectedTat": "8 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0131",
+    "patientId": "PT-0096",
+    "patientName": "Geetha Joshi",
+    "scenario": "Therapy resistance",
+    "category": "PD-L1",
+    "tests": [
+      "PD-L1 IHC 22C3",
+      "PD-L1 SP263"
+    ],
+    "status": "Draft",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-02",
+    "expectedTat": "17 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0132",
+    "patientId": "PT-0014",
+    "patientName": "Rohan Rao",
+    "scenario": "Therapy resistance",
+    "category": "Genomic Profiling",
+    "tests": [
+      "Solid Tumor NGS Panel",
+      "Hotspot Panel"
+    ],
+    "status": "Resulted",
+    "priority": "STAT",
+    "orderedBy": "Dr. Nisha Rao",
+    "orderedDate": "2026-04-19",
+    "expectedTat": "15 days",
+    "lab": "Strand Life Sciences",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0133",
+    "patientId": "PT-0094",
+    "patientName": "Karthik Kumar",
+    "scenario": "MTB recommendation",
+    "category": "Genomic Profiling",
+    "tests": [
+      "Solid Tumor NGS Panel"
+    ],
+    "status": "Pending Approval",
+    "priority": "Routine",
+    "orderedBy": "Dr. Harish Verma",
+    "orderedDate": "2026-06-10",
+    "expectedTat": "12 days",
+    "lab": "Roche Foundation One",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0134",
+    "patientId": "PT-0095",
+    "patientName": "Anjali Pillai",
+    "scenario": "MRD monitoring",
+    "category": "Pharmacogenomics",
+    "tests": [
+      "PGx Panel"
+    ],
+    "status": "Sample Collected",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-06-14",
+    "expectedTat": "9 days",
+    "lab": "Roche Foundation One",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0135",
+    "patientId": "PT-0068",
+    "patientName": "Divya Joshi",
+    "scenario": "Newly diagnosed lung cancer",
+    "category": "HRD",
+    "tests": [
+      "HRD Score (Genomic Instability)"
+    ],
+    "status": "Draft",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-03",
+    "expectedTat": "12 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0136",
+    "patientId": "PT-0051",
+    "patientName": "Naveen Verma",
+    "scenario": "MTB recommendation",
+    "category": "HER2",
+    "tests": [
+      "HER2 IHC + FISH"
+    ],
+    "status": "Draft",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-01",
+    "expectedTat": "7 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0137",
+    "patientId": "PT-0060",
+    "patientName": "Lakshmi Verma",
+    "scenario": "MTB recommendation",
+    "category": "Imaging",
+    "tests": [
+      "PET-CT Restaging"
+    ],
+    "status": "Cancelled",
+    "priority": "Routine",
+    "orderedBy": "Dr. Vikram Shetty",
+    "orderedDate": "2026-05-12",
+    "expectedTat": "20 days",
+    "lab": "Strand Life Sciences",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0138",
+    "patientId": "PT-0005",
+    "patientName": "Arjun Malhotra",
+    "scenario": "MTB recommendation",
+    "category": "Genomic Profiling",
+    "tests": [
+      "Comprehensive Genomic Profiling (500+ genes)",
+      "Solid Tumor NGS Panel"
+    ],
+    "status": "In Lab",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-04-06",
+    "expectedTat": "11 days",
+    "lab": "Strand Life Sciences",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0139",
+    "patientId": "PT-0091",
+    "patientName": "Divya Malhotra",
+    "scenario": "MTB recommendation",
+    "category": "Imaging",
+    "tests": [
+      "CECT Thorax/Abdomen",
+      "MRI Brain with contrast"
+    ],
+    "status": "Draft",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-03-31",
+    "expectedTat": "17 days",
+    "lab": "MedGenome",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0140",
+    "patientId": "PT-0048",
+    "patientName": "Divya Malhotra",
+    "scenario": "MRD monitoring",
+    "category": "PD-L1",
+    "tests": [
+      "PD-L1 SP263",
+      "PD-L1 IHC 22C3"
+    ],
+    "status": "Pending Approval",
+    "priority": "STAT",
+    "orderedBy": "Dr. Gopal Iyer",
+    "orderedDate": "2026-05-19",
+    "expectedTat": "19 days",
+    "lab": "In-house Pathology",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0141",
+    "patientId": "PT-0030",
+    "patientName": "Priya Gupta",
+    "scenario": "Trial eligibility",
+    "category": "HER2",
+    "tests": [
+      "HER2 IHC + FISH",
+      "HER2 SISH"
+    ],
+    "status": "Draft",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-04-07",
+    "expectedTat": "10 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0142",
+    "patientId": "PT-0084",
+    "patientName": "Vidya Gupta",
+    "scenario": "Therapy resistance",
+    "category": "HER2",
+    "tests": [
+      "HER2 IHC + FISH",
+      "HER2 SISH"
+    ],
+    "status": "Resulted",
+    "priority": "STAT",
+    "orderedBy": "Dr. Sanjay Pillai",
+    "orderedDate": "2026-03-30",
+    "expectedTat": "16 days",
+    "lab": "Strand Life Sciences",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0143",
+    "patientId": "PT-0086",
+    "patientName": "Sanjay Nair",
+    "scenario": "Newly diagnosed lung cancer",
+    "category": "HER2",
+    "tests": [
+      "HER2 IHC + FISH",
+      "HER2 SISH"
+    ],
+    "status": "Sample Collected",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-03-21",
+    "expectedTat": "10 days",
+    "lab": "Roche Foundation One",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0144",
+    "patientId": "PT-0029",
+    "patientName": "Meera Krishnan",
+    "scenario": "Trial eligibility",
+    "category": "Genomic Profiling",
+    "tests": [
+      "Solid Tumor NGS Panel"
+    ],
+    "status": "Resulted",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-03",
+    "expectedTat": "13 days",
+    "lab": "Strand Life Sciences",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0145",
+    "patientId": "PT-0080",
+    "patientName": "Anil Rao",
+    "scenario": "Therapy resistance",
+    "category": "HRD",
+    "tests": [
+      "Myriad myChoice CDx",
+      "HRD Score (Genomic Instability)"
+    ],
+    "status": "Cancelled",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-27",
+    "expectedTat": "13 days",
+    "lab": "MedGenome",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0146",
+    "patientId": "PT-0025",
+    "patientName": "Anil Verma",
+    "scenario": "Recurrence",
+    "category": "Germline Testing",
+    "tests": [
+      "Lynch Syndrome Panel"
+    ],
+    "status": "Pending Approval",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-04-11",
+    "expectedTat": "16 days",
+    "lab": "Strand Life Sciences",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0147",
+    "patientId": "PT-0056",
+    "patientName": "Ananya Nair",
+    "scenario": "MTB recommendation",
+    "category": "Germline Testing",
+    "tests": [
+      "Hereditary Cancer Germline Panel"
+    ],
+    "status": "In Lab",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-08",
+    "expectedTat": "13 days",
+    "lab": "Roche Foundation One",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0148",
+    "patientId": "PT-0051",
+    "patientName": "Naveen Verma",
+    "scenario": "Family history",
+    "category": "Pharmacogenomics",
+    "tests": [
+      "UGT1A1 Genotyping",
+      "DPYD Genotyping"
+    ],
+    "status": "In Lab",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-06-15",
+    "expectedTat": "6 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0149",
+    "patientId": "PT-0099",
+    "patientName": "Deepak Desai",
+    "scenario": "Therapy resistance",
+    "category": "HER2",
+    "tests": [
+      "HER2 IHC + FISH",
+      "HER2 SISH"
+    ],
+    "status": "Pending Approval",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-03-24",
+    "expectedTat": "12 days",
+    "lab": "In-house Pathology",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0150",
+    "patientId": "PT-0029",
+    "patientName": "Meera Krishnan",
+    "scenario": "Trial eligibility",
+    "category": "HRD",
+    "tests": [
+      "Myriad myChoice CDx"
+    ],
+    "status": "Resulted",
+    "priority": "STAT",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-06-19",
+    "expectedTat": "16 days",
+    "lab": "Strand Life Sciences",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0151",
+    "patientId": "PT-0011",
+    "patientName": "Rajesh Menon",
+    "scenario": "Family history",
+    "category": "RNA Fusion Panel",
+    "tests": [
+      "Archer FusionPlex",
+      "RNA Fusion NGS Panel"
+    ],
+    "status": "Resulted",
+    "priority": "Routine",
+    "orderedBy": "Dr. Latha Iyer",
+    "orderedDate": "2026-06-25",
+    "expectedTat": "20 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0152",
+    "patientId": "PT-0058",
+    "patientName": "Aditya Verma",
+    "scenario": "MTB recommendation",
+    "category": "Pharmacogenomics",
+    "tests": [
+      "UGT1A1 Genotyping",
+      "PGx Panel"
+    ],
+    "status": "Sample Collected",
+    "priority": "Routine",
+    "orderedBy": "Dr. Kavya Malhotra",
+    "orderedDate": "2026-06-19",
+    "expectedTat": "16 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0153",
+    "patientId": "PT-0092",
+    "patientName": "Manoj Iyer",
+    "scenario": "Newly diagnosed lung cancer",
+    "category": "RNA Fusion Panel",
+    "tests": [
+      "RNA Fusion NGS Panel",
+      "Archer FusionPlex"
+    ],
+    "status": "In Lab",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-10",
+    "expectedTat": "18 days",
+    "lab": "In-house Pathology",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0154",
+    "patientId": "PT-0081",
+    "patientName": "Pooja Iyer",
+    "scenario": "MRD monitoring",
+    "category": "PD-L1",
+    "tests": [
+      "PD-L1 SP263",
+      "PD-L1 IHC 22C3"
+    ],
+    "status": "In Lab",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-13",
+    "expectedTat": "14 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0155",
+    "patientId": "PT-0097",
+    "patientName": "Vikram Kumar",
+    "scenario": "Family history",
+    "category": "PD-L1",
+    "tests": [
+      "PD-L1 SP263",
+      "PD-L1 IHC 22C3"
+    ],
+    "status": "Resulted",
+    "priority": "Routine",
+    "orderedBy": "Dr. Gopal Patel",
+    "orderedDate": "2026-03-30",
+    "expectedTat": "20 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0156",
+    "patientId": "PT-0014",
+    "patientName": "Rohan Rao",
+    "scenario": "Newly diagnosed lung cancer",
+    "category": "PD-L1",
+    "tests": [
+      "PD-L1 SP263",
+      "PD-L1 IHC 22C3"
+    ],
+    "status": "Approved",
+    "priority": "Routine",
+    "orderedBy": "Dr. Nisha Rao",
+    "orderedDate": "2026-03-22",
+    "expectedTat": "14 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0157",
+    "patientId": "PT-0067",
+    "patientName": "Kavya Malhotra",
+    "scenario": "Newly diagnosed lung cancer",
+    "category": "Imaging",
+    "tests": [
+      "CECT Thorax/Abdomen",
+      "PET-CT Restaging"
+    ],
+    "status": "Cancelled",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Arjun Rao",
+    "orderedDate": "2026-04-16",
+    "expectedTat": "20 days",
+    "lab": "In-house Pathology",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0158",
+    "patientId": "PT-0045",
+    "patientName": "Priya Shetty",
+    "scenario": "Therapy resistance",
+    "category": "Germline Testing",
+    "tests": [
+      "Hereditary Cancer Germline Panel"
+    ],
+    "status": "Approved",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-07",
+    "expectedTat": "10 days",
+    "lab": "MedGenome",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0159",
+    "patientId": "PT-0094",
+    "patientName": "Karthik Kumar",
+    "scenario": "Trial eligibility",
+    "category": "Pharmacogenomics",
+    "tests": [
+      "PGx Panel",
+      "UGT1A1 Genotyping"
+    ],
+    "status": "Pending Approval",
+    "priority": "Routine",
+    "orderedBy": "Dr. Harish Verma",
+    "orderedDate": "2026-05-03",
+    "expectedTat": "17 days",
+    "lab": "MedGenome",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0160",
+    "patientId": "PT-0068",
+    "patientName": "Divya Joshi",
+    "scenario": "Therapy resistance",
+    "category": "PD-L1",
+    "tests": [
+      "PD-L1 IHC 22C3",
+      "PD-L1 SP263"
+    ],
+    "status": "Resulted",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-10",
+    "expectedTat": "12 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0161",
+    "patientId": "PT-0060",
+    "patientName": "Lakshmi Verma",
+    "scenario": "Newly diagnosed lung cancer",
+    "category": "Imaging",
+    "tests": [
+      "MRI Brain with contrast",
+      "CECT Thorax/Abdomen"
+    ],
+    "status": "Draft",
+    "priority": "STAT",
+    "orderedBy": "Dr. Vikram Shetty",
+    "orderedDate": "2026-06-25",
+    "expectedTat": "18 days",
+    "lab": "MedGenome",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0162",
+    "patientId": "PT-0058",
+    "patientName": "Aditya Verma",
+    "scenario": "MRD monitoring",
+    "category": "Liquid Biopsy",
+    "tests": [
+      "ctDNA Liquid Biopsy"
+    ],
+    "status": "Cancelled",
+    "priority": "Routine",
+    "orderedBy": "Dr. Kavya Malhotra",
+    "orderedDate": "2026-06-19",
+    "expectedTat": "7 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0163",
+    "patientId": "PT-0049",
+    "patientName": "Meera Menon",
+    "scenario": "Newly diagnosed lung cancer",
+    "category": "MRD",
+    "tests": [
+      "MRD ctDNA Monitoring",
+      "Signatera bespoke MRD"
+    ],
+    "status": "Approved",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-04-26",
+    "expectedTat": "12 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0164",
+    "patientId": "PT-0019",
+    "patientName": "Kavya Kumar",
+    "scenario": "Recurrence",
+    "category": "HRD",
+    "tests": [
+      "Myriad myChoice CDx"
+    ],
+    "status": "Cancelled",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Vidya Kapoor",
+    "orderedDate": "2026-05-08",
+    "expectedTat": "18 days",
+    "lab": "Roche Foundation One",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0165",
+    "patientId": "PT-0002",
+    "patientName": "Rohan Bose",
+    "scenario": "Family history",
+    "category": "Liquid Biopsy",
+    "tests": [
+      "Guardant360 CDx"
+    ],
+    "status": "Resulted",
+    "priority": "STAT",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-06-18",
+    "expectedTat": "19 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0166",
+    "patientId": "PT-0014",
+    "patientName": "Rohan Rao",
+    "scenario": "MTB recommendation",
+    "category": "PD-L1",
+    "tests": [
+      "PD-L1 IHC 22C3",
+      "PD-L1 SP263"
+    ],
+    "status": "Pending Approval",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Nisha Rao",
+    "orderedDate": "2026-05-14",
+    "expectedTat": "10 days",
+    "lab": "Strand Life Sciences",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0167",
+    "patientId": "PT-0056",
+    "patientName": "Ananya Nair",
+    "scenario": "Newly diagnosed lung cancer",
+    "category": "HER2",
+    "tests": [
+      "HER2 IHC + FISH"
+    ],
+    "status": "Cancelled",
+    "priority": "STAT",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-07-04",
+    "expectedTat": "16 days",
+    "lab": "Strand Life Sciences",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0168",
+    "patientId": "PT-0070",
+    "patientName": "Rohan Patel",
+    "scenario": "Recurrence",
+    "category": "HER2",
+    "tests": [
+      "HER2 IHC + FISH",
+      "HER2 SISH"
+    ],
+    "status": "Sample Collected",
+    "priority": "STAT",
+    "orderedBy": "Dr. Vikram Sharma",
+    "orderedDate": "2026-05-11",
+    "expectedTat": "20 days",
+    "lab": "In-house Pathology",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0169",
+    "patientId": "PT-0086",
+    "patientName": "Sanjay Nair",
+    "scenario": "Family history",
+    "category": "Genomic Profiling",
+    "tests": [
+      "Comprehensive Genomic Profiling (500+ genes)",
+      "Hotspot Panel"
+    ],
+    "status": "Sample Collected",
+    "priority": "STAT",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-04-06",
+    "expectedTat": "16 days",
+    "lab": "Strand Life Sciences",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0170",
+    "patientId": "PT-0053",
+    "patientName": "Arjun Menon",
+    "scenario": "Recurrence",
+    "category": "RNA Fusion Panel",
+    "tests": [
+      "Archer FusionPlex",
+      "RNA Fusion NGS Panel"
+    ],
+    "status": "In Lab",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Pooja Gupta",
+    "orderedDate": "2026-06-09",
+    "expectedTat": "15 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0171",
+    "patientId": "PT-0031",
+    "patientName": "Aravind Rao",
+    "scenario": "Family history",
+    "category": "RNA Fusion Panel",
+    "tests": [
+      "RNA Fusion NGS Panel",
+      "Archer FusionPlex"
+    ],
+    "status": "Cancelled",
+    "priority": "Routine",
+    "orderedBy": "Dr. Rekha Sharma",
+    "orderedDate": "2026-05-25",
+    "expectedTat": "18 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0172",
+    "patientId": "PT-0031",
+    "patientName": "Aravind Rao",
+    "scenario": "MRD monitoring",
+    "category": "Genomic Profiling",
+    "tests": [
+      "Hotspot Panel"
+    ],
+    "status": "Resulted",
+    "priority": "STAT",
+    "orderedBy": "Dr. Rekha Sharma",
+    "orderedDate": "2026-03-18",
+    "expectedTat": "20 days",
+    "lab": "In-house Pathology",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0173",
+    "patientId": "PT-0046",
+    "patientName": "Kavya Verma",
+    "scenario": "Recurrence",
+    "category": "HER2",
+    "tests": [
+      "HER2 SISH"
+    ],
+    "status": "Pending Approval",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Naveen Shetty",
+    "orderedDate": "2026-03-10",
+    "expectedTat": "17 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0174",
+    "patientId": "PT-0042",
+    "patientName": "Nisha Desai",
+    "scenario": "Trial eligibility",
+    "category": "PD-L1",
+    "tests": [
+      "PD-L1 IHC 22C3"
+    ],
+    "status": "Approved",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-13",
+    "expectedTat": "15 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0175",
+    "patientId": "PT-0011",
+    "patientName": "Rajesh Menon",
+    "scenario": "Recurrence",
+    "category": "HER2",
+    "tests": [
+      "HER2 IHC + FISH",
+      "HER2 SISH"
+    ],
+    "status": "Sample Collected",
+    "priority": "Routine",
+    "orderedBy": "Dr. Latha Iyer",
+    "orderedDate": "2026-05-05",
+    "expectedTat": "5 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0176",
+    "patientId": "PT-0050",
+    "patientName": "Anil Patel",
+    "scenario": "Trial eligibility",
+    "category": "PD-L1",
+    "tests": [
+      "PD-L1 IHC 22C3"
+    ],
+    "status": "Sample Collected",
+    "priority": "STAT",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-09",
+    "expectedTat": "10 days",
+    "lab": "In-house Pathology",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0177",
+    "patientId": "PT-0020",
+    "patientName": "Sanjay Verma",
+    "scenario": "MTB recommendation",
+    "category": "Liquid Biopsy",
+    "tests": [
+      "cfDNA Panel"
+    ],
+    "status": "Approved",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-06-01",
+    "expectedTat": "18 days",
+    "lab": "MedGenome",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0178",
+    "patientId": "PT-0075",
+    "patientName": "Sneha Shetty",
+    "scenario": "Newly diagnosed lung cancer",
+    "category": "Germline Testing",
+    "tests": [
+      "Lynch Syndrome Panel",
+      "Hereditary Cancer Germline Panel"
+    ],
+    "status": "Draft",
+    "priority": "STAT",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-06-17",
+    "expectedTat": "12 days",
+    "lab": "MedGenome",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0179",
+    "patientId": "PT-0098",
+    "patientName": "Vidya Menon",
+    "scenario": "Family history",
+    "category": "Pharmacogenomics",
+    "tests": [
+      "DPYD Genotyping",
+      "PGx Panel"
+    ],
+    "status": "Approved",
+    "priority": "Routine",
+    "orderedBy": "Dr. Radha Reddy",
+    "orderedDate": "2026-05-10",
+    "expectedTat": "18 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0180",
+    "patientId": "PT-0055",
+    "patientName": "Anjali Desai",
+    "scenario": "Therapy resistance",
+    "category": "RNA Fusion Panel",
+    "tests": [
+      "RNA Fusion NGS Panel",
+      "Archer FusionPlex"
+    ],
+    "status": "Sample Collected",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Pooja Gupta",
+    "orderedDate": "2026-04-29",
+    "expectedTat": "6 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0181",
+    "patientId": "PT-0095",
+    "patientName": "Anjali Pillai",
+    "scenario": "MRD monitoring",
+    "category": "HER2",
+    "tests": [
+      "HER2 SISH"
+    ],
+    "status": "Cancelled",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-04-04",
+    "expectedTat": "19 days",
+    "lab": "MedGenome",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0182",
+    "patientId": "PT-0025",
+    "patientName": "Anil Verma",
+    "scenario": "Trial eligibility",
+    "category": "Liquid Biopsy",
+    "tests": [
+      "Guardant360 CDx"
+    ],
+    "status": "In Lab",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-06-23",
+    "expectedTat": "8 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0183",
+    "patientId": "PT-0022",
+    "patientName": "Deepak Verma",
+    "scenario": "MRD monitoring",
+    "category": "Pharmacogenomics",
+    "tests": [
+      "UGT1A1 Genotyping",
+      "DPYD Genotyping"
+    ],
+    "status": "Resulted",
+    "priority": "STAT",
+    "orderedBy": "Dr. Pooja Gupta",
+    "orderedDate": "2026-06-05",
+    "expectedTat": "16 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0184",
+    "patientId": "PT-0061",
+    "patientName": "Naveen Nair",
+    "scenario": "MRD monitoring",
+    "category": "Pharmacogenomics",
+    "tests": [
+      "UGT1A1 Genotyping"
+    ],
+    "status": "Cancelled",
+    "priority": "Routine",
+    "orderedBy": "Dr. Rekha Sharma",
+    "orderedDate": "2026-06-20",
+    "expectedTat": "20 days",
+    "lab": "MedGenome",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0185",
+    "patientId": "PT-0016",
+    "patientName": "Sunita Kumar",
+    "scenario": "Trial eligibility",
+    "category": "HER2",
+    "tests": [
+      "HER2 IHC + FISH"
+    ],
+    "status": "Resulted",
+    "priority": "Routine",
+    "orderedBy": "Dr. Meera Shetty",
+    "orderedDate": "2026-05-24",
+    "expectedTat": "12 days",
+    "lab": "Strand Life Sciences",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0186",
+    "patientId": "PT-0069",
+    "patientName": "Sushma Kapoor",
+    "scenario": "MTB recommendation",
+    "category": "HRD",
+    "tests": [
+      "HRD Score (Genomic Instability)",
+      "Myriad myChoice CDx"
+    ],
+    "status": "Cancelled",
+    "priority": "STAT",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-04",
+    "expectedTat": "8 days",
+    "lab": "In-house Pathology",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0187",
+    "patientId": "PT-0052",
+    "patientName": "Vikram Mehta",
+    "scenario": "Trial eligibility",
+    "category": "Liquid Biopsy",
+    "tests": [
+      "Guardant360 CDx",
+      "cfDNA Panel"
+    ],
+    "status": "Pending Approval",
+    "priority": "Routine",
+    "orderedBy": "Dr. Naveen Shetty",
+    "orderedDate": "2026-05-19",
+    "expectedTat": "6 days",
+    "lab": "In-house Pathology",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0188",
+    "patientId": "PT-0012",
+    "patientName": "Lakshmi Sharma",
+    "scenario": "MRD monitoring",
+    "category": "Imaging",
+    "tests": [
+      "CECT Thorax/Abdomen",
+      "PET-CT Restaging"
+    ],
+    "status": "In Lab",
+    "priority": "STAT",
+    "orderedBy": "Dr. Shreya Rao",
+    "orderedDate": "2026-07-02",
+    "expectedTat": "5 days",
+    "lab": "In-house Pathology",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0189",
+    "patientId": "PT-0067",
+    "patientName": "Kavya Malhotra",
+    "scenario": "Therapy resistance",
+    "category": "Pharmacogenomics",
+    "tests": [
+      "UGT1A1 Genotyping"
+    ],
+    "status": "In Lab",
+    "priority": "STAT",
+    "orderedBy": "Dr. Arjun Rao",
+    "orderedDate": "2026-04-24",
+    "expectedTat": "11 days",
+    "lab": "MedGenome",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0190",
+    "patientId": "PT-0091",
+    "patientName": "Divya Malhotra",
+    "scenario": "Family history",
+    "category": "Pharmacogenomics",
+    "tests": [
+      "DPYD Genotyping",
+      "PGx Panel"
+    ],
+    "status": "Draft",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-04-23",
+    "expectedTat": "5 days",
+    "lab": "Strand Life Sciences",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0191",
+    "patientId": "PT-0061",
+    "patientName": "Naveen Nair",
+    "scenario": "Family history",
+    "category": "Liquid Biopsy",
+    "tests": [
+      "ctDNA Liquid Biopsy"
+    ],
+    "status": "Approved",
+    "priority": "Routine",
+    "orderedBy": "Dr. Rekha Sharma",
+    "orderedDate": "2026-03-28",
+    "expectedTat": "5 days",
+    "lab": "MedGenome",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0192",
+    "patientId": "PT-0045",
+    "patientName": "Priya Shetty",
+    "scenario": "MRD monitoring",
+    "category": "HRD",
+    "tests": [
+      "Myriad myChoice CDx",
+      "HRD Score (Genomic Instability)"
+    ],
+    "status": "Draft",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-06-15",
+    "expectedTat": "15 days",
+    "lab": "Roche Foundation One",
+    "notes": "Prior line progressed"
+  },
+  {
+    "id": "ORD-0193",
+    "patientId": "PT-0015",
+    "patientName": "Latha Gupta",
+    "scenario": "MRD monitoring",
+    "category": "RNA Fusion Panel",
+    "tests": [
+      "Archer FusionPlex",
+      "RNA Fusion NGS Panel"
+    ],
+    "status": "Pending Approval",
+    "priority": "Routine",
+    "orderedBy": "Dr. Meera Shetty",
+    "orderedDate": "2026-03-12",
+    "expectedTat": "5 days",
+    "lab": "Roche Foundation One",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0194",
+    "patientId": "PT-0012",
+    "patientName": "Lakshmi Sharma",
+    "scenario": "MRD monitoring",
+    "category": "PD-L1",
+    "tests": [
+      "PD-L1 IHC 22C3",
+      "PD-L1 SP263"
+    ],
+    "status": "Resulted",
+    "priority": "STAT",
+    "orderedBy": "Dr. Shreya Rao",
+    "orderedDate": "2026-06-30",
+    "expectedTat": "14 days",
+    "lab": "In-house Pathology",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0195",
+    "patientId": "PT-0019",
+    "patientName": "Kavya Kumar",
+    "scenario": "Recurrence",
+    "category": "Germline Testing",
+    "tests": [
+      "BRCA1/2 Germline"
+    ],
+    "status": "Draft",
+    "priority": "STAT",
+    "orderedBy": "Dr. Vidya Kapoor",
+    "orderedDate": "2026-04-30",
+    "expectedTat": "14 days",
+    "lab": "MedGenome",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0196",
+    "patientId": "PT-0068",
+    "patientName": "Divya Joshi",
+    "scenario": "Recurrence",
+    "category": "Pharmacogenomics",
+    "tests": [
+      "UGT1A1 Genotyping",
+      "DPYD Genotyping"
+    ],
+    "status": "Draft",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-05-08",
+    "expectedTat": "5 days",
+    "lab": "Datar Cancer Genetics",
+    "notes": "Fast-track for MTB"
+  },
+  {
+    "id": "ORD-0197",
+    "patientId": "PT-0094",
+    "patientName": "Karthik Kumar",
+    "scenario": "Family history",
+    "category": "Liquid Biopsy",
+    "tests": [
+      "cfDNA Panel",
+      "Guardant360 CDx"
+    ],
+    "status": "Cancelled",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Harish Verma",
+    "orderedDate": "2026-06-12",
+    "expectedTat": "19 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": "Insurance pre-auth pending"
+  },
+  {
+    "id": "ORD-0198",
+    "patientId": "PT-0092",
+    "patientName": "Manoj Iyer",
+    "scenario": "Trial eligibility",
+    "category": "PD-L1",
+    "tests": [
+      "PD-L1 SP263",
+      "PD-L1 IHC 22C3"
+    ],
+    "status": "Sample Collected",
+    "priority": "Routine",
+    "orderedBy": "Dr. Arjun Menon",
+    "orderedDate": "2026-06-23",
+    "expectedTat": "14 days",
+    "lab": "MedGenome",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0199",
+    "patientId": "PT-0008",
+    "patientName": "Meera Nair",
+    "scenario": "Therapy resistance",
+    "category": "Germline Testing",
+    "tests": [
+      "Lynch Syndrome Panel"
+    ],
+    "status": "Approved",
+    "priority": "Routine",
+    "orderedBy": "Dr. Pooja Gupta",
+    "orderedDate": "2026-03-19",
+    "expectedTat": "19 days",
+    "lab": "1Cell.Ai Genomics",
+    "notes": ""
+  },
+  {
+    "id": "ORD-0200",
+    "patientId": "PT-0040",
+    "patientName": "Sanjay Kapoor",
+    "scenario": "Therapy resistance",
+    "category": "HRD",
+    "tests": [
+      "HRD Score (Genomic Instability)",
+      "Myriad myChoice CDx"
+    ],
+    "status": "Cancelled",
+    "priority": "Urgent",
+    "orderedBy": "Dr. Rekha Shetty",
+    "orderedDate": "2026-04-02",
+    "expectedTat": "11 days",
+    "lab": "Roche Foundation One",
+    "notes": "Insurance pre-auth pending"
+  }
+]

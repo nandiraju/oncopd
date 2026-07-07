@@ -1,0 +1,182 @@
+[
+  {
+    "id": "CLN-0001",
+    "name": "Apollo Cancer Centre",
+    "city": "Chennai",
+    "type": "Multispecialty Hospital",
+    "beds": 477,
+    "tumorBoards": 2,
+    "accreditation": "NABH"
+  },
+  {
+    "id": "CLN-0002",
+    "name": "Tata Memorial Hospital",
+    "city": "Mumbai",
+    "type": "Comprehensive Cancer Center",
+    "beds": 516,
+    "tumorBoards": 6,
+    "accreditation": "NABH"
+  },
+  {
+    "id": "CLN-0003",
+    "name": "HCG Oncology",
+    "city": "Bengaluru",
+    "type": "Comprehensive Cancer Center",
+    "beds": 202,
+    "tumorBoards": 6,
+    "accreditation": "NABH"
+  },
+  {
+    "id": "CLN-0004",
+    "name": "Rajiv Gandhi Cancer Institute",
+    "city": "New Delhi",
+    "type": "Comprehensive Cancer Center",
+    "beds": 500,
+    "tumorBoards": 5,
+    "accreditation": "JCI"
+  },
+  {
+    "id": "CLN-0005",
+    "name": "Kidwai Memorial Institute",
+    "city": "Bengaluru",
+    "type": "Comprehensive Cancer Center",
+    "beds": 234,
+    "tumorBoards": 3,
+    "accreditation": "JCI"
+  },
+  {
+    "id": "CLN-0006",
+    "name": "Amrita Institute",
+    "city": "Kochi",
+    "type": "Comprehensive Cancer Center",
+    "beds": 303,
+    "tumorBoards": 4,
+    "accreditation": "NABH + NABL"
+  },
+  {
+    "id": "CLN-0007",
+    "name": "Cytecare Cancer Hospital",
+    "city": "Bengaluru",
+    "type": "Multispecialty Hospital",
+    "beds": 565,
+    "tumorBoards": 7,
+    "accreditation": "NABH"
+  },
+  {
+    "id": "CLN-0008",
+    "name": "Basavatarakam Indo-American",
+    "city": "Hyderabad",
+    "type": "Comprehensive Cancer Center",
+    "beds": 148,
+    "tumorBoards": 2,
+    "accreditation": "NABH + NABL"
+  },
+  {
+    "id": "CLN-0009",
+    "name": "Adyar Cancer Institute",
+    "city": "Chennai",
+    "type": "Comprehensive Cancer Center",
+    "beds": 472,
+    "tumorBoards": 5,
+    "accreditation": "JCI"
+  },
+  {
+    "id": "CLN-0010",
+    "name": "Manipal Comprehensive Cancer",
+    "city": "Bengaluru",
+    "type": "Multispecialty Hospital",
+    "beds": 311,
+    "tumorBoards": 7,
+    "accreditation": "NABH + NABL"
+  },
+  {
+    "id": "CLN-0011",
+    "name": "Fortis Memorial",
+    "city": "Gurugram",
+    "type": "Multispecialty Hospital",
+    "beds": 654,
+    "tumorBoards": 4,
+    "accreditation": "NABH + NABL"
+  },
+  {
+    "id": "CLN-0012",
+    "name": "Medanta Cancer Institute",
+    "city": "Gurugram",
+    "type": "Multispecialty Hospital",
+    "beds": 667,
+    "tumorBoards": 3,
+    "accreditation": "NABH + JCI"
+  },
+  {
+    "id": "CLN-0013",
+    "name": "Yashoda Cancer Institute",
+    "city": "Hyderabad",
+    "type": "Comprehensive Cancer Center",
+    "beds": 308,
+    "tumorBoards": 2,
+    "accreditation": "NABH + JCI"
+  },
+  {
+    "id": "CLN-0014",
+    "name": "Sir Ganga Ram Hospital",
+    "city": "New Delhi",
+    "type": "Comprehensive Cancer Center",
+    "beds": 271,
+    "tumorBoards": 7,
+    "accreditation": "JCI"
+  },
+  {
+    "id": "CLN-0015",
+    "name": "Aster CMI",
+    "city": "Bengaluru",
+    "type": "Comprehensive Cancer Center",
+    "beds": 466,
+    "tumorBoards": 2,
+    "accreditation": "NABH + NABL"
+  },
+  {
+    "id": "CLN-0016",
+    "name": "Narayana Health City",
+    "city": "Bengaluru",
+    "type": "Multispecialty Hospital",
+    "beds": 193,
+    "tumorBoards": 7,
+    "accreditation": "NABH"
+  },
+  {
+    "id": "CLN-0017",
+    "name": "Max Institute of Oncology",
+    "city": "New Delhi",
+    "type": "Multispecialty Hospital",
+    "beds": 562,
+    "tumorBoards": 4,
+    "accreditation": "NABH + NABL"
+  },
+  {
+    "id": "CLN-0018",
+    "name": "KIMS Cancer Centre",
+    "city": "Hyderabad",
+    "type": "Multispecialty Hospital",
+    "beds": 309,
+    "tumorBoards": 4,
+    "accreditation": "NABH"
+  },
+  {
+    "id": "CLN-0019",
+    "name": "Ruby Hall Clinic",
+    "city": "Pune",
+    "type": "Multispecialty Hospital",
+    "beds": 381,
+    "tumorBoards": 2,
+    "accreditation": "NABH"
+  },
+  {
+    "id": "CLN-0020",
+    "name": "Sahyadri Oncology",
+    "city": "Pune",
+    "type": "Multispecialty Hospital",
+    "beds": 129,
+    "tumorBoards": 7,
+    "accreditation": "NABH + JCI"
+  }
+]

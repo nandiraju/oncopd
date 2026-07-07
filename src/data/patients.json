@@ -1,0 +1,5114 @@
+[
+  {
+    "id": "PT-0001",
+    "mrn": "MRN100000",
+    "name": "Karthik Rao",
+    "firstName": "Karthik",
+    "gender": "Male",
+    "age": 77,
+    "cancerType": "Prostate Cancer",
+    "isHeme": false,
+    "stage": "II",
+    "diagnosisDate": "2026-05-04",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "ADT + Abiraterone",
+    "currentRegimen": "Abiraterone 1000mg + Prednisone",
+    "riskLevel": "Low",
+    "biomarkers": [
+      {
+        "name": "BRCA1/2",
+        "status": "Detected",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Reviewed",
+    "pendingActions": [],
+    "lastVisit": "2026-05-26",
+    "nextAppointment": "2026-07-07",
+    "carePlanStatus": "Active",
+    "clinicId": "CLN-0016",
+    "phone": "+91 9659352162",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": true,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 3,
+    "cyclesTotal": 6,
+    "bloodGroup": "A+"
+  },
+  {
+    "id": "PT-0002",
+    "mrn": "MRN100037",
+    "name": "Rohan Bose",
+    "firstName": "Rohan",
+    "gender": "Male",
+    "age": 52,
+    "cancerType": "Gastric Cancer",
+    "isHeme": false,
+    "stage": "IV",
+    "diagnosisDate": "2024-06-09",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Trastuzumab deruxtecan",
+    "currentRegimen": "Nivolumab q2w",
+    "riskLevel": "Moderate",
+    "biomarkers": [
+      {
+        "name": "MSI-high",
+        "status": "Detected",
+        "actionable": true
+      },
+      {
+        "name": "HER2 amplification",
+        "status": "Positive",
+        "actionable": false
+      },
+      {
+        "name": "TMB-high",
+        "status": "23 mut/Mb",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Amended",
+    "pendingActions": [],
+    "lastVisit": "2026-05-11",
+    "nextAppointment": "2026-07-07",
+    "carePlanStatus": "Active",
+    "clinicId": "CLN-0016",
+    "phone": "+91 7991314291",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": false,
+      "followUpDue": true,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 0,
+    "cyclesTotal": 6,
+    "bloodGroup": "A+"
+  },
+  {
+    "id": "PT-0003",
+    "mrn": "MRN100074",
+    "name": "Meera Mehta",
+    "firstName": "Meera",
+    "gender": "Female",
+    "age": 34,
+    "cancerType": "Ovarian Cancer",
+    "isHeme": false,
+    "stage": "I",
+    "diagnosisDate": "2026-05-08",
+    "ecog": 3,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Bevacizumab",
+    "currentRegimen": "Olaparib 300mg BID",
+    "riskLevel": "Low",
+    "biomarkers": [
+      {
+        "name": "BRCA1/2",
+        "status": "Positive",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Pending Review",
+    "pendingActions": [
+      "Discuss MTB recommendation",
+      "Renew supportive care prescription",
+      "Reconcile toxicity grade"
+    ],
+    "lastVisit": "2026-06-05",
+    "nextAppointment": "2026-08-08",
+    "carePlanStatus": "Active",
+    "clinicId": "CLN-0016",
+    "phone": "+91 9351190700",
+    "flags": {
+      "newlyDiagnosed": true,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 3,
+    "cyclesTotal": 8,
+    "bloodGroup": "O+"
+  },
+  {
+    "id": "PT-0004",
+    "mrn": "MRN100111",
+    "name": "Prakash Joshi",
+    "firstName": "Prakash",
+    "gender": "Male",
+    "age": 85,
+    "cancerType": "NSCLC",
+    "isHeme": false,
+    "stage": "IIIA",
+    "diagnosisDate": "2024-03-16",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Osimertinib",
+    "currentRegimen": "Sotorasib 960mg daily",
+    "riskLevel": "High",
+    "biomarkers": [
+      {
+        "name": "PD-L1 TPS",
+        "status": "1-49% TPS",
+        "actionable": true
+      },
+      {
+        "name": "MET exon 14 skipping",
+        "status": "Amplified",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Amended",
+    "pendingActions": [
+      "Order restaging scan"
+    ],
+    "lastVisit": "2026-06-27",
+    "nextAppointment": "2026-08-24",
+    "carePlanStatus": "Not Started",
+    "clinicId": "CLN-0016",
+    "phone": "+91 9655965427",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 2,
+    "cyclesTotal": 12,
+    "bloodGroup": "AB+"
+  },
+  {
+    "id": "PT-0005",
+    "mrn": "MRN100148",
+    "name": "Arjun Malhotra",
+    "firstName": "Arjun",
+    "gender": "Male",
+    "age": 36,
+    "cancerType": "Head and Neck Cancer",
+    "isHeme": false,
+    "stage": "IVA",
+    "diagnosisDate": "2024-11-21",
+    "ecog": 0,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Cisplatin + RT",
+    "currentRegimen": "Pembrolizumab q3w + Platinum/5-FU",
+    "riskLevel": "Moderate",
+    "biomarkers": [
+      {
+        "name": "PD-L1 TPS",
+        "status": "80% TPS",
+        "actionable": false
+      },
+      {
+        "name": "TMB-high",
+        "status": "11 mut/Mb",
+        "actionable": true
+      },
+      {
+        "name": "MSI-high",
+        "status": "Positive",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Pending Review",
+    "pendingActions": [
+      "Reconcile toxicity grade",
+      "Schedule teleconsult",
+      "Confirm next cycle"
+    ],
+    "lastVisit": "2026-05-31",
+    "nextAppointment": "2026-07-14",
+    "carePlanStatus": "Active",
+    "clinicId": "CLN-0016",
+    "phone": "+91 8223378647",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 2,
+    "cyclesTotal": 8,
+    "bloodGroup": "AB+"
+  },
+  {
+    "id": "PT-0006",
+    "mrn": "MRN100185",
+    "name": "Geetha Verma",
+    "firstName": "Geetha",
+    "gender": "Female",
+    "age": 77,
+    "cancerType": "Ovarian Cancer",
+    "isHeme": false,
+    "stage": "IVB",
+    "diagnosisDate": "2024-05-11",
+    "ecog": 2,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Carboplatin/Paclitaxel",
+    "currentRegimen": "Niraparib 300mg daily",
+    "riskLevel": "High",
+    "biomarkers": [
+      {
+        "name": "HRD positive",
+        "status": "Detected",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Critical",
+    "pendingActions": [
+      "Approve germline testing",
+      "Follow up on liquid biopsy",
+      "Schedule teleconsult"
+    ],
+    "lastVisit": "2026-05-04",
+    "nextAppointment": null,
+    "carePlanStatus": "Under Review",
+    "clinicId": "CLN-0016",
+    "phone": "+91 7862252809",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": true
+    },
+    "cyclesCompleted": 6,
+    "cyclesTotal": 8,
+    "bloodGroup": "B+"
+  },
+  {
+    "id": "PT-0007",
+    "mrn": "MRN100222",
+    "name": "Ananya Pillai",
+    "firstName": "Ananya",
+    "gender": "Female",
+    "age": 36,
+    "cancerType": "Leukemia",
+    "isHeme": true,
+    "stage": "Relapsed",
+    "diagnosisDate": "2024-12-04",
+    "ecog": 0,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Imatinib",
+    "currentRegimen": "7+3 induction",
+    "riskLevel": "Low",
+    "biomarkers": [
+      {
+        "name": "NPM1",
+        "status": "Positive",
+        "actionable": true
+      },
+      {
+        "name": "IDH1/2",
+        "status": "Not detected",
+        "actionable": true
+      },
+      {
+        "name": "TP53",
+        "status": "Amplified",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Critical",
+    "pendingActions": [
+      "Follow up on liquid biopsy",
+      "Approve germline testing"
+    ],
+    "lastVisit": "2026-05-15",
+    "nextAppointment": null,
+    "carePlanStatus": "Active",
+    "clinicId": "CLN-0016",
+    "phone": "+91 8808402674",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": true
+    },
+    "cyclesCompleted": 3,
+    "cyclesTotal": 4,
+    "bloodGroup": "AB+"
+  },
+  {
+    "id": "PT-0008",
+    "mrn": "MRN100259",
+    "name": "Meera Nair",
+    "firstName": "Meera",
+    "gender": "Female",
+    "age": 75,
+    "cancerType": "Leukemia",
+    "isHeme": true,
+    "stage": "Relapsed",
+    "diagnosisDate": "2026-01-01",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0003",
+    "treatingOncologist": "Dr. Pooja Gupta",
+    "currentTreatment": "Dasatinib",
+    "currentRegimen": "Venetoclax + Azacitidine 28d cycle",
+    "riskLevel": "Critical",
+    "biomarkers": [
+      {
+        "name": "TP53",
+        "status": "Detected",
+        "actionable": true
+      },
+      {
+        "name": "BCR-ABL1",
+        "status": "Not detected",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Reviewed",
+    "pendingActions": [],
+    "lastVisit": "2026-06-12",
+    "nextAppointment": "2026-08-05",
+    "carePlanStatus": "Under Review",
+    "clinicId": "CLN-0001",
+    "phone": "+91 8798979572",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 5,
+    "cyclesTotal": 8,
+    "bloodGroup": "O-"
+  },
+  {
+    "id": "PT-0009",
+    "mrn": "MRN100296",
+    "name": "Latha Rao",
+    "firstName": "Latha",
+    "gender": "Female",
+    "age": 45,
+    "cancerType": "Leukemia",
+    "isHeme": true,
+    "stage": "Relapsed",
+    "diagnosisDate": "2026-02-05",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Imatinib",
+    "currentRegimen": "Imatinib 400mg daily",
+    "riskLevel": "Critical",
+    "biomarkers": [
+      {
+        "name": "NPM1",
+        "status": "Not detected",
+        "actionable": false
+      },
+      {
+        "name": "IDH1/2",
+        "status": "Not detected",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Pending Review",
+    "pendingActions": [
+      "Renew supportive care prescription",
+      "Sign off chemotherapy order"
+    ],
+    "lastVisit": "2026-04-11",
+    "nextAppointment": "2026-08-31",
+    "carePlanStatus": "Completed",
+    "clinicId": "CLN-0016",
+    "phone": "+91 8547805554",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 7,
+    "cyclesTotal": 8,
+    "bloodGroup": "A-"
+  },
+  {
+    "id": "PT-0010",
+    "mrn": "MRN100333",
+    "name": "Ashok Desai",
+    "firstName": "Ashok",
+    "gender": "Male",
+    "age": 67,
+    "cancerType": "Pancreatic Cancer",
+    "isHeme": false,
+    "stage": "IV",
+    "diagnosisDate": "2025-07-24",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0009",
+    "treatingOncologist": "Dr. Arjun Rao",
+    "currentTreatment": "Gemcitabine + Nab-paclitaxel",
+    "currentRegimen": "FOLFIRINOX q2w",
+    "riskLevel": "High",
+    "biomarkers": [
+      {
+        "name": "HRD positive",
+        "status": "Positive",
+        "actionable": true
+      },
+      {
+        "name": "MSI-high",
+        "status": "Not detected",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Amended",
+    "pendingActions": [],
+    "lastVisit": "2026-04-25",
+    "nextAppointment": "2026-08-08",
+    "carePlanStatus": "Completed",
+    "clinicId": "CLN-0019",
+    "phone": "+91 8479153898",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 1,
+    "cyclesTotal": 12,
+    "bloodGroup": "A-"
+  },
+  {
+    "id": "PT-0011",
+    "mrn": "MRN100370",
+    "name": "Rajesh Menon",
+    "firstName": "Rajesh",
+    "gender": "Male",
+    "age": 84,
+    "cancerType": "NSCLC",
+    "isHeme": false,
+    "stage": "II",
+    "diagnosisDate": "2025-08-05",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0002",
+    "treatingOncologist": "Dr. Latha Iyer",
+    "currentTreatment": "Alectinib",
+    "currentRegimen": "Alectinib 600mg BID",
+    "riskLevel": "High",
+    "biomarkers": [
+      {
+        "name": "EGFR L858R",
+        "status": "Positive",
+        "actionable": false
+      },
+      {
+        "name": "MET exon 14 skipping",
+        "status": "Detected",
+        "actionable": false
+      },
+      {
+        "name": "PD-L1 TPS",
+        "status": "80% TPS",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Reviewed",
+    "pendingActions": [],
+    "lastVisit": "2026-04-13",
+    "nextAppointment": "2026-08-21",
+    "carePlanStatus": "Not Started",
+    "clinicId": "CLN-0007",
+    "phone": "+91 9285309312",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 3,
+    "cyclesTotal": 4,
+    "bloodGroup": "O-"
+  },
+  {
+    "id": "PT-0012",
+    "mrn": "MRN100407",
+    "name": "Lakshmi Sharma",
+    "firstName": "Lakshmi",
+    "gender": "Female",
+    "age": 62,
+    "cancerType": "Colorectal Cancer",
+    "isHeme": false,
+    "stage": "IV",
+    "diagnosisDate": "2026-05-19",
+    "ecog": 2,
+    "treatingOncologistId": "ONC-0010",
+    "treatingOncologist": "Dr. Shreya Rao",
+    "currentTreatment": "FOLFOX + Bevacizumab",
+    "currentRegimen": "FOLFOX q2w",
+    "riskLevel": "High",
+    "biomarkers": [
+      {
+        "name": "BRAF V600E",
+        "status": "Not detected",
+        "actionable": false
+      },
+      {
+        "name": "HER2 amplification",
+        "status": "Not detected",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Pending Review",
+    "pendingActions": [
+      "Discuss MTB recommendation",
+      "Reconcile toxicity grade",
+      "Follow up on liquid biopsy"
+    ],
+    "lastVisit": "2026-06-05",
+    "nextAppointment": null,
+    "carePlanStatus": "Completed",
+    "clinicId": "CLN-0014",
+    "phone": "+91 7393796961",
+    "flags": {
+      "newlyDiagnosed": true,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 7,
+    "cyclesTotal": 6,
+    "bloodGroup": "AB+"
+  },
+  {
+    "id": "PT-0013",
+    "mrn": "MRN100444",
+    "name": "Latha Nair",
+    "firstName": "Latha",
+    "gender": "Female",
+    "age": 34,
+    "cancerType": "Breast Cancer",
+    "isHeme": false,
+    "stage": "IV",
+    "diagnosisDate": "2024-03-01",
+    "ecog": 0,
+    "treatingOncologistId": "ONC-0029",
+    "treatingOncologist": "Dr. Kavya Malhotra",
+    "currentTreatment": "CDK4/6 inhibitor + AI",
+    "currentRegimen": "Palbociclib 125mg + Letrozole",
+    "riskLevel": "High",
+    "biomarkers": [
+      {
+        "name": "BRCA1/2",
+        "status": "Amplified",
+        "actionable": true
+      },
+      {
+        "name": "HER2 amplification",
+        "status": "Positive",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Amended",
+    "pendingActions": [],
+    "lastVisit": "2026-05-23",
+    "nextAppointment": "2026-07-08",
+    "carePlanStatus": "Not Started",
+    "clinicId": "CLN-0003",
+    "phone": "+91 9615648401",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": false,
+      "followUpDue": true,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 1,
+    "cyclesTotal": 4,
+    "bloodGroup": "B+"
+  },
+  {
+    "id": "PT-0014",
+    "mrn": "MRN100481",
+    "name": "Rohan Rao",
+    "firstName": "Rohan",
+    "gender": "Male",
+    "age": 51,
+    "cancerType": "Lymphoma",
+    "isHeme": true,
+    "stage": "Low risk",
+    "diagnosisDate": "2024-09-16",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0019",
+    "treatingOncologist": "Dr. Nisha Rao",
+    "currentTreatment": "Brentuximab + AVD",
+    "currentRegimen": "Brentuximab + AVD q2w",
+    "riskLevel": "Moderate",
+    "biomarkers": [
+      {
+        "name": "BCL2",
+        "status": "Positive",
+        "actionable": false
+      },
+      {
+        "name": "MYC rearrangement",
+        "status": "Not detected",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Critical",
+    "pendingActions": [
+      "Schedule teleconsult",
+      "Reconcile toxicity grade",
+      "Follow up on liquid biopsy"
+    ],
+    "lastVisit": "2026-06-28",
+    "nextAppointment": "2026-08-13",
+    "carePlanStatus": "Not Started",
+    "clinicId": "CLN-0004",
+    "phone": "+91 8664978380",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 1,
+    "cyclesTotal": 4,
+    "bloodGroup": "O+"
+  },
+  {
+    "id": "PT-0015",
+    "mrn": "MRN100518",
+    "name": "Latha Gupta",
+    "firstName": "Latha",
+    "gender": "Female",
+    "age": 67,
+    "cancerType": "Leukemia",
+    "isHeme": true,
+    "stage": "Relapsed",
+    "diagnosisDate": "2024-02-14",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0016",
+    "treatingOncologist": "Dr. Meera Shetty",
+    "currentTreatment": "Imatinib",
+    "currentRegimen": "Imatinib 400mg daily",
+    "riskLevel": "Moderate",
+    "biomarkers": [
+      {
+        "name": "FLT3-ITD",
+        "status": "Detected",
+        "actionable": true
+      },
+      {
+        "name": "BCR-ABL1",
+        "status": "Positive",
+        "actionable": true
+      },
+      {
+        "name": "TP53",
+        "status": "Amplified",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Amended",
+    "pendingActions": [],
+    "lastVisit": "2026-06-17",
+    "nextAppointment": "2026-08-13",
+    "carePlanStatus": "Active",
+    "clinicId": "CLN-0017",
+    "phone": "+91 8199035369",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 6,
+    "cyclesTotal": 4,
+    "bloodGroup": "AB+"
+  },
+  {
+    "id": "PT-0016",
+    "mrn": "MRN100555",
+    "name": "Sunita Kumar",
+    "firstName": "Sunita",
+    "gender": "Female",
+    "age": 40,
+    "cancerType": "Head and Neck Cancer",
+    "isHeme": false,
+    "stage": "III",
+    "diagnosisDate": "2024-09-03",
+    "ecog": 0,
+    "treatingOncologistId": "ONC-0016",
+    "treatingOncologist": "Dr. Meera Shetty",
+    "currentTreatment": "Cetuximab + RT",
+    "currentRegimen": "Cisplatin 100mg/m2 q3w + RT",
+    "riskLevel": "Moderate",
+    "biomarkers": [
+      {
+        "name": "PD-L1 TPS",
+        "status": "1-49% TPS",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Reviewed",
+    "pendingActions": [
+      "Discuss MTB recommendation"
+    ],
+    "lastVisit": "2026-05-21",
+    "nextAppointment": "2026-07-28",
+    "carePlanStatus": "On Hold",
+    "clinicId": "CLN-0017",
+    "phone": "+91 7492500110",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 0,
+    "cyclesTotal": 12,
+    "bloodGroup": "A+"
+  },
+  {
+    "id": "PT-0017",
+    "mrn": "MRN100592",
+    "name": "Naveen Verma",
+    "firstName": "Naveen",
+    "gender": "Male",
+    "age": 47,
+    "cancerType": "Colorectal Cancer",
+    "isHeme": false,
+    "stage": "IIB",
+    "diagnosisDate": "2025-07-12",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Pembrolizumab (MSI-H)",
+    "currentRegimen": "FOLFIRI + Cetuximab q2w",
+    "riskLevel": "Moderate",
+    "biomarkers": [
+      {
+        "name": "TMB-high",
+        "status": "11 mut/Mb",
+        "actionable": false
+      },
+      {
+        "name": "MSI-high",
+        "status": "Not detected",
+        "actionable": false
+      },
+      {
+        "name": "BRAF V600E",
+        "status": "Positive",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Pending Review",
+    "pendingActions": [
+      "Renew supportive care prescription",
+      "Sign off chemotherapy order"
+    ],
+    "lastVisit": "2026-06-17",
+    "nextAppointment": "2026-08-28",
+    "carePlanStatus": "On Hold",
+    "clinicId": "CLN-0016",
+    "phone": "+91 7825221166",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": true,
+      "mtbNeeded": false,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 4,
+    "cyclesTotal": 12,
+    "bloodGroup": "O-"
+  },
+  {
+    "id": "PT-0018",
+    "mrn": "MRN100629",
+    "name": "Nisha Shetty",
+    "firstName": "Nisha",
+    "gender": "Female",
+    "age": 44,
+    "cancerType": "Gastric Cancer",
+    "isHeme": false,
+    "stage": "IIIA",
+    "diagnosisDate": "2024-08-03",
+    "ecog": 0,
+    "treatingOncologistId": "ONC-0005",
+    "treatingOncologist": "Dr. Sanjay Pillai",
+    "currentTreatment": "Nivolumab + FOLFOX",
+    "currentRegimen": "Nivolumab q2w",
+    "riskLevel": "Low",
+    "biomarkers": [
+      {
+        "name": "TMB-high",
+        "status": "29 mut/Mb",
+        "actionable": false
+      },
+      {
+        "name": "HER2 amplification",
+        "status": "Detected",
+        "actionable": true
+      },
+      {
+        "name": "PD-L1 TPS",
+        "status": "<1% TPS",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Amended",
+    "pendingActions": [],
+    "lastVisit": "2026-05-03",
+    "nextAppointment": "2026-09-02",
+    "carePlanStatus": "Under Review",
+    "clinicId": "CLN-0017",
+    "phone": "+91 7912807497",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 1,
+    "cyclesTotal": 6,
+    "bloodGroup": "A+"
+  },
+  {
+    "id": "PT-0019",
+    "mrn": "MRN100666",
+    "name": "Kavya Kumar",
+    "firstName": "Kavya",
+    "gender": "Female",
+    "age": 75,
+    "cancerType": "Ovarian Cancer",
+    "isHeme": false,
+    "stage": "IV",
+    "diagnosisDate": "2024-12-05",
+    "ecog": 2,
+    "treatingOncologistId": "ONC-0025",
+    "treatingOncologist": "Dr. Vidya Kapoor",
+    "currentTreatment": "Bevacizumab",
+    "currentRegimen": "Olaparib 300mg BID",
+    "riskLevel": "Low",
+    "biomarkers": [
+      {
+        "name": "MSI-high",
+        "status": "Positive",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Reviewed",
+    "pendingActions": [
+      "Sign off chemotherapy order"
+    ],
+    "lastVisit": "2026-04-26",
+    "nextAppointment": "2026-08-22",
+    "carePlanStatus": "Under Review",
+    "clinicId": "CLN-0008",
+    "phone": "+91 8771112929",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 1,
+    "cyclesTotal": 8,
+    "bloodGroup": "A+"
+  },
+  {
+    "id": "PT-0020",
+    "mrn": "MRN100703",
+    "name": "Sanjay Verma",
+    "firstName": "Sanjay",
+    "gender": "Male",
+    "age": 58,
+    "cancerType": "Gastric Cancer",
+    "isHeme": false,
+    "stage": "IIIB",
+    "diagnosisDate": "2025-05-27",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Trastuzumab deruxtecan",
+    "currentRegimen": "Trastuzumab + FOLFOX q2w",
+    "riskLevel": "Critical",
+    "biomarkers": [
+      {
+        "name": "HER2 amplification",
+        "status": "Positive",
+        "actionable": false
+      },
+      {
+        "name": "PD-L1 TPS",
+        "status": "80% TPS",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Critical",
+    "pendingActions": [
+      "Follow up on liquid biopsy",
+      "Sign off chemotherapy order",
+      "Order restaging scan"
+    ],
+    "lastVisit": "2026-06-13",
+    "nextAppointment": "2026-08-26",
+    "carePlanStatus": "Under Review",
+    "clinicId": "CLN-0016",
+    "phone": "+91 9340591253",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 5,
+    "cyclesTotal": 6,
+    "bloodGroup": "O+"
+  },
+  {
+    "id": "PT-0021",
+    "mrn": "MRN100740",
+    "name": "Radha Desai",
+    "firstName": "Radha",
+    "gender": "Female",
+    "age": 71,
+    "cancerType": "NSCLC",
+    "isHeme": false,
+    "stage": "IIB",
+    "diagnosisDate": "2026-02-04",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Osimertinib",
+    "currentRegimen": "Sotorasib 960mg daily",
+    "riskLevel": "Moderate",
+    "biomarkers": [
+      {
+        "name": "ROS1 fusion",
+        "status": "Positive",
+        "actionable": false
+      },
+      {
+        "name": "EGFR L858R",
+        "status": "Positive",
+        "actionable": true
+      },
+      {
+        "name": "KRAS G12C",
+        "status": "Amplified",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Reviewed",
+    "pendingActions": [],
+    "lastVisit": "2026-04-12",
+    "nextAppointment": "2026-08-15",
+    "carePlanStatus": "On Hold",
+    "clinicId": "CLN-0016",
+    "phone": "+91 7632354983",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 3,
+    "cyclesTotal": 4,
+    "bloodGroup": "AB+"
+  },
+  {
+    "id": "PT-0022",
+    "mrn": "MRN100777",
+    "name": "Deepak Verma",
+    "firstName": "Deepak",
+    "gender": "Male",
+    "age": 84,
+    "cancerType": "Leukemia",
+    "isHeme": true,
+    "stage": "Intermediate risk",
+    "diagnosisDate": "2025-09-29",
+    "ecog": 3,
+    "treatingOncologistId": "ONC-0017",
+    "treatingOncologist": "Dr. Pooja Gupta",
+    "currentTreatment": "Dasatinib",
+    "currentRegimen": "7+3 induction",
+    "riskLevel": "Critical",
+    "biomarkers": [
+      {
+        "name": "TP53",
+        "status": "Positive",
+        "actionable": true
+      },
+      {
+        "name": "IDH1/2",
+        "status": "Positive",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Critical",
+    "pendingActions": [
+      "Follow up on liquid biopsy",
+      "Review genomics report",
+      "Confirm next cycle"
+    ],
+    "lastVisit": "2026-04-11",
+    "nextAppointment": "2026-08-25",
+    "carePlanStatus": "On Hold",
+    "clinicId": "CLN-0009",
+    "phone": "+91 7238031578",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 2,
+    "cyclesTotal": 6,
+    "bloodGroup": "A+"
+  },
+  {
+    "id": "PT-0023",
+    "mrn": "MRN100814",
+    "name": "Vivek Joshi",
+    "firstName": "Vivek",
+    "gender": "Male",
+    "age": 50,
+    "cancerType": "Multiple Myeloma",
+    "isHeme": true,
+    "stage": "Low risk",
+    "diagnosisDate": "2024-03-09",
+    "ecog": 0,
+    "treatingOncologistId": "ONC-0013",
+    "treatingOncologist": "Dr. Vikram Shetty",
+    "currentTreatment": "VRd",
+    "currentRegimen": "VRd 28d cycle",
+    "riskLevel": "High",
+    "biomarkers": [
+      {
+        "name": "t(4;14)",
+        "status": "Amplified",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Amended",
+    "pendingActions": [],
+    "lastVisit": "2026-06-25",
+    "nextAppointment": "2026-08-02",
+    "carePlanStatus": "On Hold",
+    "clinicId": "CLN-0003",
+    "phone": "+91 8390384699",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 4,
+    "cyclesTotal": 4,
+    "bloodGroup": "B+"
+  },
+  {
+    "id": "PT-0024",
+    "mrn": "MRN100851",
+    "name": "Harish Menon",
+    "firstName": "Harish",
+    "gender": "Male",
+    "age": 52,
+    "cancerType": "Multiple Myeloma",
+    "isHeme": true,
+    "stage": "Low risk",
+    "diagnosisDate": "2025-08-05",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0020",
+    "treatingOncologist": "Dr. Shreya Desai",
+    "currentTreatment": "DaraVRd",
+    "currentRegimen": "VRd 28d cycle",
+    "riskLevel": "Critical",
+    "biomarkers": [
+      {
+        "name": "t(4;14)",
+        "status": "Detected",
+        "actionable": false
+      },
+      {
+        "name": "del(17p)",
+        "status": "Amplified",
+        "actionable": true
+      },
+      {
+        "name": "TP53",
+        "status": "Positive",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Reviewed",
+    "pendingActions": [],
+    "lastVisit": "2026-07-03",
+    "nextAppointment": "2026-07-10",
+    "carePlanStatus": "Not Started",
+    "clinicId": "CLN-0013",
+    "phone": "+91 7518468853",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": true,
+      "mtbNeeded": true,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 7,
+    "cyclesTotal": 12,
+    "bloodGroup": "AB+"
+  },
+  {
+    "id": "PT-0025",
+    "mrn": "MRN100888",
+    "name": "Anil Verma",
+    "firstName": "Anil",
+    "gender": "Male",
+    "age": 48,
+    "cancerType": "Lymphoma",
+    "isHeme": true,
+    "stage": "Intermediate risk",
+    "diagnosisDate": "2024-04-23",
+    "ecog": 3,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Brentuximab + AVD",
+    "currentRegimen": "Pola-R-CHP q3w",
+    "riskLevel": "Critical",
+    "biomarkers": [
+      {
+        "name": "TP53",
+        "status": "Detected",
+        "actionable": false
+      },
+      {
+        "name": "TMB-high",
+        "status": "14 mut/Mb",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Reviewed",
+    "pendingActions": [
+      "Sign off chemotherapy order"
+    ],
+    "lastVisit": "2026-04-07",
+    "nextAppointment": "2026-08-06",
+    "carePlanStatus": "Under Review",
+    "clinicId": "CLN-0016",
+    "phone": "+91 9114201507",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 3,
+    "cyclesTotal": 4,
+    "bloodGroup": "A+"
+  },
+  {
+    "id": "PT-0026",
+    "mrn": "MRN100925",
+    "name": "Nisha Sharma",
+    "firstName": "Nisha",
+    "gender": "Female",
+    "age": 67,
+    "cancerType": "Leukemia",
+    "isHeme": true,
+    "stage": "Intermediate risk",
+    "diagnosisDate": "2025-03-03",
+    "ecog": 2,
+    "treatingOncologistId": "ONC-0007",
+    "treatingOncologist": "Dr. Karthik Pillai",
+    "currentTreatment": "Midostaurin + 7+3",
+    "currentRegimen": "Venetoclax + Azacitidine 28d cycle",
+    "riskLevel": "Moderate",
+    "biomarkers": [
+      {
+        "name": "FLT3-ITD",
+        "status": "Not detected",
+        "actionable": false
+      },
+      {
+        "name": "TP53",
+        "status": "Positive",
+        "actionable": false
+      },
+      {
+        "name": "IDH1/2",
+        "status": "Amplified",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Pending Review",
+    "pendingActions": [
+      "Review genomics report",
+      "Schedule teleconsult"
+    ],
+    "lastVisit": "2026-06-12",
+    "nextAppointment": "2026-08-07",
+    "carePlanStatus": "On Hold",
+    "clinicId": "CLN-0018",
+    "phone": "+91 7625622529",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 7,
+    "cyclesTotal": 12,
+    "bloodGroup": "A+"
+  },
+  {
+    "id": "PT-0027",
+    "mrn": "MRN100962",
+    "name": "Ashok Iyer",
+    "firstName": "Ashok",
+    "gender": "Male",
+    "age": 61,
+    "cancerType": "Colorectal Cancer",
+    "isHeme": false,
+    "stage": "IVB",
+    "diagnosisDate": "2025-06-16",
+    "ecog": 2,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "FOLFIRI + Cetuximab",
+    "currentRegimen": "FOLFOX q2w",
+    "riskLevel": "High",
+    "biomarkers": [
+      {
+        "name": "KRAS G12C",
+        "status": "Not detected",
+        "actionable": false
+      },
+      {
+        "name": "MSI-high",
+        "status": "Detected",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Critical",
+    "pendingActions": [
+      "Order restaging scan",
+      "Follow up on liquid biopsy",
+      "Renew supportive care prescription"
+    ],
+    "lastVisit": "2026-05-05",
+    "nextAppointment": "2026-07-27",
+    "carePlanStatus": "Under Review",
+    "clinicId": "CLN-0016",
+    "phone": "+91 8203905821",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 5,
+    "cyclesTotal": 6,
+    "bloodGroup": "O-"
+  },
+  {
+    "id": "PT-0028",
+    "mrn": "MRN100999",
+    "name": "Vivek Menon",
+    "firstName": "Vivek",
+    "gender": "Male",
+    "age": 84,
+    "cancerType": "Multiple Myeloma",
+    "isHeme": true,
+    "stage": "Low risk",
+    "diagnosisDate": "2024-01-24",
+    "ecog": 3,
+    "treatingOncologistId": "ONC-0016",
+    "treatingOncologist": "Dr. Meera Shetty",
+    "currentTreatment": "ASCT consolidation",
+    "currentRegimen": "Dara-VRd 28d cycle",
+    "riskLevel": "Moderate",
+    "biomarkers": [
+      {
+        "name": "1q gain",
+        "status": "Not detected",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Amended",
+    "pendingActions": [],
+    "lastVisit": "2026-05-27",
+    "nextAppointment": "2026-08-02",
+    "carePlanStatus": "Not Started",
+    "clinicId": "CLN-0017",
+    "phone": "+91 7888995956",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": true,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 7,
+    "cyclesTotal": 6,
+    "bloodGroup": "A+"
+  },
+  {
+    "id": "PT-0029",
+    "mrn": "MRN101036",
+    "name": "Meera Krishnan",
+    "firstName": "Meera",
+    "gender": "Female",
+    "age": 71,
+    "cancerType": "Melanoma",
+    "isHeme": false,
+    "stage": "IIIB",
+    "diagnosisDate": "2025-01-07",
+    "ecog": 2,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Pembrolizumab",
+    "currentRegimen": "Dabrafenib 150mg BID + Trametinib 2mg",
+    "riskLevel": "Moderate",
+    "biomarkers": [
+      {
+        "name": "MSI-high",
+        "status": "Detected",
+        "actionable": false
+      },
+      {
+        "name": "PD-L1 TPS",
+        "status": "80% TPS",
+        "actionable": false
+      },
+      {
+        "name": "TMB-high",
+        "status": "11 mut/Mb",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Critical",
+    "pendingActions": [
+      "Order restaging scan",
+      "Reconcile toxicity grade"
+    ],
+    "lastVisit": "2026-04-23",
+    "nextAppointment": null,
+    "carePlanStatus": "Under Review",
+    "clinicId": "CLN-0016",
+    "phone": "+91 8705917097",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": true,
+      "mtbNeeded": false,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": true
+    },
+    "cyclesCompleted": 4,
+    "cyclesTotal": 6,
+    "bloodGroup": "O+"
+  },
+  {
+    "id": "PT-0030",
+    "mrn": "MRN101073",
+    "name": "Priya Gupta",
+    "firstName": "Priya",
+    "gender": "Female",
+    "age": 72,
+    "cancerType": "Ovarian Cancer",
+    "isHeme": false,
+    "stage": "IVB",
+    "diagnosisDate": "2025-03-08",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Carboplatin/Paclitaxel",
+    "currentRegimen": "Niraparib 300mg daily",
+    "riskLevel": "Low",
+    "biomarkers": [
+      {
+        "name": "MSI-high",
+        "status": "Detected",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Reviewed",
+    "pendingActions": [
+      "Schedule teleconsult"
+    ],
+    "lastVisit": "2026-05-06",
+    "nextAppointment": "2026-07-10",
+    "carePlanStatus": "Completed",
+    "clinicId": "CLN-0016",
+    "phone": "+91 9586679762",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 4,
+    "cyclesTotal": 8,
+    "bloodGroup": "A+"
+  },
+  {
+    "id": "PT-0031",
+    "mrn": "MRN101110",
+    "name": "Aravind Rao",
+    "firstName": "Aravind",
+    "gender": "Male",
+    "age": 72,
+    "cancerType": "Melanoma",
+    "isHeme": false,
+    "stage": "I",
+    "diagnosisDate": "2025-09-15",
+    "ecog": 0,
+    "treatingOncologistId": "ONC-0028",
+    "treatingOncologist": "Dr. Rekha Sharma",
+    "currentTreatment": "Encorafenib + Binimetinib",
+    "currentRegimen": "Pembrolizumab q3w",
+    "riskLevel": "Low",
+    "biomarkers": [
+      {
+        "name": "TMB-high",
+        "status": "9 mut/Mb",
+        "actionable": true
+      },
+      {
+        "name": "MSI-high",
+        "status": "Amplified",
+        "actionable": false
+      },
+      {
+        "name": "BRAF V600E",
+        "status": "Detected",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Reviewed",
+    "pendingActions": [],
+    "lastVisit": "2026-06-04",
+    "nextAppointment": "2026-08-29",
+    "carePlanStatus": "On Hold",
+    "clinicId": "CLN-0015",
+    "phone": "+91 9635676639",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 4,
+    "cyclesTotal": 8,
+    "bloodGroup": "A-"
+  },
+  {
+    "id": "PT-0032",
+    "mrn": "MRN101147",
+    "name": "Ananya Kumar",
+    "firstName": "Ananya",
+    "gender": "Female",
+    "age": 81,
+    "cancerType": "Leukemia",
+    "isHeme": true,
+    "stage": "Relapsed",
+    "diagnosisDate": "2024-12-01",
+    "ecog": 0,
+    "treatingOncologistId": "ONC-0010",
+    "treatingOncologist": "Dr. Shreya Rao",
+    "currentTreatment": "Dasatinib",
+    "currentRegimen": "Imatinib 400mg daily",
+    "riskLevel": "Moderate",
+    "biomarkers": [
+      {
+        "name": "FLT3-ITD",
+        "status": "Amplified",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Critical",
+    "pendingActions": [
+      "Follow up on liquid biopsy",
+      "Confirm next cycle"
+    ],
+    "lastVisit": "2026-06-20",
+    "nextAppointment": null,
+    "carePlanStatus": "Under Review",
+    "clinicId": "CLN-0014",
+    "phone": "+91 9797694277",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 3,
+    "cyclesTotal": 6,
+    "bloodGroup": "AB+"
+  },
+  {
+    "id": "PT-0033",
+    "mrn": "MRN101184",
+    "name": "Sunita Verma",
+    "firstName": "Sunita",
+    "gender": "Female",
+    "age": 63,
+    "cancerType": "Ovarian Cancer",
+    "isHeme": false,
+    "stage": "IIB",
+    "diagnosisDate": "2024-01-28",
+    "ecog": 0,
+    "treatingOncologistId": "ONC-0029",
+    "treatingOncologist": "Dr. Kavya Malhotra",
+    "currentTreatment": "Niraparib maintenance",
+    "currentRegimen": "Carboplatin AUC5 + Paclitaxel q3w",
+    "riskLevel": "Moderate",
+    "biomarkers": [
+      {
+        "name": "MSI-high",
+        "status": "Not detected",
+        "actionable": false
+      },
+      {
+        "name": "BRCA1/2",
+        "status": "Positive",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Pending Review",
+    "pendingActions": [
+      "Approve germline testing",
+      "Renew supportive care prescription",
+      "Confirm next cycle"
+    ],
+    "lastVisit": "2026-05-26",
+    "nextAppointment": "2026-08-21",
+    "carePlanStatus": "Not Started",
+    "clinicId": "CLN-0003",
+    "phone": "+91 7854725350",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 0,
+    "cyclesTotal": 8,
+    "bloodGroup": "O-"
+  },
+  {
+    "id": "PT-0034",
+    "mrn": "MRN101221",
+    "name": "Karthik Mehta",
+    "firstName": "Karthik",
+    "gender": "Male",
+    "age": 72,
+    "cancerType": "Breast Cancer",
+    "isHeme": false,
+    "stage": "IVB",
+    "diagnosisDate": "2025-01-28",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Olaparib",
+    "currentRegimen": "T-DXd q3w",
+    "riskLevel": "Critical",
+    "biomarkers": [
+      {
+        "name": "BRCA1/2",
+        "status": "Positive",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Reviewed",
+    "pendingActions": [],
+    "lastVisit": "2026-05-17",
+    "nextAppointment": null,
+    "carePlanStatus": "Under Review",
+    "clinicId": "CLN-0016",
+    "phone": "+91 7022743050",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": true
+    },
+    "cyclesCompleted": 2,
+    "cyclesTotal": 4,
+    "bloodGroup": "A-"
+  },
+  {
+    "id": "PT-0035",
+    "mrn": "MRN101258",
+    "name": "Gopal Kapoor",
+    "firstName": "Gopal",
+    "gender": "Male",
+    "age": 77,
+    "cancerType": "Pancreatic Cancer",
+    "isHeme": false,
+    "stage": "II",
+    "diagnosisDate": "2026-05-16",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "FOLFIRINOX",
+    "currentRegimen": "Olaparib 300mg BID",
+    "riskLevel": "High",
+    "biomarkers": [
+      {
+        "name": "BRCA1/2",
+        "status": "Not detected",
+        "actionable": true
+      },
+      {
+        "name": "MSI-high",
+        "status": "Detected",
+        "actionable": true
+      },
+      {
+        "name": "KRAS G12C",
+        "status": "Detected",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Critical",
+    "pendingActions": [
+      "Follow up on liquid biopsy",
+      "Schedule teleconsult",
+      "Discuss MTB recommendation"
+    ],
+    "lastVisit": "2026-05-09",
+    "nextAppointment": null,
+    "carePlanStatus": "Active",
+    "clinicId": "CLN-0016",
+    "phone": "+91 8464791355",
+    "flags": {
+      "newlyDiagnosed": true,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": true
+    },
+    "cyclesCompleted": 4,
+    "cyclesTotal": 6,
+    "bloodGroup": "AB+"
+  },
+  {
+    "id": "PT-0036",
+    "mrn": "MRN101295",
+    "name": "Rekha Gupta",
+    "firstName": "Rekha",
+    "gender": "Female",
+    "age": 66,
+    "cancerType": "Lymphoma",
+    "isHeme": true,
+    "stage": "Low risk",
+    "diagnosisDate": "2024-02-16",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0019",
+    "treatingOncologist": "Dr. Nisha Rao",
+    "currentTreatment": "Brentuximab + AVD",
+    "currentRegimen": "R-CHOP q3w x6",
+    "riskLevel": "Low",
+    "biomarkers": [
+      {
+        "name": "TMB-high",
+        "status": "18 mut/Mb",
+        "actionable": false
+      },
+      {
+        "name": "CD30",
+        "status": "Not detected",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Critical",
+    "pendingActions": [
+      "Discuss MTB recommendation",
+      "Order restaging scan"
+    ],
+    "lastVisit": "2026-05-23",
+    "nextAppointment": "2026-08-05",
+    "carePlanStatus": "On Hold",
+    "clinicId": "CLN-0004",
+    "phone": "+91 9184614262",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 2,
+    "cyclesTotal": 6,
+    "bloodGroup": "O-"
+  },
+  {
+    "id": "PT-0037",
+    "mrn": "MRN101332",
+    "name": "Anil Verma",
+    "firstName": "Anil",
+    "gender": "Male",
+    "age": 70,
+    "cancerType": "Prostate Cancer",
+    "isHeme": false,
+    "stage": "IVB",
+    "diagnosisDate": "2024-12-27",
+    "ecog": 0,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Olaparib",
+    "currentRegimen": "Abiraterone 1000mg + Prednisone",
+    "riskLevel": "Critical",
+    "biomarkers": [
+      {
+        "name": "HRD positive",
+        "status": "Amplified",
+        "actionable": true
+      },
+      {
+        "name": "BRCA1/2",
+        "status": "Detected",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Pending Review",
+    "pendingActions": [
+      "Schedule teleconsult",
+      "Follow up on liquid biopsy",
+      "Reconcile toxicity grade"
+    ],
+    "lastVisit": "2026-06-26",
+    "nextAppointment": "2026-09-04",
+    "carePlanStatus": "Not Started",
+    "clinicId": "CLN-0016",
+    "phone": "+91 9266259550",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": true,
+      "mtbNeeded": true,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 0,
+    "cyclesTotal": 6,
+    "bloodGroup": "B+"
+  },
+  {
+    "id": "PT-0038",
+    "mrn": "MRN101369",
+    "name": "Suresh Desai",
+    "firstName": "Suresh",
+    "gender": "Male",
+    "age": 52,
+    "cancerType": "Prostate Cancer",
+    "isHeme": false,
+    "stage": "IIB",
+    "diagnosisDate": "2025-08-08",
+    "ecog": 3,
+    "treatingOncologistId": "ONC-0020",
+    "treatingOncologist": "Dr. Shreya Desai",
+    "currentTreatment": "Enzalutamide",
+    "currentRegimen": "Docetaxel q3w",
+    "riskLevel": "Moderate",
+    "biomarkers": [
+      {
+        "name": "MSI-high",
+        "status": "Amplified",
+        "actionable": true
+      },
+      {
+        "name": "HRD positive",
+        "status": "Not detected",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Amended",
+    "pendingActions": [],
+    "lastVisit": "2026-04-18",
+    "nextAppointment": "2026-08-06",
+    "carePlanStatus": "Completed",
+    "clinicId": "CLN-0013",
+    "phone": "+91 9859690978",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 0,
+    "cyclesTotal": 6,
+    "bloodGroup": "O+"
+  },
+  {
+    "id": "PT-0039",
+    "mrn": "MRN101406",
+    "name": "Lakshmi Reddy",
+    "firstName": "Lakshmi",
+    "gender": "Female",
+    "age": 75,
+    "cancerType": "Multiple Myeloma",
+    "isHeme": true,
+    "stage": "Low risk",
+    "diagnosisDate": "2025-12-10",
+    "ecog": 0,
+    "treatingOncologistId": "ONC-0014",
+    "treatingOncologist": "Dr. Harish Verma",
+    "currentTreatment": "ASCT consolidation",
+    "currentRegimen": "VRd 28d cycle",
+    "riskLevel": "Low",
+    "biomarkers": [
+      {
+        "name": "del(17p)",
+        "status": "Amplified",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Critical",
+    "pendingActions": [
+      "Sign off chemotherapy order",
+      "Discuss MTB recommendation",
+      "Order restaging scan"
+    ],
+    "lastVisit": "2026-06-25",
+    "nextAppointment": "2026-07-09",
+    "carePlanStatus": "Active",
+    "clinicId": "CLN-0016",
+    "phone": "+91 7848477583",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": true,
+      "followUpDue": true,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 3,
+    "cyclesTotal": 8,
+    "bloodGroup": "A-"
+  },
+  {
+    "id": "PT-0040",
+    "mrn": "MRN101443",
+    "name": "Sanjay Kapoor",
+    "firstName": "Sanjay",
+    "gender": "Male",
+    "age": 80,
+    "cancerType": "Gastric Cancer",
+    "isHeme": false,
+    "stage": "IIA",
+    "diagnosisDate": "2025-12-03",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0023",
+    "treatingOncologist": "Dr. Rekha Shetty",
+    "currentTreatment": "Trastuzumab deruxtecan",
+    "currentRegimen": "Trastuzumab + FOLFOX q2w",
+    "riskLevel": "High",
+    "biomarkers": [
+      {
+        "name": "PD-L1 TPS",
+        "status": "80% TPS",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Critical",
+    "pendingActions": [
+      "Reconcile toxicity grade",
+      "Approve germline testing",
+      "Follow up on liquid biopsy"
+    ],
+    "lastVisit": "2026-06-22",
+    "nextAppointment": "2026-08-17",
+    "carePlanStatus": "Not Started",
+    "clinicId": "CLN-0002",
+    "phone": "+91 9226582904",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": true,
+      "mtbNeeded": true,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 1,
+    "cyclesTotal": 6,
+    "bloodGroup": "B+"
+  },
+  {
+    "id": "PT-0041",
+    "mrn": "MRN101480",
+    "name": "Bhavana Rao",
+    "firstName": "Bhavana",
+    "gender": "Female",
+    "age": 57,
+    "cancerType": "Lymphoma",
+    "isHeme": true,
+    "stage": "Low risk",
+    "diagnosisDate": "2024-01-28",
+    "ecog": 2,
+    "treatingOncologistId": "ONC-0023",
+    "treatingOncologist": "Dr. Rekha Shetty",
+    "currentTreatment": "Brentuximab + AVD",
+    "currentRegimen": "R-CHOP q3w x6",
+    "riskLevel": "Moderate",
+    "biomarkers": [
+      {
+        "name": "TMB-high",
+        "status": "11 mut/Mb",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Reviewed",
+    "pendingActions": [],
+    "lastVisit": "2026-05-30",
+    "nextAppointment": null,
+    "carePlanStatus": "On Hold",
+    "clinicId": "CLN-0002",
+    "phone": "+91 8209653509",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": true,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 0,
+    "cyclesTotal": 6,
+    "bloodGroup": "A+"
+  },
+  {
+    "id": "PT-0042",
+    "mrn": "MRN101517",
+    "name": "Nisha Desai",
+    "firstName": "Nisha",
+    "gender": "Female",
+    "age": 56,
+    "cancerType": "Multiple Myeloma",
+    "isHeme": true,
+    "stage": "Relapsed",
+    "diagnosisDate": "2024-05-10",
+    "ecog": 2,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "VRd",
+    "currentRegimen": "KRd 28d cycle",
+    "riskLevel": "Critical",
+    "biomarkers": [
+      {
+        "name": "t(4;14)",
+        "status": "Positive",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Reviewed",
+    "pendingActions": [
+      "Sign off chemotherapy order"
+    ],
+    "lastVisit": "2026-06-19",
+    "nextAppointment": "2026-08-07",
+    "carePlanStatus": "Under Review",
+    "clinicId": "CLN-0016",
+    "phone": "+91 9796548398",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 5,
+    "cyclesTotal": 8,
+    "bloodGroup": "AB+"
+  },
+  {
+    "id": "PT-0043",
+    "mrn": "MRN101554",
+    "name": "Deepa Reddy",
+    "firstName": "Deepa",
+    "gender": "Female",
+    "age": 67,
+    "cancerType": "Lymphoma",
+    "isHeme": true,
+    "stage": "Relapsed",
+    "diagnosisDate": "2025-05-11",
+    "ecog": 0,
+    "treatingOncologistId": "ONC-0026",
+    "treatingOncologist": "Dr. Lakshmi Gupta",
+    "currentTreatment": "CAR-T referral",
+    "currentRegimen": "Brentuximab + AVD q2w",
+    "riskLevel": "Low",
+    "biomarkers": [
+      {
+        "name": "CD30",
+        "status": "Positive",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Amended",
+    "pendingActions": [
+      "Sign off chemotherapy order"
+    ],
+    "lastVisit": "2026-05-22",
+    "nextAppointment": "2026-07-23",
+    "carePlanStatus": "On Hold",
+    "clinicId": "CLN-0001",
+    "phone": "+91 8118320624",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 5,
+    "cyclesTotal": 6,
+    "bloodGroup": "AB+"
+  },
+  {
+    "id": "PT-0044",
+    "mrn": "MRN101591",
+    "name": "Karthik Kapoor",
+    "firstName": "Karthik",
+    "gender": "Male",
+    "age": 69,
+    "cancerType": "Prostate Cancer",
+    "isHeme": false,
+    "stage": "I",
+    "diagnosisDate": "2024-04-14",
+    "ecog": 0,
+    "treatingOncologistId": "ONC-0021",
+    "treatingOncologist": "Dr. Vikram Sharma",
+    "currentTreatment": "Enzalutamide",
+    "currentRegimen": "Abiraterone 1000mg + Prednisone",
+    "riskLevel": "Low",
+    "biomarkers": [
+      {
+        "name": "MSI-high",
+        "status": "Detected",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Reviewed",
+    "pendingActions": [
+      "Confirm next cycle"
+    ],
+    "lastVisit": "2026-06-30",
+    "nextAppointment": "2026-07-09",
+    "carePlanStatus": "On Hold",
+    "clinicId": "CLN-0002",
+    "phone": "+91 7516339775",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": true,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 2,
+    "cyclesTotal": 4,
+    "bloodGroup": "B+"
+  },
+  {
+    "id": "PT-0045",
+    "mrn": "MRN101628",
+    "name": "Priya Shetty",
+    "firstName": "Priya",
+    "gender": "Female",
+    "age": 61,
+    "cancerType": "Ovarian Cancer",
+    "isHeme": false,
+    "stage": "IVB",
+    "diagnosisDate": "2023-12-24",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Olaparib maintenance",
+    "currentRegimen": "Olaparib 300mg BID",
+    "riskLevel": "Critical",
+    "biomarkers": [
+      {
+        "name": "BRCA1/2",
+        "status": "Positive",
+        "actionable": true
+      },
+      {
+        "name": "MSI-high",
+        "status": "Detected",
+        "actionable": true
+      },
+      {
+        "name": "HRD positive",
+        "status": "Detected",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Amended",
+    "pendingActions": [
+      "Discuss MTB recommendation"
+    ],
+    "lastVisit": "2026-05-08",
+    "nextAppointment": "2026-08-01",
+    "carePlanStatus": "Not Started",
+    "clinicId": "CLN-0016",
+    "phone": "+91 8992139232",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 5,
+    "cyclesTotal": 6,
+    "bloodGroup": "AB+"
+  },
+  {
+    "id": "PT-0046",
+    "mrn": "MRN101665",
+    "name": "Kavya Verma",
+    "firstName": "Kavya",
+    "gender": "Female",
+    "age": 43,
+    "cancerType": "Melanoma",
+    "isHeme": false,
+    "stage": "III",
+    "diagnosisDate": "2024-08-31",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0004",
+    "treatingOncologist": "Dr. Naveen Shetty",
+    "currentTreatment": "Nivolumab + Ipilimumab",
+    "currentRegimen": "Pembrolizumab q3w",
+    "riskLevel": "High",
+    "biomarkers": [
+      {
+        "name": "TMB-high",
+        "status": "26 mut/Mb",
+        "actionable": true
+      },
+      {
+        "name": "BRAF V600E",
+        "status": "Not detected",
+        "actionable": false
+      },
+      {
+        "name": "PD-L1 TPS",
+        "status": "1-49% TPS",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Amended",
+    "pendingActions": [],
+    "lastVisit": "2026-06-11",
+    "nextAppointment": "2026-09-03",
+    "carePlanStatus": "Not Started",
+    "clinicId": "CLN-0008",
+    "phone": "+91 7913919692",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 2,
+    "cyclesTotal": 6,
+    "bloodGroup": "A-"
+  },
+  {
+    "id": "PT-0047",
+    "mrn": "MRN101702",
+    "name": "Ananya Kumar",
+    "firstName": "Ananya",
+    "gender": "Female",
+    "age": 64,
+    "cancerType": "Leukemia",
+    "isHeme": true,
+    "stage": "Low risk",
+    "diagnosisDate": "2025-08-13",
+    "ecog": 0,
+    "treatingOncologistId": "ONC-0002",
+    "treatingOncologist": "Dr. Latha Iyer",
+    "currentTreatment": "Imatinib",
+    "currentRegimen": "Venetoclax + Azacitidine 28d cycle",
+    "riskLevel": "High",
+    "biomarkers": [
+      {
+        "name": "NPM1",
+        "status": "Amplified",
+        "actionable": true
+      },
+      {
+        "name": "TP53",
+        "status": "Not detected",
+        "actionable": true
+      },
+      {
+        "name": "IDH1/2",
+        "status": "Detected",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Reviewed",
+    "pendingActions": [
+      "Discuss MTB recommendation"
+    ],
+    "lastVisit": "2026-06-05",
+    "nextAppointment": "2026-07-10",
+    "carePlanStatus": "Not Started",
+    "clinicId": "CLN-0007",
+    "phone": "+91 9054955801",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 6,
+    "cyclesTotal": 6,
+    "bloodGroup": "O+"
+  },
+  {
+    "id": "PT-0048",
+    "mrn": "MRN101739",
+    "name": "Divya Malhotra",
+    "firstName": "Divya",
+    "gender": "Female",
+    "age": 58,
+    "cancerType": "Ovarian Cancer",
+    "isHeme": false,
+    "stage": "IVB",
+    "diagnosisDate": "2025-10-27",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0030",
+    "treatingOncologist": "Dr. Gopal Iyer",
+    "currentTreatment": "Bevacizumab",
+    "currentRegimen": "Niraparib 300mg daily",
+    "riskLevel": "Moderate",
+    "biomarkers": [
+      {
+        "name": "BRCA1/2",
+        "status": "Amplified",
+        "actionable": true
+      },
+      {
+        "name": "MSI-high",
+        "status": "Amplified",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Pending Review",
+    "pendingActions": [
+      "Order restaging scan",
+      "Confirm next cycle",
+      "Schedule teleconsult"
+    ],
+    "lastVisit": "2026-06-13",
+    "nextAppointment": "2026-08-31",
+    "carePlanStatus": "On Hold",
+    "clinicId": "CLN-0016",
+    "phone": "+91 7924809193",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 0,
+    "cyclesTotal": 12,
+    "bloodGroup": "O-"
+  },
+  {
+    "id": "PT-0049",
+    "mrn": "MRN101776",
+    "name": "Meera Menon",
+    "firstName": "Meera",
+    "gender": "Female",
+    "age": 47,
+    "cancerType": "Gastric Cancer",
+    "isHeme": false,
+    "stage": "III",
+    "diagnosisDate": "2025-05-11",
+    "ecog": 3,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Trastuzumab deruxtecan",
+    "currentRegimen": "Trastuzumab + FOLFOX q2w",
+    "riskLevel": "Critical",
+    "biomarkers": [
+      {
+        "name": "HER2 amplification",
+        "status": "Positive",
+        "actionable": true
+      },
+      {
+        "name": "PD-L1 TPS",
+        "status": "80% TPS",
+        "actionable": true
+      },
+      {
+        "name": "TMB-high",
+        "status": "28 mut/Mb",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Pending Review",
+    "pendingActions": [
+      "Discuss MTB recommendation",
+      "Order restaging scan"
+    ],
+    "lastVisit": "2026-05-02",
+    "nextAppointment": "2026-08-01",
+    "carePlanStatus": "Not Started",
+    "clinicId": "CLN-0016",
+    "phone": "+91 7528570824",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 6,
+    "cyclesTotal": 6,
+    "bloodGroup": "B+"
+  },
+  {
+    "id": "PT-0050",
+    "mrn": "MRN101813",
+    "name": "Anil Patel",
+    "firstName": "Anil",
+    "gender": "Male",
+    "age": 68,
+    "cancerType": "Prostate Cancer",
+    "isHeme": false,
+    "stage": "IVA",
+    "diagnosisDate": "2025-04-26",
+    "ecog": 0,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Lu-177 PSMA",
+    "currentRegimen": "Abiraterone 1000mg + Prednisone",
+    "riskLevel": "Low",
+    "biomarkers": [
+      {
+        "name": "BRCA1/2",
+        "status": "Detected",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Pending Review",
+    "pendingActions": [
+      "Discuss MTB recommendation",
+      "Order restaging scan"
+    ],
+    "lastVisit": "2026-06-25",
+    "nextAppointment": "2026-08-10",
+    "carePlanStatus": "Not Started",
+    "clinicId": "CLN-0016",
+    "phone": "+91 9357263472",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 4,
+    "cyclesTotal": 4,
+    "bloodGroup": "AB+"
+  },
+  {
+    "id": "PT-0051",
+    "mrn": "MRN101850",
+    "name": "Naveen Verma",
+    "firstName": "Naveen",
+    "gender": "Male",
+    "age": 85,
+    "cancerType": "Leukemia",
+    "isHeme": true,
+    "stage": "Low risk",
+    "diagnosisDate": "2025-03-26",
+    "ecog": 2,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Dasatinib",
+    "currentRegimen": "7+3 induction",
+    "riskLevel": "Critical",
+    "biomarkers": [
+      {
+        "name": "FLT3-ITD",
+        "status": "Not detected",
+        "actionable": true
+      },
+      {
+        "name": "BCR-ABL1",
+        "status": "Amplified",
+        "actionable": false
+      },
+      {
+        "name": "IDH1/2",
+        "status": "Amplified",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Reviewed",
+    "pendingActions": [],
+    "lastVisit": "2026-05-30",
+    "nextAppointment": "2026-08-05",
+    "carePlanStatus": "Completed",
+    "clinicId": "CLN-0016",
+    "phone": "+91 8106502454",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 4,
+    "cyclesTotal": 4,
+    "bloodGroup": "O+"
+  },
+  {
+    "id": "PT-0052",
+    "mrn": "MRN101887",
+    "name": "Vikram Mehta",
+    "firstName": "Vikram",
+    "gender": "Male",
+    "age": 43,
+    "cancerType": "NSCLC",
+    "isHeme": false,
+    "stage": "IIA",
+    "diagnosisDate": "2025-11-27",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0004",
+    "treatingOncologist": "Dr. Naveen Shetty",
+    "currentTreatment": "Pembrolizumab + Carboplatin/Pemetrexed",
+    "currentRegimen": "Sotorasib 960mg daily",
+    "riskLevel": "High",
+    "biomarkers": [
+      {
+        "name": "ROS1 fusion",
+        "status": "Positive",
+        "actionable": false
+      },
+      {
+        "name": "PD-L1 TPS",
+        "status": "80% TPS",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Reviewed",
+    "pendingActions": [],
+    "lastVisit": "2026-05-15",
+    "nextAppointment": "2026-08-01",
+    "carePlanStatus": "On Hold",
+    "clinicId": "CLN-0008",
+    "phone": "+91 9066864414",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": true,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 5,
+    "cyclesTotal": 8,
+    "bloodGroup": "A+"
+  },
+  {
+    "id": "PT-0053",
+    "mrn": "MRN101924",
+    "name": "Arjun Menon",
+    "firstName": "Arjun",
+    "gender": "Male",
+    "age": 82,
+    "cancerType": "NSCLC",
+    "isHeme": false,
+    "stage": "II",
+    "diagnosisDate": "2025-05-30",
+    "ecog": 0,
+    "treatingOncologistId": "ONC-0017",
+    "treatingOncologist": "Dr. Pooja Gupta",
+    "currentTreatment": "Sotorasib",
+    "currentRegimen": "Sotorasib 960mg daily",
+    "riskLevel": "Low",
+    "biomarkers": [
+      {
+        "name": "TMB-high",
+        "status": "13 mut/Mb",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Amended",
+    "pendingActions": [
+      "Review genomics report"
+    ],
+    "lastVisit": "2026-04-17",
+    "nextAppointment": "2026-08-29",
+    "carePlanStatus": "Completed",
+    "clinicId": "CLN-0009",
+    "phone": "+91 7631879313",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 6,
+    "cyclesTotal": 6,
+    "bloodGroup": "A-"
+  },
+  {
+    "id": "PT-0054",
+    "mrn": "MRN101961",
+    "name": "Meera Nair",
+    "firstName": "Meera",
+    "gender": "Female",
+    "age": 51,
+    "cancerType": "Breast Cancer",
+    "isHeme": false,
+    "stage": "IIB",
+    "diagnosisDate": "2025-05-21",
+    "ecog": 2,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Trastuzumab deruxtecan",
+    "currentRegimen": "Olaparib 300mg BID",
+    "riskLevel": "Critical",
+    "biomarkers": [
+      {
+        "name": "BRCA1/2",
+        "status": "Amplified",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Amended",
+    "pendingActions": [],
+    "lastVisit": "2026-04-10",
+    "nextAppointment": null,
+    "carePlanStatus": "Not Started",
+    "clinicId": "CLN-0016",
+    "phone": "+91 8158401396",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": true,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": true
+    },
+    "cyclesCompleted": 1,
+    "cyclesTotal": 4,
+    "bloodGroup": "O-"
+  },
+  {
+    "id": "PT-0055",
+    "mrn": "MRN101998",
+    "name": "Anjali Desai",
+    "firstName": "Anjali",
+    "gender": "Female",
+    "age": 40,
+    "cancerType": "Ovarian Cancer",
+    "isHeme": false,
+    "stage": "II",
+    "diagnosisDate": "2024-01-11",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0003",
+    "treatingOncologist": "Dr. Pooja Gupta",
+    "currentTreatment": "Bevacizumab",
+    "currentRegimen": "Niraparib 300mg daily",
+    "riskLevel": "Critical",
+    "biomarkers": [
+      {
+        "name": "BRCA1/2",
+        "status": "Not detected",
+        "actionable": true
+      },
+      {
+        "name": "MSI-high",
+        "status": "Positive",
+        "actionable": true
+      },
+      {
+        "name": "HRD positive",
+        "status": "Positive",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Pending Review",
+    "pendingActions": [
+      "Renew supportive care prescription",
+      "Confirm next cycle",
+      "Follow up on liquid biopsy"
+    ],
+    "lastVisit": "2026-06-30",
+    "nextAppointment": null,
+    "carePlanStatus": "Completed",
+    "clinicId": "CLN-0001",
+    "phone": "+91 7682371437",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 7,
+    "cyclesTotal": 6,
+    "bloodGroup": "A+"
+  },
+  {
+    "id": "PT-0056",
+    "mrn": "MRN102035",
+    "name": "Ananya Nair",
+    "firstName": "Ananya",
+    "gender": "Female",
+    "age": 74,
+    "cancerType": "Colorectal Cancer",
+    "isHeme": false,
+    "stage": "I",
+    "diagnosisDate": "2025-12-24",
+    "ecog": 2,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "FOLFOX + Bevacizumab",
+    "currentRegimen": "FOLFOX q2w",
+    "riskLevel": "Moderate",
+    "biomarkers": [
+      {
+        "name": "KRAS G12C",
+        "status": "Positive",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Pending Review",
+    "pendingActions": [
+      "Renew supportive care prescription",
+      "Schedule teleconsult"
+    ],
+    "lastVisit": "2026-05-30",
+    "nextAppointment": "2026-09-02",
+    "carePlanStatus": "On Hold",
+    "clinicId": "CLN-0016",
+    "phone": "+91 7863163691",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 2,
+    "cyclesTotal": 6,
+    "bloodGroup": "O+"
+  },
+  {
+    "id": "PT-0057",
+    "mrn": "MRN102072",
+    "name": "Arjun Bose",
+    "firstName": "Arjun",
+    "gender": "Male",
+    "age": 59,
+    "cancerType": "Melanoma",
+    "isHeme": false,
+    "stage": "IV",
+    "diagnosisDate": "2024-01-15",
+    "ecog": 2,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Dabrafenib + Trametinib",
+    "currentRegimen": "Pembrolizumab q3w",
+    "riskLevel": "Critical",
+    "biomarkers": [
+      {
+        "name": "BRAF V600E",
+        "status": "Not detected",
+        "actionable": false
+      },
+      {
+        "name": "MSI-high",
+        "status": "Detected",
+        "actionable": true
+      },
+      {
+        "name": "TMB-high",
+        "status": "29 mut/Mb",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Pending Review",
+    "pendingActions": [
+      "Order restaging scan",
+      "Review genomics report"
+    ],
+    "lastVisit": "2026-06-08",
+    "nextAppointment": "2026-07-18",
+    "carePlanStatus": "Not Started",
+    "clinicId": "CLN-0016",
+    "phone": "+91 7826005453",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 5,
+    "cyclesTotal": 4,
+    "bloodGroup": "AB+"
+  },
+  {
+    "id": "PT-0058",
+    "mrn": "MRN102109",
+    "name": "Aditya Verma",
+    "firstName": "Aditya",
+    "gender": "Male",
+    "age": 56,
+    "cancerType": "Breast Cancer",
+    "isHeme": false,
+    "stage": "I",
+    "diagnosisDate": "2025-10-18",
+    "ecog": 3,
+    "treatingOncologistId": "ONC-0029",
+    "treatingOncologist": "Dr. Kavya Malhotra",
+    "currentTreatment": "CDK4/6 inhibitor + AI",
+    "currentRegimen": "Palbociclib 125mg + Letrozole",
+    "riskLevel": "Critical",
+    "biomarkers": [
+      {
+        "name": "MSI-high",
+        "status": "Not detected",
+        "actionable": true
+      },
+      {
+        "name": "HRD positive",
+        "status": "Amplified",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Amended",
+    "pendingActions": [],
+    "lastVisit": "2026-06-15",
+    "nextAppointment": "2026-08-30",
+    "carePlanStatus": "Completed",
+    "clinicId": "CLN-0003",
+    "phone": "+91 9566632013",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 2,
+    "cyclesTotal": 4,
+    "bloodGroup": "A+"
+  },
+  {
+    "id": "PT-0059",
+    "mrn": "MRN102146",
+    "name": "Ashok Joshi",
+    "firstName": "Ashok",
+    "gender": "Male",
+    "age": 67,
+    "cancerType": "Prostate Cancer",
+    "isHeme": false,
+    "stage": "IVA",
+    "diagnosisDate": "2025-03-29",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Olaparib",
+    "currentRegimen": "Docetaxel q3w",
+    "riskLevel": "Low",
+    "biomarkers": [
+      {
+        "name": "HRD positive",
+        "status": "Detected",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Critical",
+    "pendingActions": [
+      "Schedule teleconsult",
+      "Discuss MTB recommendation",
+      "Confirm next cycle"
+    ],
+    "lastVisit": "2026-04-29",
+    "nextAppointment": "2026-07-28",
+    "carePlanStatus": "Completed",
+    "clinicId": "CLN-0016",
+    "phone": "+91 8666124858",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 0,
+    "cyclesTotal": 8,
+    "bloodGroup": "O-"
+  },
+  {
+    "id": "PT-0060",
+    "mrn": "MRN102183",
+    "name": "Lakshmi Verma",
+    "firstName": "Lakshmi",
+    "gender": "Female",
+    "age": 69,
+    "cancerType": "Melanoma",
+    "isHeme": false,
+    "stage": "IIIB",
+    "diagnosisDate": "2024-02-01",
+    "ecog": 2,
+    "treatingOncologistId": "ONC-0013",
+    "treatingOncologist": "Dr. Vikram Shetty",
+    "currentTreatment": "Encorafenib + Binimetinib",
+    "currentRegimen": "Dabrafenib 150mg BID + Trametinib 2mg",
+    "riskLevel": "Moderate",
+    "biomarkers": [
+      {
+        "name": "TMB-high",
+        "status": "19 mut/Mb",
+        "actionable": false
+      },
+      {
+        "name": "BRAF V600E",
+        "status": "Amplified",
+        "actionable": true
+      },
+      {
+        "name": "PD-L1 TPS",
+        "status": "<1% TPS",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Reviewed",
+    "pendingActions": [],
+    "lastVisit": "2026-04-09",
+    "nextAppointment": "2026-08-18",
+    "carePlanStatus": "Not Started",
+    "clinicId": "CLN-0003",
+    "phone": "+91 7560573704",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 3,
+    "cyclesTotal": 6,
+    "bloodGroup": "B+"
+  },
+  {
+    "id": "PT-0061",
+    "mrn": "MRN102220",
+    "name": "Naveen Nair",
+    "firstName": "Naveen",
+    "gender": "Male",
+    "age": 80,
+    "cancerType": "Leukemia",
+    "isHeme": true,
+    "stage": "Low risk",
+    "diagnosisDate": "2026-01-10",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0028",
+    "treatingOncologist": "Dr. Rekha Sharma",
+    "currentTreatment": "Venetoclax + Azacitidine",
+    "currentRegimen": "Venetoclax + Azacitidine 28d cycle",
+    "riskLevel": "High",
+    "biomarkers": [
+      {
+        "name": "FLT3-ITD",
+        "status": "Amplified",
+        "actionable": true
+      },
+      {
+        "name": "BCR-ABL1",
+        "status": "Not detected",
+        "actionable": true
+      },
+      {
+        "name": "IDH1/2",
+        "status": "Detected",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Reviewed",
+    "pendingActions": [],
+    "lastVisit": "2026-05-07",
+    "nextAppointment": "2026-07-26",
+    "carePlanStatus": "On Hold",
+    "clinicId": "CLN-0015",
+    "phone": "+91 8569539576",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 5,
+    "cyclesTotal": 12,
+    "bloodGroup": "A+"
+  },
+  {
+    "id": "PT-0062",
+    "mrn": "MRN102257",
+    "name": "Geetha Reddy",
+    "firstName": "Geetha",
+    "gender": "Female",
+    "age": 65,
+    "cancerType": "Ovarian Cancer",
+    "isHeme": false,
+    "stage": "IIIA",
+    "diagnosisDate": "2025-08-02",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Niraparib maintenance",
+    "currentRegimen": "Olaparib 300mg BID",
+    "riskLevel": "Moderate",
+    "biomarkers": [
+      {
+        "name": "MSI-high",
+        "status": "Detected",
+        "actionable": true
+      },
+      {
+        "name": "BRCA1/2",
+        "status": "Not detected",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Pending Review",
+    "pendingActions": [
+      "Schedule teleconsult",
+      "Follow up on liquid biopsy"
+    ],
+    "lastVisit": "2026-04-19",
+    "nextAppointment": null,
+    "carePlanStatus": "Under Review",
+    "clinicId": "CLN-0016",
+    "phone": "+91 9839508598",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": true
+    },
+    "cyclesCompleted": 4,
+    "cyclesTotal": 6,
+    "bloodGroup": "O-"
+  },
+  {
+    "id": "PT-0063",
+    "mrn": "MRN102294",
+    "name": "Vidya Sharma",
+    "firstName": "Vidya",
+    "gender": "Female",
+    "age": 44,
+    "cancerType": "Lymphoma",
+    "isHeme": true,
+    "stage": "High risk",
+    "diagnosisDate": "2026-04-09",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Pola-R-CHP",
+    "currentRegimen": "R-CHOP q3w x6",
+    "riskLevel": "High",
+    "biomarkers": [
+      {
+        "name": "TP53",
+        "status": "Amplified",
+        "actionable": false
+      },
+      {
+        "name": "CD30",
+        "status": "Detected",
+        "actionable": true
+      },
+      {
+        "name": "TMB-high",
+        "status": "13 mut/Mb",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Pending Review",
+    "pendingActions": [
+      "Reconcile toxicity grade",
+      "Follow up on liquid biopsy"
+    ],
+    "lastVisit": "2026-05-31",
+    "nextAppointment": "2026-08-01",
+    "carePlanStatus": "Completed",
+    "clinicId": "CLN-0016",
+    "phone": "+91 7183395398",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 0,
+    "cyclesTotal": 6,
+    "bloodGroup": "O-"
+  },
+  {
+    "id": "PT-0064",
+    "mrn": "MRN102331",
+    "name": "Nikhil Pillai",
+    "firstName": "Nikhil",
+    "gender": "Male",
+    "age": 77,
+    "cancerType": "Head and Neck Cancer",
+    "isHeme": false,
+    "stage": "II",
+    "diagnosisDate": "2024-09-28",
+    "ecog": 3,
+    "treatingOncologistId": "ONC-0024",
+    "treatingOncologist": "Dr. Priya Iyer",
+    "currentTreatment": "Nivolumab",
+    "currentRegimen": "Cisplatin 100mg/m2 q3w + RT",
+    "riskLevel": "High",
+    "biomarkers": [
+      {
+        "name": "TMB-high",
+        "status": "21 mut/Mb",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Reviewed",
+    "pendingActions": [],
+    "lastVisit": "2026-04-12",
+    "nextAppointment": "2026-07-26",
+    "carePlanStatus": "Not Started",
+    "clinicId": "CLN-0003",
+    "phone": "+91 8331487430",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 5,
+    "cyclesTotal": 8,
+    "bloodGroup": "A-"
+  },
+  {
+    "id": "PT-0065",
+    "mrn": "MRN102368",
+    "name": "Naveen Nair",
+    "firstName": "Naveen",
+    "gender": "Male",
+    "age": 79,
+    "cancerType": "Breast Cancer",
+    "isHeme": false,
+    "stage": "IIA",
+    "diagnosisDate": "2024-09-30",
+    "ecog": 0,
+    "treatingOncologistId": "ONC-0023",
+    "treatingOncologist": "Dr. Rekha Shetty",
+    "currentTreatment": "Trastuzumab deruxtecan",
+    "currentRegimen": "T-DXd q3w",
+    "riskLevel": "Critical",
+    "biomarkers": [
+      {
+        "name": "MSI-high",
+        "status": "Not detected",
+        "actionable": true
+      },
+      {
+        "name": "BRCA1/2",
+        "status": "Positive",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Pending Review",
+    "pendingActions": [
+      "Confirm next cycle",
+      "Follow up on liquid biopsy"
+    ],
+    "lastVisit": "2026-06-29",
+    "nextAppointment": null,
+    "carePlanStatus": "Active",
+    "clinicId": "CLN-0002",
+    "phone": "+91 9764287729",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": true,
+      "mtbNeeded": true,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 1,
+    "cyclesTotal": 4,
+    "bloodGroup": "AB+"
+  },
+  {
+    "id": "PT-0066",
+    "mrn": "MRN102405",
+    "name": "Vikram Kumar",
+    "firstName": "Vikram",
+    "gender": "Male",
+    "age": 63,
+    "cancerType": "Pancreatic Cancer",
+    "isHeme": false,
+    "stage": "IVA",
+    "diagnosisDate": "2024-04-12",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0017",
+    "treatingOncologist": "Dr. Pooja Gupta",
+    "currentTreatment": "Gemcitabine + Nab-paclitaxel",
+    "currentRegimen": "Gemcitabine + Nab-paclitaxel weekly",
+    "riskLevel": "Low",
+    "biomarkers": [
+      {
+        "name": "MSI-high",
+        "status": "Amplified",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Pending Review",
+    "pendingActions": [
+      "Discuss MTB recommendation",
+      "Order restaging scan",
+      "Renew supportive care prescription"
+    ],
+    "lastVisit": "2026-05-12",
+    "nextAppointment": "2026-08-02",
+    "carePlanStatus": "Active",
+    "clinicId": "CLN-0009",
+    "phone": "+91 9326589798",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 7,
+    "cyclesTotal": 6,
+    "bloodGroup": "A-"
+  },
+  {
+    "id": "PT-0067",
+    "mrn": "MRN102442",
+    "name": "Kavya Malhotra",
+    "firstName": "Kavya",
+    "gender": "Female",
+    "age": 57,
+    "cancerType": "NSCLC",
+    "isHeme": false,
+    "stage": "IIIA",
+    "diagnosisDate": "2024-10-29",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0009",
+    "treatingOncologist": "Dr. Arjun Rao",
+    "currentTreatment": "Sotorasib",
+    "currentRegimen": "Sotorasib 960mg daily",
+    "riskLevel": "Moderate",
+    "biomarkers": [
+      {
+        "name": "MET exon 14 skipping",
+        "status": "Positive",
+        "actionable": true
+      },
+      {
+        "name": "EGFR L858R",
+        "status": "Detected",
+        "actionable": false
+      },
+      {
+        "name": "PD-L1 TPS",
+        "status": "≥50% TPS",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Pending Review",
+    "pendingActions": [
+      "Follow up on liquid biopsy",
+      "Approve germline testing",
+      "Sign off chemotherapy order"
+    ],
+    "lastVisit": "2026-05-13",
+    "nextAppointment": "2026-09-04",
+    "carePlanStatus": "Completed",
+    "clinicId": "CLN-0019",
+    "phone": "+91 8657047048",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 7,
+    "cyclesTotal": 12,
+    "bloodGroup": "O+"
+  },
+  {
+    "id": "PT-0068",
+    "mrn": "MRN102479",
+    "name": "Divya Joshi",
+    "firstName": "Divya",
+    "gender": "Female",
+    "age": 34,
+    "cancerType": "Breast Cancer",
+    "isHeme": false,
+    "stage": "II",
+    "diagnosisDate": "2024-01-11",
+    "ecog": 2,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "CDK4/6 inhibitor + AI",
+    "currentRegimen": "T-DXd q3w",
+    "riskLevel": "Moderate",
+    "biomarkers": [
+      {
+        "name": "MSI-high",
+        "status": "Amplified",
+        "actionable": false
+      },
+      {
+        "name": "PD-L1 TPS",
+        "status": "80% TPS",
+        "actionable": true
+      },
+      {
+        "name": "HRD positive",
+        "status": "Amplified",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Critical",
+    "pendingActions": [
+      "Review genomics report",
+      "Order restaging scan",
+      "Discuss MTB recommendation"
+    ],
+    "lastVisit": "2026-05-01",
+    "nextAppointment": "2026-08-20",
+    "carePlanStatus": "On Hold",
+    "clinicId": "CLN-0016",
+    "phone": "+91 7331164420",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": true,
+      "mtbNeeded": false,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 4,
+    "cyclesTotal": 12,
+    "bloodGroup": "O+"
+  },
+  {
+    "id": "PT-0069",
+    "mrn": "MRN102516",
+    "name": "Sushma Kapoor",
+    "firstName": "Sushma",
+    "gender": "Female",
+    "age": 61,
+    "cancerType": "Gastric Cancer",
+    "isHeme": false,
+    "stage": "IVA",
+    "diagnosisDate": "2024-11-29",
+    "ecog": 0,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Trastuzumab deruxtecan",
+    "currentRegimen": "Trastuzumab + FOLFOX q2w",
+    "riskLevel": "Critical",
+    "biomarkers": [
+      {
+        "name": "TMB-high",
+        "status": "20 mut/Mb",
+        "actionable": true
+      },
+      {
+        "name": "HER2 amplification",
+        "status": "Amplified",
+        "actionable": true
+      },
+      {
+        "name": "PD-L1 TPS",
+        "status": "80% TPS",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Pending Review",
+    "pendingActions": [
+      "Confirm next cycle",
+      "Order restaging scan",
+      "Discuss MTB recommendation"
+    ],
+    "lastVisit": "2026-06-30",
+    "nextAppointment": "2026-07-09",
+    "carePlanStatus": "Active",
+    "clinicId": "CLN-0016",
+    "phone": "+91 8763072925",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": true,
+      "followUpDue": true,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 4,
+    "cyclesTotal": 8,
+    "bloodGroup": "A+"
+  },
+  {
+    "id": "PT-0070",
+    "mrn": "MRN102553",
+    "name": "Rohan Patel",
+    "firstName": "Rohan",
+    "gender": "Male",
+    "age": 68,
+    "cancerType": "Head and Neck Cancer",
+    "isHeme": false,
+    "stage": "IIA",
+    "diagnosisDate": "2026-03-07",
+    "ecog": 3,
+    "treatingOncologistId": "ONC-0021",
+    "treatingOncologist": "Dr. Vikram Sharma",
+    "currentTreatment": "Cisplatin + RT",
+    "currentRegimen": "Cisplatin 100mg/m2 q3w + RT",
+    "riskLevel": "High",
+    "biomarkers": [
+      {
+        "name": "MSI-high",
+        "status": "Not detected",
+        "actionable": true
+      },
+      {
+        "name": "PD-L1 TPS",
+        "status": "1-49% TPS",
+        "actionable": true
+      },
+      {
+        "name": "TMB-high",
+        "status": "23 mut/Mb",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Amended",
+    "pendingActions": [],
+    "lastVisit": "2026-06-05",
+    "nextAppointment": "2026-07-20",
+    "carePlanStatus": "On Hold",
+    "clinicId": "CLN-0002",
+    "phone": "+91 8023116552",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 2,
+    "cyclesTotal": 12,
+    "bloodGroup": "O-"
+  },
+  {
+    "id": "PT-0071",
+    "mrn": "MRN102590",
+    "name": "Deepak Reddy",
+    "firstName": "Deepak",
+    "gender": "Male",
+    "age": 83,
+    "cancerType": "Prostate Cancer",
+    "isHeme": false,
+    "stage": "IIIA",
+    "diagnosisDate": "2025-02-06",
+    "ecog": 3,
+    "treatingOncologistId": "ONC-0012",
+    "treatingOncologist": "Dr. Gopal Patel",
+    "currentTreatment": "Lu-177 PSMA",
+    "currentRegimen": "Abiraterone 1000mg + Prednisone",
+    "riskLevel": "High",
+    "biomarkers": [
+      {
+        "name": "MSI-high",
+        "status": "Positive",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Critical",
+    "pendingActions": [
+      "Follow up on liquid biopsy",
+      "Reconcile toxicity grade"
+    ],
+    "lastVisit": "2026-04-29",
+    "nextAppointment": "2026-08-13",
+    "carePlanStatus": "Not Started",
+    "clinicId": "CLN-0009",
+    "phone": "+91 9878143317",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 5,
+    "cyclesTotal": 12,
+    "bloodGroup": "O+"
+  },
+  {
+    "id": "PT-0072",
+    "mrn": "MRN102627",
+    "name": "Vikram Joshi",
+    "firstName": "Vikram",
+    "gender": "Male",
+    "age": 46,
+    "cancerType": "Head and Neck Cancer",
+    "isHeme": false,
+    "stage": "IVA",
+    "diagnosisDate": "2025-04-15",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Nivolumab",
+    "currentRegimen": "Cisplatin 100mg/m2 q3w + RT",
+    "riskLevel": "Moderate",
+    "biomarkers": [
+      {
+        "name": "MSI-high",
+        "status": "Not detected",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Amended",
+    "pendingActions": [
+      "Reconcile toxicity grade"
+    ],
+    "lastVisit": "2026-06-22",
+    "nextAppointment": "2026-08-22",
+    "carePlanStatus": "Active",
+    "clinicId": "CLN-0016",
+    "phone": "+91 9132907109",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 6,
+    "cyclesTotal": 6,
+    "bloodGroup": "B+"
+  },
+  {
+    "id": "PT-0073",
+    "mrn": "MRN102664",
+    "name": "Sanjay Menon",
+    "firstName": "Sanjay",
+    "gender": "Male",
+    "age": 47,
+    "cancerType": "Melanoma",
+    "isHeme": false,
+    "stage": "II",
+    "diagnosisDate": "2024-12-22",
+    "ecog": 2,
+    "treatingOncologistId": "ONC-0012",
+    "treatingOncologist": "Dr. Gopal Patel",
+    "currentTreatment": "Encorafenib + Binimetinib",
+    "currentRegimen": "Pembrolizumab q3w",
+    "riskLevel": "Moderate",
+    "biomarkers": [
+      {
+        "name": "PD-L1 TPS",
+        "status": "<1% TPS",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Pending Review",
+    "pendingActions": [
+      "Review genomics report",
+      "Order restaging scan",
+      "Confirm next cycle"
+    ],
+    "lastVisit": "2026-04-08",
+    "nextAppointment": null,
+    "carePlanStatus": "Under Review",
+    "clinicId": "CLN-0009",
+    "phone": "+91 9210260641",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": true
+    },
+    "cyclesCompleted": 3,
+    "cyclesTotal": 6,
+    "bloodGroup": "A-"
+  },
+  {
+    "id": "PT-0074",
+    "mrn": "MRN102701",
+    "name": "Vidya Menon",
+    "firstName": "Vidya",
+    "gender": "Female",
+    "age": 55,
+    "cancerType": "Leukemia",
+    "isHeme": true,
+    "stage": "High risk",
+    "diagnosisDate": "2025-10-16",
+    "ecog": 0,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Venetoclax + Azacitidine",
+    "currentRegimen": "Imatinib 400mg daily",
+    "riskLevel": "Low",
+    "biomarkers": [
+      {
+        "name": "BCR-ABL1",
+        "status": "Not detected",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Reviewed",
+    "pendingActions": [
+      "Review genomics report"
+    ],
+    "lastVisit": "2026-04-23",
+    "nextAppointment": "2026-08-22",
+    "carePlanStatus": "Under Review",
+    "clinicId": "CLN-0016",
+    "phone": "+91 7707522448",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 5,
+    "cyclesTotal": 6,
+    "bloodGroup": "O-"
+  },
+  {
+    "id": "PT-0075",
+    "mrn": "MRN102738",
+    "name": "Sneha Shetty",
+    "firstName": "Sneha",
+    "gender": "Female",
+    "age": 52,
+    "cancerType": "Pancreatic Cancer",
+    "isHeme": false,
+    "stage": "III",
+    "diagnosisDate": "2025-04-07",
+    "ecog": 2,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "FOLFIRINOX",
+    "currentRegimen": "Gemcitabine + Nab-paclitaxel weekly",
+    "riskLevel": "Moderate",
+    "biomarkers": [
+      {
+        "name": "BRCA1/2",
+        "status": "Amplified",
+        "actionable": false
+      },
+      {
+        "name": "HRD positive",
+        "status": "Positive",
+        "actionable": false
+      },
+      {
+        "name": "MSI-high",
+        "status": "Not detected",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Pending Review",
+    "pendingActions": [
+      "Follow up on liquid biopsy",
+      "Order restaging scan"
+    ],
+    "lastVisit": "2026-04-29",
+    "nextAppointment": "2026-09-02",
+    "carePlanStatus": "Completed",
+    "clinicId": "CLN-0016",
+    "phone": "+91 7870047985",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 2,
+    "cyclesTotal": 6,
+    "bloodGroup": "B+"
+  },
+  {
+    "id": "PT-0076",
+    "mrn": "MRN102775",
+    "name": "Geetha Joshi",
+    "firstName": "Geetha",
+    "gender": "Female",
+    "age": 68,
+    "cancerType": "Colorectal Cancer",
+    "isHeme": false,
+    "stage": "IVA",
+    "diagnosisDate": "2026-02-28",
+    "ecog": 0,
+    "treatingOncologistId": "ONC-0006",
+    "treatingOncologist": "Dr. Rekha Kumar",
+    "currentTreatment": "FOLFIRI + Cetuximab",
+    "currentRegimen": "FOLFIRI + Cetuximab q2w",
+    "riskLevel": "Moderate",
+    "biomarkers": [
+      {
+        "name": "MSI-high",
+        "status": "Not detected",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Reviewed",
+    "pendingActions": [],
+    "lastVisit": "2026-06-14",
+    "nextAppointment": "2026-07-19",
+    "carePlanStatus": "Under Review",
+    "clinicId": "CLN-0015",
+    "phone": "+91 8979111791",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": true,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 2,
+    "cyclesTotal": 12,
+    "bloodGroup": "A+"
+  },
+  {
+    "id": "PT-0077",
+    "mrn": "MRN102812",
+    "name": "Harish Desai",
+    "firstName": "Harish",
+    "gender": "Male",
+    "age": 64,
+    "cancerType": "Prostate Cancer",
+    "isHeme": false,
+    "stage": "II",
+    "diagnosisDate": "2025-04-23",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0022",
+    "treatingOncologist": "Dr. Radha Chatterjee",
+    "currentTreatment": "Enzalutamide",
+    "currentRegimen": "Enzalutamide 160mg daily",
+    "riskLevel": "Low",
+    "biomarkers": [
+      {
+        "name": "BRCA1/2",
+        "status": "Positive",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Amended",
+    "pendingActions": [
+      "Follow up on liquid biopsy"
+    ],
+    "lastVisit": "2026-06-04",
+    "nextAppointment": null,
+    "carePlanStatus": "Not Started",
+    "clinicId": "CLN-0009",
+    "phone": "+91 9577473369",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 6,
+    "cyclesTotal": 12,
+    "bloodGroup": "O-"
+  },
+  {
+    "id": "PT-0078",
+    "mrn": "MRN102849",
+    "name": "Sneha Verma",
+    "firstName": "Sneha",
+    "gender": "Female",
+    "age": 47,
+    "cancerType": "Gastric Cancer",
+    "isHeme": false,
+    "stage": "IV",
+    "diagnosisDate": "2024-03-31",
+    "ecog": 2,
+    "treatingOncologistId": "ONC-0025",
+    "treatingOncologist": "Dr. Vidya Kapoor",
+    "currentTreatment": "FLOT",
+    "currentRegimen": "Trastuzumab + FOLFOX q2w",
+    "riskLevel": "Moderate",
+    "biomarkers": [
+      {
+        "name": "MSI-high",
+        "status": "Detected",
+        "actionable": false
+      },
+      {
+        "name": "HER2 amplification",
+        "status": "Detected",
+        "actionable": false
+      },
+      {
+        "name": "PD-L1 TPS",
+        "status": "80% TPS",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Critical",
+    "pendingActions": [
+      "Sign off chemotherapy order",
+      "Follow up on liquid biopsy",
+      "Confirm next cycle"
+    ],
+    "lastVisit": "2026-06-08",
+    "nextAppointment": null,
+    "carePlanStatus": "Not Started",
+    "clinicId": "CLN-0008",
+    "phone": "+91 7515289018",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": true,
+      "mtbNeeded": false,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 2,
+    "cyclesTotal": 6,
+    "bloodGroup": "O-"
+  },
+  {
+    "id": "PT-0079",
+    "mrn": "MRN102886",
+    "name": "Gopal Iyer",
+    "firstName": "Gopal",
+    "gender": "Male",
+    "age": 64,
+    "cancerType": "Gastric Cancer",
+    "isHeme": false,
+    "stage": "IIIA",
+    "diagnosisDate": "2025-12-19",
+    "ecog": 2,
+    "treatingOncologistId": "ONC-0015",
+    "treatingOncologist": "Dr. Latha Joshi",
+    "currentTreatment": "Trastuzumab + FOLFOX",
+    "currentRegimen": "Trastuzumab + FOLFOX q2w",
+    "riskLevel": "Moderate",
+    "biomarkers": [
+      {
+        "name": "HER2 amplification",
+        "status": "Positive",
+        "actionable": false
+      },
+      {
+        "name": "TMB-high",
+        "status": "14 mut/Mb",
+        "actionable": true
+      },
+      {
+        "name": "MSI-high",
+        "status": "Detected",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Critical",
+    "pendingActions": [
+      "Renew supportive care prescription",
+      "Order restaging scan"
+    ],
+    "lastVisit": "2026-05-26",
+    "nextAppointment": "2026-07-08",
+    "carePlanStatus": "Not Started",
+    "clinicId": "CLN-0013",
+    "phone": "+91 8829727010",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": true,
+      "followUpDue": true,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 7,
+    "cyclesTotal": 6,
+    "bloodGroup": "B+"
+  },
+  {
+    "id": "PT-0080",
+    "mrn": "MRN102923",
+    "name": "Anil Rao",
+    "firstName": "Anil",
+    "gender": "Male",
+    "age": 58,
+    "cancerType": "Leukemia",
+    "isHeme": true,
+    "stage": "Low risk",
+    "diagnosisDate": "2024-06-25",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Midostaurin + 7+3",
+    "currentRegimen": "7+3 induction",
+    "riskLevel": "Critical",
+    "biomarkers": [
+      {
+        "name": "TP53",
+        "status": "Amplified",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Amended",
+    "pendingActions": [],
+    "lastVisit": "2026-06-13",
+    "nextAppointment": "2026-08-09",
+    "carePlanStatus": "Under Review",
+    "clinicId": "CLN-0016",
+    "phone": "+91 9052942076",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": true,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 1,
+    "cyclesTotal": 6,
+    "bloodGroup": "B+"
+  },
+  {
+    "id": "PT-0081",
+    "mrn": "MRN102960",
+    "name": "Pooja Iyer",
+    "firstName": "Pooja",
+    "gender": "Female",
+    "age": 68,
+    "cancerType": "Ovarian Cancer",
+    "isHeme": false,
+    "stage": "IIIA",
+    "diagnosisDate": "2025-10-01",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Olaparib maintenance",
+    "currentRegimen": "Niraparib 300mg daily",
+    "riskLevel": "Low",
+    "biomarkers": [
+      {
+        "name": "BRCA1/2",
+        "status": "Detected",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Amended",
+    "pendingActions": [],
+    "lastVisit": "2026-06-27",
+    "nextAppointment": "2026-07-23",
+    "carePlanStatus": "Not Started",
+    "clinicId": "CLN-0016",
+    "phone": "+91 7691324819",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 3,
+    "cyclesTotal": 6,
+    "bloodGroup": "A+"
+  },
+  {
+    "id": "PT-0082",
+    "mrn": "MRN102997",
+    "name": "Sneha Reddy",
+    "firstName": "Sneha",
+    "gender": "Female",
+    "age": 43,
+    "cancerType": "Ovarian Cancer",
+    "isHeme": false,
+    "stage": "IIB",
+    "diagnosisDate": "2025-02-24",
+    "ecog": 2,
+    "treatingOncologistId": "ONC-0016",
+    "treatingOncologist": "Dr. Meera Shetty",
+    "currentTreatment": "Olaparib maintenance",
+    "currentRegimen": "Olaparib 300mg BID",
+    "riskLevel": "Critical",
+    "biomarkers": [
+      {
+        "name": "MSI-high",
+        "status": "Positive",
+        "actionable": true
+      },
+      {
+        "name": "HRD positive",
+        "status": "Not detected",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Amended",
+    "pendingActions": [],
+    "lastVisit": "2026-05-22",
+    "nextAppointment": null,
+    "carePlanStatus": "Completed",
+    "clinicId": "CLN-0017",
+    "phone": "+91 9897858846",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 2,
+    "cyclesTotal": 6,
+    "bloodGroup": "A-"
+  },
+  {
+    "id": "PT-0083",
+    "mrn": "MRN103034",
+    "name": "Harish Kumar",
+    "firstName": "Harish",
+    "gender": "Male",
+    "age": 61,
+    "cancerType": "Prostate Cancer",
+    "isHeme": false,
+    "stage": "III",
+    "diagnosisDate": "2026-01-15",
+    "ecog": 2,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "ADT + Abiraterone",
+    "currentRegimen": "Abiraterone 1000mg + Prednisone",
+    "riskLevel": "Critical",
+    "biomarkers": [
+      {
+        "name": "MSI-high",
+        "status": "Positive",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Reviewed",
+    "pendingActions": [
+      "Follow up on liquid biopsy"
+    ],
+    "lastVisit": "2026-04-21",
+    "nextAppointment": "2026-08-12",
+    "carePlanStatus": "Completed",
+    "clinicId": "CLN-0016",
+    "phone": "+91 8426480617",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": true,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 3,
+    "cyclesTotal": 8,
+    "bloodGroup": "B+"
+  },
+  {
+    "id": "PT-0084",
+    "mrn": "MRN103071",
+    "name": "Vidya Gupta",
+    "firstName": "Vidya",
+    "gender": "Female",
+    "age": 57,
+    "cancerType": "Colorectal Cancer",
+    "isHeme": false,
+    "stage": "IIIA",
+    "diagnosisDate": "2024-01-26",
+    "ecog": 2,
+    "treatingOncologistId": "ONC-0005",
+    "treatingOncologist": "Dr. Sanjay Pillai",
+    "currentTreatment": "FOLFOX + Bevacizumab",
+    "currentRegimen": "FOLFIRI + Cetuximab q2w",
+    "riskLevel": "Critical",
+    "biomarkers": [
+      {
+        "name": "MSI-high",
+        "status": "Amplified",
+        "actionable": true
+      },
+      {
+        "name": "KRAS G12C",
+        "status": "Positive",
+        "actionable": false
+      },
+      {
+        "name": "HER2 amplification",
+        "status": "Positive",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Reviewed",
+    "pendingActions": [],
+    "lastVisit": "2026-04-22",
+    "nextAppointment": "2026-08-13",
+    "carePlanStatus": "Not Started",
+    "clinicId": "CLN-0017",
+    "phone": "+91 9767715052",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 1,
+    "cyclesTotal": 4,
+    "bloodGroup": "AB+"
+  },
+  {
+    "id": "PT-0085",
+    "mrn": "MRN103108",
+    "name": "Suresh Sharma",
+    "firstName": "Suresh",
+    "gender": "Male",
+    "age": 67,
+    "cancerType": "Gastric Cancer",
+    "isHeme": false,
+    "stage": "IVA",
+    "diagnosisDate": "2025-06-26",
+    "ecog": 0,
+    "treatingOncologistId": "ONC-0009",
+    "treatingOncologist": "Dr. Arjun Rao",
+    "currentTreatment": "Trastuzumab deruxtecan",
+    "currentRegimen": "Nivolumab q2w",
+    "riskLevel": "High",
+    "biomarkers": [
+      {
+        "name": "TMB-high",
+        "status": "20 mut/Mb",
+        "actionable": true
+      },
+      {
+        "name": "MSI-high",
+        "status": "Positive",
+        "actionable": true
+      },
+      {
+        "name": "PD-L1 TPS",
+        "status": "≥50% TPS",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Reviewed",
+    "pendingActions": [
+      "Confirm next cycle"
+    ],
+    "lastVisit": "2026-07-02",
+    "nextAppointment": "2026-09-04",
+    "carePlanStatus": "Active",
+    "clinicId": "CLN-0019",
+    "phone": "+91 9419539610",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 3,
+    "cyclesTotal": 12,
+    "bloodGroup": "A+"
+  },
+  {
+    "id": "PT-0086",
+    "mrn": "MRN103145",
+    "name": "Sanjay Nair",
+    "firstName": "Sanjay",
+    "gender": "Male",
+    "age": 70,
+    "cancerType": "Colorectal Cancer",
+    "isHeme": false,
+    "stage": "III",
+    "diagnosisDate": "2023-12-25",
+    "ecog": 2,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Pembrolizumab (MSI-H)",
+    "currentRegimen": "Pembrolizumab q3w",
+    "riskLevel": "Low",
+    "biomarkers": [
+      {
+        "name": "KRAS G12C",
+        "status": "Amplified",
+        "actionable": true
+      },
+      {
+        "name": "TMB-high",
+        "status": "14 mut/Mb",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Reviewed",
+    "pendingActions": [],
+    "lastVisit": "2026-06-08",
+    "nextAppointment": "2026-07-12",
+    "carePlanStatus": "Completed",
+    "clinicId": "CLN-0016",
+    "phone": "+91 9116449890",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 0,
+    "cyclesTotal": 6,
+    "bloodGroup": "AB+"
+  },
+  {
+    "id": "PT-0087",
+    "mrn": "MRN103182",
+    "name": "Ashok Kapoor",
+    "firstName": "Ashok",
+    "gender": "Male",
+    "age": 56,
+    "cancerType": "Colorectal Cancer",
+    "isHeme": false,
+    "stage": "I",
+    "diagnosisDate": "2024-07-10",
+    "ecog": 2,
+    "treatingOncologistId": "ONC-0030",
+    "treatingOncologist": "Dr. Gopal Iyer",
+    "currentTreatment": "Encorafenib + Cetuximab",
+    "currentRegimen": "FOLFOX q2w",
+    "riskLevel": "High",
+    "biomarkers": [
+      {
+        "name": "KRAS G12C",
+        "status": "Not detected",
+        "actionable": true
+      },
+      {
+        "name": "BRAF V600E",
+        "status": "Positive",
+        "actionable": false
+      },
+      {
+        "name": "TMB-high",
+        "status": "25 mut/Mb",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Pending Review",
+    "pendingActions": [
+      "Renew supportive care prescription",
+      "Follow up on liquid biopsy",
+      "Sign off chemotherapy order"
+    ],
+    "lastVisit": "2026-06-04",
+    "nextAppointment": "2026-07-07",
+    "carePlanStatus": "Under Review",
+    "clinicId": "CLN-0016",
+    "phone": "+91 7840565286",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": true,
+      "followUpDue": true,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 7,
+    "cyclesTotal": 6,
+    "bloodGroup": "O-"
+  },
+  {
+    "id": "PT-0088",
+    "mrn": "MRN103219",
+    "name": "Vidya Bose",
+    "firstName": "Vidya",
+    "gender": "Female",
+    "age": 75,
+    "cancerType": "Ovarian Cancer",
+    "isHeme": false,
+    "stage": "IV",
+    "diagnosisDate": "2026-05-20",
+    "ecog": 0,
+    "treatingOncologistId": "ONC-0028",
+    "treatingOncologist": "Dr. Rekha Sharma",
+    "currentTreatment": "Bevacizumab",
+    "currentRegimen": "Olaparib 300mg BID",
+    "riskLevel": "High",
+    "biomarkers": [
+      {
+        "name": "BRCA1/2",
+        "status": "Amplified",
+        "actionable": true
+      },
+      {
+        "name": "HRD positive",
+        "status": "Not detected",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Pending Review",
+    "pendingActions": [
+      "Order restaging scan",
+      "Discuss MTB recommendation",
+      "Renew supportive care prescription"
+    ],
+    "lastVisit": "2026-07-02",
+    "nextAppointment": "2026-07-14",
+    "carePlanStatus": "Active",
+    "clinicId": "CLN-0015",
+    "phone": "+91 9596818742",
+    "flags": {
+      "newlyDiagnosed": true,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 0,
+    "cyclesTotal": 12,
+    "bloodGroup": "O+"
+  },
+  {
+    "id": "PT-0089",
+    "mrn": "MRN103256",
+    "name": "Geetha Gupta",
+    "firstName": "Geetha",
+    "gender": "Female",
+    "age": 58,
+    "cancerType": "Breast Cancer",
+    "isHeme": false,
+    "stage": "IIA",
+    "diagnosisDate": "2026-04-08",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Olaparib",
+    "currentRegimen": "T-DXd q3w",
+    "riskLevel": "Critical",
+    "biomarkers": [
+      {
+        "name": "HRD positive",
+        "status": "Positive",
+        "actionable": true
+      },
+      {
+        "name": "BRCA1/2",
+        "status": "Detected",
+        "actionable": true
+      },
+      {
+        "name": "MSI-high",
+        "status": "Not detected",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Amended",
+    "pendingActions": [],
+    "lastVisit": "2026-04-11",
+    "nextAppointment": "2026-08-09",
+    "carePlanStatus": "Under Review",
+    "clinicId": "CLN-0016",
+    "phone": "+91 8976043302",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": true,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 6,
+    "cyclesTotal": 6,
+    "bloodGroup": "A+"
+  },
+  {
+    "id": "PT-0090",
+    "mrn": "MRN103293",
+    "name": "Vivek Joshi",
+    "firstName": "Vivek",
+    "gender": "Male",
+    "age": 40,
+    "cancerType": "Melanoma",
+    "isHeme": false,
+    "stage": "IVA",
+    "diagnosisDate": "2025-11-03",
+    "ecog": 2,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Encorafenib + Binimetinib",
+    "currentRegimen": "Dabrafenib 150mg BID + Trametinib 2mg",
+    "riskLevel": "Critical",
+    "biomarkers": [
+      {
+        "name": "PD-L1 TPS",
+        "status": "<1% TPS",
+        "actionable": true
+      },
+      {
+        "name": "BRAF V600E",
+        "status": "Detected",
+        "actionable": true
+      },
+      {
+        "name": "TMB-high",
+        "status": "28 mut/Mb",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Critical",
+    "pendingActions": [
+      "Confirm next cycle",
+      "Renew supportive care prescription"
+    ],
+    "lastVisit": "2026-06-25",
+    "nextAppointment": null,
+    "carePlanStatus": "Under Review",
+    "clinicId": "CLN-0016",
+    "phone": "+91 9497051467",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": true,
+      "mtbNeeded": false,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 2,
+    "cyclesTotal": 12,
+    "bloodGroup": "B+"
+  },
+  {
+    "id": "PT-0091",
+    "mrn": "MRN103330",
+    "name": "Divya Malhotra",
+    "firstName": "Divya",
+    "gender": "Female",
+    "age": 40,
+    "cancerType": "Breast Cancer",
+    "isHeme": false,
+    "stage": "II",
+    "diagnosisDate": "2024-10-15",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "T-DM1",
+    "currentRegimen": "T-DXd q3w",
+    "riskLevel": "Low",
+    "biomarkers": [
+      {
+        "name": "HER2 amplification",
+        "status": "Positive",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Pending Review",
+    "pendingActions": [
+      "Sign off chemotherapy order",
+      "Follow up on liquid biopsy",
+      "Renew supportive care prescription"
+    ],
+    "lastVisit": "2026-06-15",
+    "nextAppointment": "2026-07-09",
+    "carePlanStatus": "Completed",
+    "clinicId": "CLN-0016",
+    "phone": "+91 7803397987",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": true,
+      "followUpDue": true,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 7,
+    "cyclesTotal": 6,
+    "bloodGroup": "O-"
+  },
+  {
+    "id": "PT-0092",
+    "mrn": "MRN103367",
+    "name": "Manoj Iyer",
+    "firstName": "Manoj",
+    "gender": "Male",
+    "age": 52,
+    "cancerType": "Head and Neck Cancer",
+    "isHeme": false,
+    "stage": "IIIA",
+    "diagnosisDate": "2024-09-22",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Cetuximab + RT",
+    "currentRegimen": "Pembrolizumab q3w + Platinum/5-FU",
+    "riskLevel": "Low",
+    "biomarkers": [
+      {
+        "name": "MSI-high",
+        "status": "Positive",
+        "actionable": true
+      },
+      {
+        "name": "PD-L1 TPS",
+        "status": "<1% TPS",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Amended",
+    "pendingActions": [
+      "Renew supportive care prescription"
+    ],
+    "lastVisit": "2026-06-23",
+    "nextAppointment": "2026-07-31",
+    "carePlanStatus": "On Hold",
+    "clinicId": "CLN-0016",
+    "phone": "+91 7175418745",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": true,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 7,
+    "cyclesTotal": 6,
+    "bloodGroup": "O-"
+  },
+  {
+    "id": "PT-0093",
+    "mrn": "MRN103404",
+    "name": "Deepa Malhotra",
+    "firstName": "Deepa",
+    "gender": "Female",
+    "age": 45,
+    "cancerType": "Pancreatic Cancer",
+    "isHeme": false,
+    "stage": "IV",
+    "diagnosisDate": "2025-08-11",
+    "ecog": 2,
+    "treatingOncologistId": "ONC-0003",
+    "treatingOncologist": "Dr. Pooja Gupta",
+    "currentTreatment": "Olaparib maintenance",
+    "currentRegimen": "FOLFIRINOX q2w",
+    "riskLevel": "Moderate",
+    "biomarkers": [
+      {
+        "name": "KRAS G12C",
+        "status": "Positive",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Reviewed",
+    "pendingActions": [
+      "Sign off chemotherapy order"
+    ],
+    "lastVisit": "2026-04-22",
+    "nextAppointment": null,
+    "carePlanStatus": "Completed",
+    "clinicId": "CLN-0001",
+    "phone": "+91 7395448326",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": true
+    },
+    "cyclesCompleted": 2,
+    "cyclesTotal": 6,
+    "bloodGroup": "O-"
+  },
+  {
+    "id": "PT-0094",
+    "mrn": "MRN103441",
+    "name": "Karthik Kumar",
+    "firstName": "Karthik",
+    "gender": "Male",
+    "age": 38,
+    "cancerType": "Leukemia",
+    "isHeme": true,
+    "stage": "High risk",
+    "diagnosisDate": "2024-02-07",
+    "ecog": 0,
+    "treatingOncologistId": "ONC-0014",
+    "treatingOncologist": "Dr. Harish Verma",
+    "currentTreatment": "Dasatinib",
+    "currentRegimen": "7+3 induction",
+    "riskLevel": "High",
+    "biomarkers": [
+      {
+        "name": "BCR-ABL1",
+        "status": "Detected",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Pending Review",
+    "pendingActions": [
+      "Review genomics report",
+      "Discuss MTB recommendation"
+    ],
+    "lastVisit": "2026-04-30",
+    "nextAppointment": "2026-07-24",
+    "carePlanStatus": "Active",
+    "clinicId": "CLN-0016",
+    "phone": "+91 9655097762",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": true,
+      "mtbNeeded": false,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 0,
+    "cyclesTotal": 6,
+    "bloodGroup": "O+"
+  },
+  {
+    "id": "PT-0095",
+    "mrn": "MRN103478",
+    "name": "Anjali Pillai",
+    "firstName": "Anjali",
+    "gender": "Female",
+    "age": 54,
+    "cancerType": "Head and Neck Cancer",
+    "isHeme": false,
+    "stage": "IV",
+    "diagnosisDate": "2025-08-27",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Nivolumab",
+    "currentRegimen": "Pembrolizumab q3w + Platinum/5-FU",
+    "riskLevel": "Critical",
+    "biomarkers": [
+      {
+        "name": "TMB-high",
+        "status": "13 mut/Mb",
+        "actionable": false
+      },
+      {
+        "name": "MSI-high",
+        "status": "Amplified",
+        "actionable": true
+      },
+      {
+        "name": "PD-L1 TPS",
+        "status": "<1% TPS",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Pending Review",
+    "pendingActions": [
+      "Order restaging scan",
+      "Discuss MTB recommendation",
+      "Confirm next cycle"
+    ],
+    "lastVisit": "2026-06-16",
+    "nextAppointment": null,
+    "carePlanStatus": "Active",
+    "clinicId": "CLN-0016",
+    "phone": "+91 7494533337",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": true,
+      "mtbNeeded": false,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": true,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 0,
+    "cyclesTotal": 6,
+    "bloodGroup": "A-"
+  },
+  {
+    "id": "PT-0096",
+    "mrn": "MRN103515",
+    "name": "Geetha Joshi",
+    "firstName": "Geetha",
+    "gender": "Female",
+    "age": 83,
+    "cancerType": "Head and Neck Cancer",
+    "isHeme": false,
+    "stage": "IV",
+    "diagnosisDate": "2024-10-11",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Nivolumab",
+    "currentRegimen": "Cisplatin 100mg/m2 q3w + RT",
+    "riskLevel": "Low",
+    "biomarkers": [
+      {
+        "name": "TMB-high",
+        "status": "10 mut/Mb",
+        "actionable": true
+      },
+      {
+        "name": "PD-L1 TPS",
+        "status": "1-49% TPS",
+        "actionable": true
+      },
+      {
+        "name": "MSI-high",
+        "status": "Not detected",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Reviewed",
+    "pendingActions": [],
+    "lastVisit": "2026-04-23",
+    "nextAppointment": null,
+    "carePlanStatus": "Under Review",
+    "clinicId": "CLN-0016",
+    "phone": "+91 8007959739",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": true,
+      "mtbNeeded": true,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": true
+    },
+    "cyclesCompleted": 7,
+    "cyclesTotal": 6,
+    "bloodGroup": "O+"
+  },
+  {
+    "id": "PT-0097",
+    "mrn": "MRN103552",
+    "name": "Vikram Kumar",
+    "firstName": "Vikram",
+    "gender": "Male",
+    "age": 71,
+    "cancerType": "Pancreatic Cancer",
+    "isHeme": false,
+    "stage": "IIB",
+    "diagnosisDate": "2025-07-18",
+    "ecog": 0,
+    "treatingOncologistId": "ONC-0012",
+    "treatingOncologist": "Dr. Gopal Patel",
+    "currentTreatment": "Gemcitabine + Nab-paclitaxel",
+    "currentRegimen": "FOLFIRINOX q2w",
+    "riskLevel": "Low",
+    "biomarkers": [
+      {
+        "name": "HRD positive",
+        "status": "Positive",
+        "actionable": false
+      },
+      {
+        "name": "MSI-high",
+        "status": "Not detected",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Critical",
+    "pendingActions": [
+      "Order restaging scan",
+      "Discuss MTB recommendation",
+      "Follow up on liquid biopsy"
+    ],
+    "lastVisit": "2026-04-25",
+    "nextAppointment": null,
+    "carePlanStatus": "Active",
+    "clinicId": "CLN-0009",
+    "phone": "+91 9051442295",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": true
+    },
+    "cyclesCompleted": 0,
+    "cyclesTotal": 6,
+    "bloodGroup": "A-"
+  },
+  {
+    "id": "PT-0098",
+    "mrn": "MRN103589",
+    "name": "Vidya Menon",
+    "firstName": "Vidya",
+    "gender": "Female",
+    "age": 54,
+    "cancerType": "Lymphoma",
+    "isHeme": true,
+    "stage": "Relapsed",
+    "diagnosisDate": "2025-10-04",
+    "ecog": 1,
+    "treatingOncologistId": "ONC-0011",
+    "treatingOncologist": "Dr. Radha Reddy",
+    "currentTreatment": "R-CHOP",
+    "currentRegimen": "Brentuximab + AVD q2w",
+    "riskLevel": "Low",
+    "biomarkers": [
+      {
+        "name": "CD30",
+        "status": "Amplified",
+        "actionable": false
+      }
+    ],
+    "reportStatus": "Critical",
+    "pendingActions": [
+      "Approve germline testing",
+      "Order restaging scan"
+    ],
+    "lastVisit": "2026-04-11",
+    "nextAppointment": "2026-08-27",
+    "carePlanStatus": "On Hold",
+    "clinicId": "CLN-0016",
+    "phone": "+91 8272069055",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": true,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 4,
+    "cyclesTotal": 6,
+    "bloodGroup": "A-"
+  },
+  {
+    "id": "PT-0099",
+    "mrn": "MRN103626",
+    "name": "Deepak Desai",
+    "firstName": "Deepak",
+    "gender": "Male",
+    "age": 56,
+    "cancerType": "Head and Neck Cancer",
+    "isHeme": false,
+    "stage": "IV",
+    "diagnosisDate": "2026-02-27",
+    "ecog": 0,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Pembrolizumab + Chemo",
+    "currentRegimen": "Cisplatin 100mg/m2 q3w + RT",
+    "riskLevel": "Low",
+    "biomarkers": [
+      {
+        "name": "PD-L1 TPS",
+        "status": "<1% TPS",
+        "actionable": false
+      },
+      {
+        "name": "MSI-high",
+        "status": "Amplified",
+        "actionable": true
+      },
+      {
+        "name": "TMB-high",
+        "status": "27 mut/Mb",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Reviewed",
+    "pendingActions": [],
+    "lastVisit": "2026-05-14",
+    "nextAppointment": "2026-07-20",
+    "carePlanStatus": "Completed",
+    "clinicId": "CLN-0016",
+    "phone": "+91 7886713931",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": true,
+      "mtbNeeded": true,
+      "reportsPending": false,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 6,
+    "cyclesTotal": 8,
+    "bloodGroup": "A+"
+  },
+  {
+    "id": "PT-0100",
+    "mrn": "MRN103663",
+    "name": "Harish Pillai",
+    "firstName": "Harish",
+    "gender": "Male",
+    "age": 68,
+    "cancerType": "Gastric Cancer",
+    "isHeme": false,
+    "stage": "IV",
+    "diagnosisDate": "2025-08-18",
+    "ecog": 0,
+    "treatingOncologistId": "ONC-0001",
+    "treatingOncologist": "Dr. Arjun Menon",
+    "currentTreatment": "Nivolumab + FOLFOX",
+    "currentRegimen": "Nivolumab q2w",
+    "riskLevel": "High",
+    "biomarkers": [
+      {
+        "name": "HER2 amplification",
+        "status": "Positive",
+        "actionable": true
+      }
+    ],
+    "reportStatus": "Pending Review",
+    "pendingActions": [
+      "Follow up on liquid biopsy",
+      "Reconcile toxicity grade"
+    ],
+    "lastVisit": "2026-06-21",
+    "nextAppointment": null,
+    "carePlanStatus": "Not Started",
+    "clinicId": "CLN-0016",
+    "phone": "+91 7208129349",
+    "flags": {
+      "newlyDiagnosed": false,
+      "recurrence": false,
+      "mtbNeeded": false,
+      "reportsPending": true,
+      "followUpDue": false,
+      "criticalFinding": false,
+      "overdueFollowUp": false
+    },
+    "cyclesCompleted": 0,
+    "cyclesTotal": 6,
+    "bloodGroup": "A+"
+  }
+]

@@ -1,0 +1,4257 @@
+[
+  {
+    "id": "RPT-0001",
+    "patientId": "PT-0038",
+    "patientName": "Suresh Desai",
+    "type": "Liquid Biopsy",
+    "lab": "In-house Pathology",
+    "collectedDate": "2026-06-23",
+    "reportedDate": "2026-06-28",
+    "status": "Critical",
+    "critical": true,
+    "keyBiomarkers": [
+      {
+        "name": "HRD positive",
+        "finding": "VUS",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "BRCA1/2",
+        "finding": "Amplified",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Prostate Cancer",
+    "specimen": "FFPE tissue block",
+    "reviewedBy": "Dr. Shreya Desai",
+    "turnaroundDays": 9,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0002",
+    "patientId": "PT-0054",
+    "patientName": "Meera Nair",
+    "type": "Liquid Biopsy",
+    "lab": "Strand Life Sciences",
+    "collectedDate": "2026-03-08",
+    "reportedDate": "2026-03-13",
+    "status": "Reviewed",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "HER2 amplification",
+        "finding": "Not detected",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "BRCA1/2",
+        "finding": "Not detected",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Breast Cancer",
+    "specimen": "Core biopsy",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 17,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0003",
+    "patientId": "PT-0048",
+    "patientName": "Divya Malhotra",
+    "type": "Pathology",
+    "lab": "Strand Life Sciences",
+    "collectedDate": "2026-05-21",
+    "reportedDate": "2026-05-26",
+    "status": "Pending Review",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "BRCA1/2",
+        "finding": "VUS",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Ovarian Cancer",
+    "specimen": "FFPE tissue block",
+    "reviewedBy": "Dr. Gopal Iyer",
+    "turnaroundDays": 5,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0004",
+    "patientId": "PT-0043",
+    "patientName": "Deepa Reddy",
+    "type": "Pathology",
+    "lab": "Roche Foundation One",
+    "collectedDate": "2026-04-22",
+    "reportedDate": "2026-04-27",
+    "status": "Amended",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "CD30",
+        "finding": "Amplified",
+        "tier": "Tier III"
+      },
+      {
+        "name": "MYC rearrangement",
+        "finding": "Detected",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "BCL2",
+        "finding": "Detected",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "Lymphoma",
+    "specimen": "Peripheral blood",
+    "reviewedBy": null,
+    "turnaroundDays": 9,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0005",
+    "patientId": "PT-0076",
+    "patientName": "Geetha Joshi",
+    "type": "Liquid Biopsy",
+    "lab": "In-house Pathology",
+    "collectedDate": "2026-04-07",
+    "reportedDate": "2026-04-12",
+    "status": "Amended",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "BRAF V600E",
+        "finding": "Not detected",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "HER2 amplification",
+        "finding": "Positive",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "KRAS G12C",
+        "finding": "Detected",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "Colorectal Cancer",
+    "specimen": "Peripheral blood",
+    "reviewedBy": "Dr. Rekha Kumar",
+    "turnaroundDays": 19,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0006",
+    "patientId": "PT-0026",
+    "patientName": "Nisha Sharma",
+    "type": "Radiology",
+    "lab": "Datar Cancer Genetics",
+    "collectedDate": "2026-06-13",
+    "reportedDate": "2026-06-18",
+    "status": "Pending Review",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "IDH1/2",
+        "finding": "Detected",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "NPM1",
+        "finding": "Not detected",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "FLT3-ITD",
+        "finding": "Detected",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "Leukemia",
+    "specimen": "Peripheral blood",
+    "reviewedBy": "Dr. Karthik Pillai",
+    "turnaroundDays": 11,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0007",
+    "patientId": "PT-0066",
+    "patientName": "Vikram Kumar",
+    "type": "Germline",
+    "lab": "MedGenome",
+    "collectedDate": "2026-06-17",
+    "reportedDate": "2026-06-22",
+    "status": "Awaiting Sample",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "HRD positive",
+        "finding": "VUS",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "BRCA1/2",
+        "finding": "Detected",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Pancreatic Cancer",
+    "specimen": "Core biopsy",
+    "reviewedBy": "Dr. Pooja Gupta",
+    "turnaroundDays": 19,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0008",
+    "patientId": "PT-0073",
+    "patientName": "Sanjay Menon",
+    "type": "Liquid Biopsy",
+    "lab": "1Cell.Ai Genomics",
+    "collectedDate": "2026-06-22",
+    "reportedDate": "2026-06-27",
+    "status": "Reviewed",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "PD-L1 TPS",
+        "finding": "1-49% TPS",
+        "tier": "Tier III"
+      },
+      {
+        "name": "TMB-high",
+        "finding": "15 mut/Mb (high)",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "BRAF V600E",
+        "finding": "Not detected",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Melanoma",
+    "specimen": "Core biopsy",
+    "reviewedBy": null,
+    "turnaroundDays": 6,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0009",
+    "patientId": "PT-0069",
+    "patientName": "Sushma Kapoor",
+    "type": "Liquid Biopsy",
+    "lab": "MedGenome",
+    "collectedDate": "2026-03-15",
+    "reportedDate": "2026-03-20",
+    "status": "Critical",
+    "critical": true,
+    "keyBiomarkers": [
+      {
+        "name": "TMB-high",
+        "finding": "10 mut/Mb (high)",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Gastric Cancer",
+    "specimen": "Peripheral blood",
+    "reviewedBy": null,
+    "turnaroundDays": 16,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0010",
+    "patientId": "PT-0017",
+    "patientName": "Naveen Verma",
+    "type": "Pathology",
+    "lab": "1Cell.Ai Genomics",
+    "collectedDate": "2026-06-19",
+    "reportedDate": "2026-06-24",
+    "status": "Amended",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "TMB-high",
+        "finding": "9 mut/Mb (high)",
+        "tier": "Tier III"
+      },
+      {
+        "name": "HER2 amplification",
+        "finding": "Positive",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Colorectal Cancer",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": null,
+    "turnaroundDays": 20,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0011",
+    "patientId": "PT-0085",
+    "patientName": "Suresh Sharma",
+    "type": "Genomic Profiling",
+    "lab": "Strand Life Sciences",
+    "collectedDate": "2026-05-09",
+    "reportedDate": "2026-05-14",
+    "status": "Awaiting Sample",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "PD-L1 TPS",
+        "finding": "≥50% TPS",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Gastric Cancer",
+    "specimen": "Peripheral blood",
+    "reviewedBy": null,
+    "turnaroundDays": 11,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0012",
+    "patientId": "PT-0083",
+    "patientName": "Harish Kumar",
+    "type": "Genomic Profiling",
+    "lab": "In-house Pathology",
+    "collectedDate": "2026-05-12",
+    "reportedDate": "2026-05-17",
+    "status": "Pending Review",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "BRCA1/2",
+        "finding": "Positive",
+        "tier": "Tier III"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "Positive",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "Prostate Cancer",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": null,
+    "turnaroundDays": 12,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0013",
+    "patientId": "PT-0041",
+    "patientName": "Bhavana Rao",
+    "type": "Liquid Biopsy",
+    "lab": "Roche Foundation One",
+    "collectedDate": "2026-04-12",
+    "reportedDate": "2026-04-17",
+    "status": "Critical",
+    "critical": true,
+    "keyBiomarkers": [
+      {
+        "name": "TMB-high",
+        "finding": "17 mut/Mb (high)",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "TP53",
+        "finding": "Positive",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Lymphoma",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": "Dr. Rekha Shetty",
+    "turnaroundDays": 6,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0014",
+    "patientId": "PT-0034",
+    "patientName": "Karthik Mehta",
+    "type": "Pathology",
+    "lab": "MedGenome",
+    "collectedDate": "2026-03-25",
+    "reportedDate": "2026-03-30",
+    "status": "Pending Review",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "HRD positive",
+        "finding": "Not detected",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "Positive",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "HER2 amplification",
+        "finding": "Positive",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "Breast Cancer",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 20,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0015",
+    "patientId": "PT-0037",
+    "patientName": "Anil Verma",
+    "type": "Genomic Profiling",
+    "lab": "1Cell.Ai Genomics",
+    "collectedDate": "2026-05-28",
+    "reportedDate": "2026-06-02",
+    "status": "Critical",
+    "critical": true,
+    "keyBiomarkers": [
+      {
+        "name": "HRD positive",
+        "finding": "Amplified",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "Positive",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Prostate Cancer",
+    "specimen": "Bone marrow aspirate",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 9,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0016",
+    "patientId": "PT-0067",
+    "patientName": "Kavya Malhotra",
+    "type": "Genomic Profiling",
+    "lab": "1Cell.Ai Genomics",
+    "collectedDate": "2026-04-01",
+    "reportedDate": "2026-04-06",
+    "status": "Awaiting Sample",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "PD-L1 TPS",
+        "finding": "<1% TPS",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "NSCLC",
+    "specimen": "Bone marrow aspirate",
+    "reviewedBy": null,
+    "turnaroundDays": 10,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0017",
+    "patientId": "PT-0012",
+    "patientName": "Lakshmi Sharma",
+    "type": "Liquid Biopsy",
+    "lab": "Roche Foundation One",
+    "collectedDate": "2026-06-21",
+    "reportedDate": "2026-06-26",
+    "status": "Amended",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "KRAS G12C",
+        "finding": "Detected",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Colorectal Cancer",
+    "specimen": "Peripheral blood",
+    "reviewedBy": null,
+    "turnaroundDays": 14,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0018",
+    "patientId": "PT-0013",
+    "patientName": "Latha Nair",
+    "type": "Genomic Profiling",
+    "lab": "Strand Life Sciences",
+    "collectedDate": "2026-05-27",
+    "reportedDate": "2026-06-01",
+    "status": "Amended",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "HER2 amplification",
+        "finding": "Positive",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "VUS",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "Breast Cancer",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": "Dr. Kavya Malhotra",
+    "turnaroundDays": 19,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0019",
+    "patientId": "PT-0028",
+    "patientName": "Vivek Menon",
+    "type": "Genomic Profiling",
+    "lab": "1Cell.Ai Genomics",
+    "collectedDate": "2026-03-05",
+    "reportedDate": "2026-03-10",
+    "status": "Pending Review",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "del(17p)",
+        "finding": "VUS",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Multiple Myeloma",
+    "specimen": "Peripheral blood",
+    "reviewedBy": "Dr. Meera Shetty",
+    "turnaroundDays": 5,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0020",
+    "patientId": "PT-0048",
+    "patientName": "Divya Malhotra",
+    "type": "Genomic Profiling",
+    "lab": "Datar Cancer Genetics",
+    "collectedDate": "2026-06-21",
+    "reportedDate": "2026-06-26",
+    "status": "Pending Review",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "HRD positive",
+        "finding": "Detected",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "VUS",
+        "tier": "Tier III"
+      },
+      {
+        "name": "BRCA1/2",
+        "finding": "VUS",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Ovarian Cancer",
+    "specimen": "Core biopsy",
+    "reviewedBy": null,
+    "turnaroundDays": 20,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0021",
+    "patientId": "PT-0028",
+    "patientName": "Vivek Menon",
+    "type": "IHC",
+    "lab": "1Cell.Ai Genomics",
+    "collectedDate": "2026-05-29",
+    "reportedDate": "2026-06-03",
+    "status": "Pending Review",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "1q gain",
+        "finding": "Positive",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "TP53",
+        "finding": "VUS",
+        "tier": "Tier III"
+      },
+      {
+        "name": "del(17p)",
+        "finding": "Not detected",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Multiple Myeloma",
+    "specimen": "Core biopsy",
+    "reviewedBy": null,
+    "turnaroundDays": 14,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0022",
+    "patientId": "PT-0087",
+    "patientName": "Ashok Kapoor",
+    "type": "Liquid Biopsy",
+    "lab": "MedGenome",
+    "collectedDate": "2026-03-03",
+    "reportedDate": "2026-03-08",
+    "status": "Pending Review",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "BRAF V600E",
+        "finding": "Not detected",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "Colorectal Cancer",
+    "specimen": "Bone marrow aspirate",
+    "reviewedBy": null,
+    "turnaroundDays": 5,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0023",
+    "patientId": "PT-0087",
+    "patientName": "Ashok Kapoor",
+    "type": "Pathology",
+    "lab": "Datar Cancer Genetics",
+    "collectedDate": "2026-06-25",
+    "reportedDate": "2026-06-30",
+    "status": "Critical",
+    "critical": true,
+    "keyBiomarkers": [
+      {
+        "name": "KRAS G12C",
+        "finding": "Not detected",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "HER2 amplification",
+        "finding": "Not detected",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Colorectal Cancer",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": null,
+    "turnaroundDays": 15,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0024",
+    "patientId": "PT-0038",
+    "patientName": "Suresh Desai",
+    "type": "Germline",
+    "lab": "Roche Foundation One",
+    "collectedDate": "2026-04-08",
+    "reportedDate": "2026-04-13",
+    "status": "Reviewed",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "MSI-high",
+        "finding": "Amplified",
+        "tier": "Tier III"
+      },
+      {
+        "name": "BRCA1/2",
+        "finding": "Amplified",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Prostate Cancer",
+    "specimen": "Core biopsy",
+    "reviewedBy": "Dr. Shreya Desai",
+    "turnaroundDays": 7,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0025",
+    "patientId": "PT-0021",
+    "patientName": "Radha Desai",
+    "type": "Genomic Profiling",
+    "lab": "MedGenome",
+    "collectedDate": "2026-03-31",
+    "reportedDate": "2026-04-05",
+    "status": "Amended",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "MET exon 14 skipping",
+        "finding": "VUS",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "TMB-high",
+        "finding": "8 mut/Mb (high)",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "NSCLC",
+    "specimen": "Peripheral blood",
+    "reviewedBy": null,
+    "turnaroundDays": 14,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0026",
+    "patientId": "PT-0088",
+    "patientName": "Vidya Bose",
+    "type": "Radiology",
+    "lab": "Roche Foundation One",
+    "collectedDate": "2026-03-09",
+    "reportedDate": "2026-03-14",
+    "status": "Reviewed",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "HRD positive",
+        "finding": "Amplified",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "Positive",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Ovarian Cancer",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": "Dr. Rekha Sharma",
+    "turnaroundDays": 13,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0027",
+    "patientId": "PT-0092",
+    "patientName": "Manoj Iyer",
+    "type": "Radiology",
+    "lab": "MedGenome",
+    "collectedDate": "2026-05-16",
+    "reportedDate": "2026-05-21",
+    "status": "Critical",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "TMB-high",
+        "finding": "14 mut/Mb (intermediate)",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "PD-L1 TPS",
+        "finding": "1-49% TPS",
+        "tier": "Tier III"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "Detected",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Head and Neck Cancer",
+    "specimen": "Bone marrow aspirate",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 9,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0028",
+    "patientId": "PT-0083",
+    "patientName": "Harish Kumar",
+    "type": "IHC",
+    "lab": "MedGenome",
+    "collectedDate": "2026-03-12",
+    "reportedDate": "2026-03-17",
+    "status": "Critical",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "HRD positive",
+        "finding": "Positive",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "VUS",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "BRCA1/2",
+        "finding": "Detected",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "Prostate Cancer",
+    "specimen": "Bone marrow aspirate",
+    "reviewedBy": null,
+    "turnaroundDays": 13,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0029",
+    "patientId": "PT-0002",
+    "patientName": "Rohan Bose",
+    "type": "Genomic Profiling",
+    "lab": "Datar Cancer Genetics",
+    "collectedDate": "2026-04-05",
+    "reportedDate": "2026-04-10",
+    "status": "Critical",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "PD-L1 TPS",
+        "finding": "<1% TPS",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "TMB-high",
+        "finding": "9 mut/Mb (high)",
+        "tier": "Tier III"
+      },
+      {
+        "name": "HER2 amplification",
+        "finding": "Not detected",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Gastric Cancer",
+    "specimen": "Core biopsy",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 5,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0030",
+    "patientId": "PT-0080",
+    "patientName": "Anil Rao",
+    "type": "IHC",
+    "lab": "Datar Cancer Genetics",
+    "collectedDate": "2026-05-15",
+    "reportedDate": "2026-05-20",
+    "status": "Amended",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "NPM1",
+        "finding": "Positive",
+        "tier": "Tier III"
+      },
+      {
+        "name": "FLT3-ITD",
+        "finding": "Positive",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Leukemia",
+    "specimen": "FFPE tissue block",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 19,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0031",
+    "patientId": "PT-0019",
+    "patientName": "Kavya Kumar",
+    "type": "Radiology",
+    "lab": "1Cell.Ai Genomics",
+    "collectedDate": "2026-05-09",
+    "reportedDate": "2026-05-14",
+    "status": "Pending Review",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "HRD positive",
+        "finding": "Amplified",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Ovarian Cancer",
+    "specimen": "FFPE tissue block",
+    "reviewedBy": null,
+    "turnaroundDays": 5,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0032",
+    "patientId": "PT-0007",
+    "patientName": "Ananya Pillai",
+    "type": "Genomic Profiling",
+    "lab": "MedGenome",
+    "collectedDate": "2026-06-16",
+    "reportedDate": "2026-06-21",
+    "status": "Awaiting Sample",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "NPM1",
+        "finding": "Positive",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "IDH1/2",
+        "finding": "Not detected",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "TP53",
+        "finding": "Not detected",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Leukemia",
+    "specimen": "Peripheral blood",
+    "reviewedBy": null,
+    "turnaroundDays": 9,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0033",
+    "patientId": "PT-0032",
+    "patientName": "Ananya Kumar",
+    "type": "Radiology",
+    "lab": "Strand Life Sciences",
+    "collectedDate": "2026-06-13",
+    "reportedDate": "2026-06-18",
+    "status": "Critical",
+    "critical": true,
+    "keyBiomarkers": [
+      {
+        "name": "TP53",
+        "finding": "VUS",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Leukemia",
+    "specimen": "FFPE tissue block",
+    "reviewedBy": null,
+    "turnaroundDays": 11,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0034",
+    "patientId": "PT-0080",
+    "patientName": "Anil Rao",
+    "type": "IHC",
+    "lab": "In-house Pathology",
+    "collectedDate": "2026-04-24",
+    "reportedDate": "2026-04-29",
+    "status": "Pending Review",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "IDH1/2",
+        "finding": "VUS",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Leukemia",
+    "specimen": "Peripheral blood",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 16,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0035",
+    "patientId": "PT-0024",
+    "patientName": "Harish Menon",
+    "type": "Pathology",
+    "lab": "Roche Foundation One",
+    "collectedDate": "2026-03-17",
+    "reportedDate": "2026-03-22",
+    "status": "Reviewed",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "del(17p)",
+        "finding": "Positive",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "1q gain",
+        "finding": "Amplified",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Multiple Myeloma",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": "Dr. Shreya Desai",
+    "turnaroundDays": 16,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0036",
+    "patientId": "PT-0004",
+    "patientName": "Prakash Joshi",
+    "type": "Liquid Biopsy",
+    "lab": "MedGenome",
+    "collectedDate": "2026-03-23",
+    "reportedDate": "2026-03-28",
+    "status": "Pending Review",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "TMB-high",
+        "finding": "27 mut/Mb (high)",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "PD-L1 TPS",
+        "finding": "<1% TPS",
+        "tier": "Tier III"
+      },
+      {
+        "name": "EGFR exon 19 deletion",
+        "finding": "Positive",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "NSCLC",
+    "specimen": "Core biopsy",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 11,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0037",
+    "patientId": "PT-0089",
+    "patientName": "Geetha Gupta",
+    "type": "Pathology",
+    "lab": "MedGenome",
+    "collectedDate": "2026-05-23",
+    "reportedDate": "2026-05-28",
+    "status": "Awaiting Sample",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "HER2 amplification",
+        "finding": "Amplified",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "BRCA1/2",
+        "finding": "Detected",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "Breast Cancer",
+    "specimen": "Peripheral blood",
+    "reviewedBy": null,
+    "turnaroundDays": 10,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0038",
+    "patientId": "PT-0054",
+    "patientName": "Meera Nair",
+    "type": "Genomic Profiling",
+    "lab": "1Cell.Ai Genomics",
+    "collectedDate": "2026-06-14",
+    "reportedDate": "2026-06-19",
+    "status": "Amended",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "HER2 amplification",
+        "finding": "Positive",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Breast Cancer",
+    "specimen": "Core biopsy",
+    "reviewedBy": null,
+    "turnaroundDays": 10,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0039",
+    "patientId": "PT-0064",
+    "patientName": "Nikhil Pillai",
+    "type": "Pathology",
+    "lab": "Strand Life Sciences",
+    "collectedDate": "2026-04-12",
+    "reportedDate": "2026-04-17",
+    "status": "Pending Review",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "MSI-high",
+        "finding": "Amplified",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "PD-L1 TPS",
+        "finding": "1-49% TPS",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Head and Neck Cancer",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": null,
+    "turnaroundDays": 19,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0040",
+    "patientId": "PT-0065",
+    "patientName": "Naveen Nair",
+    "type": "Liquid Biopsy",
+    "lab": "Datar Cancer Genetics",
+    "collectedDate": "2026-05-06",
+    "reportedDate": "2026-05-11",
+    "status": "Awaiting Sample",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "HRD positive",
+        "finding": "VUS",
+        "tier": "Tier III"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "VUS",
+        "tier": "Tier III"
+      },
+      {
+        "name": "PD-L1 TPS",
+        "finding": "1-49% TPS",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Breast Cancer",
+    "specimen": "Core biopsy",
+    "reviewedBy": "Dr. Rekha Shetty",
+    "turnaroundDays": 11,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0041",
+    "patientId": "PT-0015",
+    "patientName": "Latha Gupta",
+    "type": "Pathology",
+    "lab": "Roche Foundation One",
+    "collectedDate": "2026-06-02",
+    "reportedDate": "2026-06-07",
+    "status": "Reviewed",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "FLT3-ITD",
+        "finding": "Detected",
+        "tier": "Tier III"
+      },
+      {
+        "name": "IDH1/2",
+        "finding": "Not detected",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Leukemia",
+    "specimen": "Peripheral blood",
+    "reviewedBy": null,
+    "turnaroundDays": 15,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0042",
+    "patientId": "PT-0039",
+    "patientName": "Lakshmi Reddy",
+    "type": "Liquid Biopsy",
+    "lab": "In-house Pathology",
+    "collectedDate": "2026-03-21",
+    "reportedDate": "2026-03-26",
+    "status": "Awaiting Sample",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "t(4;14)",
+        "finding": "Positive",
+        "tier": "Tier III"
+      },
+      {
+        "name": "1q gain",
+        "finding": "Amplified",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "t(11;14)",
+        "finding": "Amplified",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Multiple Myeloma",
+    "specimen": "Core biopsy",
+    "reviewedBy": null,
+    "turnaroundDays": 16,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0043",
+    "patientId": "PT-0020",
+    "patientName": "Sanjay Verma",
+    "type": "Genomic Profiling",
+    "lab": "1Cell.Ai Genomics",
+    "collectedDate": "2026-06-02",
+    "reportedDate": "2026-06-07",
+    "status": "Amended",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "TMB-high",
+        "finding": "21 mut/Mb (intermediate)",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "Amplified",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "HER2 amplification",
+        "finding": "VUS",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Gastric Cancer",
+    "specimen": "Core biopsy",
+    "reviewedBy": null,
+    "turnaroundDays": 8,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0044",
+    "patientId": "PT-0099",
+    "patientName": "Deepak Desai",
+    "type": "Liquid Biopsy",
+    "lab": "1Cell.Ai Genomics",
+    "collectedDate": "2026-03-07",
+    "reportedDate": "2026-03-12",
+    "status": "Critical",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "PD-L1 TPS",
+        "finding": "1-49% TPS",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "Detected",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "TMB-high",
+        "finding": "12 mut/Mb (intermediate)",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Head and Neck Cancer",
+    "specimen": "Core biopsy",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 18,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0045",
+    "patientId": "PT-0085",
+    "patientName": "Suresh Sharma",
+    "type": "Pathology",
+    "lab": "Datar Cancer Genetics",
+    "collectedDate": "2026-03-18",
+    "reportedDate": "2026-03-23",
+    "status": "Reviewed",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "HER2 amplification",
+        "finding": "Positive",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "PD-L1 TPS",
+        "finding": "1-49% TPS",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "Gastric Cancer",
+    "specimen": "Core biopsy",
+    "reviewedBy": "Dr. Arjun Rao",
+    "turnaroundDays": 19,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0046",
+    "patientId": "PT-0022",
+    "patientName": "Deepak Verma",
+    "type": "Germline",
+    "lab": "Strand Life Sciences",
+    "collectedDate": "2026-05-09",
+    "reportedDate": "2026-05-14",
+    "status": "Awaiting Sample",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "IDH1/2",
+        "finding": "Amplified",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Leukemia",
+    "specimen": "Core biopsy",
+    "reviewedBy": null,
+    "turnaroundDays": 17,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0047",
+    "patientId": "PT-0093",
+    "patientName": "Deepa Malhotra",
+    "type": "Germline",
+    "lab": "In-house Pathology",
+    "collectedDate": "2026-03-25",
+    "reportedDate": "2026-03-30",
+    "status": "Pending Review",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "MSI-high",
+        "finding": "Amplified",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "KRAS G12C",
+        "finding": "Detected",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Pancreatic Cancer",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": "Dr. Pooja Gupta",
+    "turnaroundDays": 13,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0048",
+    "patientId": "PT-0026",
+    "patientName": "Nisha Sharma",
+    "type": "Radiology",
+    "lab": "MedGenome",
+    "collectedDate": "2026-06-27",
+    "reportedDate": "2026-07-02",
+    "status": "Critical",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "FLT3-ITD",
+        "finding": "VUS",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "Leukemia",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": "Dr. Karthik Pillai",
+    "turnaroundDays": 12,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0049",
+    "patientId": "PT-0086",
+    "patientName": "Sanjay Nair",
+    "type": "IHC",
+    "lab": "1Cell.Ai Genomics",
+    "collectedDate": "2026-04-26",
+    "reportedDate": "2026-05-01",
+    "status": "Awaiting Sample",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "TMB-high",
+        "finding": "29 mut/Mb (high)",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "Colorectal Cancer",
+    "specimen": "FFPE tissue block",
+    "reviewedBy": null,
+    "turnaroundDays": 17,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0050",
+    "patientId": "PT-0006",
+    "patientName": "Geetha Verma",
+    "type": "Liquid Biopsy",
+    "lab": "MedGenome",
+    "collectedDate": "2026-05-05",
+    "reportedDate": "2026-05-10",
+    "status": "Pending Review",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "MSI-high",
+        "finding": "Amplified",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "HRD positive",
+        "finding": "Detected",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "BRCA1/2",
+        "finding": "VUS",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "Ovarian Cancer",
+    "specimen": "Peripheral blood",
+    "reviewedBy": null,
+    "turnaroundDays": 14,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0051",
+    "patientId": "PT-0064",
+    "patientName": "Nikhil Pillai",
+    "type": "Liquid Biopsy",
+    "lab": "Datar Cancer Genetics",
+    "collectedDate": "2026-05-30",
+    "reportedDate": "2026-06-04",
+    "status": "Amended",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "TMB-high",
+        "finding": "17 mut/Mb (high)",
+        "tier": "Tier III"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "Detected",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Head and Neck Cancer",
+    "specimen": "FFPE tissue block",
+    "reviewedBy": "Dr. Priya Iyer",
+    "turnaroundDays": 6,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0052",
+    "patientId": "PT-0054",
+    "patientName": "Meera Nair",
+    "type": "Pathology",
+    "lab": "MedGenome",
+    "collectedDate": "2026-05-25",
+    "reportedDate": "2026-05-30",
+    "status": "Pending Review",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "HER2 amplification",
+        "finding": "VUS",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "HRD positive",
+        "finding": "Amplified",
+        "tier": "Tier III"
+      },
+      {
+        "name": "PD-L1 TPS",
+        "finding": "≥50% TPS",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "Breast Cancer",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 6,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0053",
+    "patientId": "PT-0085",
+    "patientName": "Suresh Sharma",
+    "type": "Liquid Biopsy",
+    "lab": "Strand Life Sciences",
+    "collectedDate": "2026-05-18",
+    "reportedDate": "2026-05-23",
+    "status": "Amended",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "PD-L1 TPS",
+        "finding": "<1% TPS",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "TMB-high",
+        "finding": "26 mut/Mb (high)",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Gastric Cancer",
+    "specimen": "Core biopsy",
+    "reviewedBy": "Dr. Arjun Rao",
+    "turnaroundDays": 19,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0054",
+    "patientId": "PT-0064",
+    "patientName": "Nikhil Pillai",
+    "type": "Liquid Biopsy",
+    "lab": "MedGenome",
+    "collectedDate": "2026-03-22",
+    "reportedDate": "2026-03-27",
+    "status": "Reviewed",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "TMB-high",
+        "finding": "23 mut/Mb (intermediate)",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "PD-L1 TPS",
+        "finding": "1-49% TPS",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Head and Neck Cancer",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": null,
+    "turnaroundDays": 19,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0055",
+    "patientId": "PT-0028",
+    "patientName": "Vivek Menon",
+    "type": "Radiology",
+    "lab": "MedGenome",
+    "collectedDate": "2026-06-18",
+    "reportedDate": "2026-06-23",
+    "status": "Critical",
+    "critical": true,
+    "keyBiomarkers": [
+      {
+        "name": "del(17p)",
+        "finding": "VUS",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "t(4;14)",
+        "finding": "Amplified",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Multiple Myeloma",
+    "specimen": "Core biopsy",
+    "reviewedBy": "Dr. Meera Shetty",
+    "turnaroundDays": 17,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0056",
+    "patientId": "PT-0041",
+    "patientName": "Bhavana Rao",
+    "type": "Radiology",
+    "lab": "Datar Cancer Genetics",
+    "collectedDate": "2026-05-27",
+    "reportedDate": "2026-06-01",
+    "status": "Amended",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "BCL2",
+        "finding": "Positive",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "CD30",
+        "finding": "Amplified",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Lymphoma",
+    "specimen": "FFPE tissue block",
+    "reviewedBy": "Dr. Rekha Shetty",
+    "turnaroundDays": 12,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0057",
+    "patientId": "PT-0085",
+    "patientName": "Suresh Sharma",
+    "type": "Liquid Biopsy",
+    "lab": "1Cell.Ai Genomics",
+    "collectedDate": "2026-04-19",
+    "reportedDate": "2026-04-24",
+    "status": "Reviewed",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "MSI-high",
+        "finding": "Not detected",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "HER2 amplification",
+        "finding": "Detected",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "PD-L1 TPS",
+        "finding": "<1% TPS",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Gastric Cancer",
+    "specimen": "Bone marrow aspirate",
+    "reviewedBy": null,
+    "turnaroundDays": 10,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0058",
+    "patientId": "PT-0030",
+    "patientName": "Priya Gupta",
+    "type": "Radiology",
+    "lab": "Datar Cancer Genetics",
+    "collectedDate": "2026-03-17",
+    "reportedDate": "2026-03-22",
+    "status": "Critical",
+    "critical": true,
+    "keyBiomarkers": [
+      {
+        "name": "HRD positive",
+        "finding": "Amplified",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "Positive",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "Ovarian Cancer",
+    "specimen": "FFPE tissue block",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 14,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0059",
+    "patientId": "PT-0066",
+    "patientName": "Vikram Kumar",
+    "type": "Radiology",
+    "lab": "1Cell.Ai Genomics",
+    "collectedDate": "2026-05-24",
+    "reportedDate": "2026-05-29",
+    "status": "Reviewed",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "BRCA1/2",
+        "finding": "Amplified",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "Positive",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "HRD positive",
+        "finding": "VUS",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Pancreatic Cancer",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": "Dr. Pooja Gupta",
+    "turnaroundDays": 16,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0060",
+    "patientId": "PT-0005",
+    "patientName": "Arjun Malhotra",
+    "type": "Liquid Biopsy",
+    "lab": "In-house Pathology",
+    "collectedDate": "2026-03-11",
+    "reportedDate": "2026-03-16",
+    "status": "Amended",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "MSI-high",
+        "finding": "Amplified",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "TMB-high",
+        "finding": "23 mut/Mb (intermediate)",
+        "tier": "Tier III"
+      },
+      {
+        "name": "PD-L1 TPS",
+        "finding": "1-49% TPS",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Head and Neck Cancer",
+    "specimen": "FFPE tissue block",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 10,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0061",
+    "patientId": "PT-0031",
+    "patientName": "Aravind Rao",
+    "type": "IHC",
+    "lab": "MedGenome",
+    "collectedDate": "2026-04-26",
+    "reportedDate": "2026-05-01",
+    "status": "Pending Review",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "PD-L1 TPS",
+        "finding": "<1% TPS",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "Melanoma",
+    "specimen": "Peripheral blood",
+    "reviewedBy": "Dr. Rekha Sharma",
+    "turnaroundDays": 17,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0062",
+    "patientId": "PT-0055",
+    "patientName": "Anjali Desai",
+    "type": "Pathology",
+    "lab": "Roche Foundation One",
+    "collectedDate": "2026-04-18",
+    "reportedDate": "2026-04-23",
+    "status": "Pending Review",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "MSI-high",
+        "finding": "Detected",
+        "tier": "Tier III"
+      },
+      {
+        "name": "BRCA1/2",
+        "finding": "Detected",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "HRD positive",
+        "finding": "Detected",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Ovarian Cancer",
+    "specimen": "Bone marrow aspirate",
+    "reviewedBy": null,
+    "turnaroundDays": 16,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0063",
+    "patientId": "PT-0055",
+    "patientName": "Anjali Desai",
+    "type": "Radiology",
+    "lab": "Roche Foundation One",
+    "collectedDate": "2026-06-17",
+    "reportedDate": "2026-06-22",
+    "status": "Pending Review",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "MSI-high",
+        "finding": "Positive",
+        "tier": "Tier III"
+      },
+      {
+        "name": "BRCA1/2",
+        "finding": "Not detected",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Ovarian Cancer",
+    "specimen": "FFPE tissue block",
+    "reviewedBy": "Dr. Pooja Gupta",
+    "turnaroundDays": 18,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0064",
+    "patientId": "PT-0100",
+    "patientName": "Harish Pillai",
+    "type": "Genomic Profiling",
+    "lab": "In-house Pathology",
+    "collectedDate": "2026-06-10",
+    "reportedDate": "2026-06-15",
+    "status": "Reviewed",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "MSI-high",
+        "finding": "VUS",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "TMB-high",
+        "finding": "8 mut/Mb (intermediate)",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "PD-L1 TPS",
+        "finding": "≥50% TPS",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "Gastric Cancer",
+    "specimen": "FFPE tissue block",
+    "reviewedBy": null,
+    "turnaroundDays": 20,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0065",
+    "patientId": "PT-0083",
+    "patientName": "Harish Kumar",
+    "type": "Genomic Profiling",
+    "lab": "Datar Cancer Genetics",
+    "collectedDate": "2026-04-05",
+    "reportedDate": "2026-04-10",
+    "status": "Critical",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "BRCA1/2",
+        "finding": "Detected",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "HRD positive",
+        "finding": "Positive",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "Not detected",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Prostate Cancer",
+    "specimen": "FFPE tissue block",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 13,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0066",
+    "patientId": "PT-0011",
+    "patientName": "Rajesh Menon",
+    "type": "Pathology",
+    "lab": "Datar Cancer Genetics",
+    "collectedDate": "2026-03-21",
+    "reportedDate": "2026-03-26",
+    "status": "Awaiting Sample",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "BRAF V600E",
+        "finding": "Not detected",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "NSCLC",
+    "specimen": "Peripheral blood",
+    "reviewedBy": null,
+    "turnaroundDays": 20,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0067",
+    "patientId": "PT-0013",
+    "patientName": "Latha Nair",
+    "type": "Pathology",
+    "lab": "Datar Cancer Genetics",
+    "collectedDate": "2026-05-21",
+    "reportedDate": "2026-05-26",
+    "status": "Critical",
+    "critical": true,
+    "keyBiomarkers": [
+      {
+        "name": "HRD positive",
+        "finding": "Detected",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Breast Cancer",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": null,
+    "turnaroundDays": 18,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0068",
+    "patientId": "PT-0094",
+    "patientName": "Karthik Kumar",
+    "type": "Pathology",
+    "lab": "Roche Foundation One",
+    "collectedDate": "2026-03-15",
+    "reportedDate": "2026-03-20",
+    "status": "Critical",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "TP53",
+        "finding": "VUS",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Leukemia",
+    "specimen": "Bone marrow aspirate",
+    "reviewedBy": "Dr. Harish Verma",
+    "turnaroundDays": 8,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0069",
+    "patientId": "PT-0007",
+    "patientName": "Ananya Pillai",
+    "type": "Liquid Biopsy",
+    "lab": "MedGenome",
+    "collectedDate": "2026-04-19",
+    "reportedDate": "2026-04-24",
+    "status": "Pending Review",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "TP53",
+        "finding": "Positive",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Leukemia",
+    "specimen": "FFPE tissue block",
+    "reviewedBy": null,
+    "turnaroundDays": 7,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0070",
+    "patientId": "PT-0022",
+    "patientName": "Deepak Verma",
+    "type": "Pathology",
+    "lab": "Roche Foundation One",
+    "collectedDate": "2026-03-29",
+    "reportedDate": "2026-04-03",
+    "status": "Critical",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "BCR-ABL1",
+        "finding": "Not detected",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "Leukemia",
+    "specimen": "Bone marrow aspirate",
+    "reviewedBy": "Dr. Pooja Gupta",
+    "turnaroundDays": 6,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0071",
+    "patientId": "PT-0091",
+    "patientName": "Divya Malhotra",
+    "type": "Radiology",
+    "lab": "Roche Foundation One",
+    "collectedDate": "2026-03-13",
+    "reportedDate": "2026-03-18",
+    "status": "Critical",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "BRCA1/2",
+        "finding": "Not detected",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "HER2 amplification",
+        "finding": "VUS",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "HRD positive",
+        "finding": "Positive",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Breast Cancer",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 7,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0072",
+    "patientId": "PT-0048",
+    "patientName": "Divya Malhotra",
+    "type": "Germline",
+    "lab": "Datar Cancer Genetics",
+    "collectedDate": "2026-05-29",
+    "reportedDate": "2026-06-03",
+    "status": "Critical",
+    "critical": true,
+    "keyBiomarkers": [
+      {
+        "name": "HRD positive",
+        "finding": "VUS",
+        "tier": "Tier III"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "Amplified",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Ovarian Cancer",
+    "specimen": "Bone marrow aspirate",
+    "reviewedBy": null,
+    "turnaroundDays": 16,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0073",
+    "patientId": "PT-0052",
+    "patientName": "Vikram Mehta",
+    "type": "Liquid Biopsy",
+    "lab": "In-house Pathology",
+    "collectedDate": "2026-03-13",
+    "reportedDate": "2026-03-18",
+    "status": "Awaiting Sample",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "ROS1 fusion",
+        "finding": "Amplified",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "MET exon 14 skipping",
+        "finding": "Positive",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "NSCLC",
+    "specimen": "FFPE tissue block",
+    "reviewedBy": "Dr. Naveen Shetty",
+    "turnaroundDays": 12,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0074",
+    "patientId": "PT-0027",
+    "patientName": "Ashok Iyer",
+    "type": "Pathology",
+    "lab": "Datar Cancer Genetics",
+    "collectedDate": "2026-03-29",
+    "reportedDate": "2026-04-03",
+    "status": "Critical",
+    "critical": true,
+    "keyBiomarkers": [
+      {
+        "name": "TMB-high",
+        "finding": "8 mut/Mb (intermediate)",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Colorectal Cancer",
+    "specimen": "Peripheral blood",
+    "reviewedBy": null,
+    "turnaroundDays": 14,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0075",
+    "patientId": "PT-0061",
+    "patientName": "Naveen Nair",
+    "type": "Radiology",
+    "lab": "Roche Foundation One",
+    "collectedDate": "2026-03-28",
+    "reportedDate": "2026-04-02",
+    "status": "Reviewed",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "NPM1",
+        "finding": "Amplified",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "IDH1/2",
+        "finding": "Detected",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Leukemia",
+    "specimen": "FFPE tissue block",
+    "reviewedBy": "Dr. Rekha Sharma",
+    "turnaroundDays": 10,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0076",
+    "patientId": "PT-0092",
+    "patientName": "Manoj Iyer",
+    "type": "Liquid Biopsy",
+    "lab": "Strand Life Sciences",
+    "collectedDate": "2026-03-27",
+    "reportedDate": "2026-04-01",
+    "status": "Amended",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "TMB-high",
+        "finding": "25 mut/Mb (intermediate)",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "PD-L1 TPS",
+        "finding": "1-49% TPS",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "Head and Neck Cancer",
+    "specimen": "Bone marrow aspirate",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 7,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0077",
+    "patientId": "PT-0084",
+    "patientName": "Vidya Gupta",
+    "type": "IHC",
+    "lab": "1Cell.Ai Genomics",
+    "collectedDate": "2026-06-28",
+    "reportedDate": "2026-07-03",
+    "status": "Critical",
+    "critical": true,
+    "keyBiomarkers": [
+      {
+        "name": "HER2 amplification",
+        "finding": "Positive",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Colorectal Cancer",
+    "specimen": "Bone marrow aspirate",
+    "reviewedBy": null,
+    "turnaroundDays": 5,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0078",
+    "patientId": "PT-0002",
+    "patientName": "Rohan Bose",
+    "type": "Liquid Biopsy",
+    "lab": "Datar Cancer Genetics",
+    "collectedDate": "2026-05-03",
+    "reportedDate": "2026-05-08",
+    "status": "Awaiting Sample",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "MSI-high",
+        "finding": "Amplified",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "TMB-high",
+        "finding": "14 mut/Mb (intermediate)",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Gastric Cancer",
+    "specimen": "FFPE tissue block",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 20,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0079",
+    "patientId": "PT-0095",
+    "patientName": "Anjali Pillai",
+    "type": "Radiology",
+    "lab": "Strand Life Sciences",
+    "collectedDate": "2026-05-17",
+    "reportedDate": "2026-05-22",
+    "status": "Awaiting Sample",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "TMB-high",
+        "finding": "16 mut/Mb (intermediate)",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "PD-L1 TPS",
+        "finding": "<1% TPS",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Head and Neck Cancer",
+    "specimen": "Bone marrow aspirate",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 12,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0080",
+    "patientId": "PT-0009",
+    "patientName": "Latha Rao",
+    "type": "IHC",
+    "lab": "MedGenome",
+    "collectedDate": "2026-04-15",
+    "reportedDate": "2026-04-20",
+    "status": "Awaiting Sample",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "FLT3-ITD",
+        "finding": "Amplified",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "NPM1",
+        "finding": "Amplified",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "IDH1/2",
+        "finding": "Not detected",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Leukemia",
+    "specimen": "Bone marrow aspirate",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 15,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0081",
+    "patientId": "PT-0013",
+    "patientName": "Latha Nair",
+    "type": "Radiology",
+    "lab": "Roche Foundation One",
+    "collectedDate": "2026-04-16",
+    "reportedDate": "2026-04-21",
+    "status": "Pending Review",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "HRD positive",
+        "finding": "Detected",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Breast Cancer",
+    "specimen": "Peripheral blood",
+    "reviewedBy": "Dr. Kavya Malhotra",
+    "turnaroundDays": 18,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0082",
+    "patientId": "PT-0055",
+    "patientName": "Anjali Desai",
+    "type": "Radiology",
+    "lab": "MedGenome",
+    "collectedDate": "2026-04-13",
+    "reportedDate": "2026-04-18",
+    "status": "Reviewed",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "MSI-high",
+        "finding": "Amplified",
+        "tier": "Tier III"
+      },
+      {
+        "name": "BRCA1/2",
+        "finding": "Detected",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "HRD positive",
+        "finding": "Detected",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Ovarian Cancer",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": null,
+    "turnaroundDays": 15,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0083",
+    "patientId": "PT-0086",
+    "patientName": "Sanjay Nair",
+    "type": "IHC",
+    "lab": "MedGenome",
+    "collectedDate": "2026-04-01",
+    "reportedDate": "2026-04-06",
+    "status": "Critical",
+    "critical": true,
+    "keyBiomarkers": [
+      {
+        "name": "BRAF V600E",
+        "finding": "Detected",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "HER2 amplification",
+        "finding": "Detected",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Colorectal Cancer",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 5,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0084",
+    "patientId": "PT-0052",
+    "patientName": "Vikram Mehta",
+    "type": "Pathology",
+    "lab": "MedGenome",
+    "collectedDate": "2026-03-08",
+    "reportedDate": "2026-03-13",
+    "status": "Critical",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "PD-L1 TPS",
+        "finding": "<1% TPS",
+        "tier": "Tier III"
+      },
+      {
+        "name": "TMB-high",
+        "finding": "28 mut/Mb (high)",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "NSCLC",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": null,
+    "turnaroundDays": 9,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0085",
+    "patientId": "PT-0020",
+    "patientName": "Sanjay Verma",
+    "type": "Liquid Biopsy",
+    "lab": "Roche Foundation One",
+    "collectedDate": "2026-04-28",
+    "reportedDate": "2026-05-03",
+    "status": "Reviewed",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "MSI-high",
+        "finding": "Detected",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Gastric Cancer",
+    "specimen": "Peripheral blood",
+    "reviewedBy": null,
+    "turnaroundDays": 10,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0086",
+    "patientId": "PT-0094",
+    "patientName": "Karthik Kumar",
+    "type": "Genomic Profiling",
+    "lab": "MedGenome",
+    "collectedDate": "2026-03-17",
+    "reportedDate": "2026-03-22",
+    "status": "Reviewed",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "TP53",
+        "finding": "Detected",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "FLT3-ITD",
+        "finding": "Not detected",
+        "tier": "Tier III"
+      },
+      {
+        "name": "BCR-ABL1",
+        "finding": "Not detected",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Leukemia",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": null,
+    "turnaroundDays": 17,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0087",
+    "patientId": "PT-0003",
+    "patientName": "Meera Mehta",
+    "type": "Radiology",
+    "lab": "MedGenome",
+    "collectedDate": "2026-03-16",
+    "reportedDate": "2026-03-21",
+    "status": "Critical",
+    "critical": true,
+    "keyBiomarkers": [
+      {
+        "name": "HRD positive",
+        "finding": "Amplified",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "BRCA1/2",
+        "finding": "Amplified",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "Positive",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Ovarian Cancer",
+    "specimen": "Core biopsy",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 13,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0088",
+    "patientId": "PT-0025",
+    "patientName": "Anil Verma",
+    "type": "Genomic Profiling",
+    "lab": "In-house Pathology",
+    "collectedDate": "2026-03-19",
+    "reportedDate": "2026-03-24",
+    "status": "Pending Review",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "BCL2",
+        "finding": "Not detected",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Lymphoma",
+    "specimen": "Peripheral blood",
+    "reviewedBy": null,
+    "turnaroundDays": 7,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0089",
+    "patientId": "PT-0055",
+    "patientName": "Anjali Desai",
+    "type": "IHC",
+    "lab": "Datar Cancer Genetics",
+    "collectedDate": "2026-03-17",
+    "reportedDate": "2026-03-22",
+    "status": "Critical",
+    "critical": true,
+    "keyBiomarkers": [
+      {
+        "name": "HRD positive",
+        "finding": "Positive",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "Detected",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Ovarian Cancer",
+    "specimen": "FFPE tissue block",
+    "reviewedBy": "Dr. Pooja Gupta",
+    "turnaroundDays": 17,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0090",
+    "patientId": "PT-0033",
+    "patientName": "Sunita Verma",
+    "type": "Germline",
+    "lab": "1Cell.Ai Genomics",
+    "collectedDate": "2026-04-29",
+    "reportedDate": "2026-05-04",
+    "status": "Critical",
+    "critical": true,
+    "keyBiomarkers": [
+      {
+        "name": "BRCA1/2",
+        "finding": "Positive",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "VUS",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Ovarian Cancer",
+    "specimen": "Core biopsy",
+    "reviewedBy": "Dr. Kavya Malhotra",
+    "turnaroundDays": 6,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0091",
+    "patientId": "PT-0097",
+    "patientName": "Vikram Kumar",
+    "type": "IHC",
+    "lab": "1Cell.Ai Genomics",
+    "collectedDate": "2026-04-11",
+    "reportedDate": "2026-04-16",
+    "status": "Pending Review",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "HRD positive",
+        "finding": "VUS",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "Detected",
+        "tier": "Tier III"
+      },
+      {
+        "name": "KRAS G12C",
+        "finding": "Amplified",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Pancreatic Cancer",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": null,
+    "turnaroundDays": 10,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0092",
+    "patientId": "PT-0035",
+    "patientName": "Gopal Kapoor",
+    "type": "Germline",
+    "lab": "In-house Pathology",
+    "collectedDate": "2026-06-11",
+    "reportedDate": "2026-06-16",
+    "status": "Critical",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "BRCA1/2",
+        "finding": "Amplified",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "Not detected",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "Pancreatic Cancer",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": null,
+    "turnaroundDays": 5,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0093",
+    "patientId": "PT-0011",
+    "patientName": "Rajesh Menon",
+    "type": "Liquid Biopsy",
+    "lab": "MedGenome",
+    "collectedDate": "2026-04-29",
+    "reportedDate": "2026-05-04",
+    "status": "Awaiting Sample",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "EGFR L858R",
+        "finding": "Positive",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "EGFR exon 19 deletion",
+        "finding": "VUS",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "ROS1 fusion",
+        "finding": "Amplified",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "NSCLC",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": null,
+    "turnaroundDays": 16,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0094",
+    "patientId": "PT-0053",
+    "patientName": "Arjun Menon",
+    "type": "Pathology",
+    "lab": "Datar Cancer Genetics",
+    "collectedDate": "2026-05-31",
+    "reportedDate": "2026-06-05",
+    "status": "Critical",
+    "critical": true,
+    "keyBiomarkers": [
+      {
+        "name": "PD-L1 TPS",
+        "finding": "<1% TPS",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "NSCLC",
+    "specimen": "Bone marrow aspirate",
+    "reviewedBy": "Dr. Pooja Gupta",
+    "turnaroundDays": 16,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0095",
+    "patientId": "PT-0075",
+    "patientName": "Sneha Shetty",
+    "type": "Genomic Profiling",
+    "lab": "Datar Cancer Genetics",
+    "collectedDate": "2026-06-22",
+    "reportedDate": "2026-06-27",
+    "status": "Critical",
+    "critical": true,
+    "keyBiomarkers": [
+      {
+        "name": "KRAS G12C",
+        "finding": "Positive",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "BRCA1/2",
+        "finding": "Positive",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Pancreatic Cancer",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 17,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0096",
+    "patientId": "PT-0027",
+    "patientName": "Ashok Iyer",
+    "type": "Genomic Profiling",
+    "lab": "Roche Foundation One",
+    "collectedDate": "2026-03-27",
+    "reportedDate": "2026-04-01",
+    "status": "Awaiting Sample",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "KRAS G12C",
+        "finding": "Positive",
+        "tier": "Tier III"
+      },
+      {
+        "name": "TMB-high",
+        "finding": "25 mut/Mb (intermediate)",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "HER2 amplification",
+        "finding": "Detected",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "Colorectal Cancer",
+    "specimen": "FFPE tissue block",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 19,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0097",
+    "patientId": "PT-0019",
+    "patientName": "Kavya Kumar",
+    "type": "Germline",
+    "lab": "MedGenome",
+    "collectedDate": "2026-05-26",
+    "reportedDate": "2026-05-31",
+    "status": "Reviewed",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "HRD positive",
+        "finding": "Not detected",
+        "tier": "Tier III"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "Not detected",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Ovarian Cancer",
+    "specimen": "Core biopsy",
+    "reviewedBy": "Dr. Vidya Kapoor",
+    "turnaroundDays": 11,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0098",
+    "patientId": "PT-0020",
+    "patientName": "Sanjay Verma",
+    "type": "Genomic Profiling",
+    "lab": "Strand Life Sciences",
+    "collectedDate": "2026-06-24",
+    "reportedDate": "2026-06-29",
+    "status": "Awaiting Sample",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "TMB-high",
+        "finding": "10 mut/Mb (high)",
+        "tier": "Tier III"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "Amplified",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "HER2 amplification",
+        "finding": "Detected",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Gastric Cancer",
+    "specimen": "FFPE tissue block",
+    "reviewedBy": null,
+    "turnaroundDays": 18,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0099",
+    "patientId": "PT-0007",
+    "patientName": "Ananya Pillai",
+    "type": "Genomic Profiling",
+    "lab": "MedGenome",
+    "collectedDate": "2026-05-27",
+    "reportedDate": "2026-06-01",
+    "status": "Amended",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "FLT3-ITD",
+        "finding": "Detected",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "TP53",
+        "finding": "VUS",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "BCR-ABL1",
+        "finding": "Not detected",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Leukemia",
+    "specimen": "Peripheral blood",
+    "reviewedBy": null,
+    "turnaroundDays": 10,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0100",
+    "patientId": "PT-0097",
+    "patientName": "Vikram Kumar",
+    "type": "Liquid Biopsy",
+    "lab": "MedGenome",
+    "collectedDate": "2026-03-26",
+    "reportedDate": "2026-03-31",
+    "status": "Critical",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "KRAS G12C",
+        "finding": "VUS",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "HRD positive",
+        "finding": "Not detected",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "BRCA1/2",
+        "finding": "Positive",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Pancreatic Cancer",
+    "specimen": "FFPE tissue block",
+    "reviewedBy": "Dr. Gopal Patel",
+    "turnaroundDays": 19,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0101",
+    "patientId": "PT-0072",
+    "patientName": "Vikram Joshi",
+    "type": "Genomic Profiling",
+    "lab": "Datar Cancer Genetics",
+    "collectedDate": "2026-06-03",
+    "reportedDate": "2026-06-08",
+    "status": "Reviewed",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "PD-L1 TPS",
+        "finding": "<1% TPS",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "Amplified",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Head and Neck Cancer",
+    "specimen": "FFPE tissue block",
+    "reviewedBy": null,
+    "turnaroundDays": 12,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0102",
+    "patientId": "PT-0090",
+    "patientName": "Vivek Joshi",
+    "type": "Radiology",
+    "lab": "1Cell.Ai Genomics",
+    "collectedDate": "2026-06-24",
+    "reportedDate": "2026-06-29",
+    "status": "Reviewed",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "PD-L1 TPS",
+        "finding": "<1% TPS",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "TMB-high",
+        "finding": "18 mut/Mb (high)",
+        "tier": "Tier III"
+      },
+      {
+        "name": "BRAF V600E",
+        "finding": "VUS",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "Melanoma",
+    "specimen": "Peripheral blood",
+    "reviewedBy": null,
+    "turnaroundDays": 18,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0103",
+    "patientId": "PT-0065",
+    "patientName": "Naveen Nair",
+    "type": "Germline",
+    "lab": "Strand Life Sciences",
+    "collectedDate": "2026-06-11",
+    "reportedDate": "2026-06-16",
+    "status": "Critical",
+    "critical": true,
+    "keyBiomarkers": [
+      {
+        "name": "HRD positive",
+        "finding": "Detected",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "BRCA1/2",
+        "finding": "VUS",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "HER2 amplification",
+        "finding": "Positive",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Breast Cancer",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": "Dr. Rekha Shetty",
+    "turnaroundDays": 11,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0104",
+    "patientId": "PT-0031",
+    "patientName": "Aravind Rao",
+    "type": "Pathology",
+    "lab": "In-house Pathology",
+    "collectedDate": "2026-06-13",
+    "reportedDate": "2026-06-18",
+    "status": "Critical",
+    "critical": true,
+    "keyBiomarkers": [
+      {
+        "name": "PD-L1 TPS",
+        "finding": "<1% TPS",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "Amplified",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Melanoma",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": null,
+    "turnaroundDays": 8,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0105",
+    "patientId": "PT-0097",
+    "patientName": "Vikram Kumar",
+    "type": "Germline",
+    "lab": "Strand Life Sciences",
+    "collectedDate": "2026-06-02",
+    "reportedDate": "2026-06-07",
+    "status": "Reviewed",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "MSI-high",
+        "finding": "Amplified",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "KRAS G12C",
+        "finding": "Detected",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "BRCA1/2",
+        "finding": "Positive",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Pancreatic Cancer",
+    "specimen": "FFPE tissue block",
+    "reviewedBy": "Dr. Gopal Patel",
+    "turnaroundDays": 11,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0106",
+    "patientId": "PT-0011",
+    "patientName": "Rajesh Menon",
+    "type": "Radiology",
+    "lab": "Roche Foundation One",
+    "collectedDate": "2026-03-31",
+    "reportedDate": "2026-04-05",
+    "status": "Awaiting Sample",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "PD-L1 TPS",
+        "finding": "1-49% TPS",
+        "tier": "Tier III"
+      },
+      {
+        "name": "TMB-high",
+        "finding": "24 mut/Mb (high)",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "NSCLC",
+    "specimen": "Bone marrow aspirate",
+    "reviewedBy": "Dr. Latha Iyer",
+    "turnaroundDays": 10,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0107",
+    "patientId": "PT-0052",
+    "patientName": "Vikram Mehta",
+    "type": "Liquid Biopsy",
+    "lab": "MedGenome",
+    "collectedDate": "2026-04-04",
+    "reportedDate": "2026-04-09",
+    "status": "Reviewed",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "EGFR L858R",
+        "finding": "VUS",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "TMB-high",
+        "finding": "24 mut/Mb (high)",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "KRAS G12C",
+        "finding": "Not detected",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "NSCLC",
+    "specimen": "Peripheral blood",
+    "reviewedBy": "Dr. Naveen Shetty",
+    "turnaroundDays": 14,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0108",
+    "patientId": "PT-0042",
+    "patientName": "Nisha Desai",
+    "type": "Liquid Biopsy",
+    "lab": "In-house Pathology",
+    "collectedDate": "2026-05-18",
+    "reportedDate": "2026-05-23",
+    "status": "Critical",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "t(4;14)",
+        "finding": "Detected",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Multiple Myeloma",
+    "specimen": "Core biopsy",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 20,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0109",
+    "patientId": "PT-0075",
+    "patientName": "Sneha Shetty",
+    "type": "Liquid Biopsy",
+    "lab": "Roche Foundation One",
+    "collectedDate": "2026-06-10",
+    "reportedDate": "2026-06-15",
+    "status": "Awaiting Sample",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "HRD positive",
+        "finding": "Detected",
+        "tier": "Tier III"
+      },
+      {
+        "name": "KRAS G12C",
+        "finding": "Detected",
+        "tier": "Tier III"
+      },
+      {
+        "name": "BRCA1/2",
+        "finding": "Amplified",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Pancreatic Cancer",
+    "specimen": "Peripheral blood",
+    "reviewedBy": null,
+    "turnaroundDays": 12,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0110",
+    "patientId": "PT-0075",
+    "patientName": "Sneha Shetty",
+    "type": "IHC",
+    "lab": "In-house Pathology",
+    "collectedDate": "2026-05-17",
+    "reportedDate": "2026-05-22",
+    "status": "Amended",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "BRCA1/2",
+        "finding": "Positive",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "HRD positive",
+        "finding": "Detected",
+        "tier": "Tier III"
+      },
+      {
+        "name": "KRAS G12C",
+        "finding": "Detected",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Pancreatic Cancer",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 17,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0111",
+    "patientId": "PT-0019",
+    "patientName": "Kavya Kumar",
+    "type": "Radiology",
+    "lab": "In-house Pathology",
+    "collectedDate": "2026-06-19",
+    "reportedDate": "2026-06-24",
+    "status": "Critical",
+    "critical": true,
+    "keyBiomarkers": [
+      {
+        "name": "BRCA1/2",
+        "finding": "Positive",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "Positive",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Ovarian Cancer",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": null,
+    "turnaroundDays": 9,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0112",
+    "patientId": "PT-0024",
+    "patientName": "Harish Menon",
+    "type": "IHC",
+    "lab": "MedGenome",
+    "collectedDate": "2026-06-18",
+    "reportedDate": "2026-06-23",
+    "status": "Pending Review",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "1q gain",
+        "finding": "Positive",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "t(4;14)",
+        "finding": "Not detected",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "del(17p)",
+        "finding": "Positive",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Multiple Myeloma",
+    "specimen": "Peripheral blood",
+    "reviewedBy": null,
+    "turnaroundDays": 11,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0113",
+    "patientId": "PT-0059",
+    "patientName": "Ashok Joshi",
+    "type": "Pathology",
+    "lab": "Strand Life Sciences",
+    "collectedDate": "2026-04-03",
+    "reportedDate": "2026-04-08",
+    "status": "Reviewed",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "MSI-high",
+        "finding": "Amplified",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "HRD positive",
+        "finding": "Positive",
+        "tier": "Tier III"
+      },
+      {
+        "name": "BRCA1/2",
+        "finding": "Positive",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Prostate Cancer",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": null,
+    "turnaroundDays": 12,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0114",
+    "patientId": "PT-0073",
+    "patientName": "Sanjay Menon",
+    "type": "Liquid Biopsy",
+    "lab": "MedGenome",
+    "collectedDate": "2026-06-14",
+    "reportedDate": "2026-06-19",
+    "status": "Critical",
+    "critical": true,
+    "keyBiomarkers": [
+      {
+        "name": "PD-L1 TPS",
+        "finding": "≥50% TPS",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Melanoma",
+    "specimen": "Core biopsy",
+    "reviewedBy": "Dr. Gopal Patel",
+    "turnaroundDays": 15,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0115",
+    "patientId": "PT-0073",
+    "patientName": "Sanjay Menon",
+    "type": "Pathology",
+    "lab": "Roche Foundation One",
+    "collectedDate": "2026-06-18",
+    "reportedDate": "2026-06-23",
+    "status": "Amended",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "PD-L1 TPS",
+        "finding": "<1% TPS",
+        "tier": "Tier III"
+      },
+      {
+        "name": "BRAF V600E",
+        "finding": "VUS",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Melanoma",
+    "specimen": "Core biopsy",
+    "reviewedBy": null,
+    "turnaroundDays": 8,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0116",
+    "patientId": "PT-0005",
+    "patientName": "Arjun Malhotra",
+    "type": "IHC",
+    "lab": "MedGenome",
+    "collectedDate": "2026-04-13",
+    "reportedDate": "2026-04-18",
+    "status": "Critical",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "TMB-high",
+        "finding": "26 mut/Mb (high)",
+        "tier": "Tier III"
+      },
+      {
+        "name": "PD-L1 TPS",
+        "finding": "<1% TPS",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Head and Neck Cancer",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": null,
+    "turnaroundDays": 11,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0117",
+    "patientId": "PT-0089",
+    "patientName": "Geetha Gupta",
+    "type": "Liquid Biopsy",
+    "lab": "Roche Foundation One",
+    "collectedDate": "2026-03-04",
+    "reportedDate": "2026-03-09",
+    "status": "Critical",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "HRD positive",
+        "finding": "Amplified",
+        "tier": "Tier III"
+      },
+      {
+        "name": "HER2 amplification",
+        "finding": "VUS",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "PD-L1 TPS",
+        "finding": "≥50% TPS",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Breast Cancer",
+    "specimen": "Bone marrow aspirate",
+    "reviewedBy": null,
+    "turnaroundDays": 8,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0118",
+    "patientId": "PT-0066",
+    "patientName": "Vikram Kumar",
+    "type": "Pathology",
+    "lab": "In-house Pathology",
+    "collectedDate": "2026-03-10",
+    "reportedDate": "2026-03-15",
+    "status": "Critical",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "BRCA1/2",
+        "finding": "Amplified",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "Amplified",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "HRD positive",
+        "finding": "Not detected",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Pancreatic Cancer",
+    "specimen": "Core biopsy",
+    "reviewedBy": null,
+    "turnaroundDays": 8,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0119",
+    "patientId": "PT-0007",
+    "patientName": "Ananya Pillai",
+    "type": "Genomic Profiling",
+    "lab": "Datar Cancer Genetics",
+    "collectedDate": "2026-05-18",
+    "reportedDate": "2026-05-23",
+    "status": "Reviewed",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "BCR-ABL1",
+        "finding": "Not detected",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "Leukemia",
+    "specimen": "Peripheral blood",
+    "reviewedBy": null,
+    "turnaroundDays": 15,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0120",
+    "patientId": "PT-0013",
+    "patientName": "Latha Nair",
+    "type": "Genomic Profiling",
+    "lab": "Datar Cancer Genetics",
+    "collectedDate": "2026-05-26",
+    "reportedDate": "2026-05-31",
+    "status": "Critical",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "HRD positive",
+        "finding": "VUS",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Breast Cancer",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": "Dr. Kavya Malhotra",
+    "turnaroundDays": 7,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0121",
+    "patientId": "PT-0024",
+    "patientName": "Harish Menon",
+    "type": "Radiology",
+    "lab": "MedGenome",
+    "collectedDate": "2026-05-21",
+    "reportedDate": "2026-05-26",
+    "status": "Pending Review",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "del(17p)",
+        "finding": "VUS",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "t(11;14)",
+        "finding": "Detected",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "1q gain",
+        "finding": "Amplified",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Multiple Myeloma",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": "Dr. Shreya Desai",
+    "turnaroundDays": 10,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0122",
+    "patientId": "PT-0100",
+    "patientName": "Harish Pillai",
+    "type": "Liquid Biopsy",
+    "lab": "Datar Cancer Genetics",
+    "collectedDate": "2026-04-07",
+    "reportedDate": "2026-04-12",
+    "status": "Amended",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "PD-L1 TPS",
+        "finding": "1-49% TPS",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "HER2 amplification",
+        "finding": "VUS",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "Gastric Cancer",
+    "specimen": "Core biopsy",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 20,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0123",
+    "patientId": "PT-0024",
+    "patientName": "Harish Menon",
+    "type": "Liquid Biopsy",
+    "lab": "Strand Life Sciences",
+    "collectedDate": "2026-04-11",
+    "reportedDate": "2026-04-16",
+    "status": "Reviewed",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "t(4;14)",
+        "finding": "Not detected",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "TP53",
+        "finding": "VUS",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Multiple Myeloma",
+    "specimen": "FFPE tissue block",
+    "reviewedBy": null,
+    "turnaroundDays": 18,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0124",
+    "patientId": "PT-0008",
+    "patientName": "Meera Nair",
+    "type": "Pathology",
+    "lab": "Datar Cancer Genetics",
+    "collectedDate": "2026-06-13",
+    "reportedDate": "2026-06-18",
+    "status": "Pending Review",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "FLT3-ITD",
+        "finding": "VUS",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "IDH1/2",
+        "finding": "Amplified",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "TP53",
+        "finding": "VUS",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Leukemia",
+    "specimen": "Peripheral blood",
+    "reviewedBy": null,
+    "turnaroundDays": 20,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0125",
+    "patientId": "PT-0010",
+    "patientName": "Ashok Desai",
+    "type": "IHC",
+    "lab": "Roche Foundation One",
+    "collectedDate": "2026-05-19",
+    "reportedDate": "2026-05-24",
+    "status": "Awaiting Sample",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "KRAS G12C",
+        "finding": "Not detected",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "HRD positive",
+        "finding": "Detected",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "Not detected",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Pancreatic Cancer",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": null,
+    "turnaroundDays": 14,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0126",
+    "patientId": "PT-0058",
+    "patientName": "Aditya Verma",
+    "type": "Germline",
+    "lab": "Strand Life Sciences",
+    "collectedDate": "2026-06-30",
+    "reportedDate": "2026-07-05",
+    "status": "Amended",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "MSI-high",
+        "finding": "Amplified",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "BRCA1/2",
+        "finding": "Not detected",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Breast Cancer",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": "Dr. Kavya Malhotra",
+    "turnaroundDays": 6,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0127",
+    "patientId": "PT-0079",
+    "patientName": "Gopal Iyer",
+    "type": "Germline",
+    "lab": "Datar Cancer Genetics",
+    "collectedDate": "2026-03-10",
+    "reportedDate": "2026-03-15",
+    "status": "Pending Review",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "MSI-high",
+        "finding": "Positive",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Gastric Cancer",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": "Dr. Latha Joshi",
+    "turnaroundDays": 9,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0128",
+    "patientId": "PT-0054",
+    "patientName": "Meera Nair",
+    "type": "Liquid Biopsy",
+    "lab": "Strand Life Sciences",
+    "collectedDate": "2026-04-30",
+    "reportedDate": "2026-05-05",
+    "status": "Amended",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "PD-L1 TPS",
+        "finding": "≥50% TPS",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "HRD positive",
+        "finding": "VUS",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Breast Cancer",
+    "specimen": "Bone marrow aspirate",
+    "reviewedBy": null,
+    "turnaroundDays": 19,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0129",
+    "patientId": "PT-0094",
+    "patientName": "Karthik Kumar",
+    "type": "Liquid Biopsy",
+    "lab": "1Cell.Ai Genomics",
+    "collectedDate": "2026-06-28",
+    "reportedDate": "2026-07-03",
+    "status": "Critical",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "IDH1/2",
+        "finding": "VUS",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "FLT3-ITD",
+        "finding": "Not detected",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Leukemia",
+    "specimen": "FFPE tissue block",
+    "reviewedBy": null,
+    "turnaroundDays": 14,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0130",
+    "patientId": "PT-0021",
+    "patientName": "Radha Desai",
+    "type": "Germline",
+    "lab": "Strand Life Sciences",
+    "collectedDate": "2026-04-23",
+    "reportedDate": "2026-04-28",
+    "status": "Amended",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "EGFR L858R",
+        "finding": "Amplified",
+        "tier": "Tier III"
+      },
+      {
+        "name": "EGFR exon 19 deletion",
+        "finding": "VUS",
+        "tier": "Tier III"
+      },
+      {
+        "name": "TMB-high",
+        "finding": "16 mut/Mb (high)",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "NSCLC",
+    "specimen": "Core biopsy",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 19,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0131",
+    "patientId": "PT-0045",
+    "patientName": "Priya Shetty",
+    "type": "Pathology",
+    "lab": "Roche Foundation One",
+    "collectedDate": "2026-03-22",
+    "reportedDate": "2026-03-27",
+    "status": "Critical",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "BRCA1/2",
+        "finding": "Not detected",
+        "tier": "Tier III"
+      },
+      {
+        "name": "HRD positive",
+        "finding": "VUS",
+        "tier": "Tier IA"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "Positive",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Ovarian Cancer",
+    "specimen": "FFPE tissue block",
+    "reviewedBy": null,
+    "turnaroundDays": 6,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0132",
+    "patientId": "PT-0053",
+    "patientName": "Arjun Menon",
+    "type": "Genomic Profiling",
+    "lab": "MedGenome",
+    "collectedDate": "2026-06-08",
+    "reportedDate": "2026-06-13",
+    "status": "Critical",
+    "critical": true,
+    "keyBiomarkers": [
+      {
+        "name": "KRAS G12C",
+        "finding": "Amplified",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "NSCLC",
+    "specimen": "Bone marrow aspirate",
+    "reviewedBy": "Dr. Pooja Gupta",
+    "turnaroundDays": 19,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0133",
+    "patientId": "PT-0088",
+    "patientName": "Vidya Bose",
+    "type": "Germline",
+    "lab": "Datar Cancer Genetics",
+    "collectedDate": "2026-05-26",
+    "reportedDate": "2026-05-31",
+    "status": "Critical",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "MSI-high",
+        "finding": "Amplified",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Ovarian Cancer",
+    "specimen": "Core biopsy",
+    "reviewedBy": null,
+    "turnaroundDays": 11,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0134",
+    "patientId": "PT-0092",
+    "patientName": "Manoj Iyer",
+    "type": "Liquid Biopsy",
+    "lab": "1Cell.Ai Genomics",
+    "collectedDate": "2026-05-27",
+    "reportedDate": "2026-06-01",
+    "status": "Pending Review",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "MSI-high",
+        "finding": "Detected",
+        "tier": "Tier III"
+      },
+      {
+        "name": "PD-L1 TPS",
+        "finding": "1-49% TPS",
+        "tier": "Tier III"
+      },
+      {
+        "name": "TMB-high",
+        "finding": "10 mut/Mb (high)",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Head and Neck Cancer",
+    "specimen": "Core biopsy",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 7,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0135",
+    "patientId": "PT-0086",
+    "patientName": "Sanjay Nair",
+    "type": "Genomic Profiling",
+    "lab": "Strand Life Sciences",
+    "collectedDate": "2026-03-21",
+    "reportedDate": "2026-03-26",
+    "status": "Critical",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "KRAS G12C",
+        "finding": "Not detected",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Colorectal Cancer",
+    "specimen": "Core biopsy",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 15,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0136",
+    "patientId": "PT-0094",
+    "patientName": "Karthik Kumar",
+    "type": "Liquid Biopsy",
+    "lab": "MedGenome",
+    "collectedDate": "2026-05-20",
+    "reportedDate": "2026-05-25",
+    "status": "Reviewed",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "NPM1",
+        "finding": "Not detected",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "BCR-ABL1",
+        "finding": "VUS",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "Leukemia",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": "Dr. Harish Verma",
+    "turnaroundDays": 9,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0137",
+    "patientId": "PT-0011",
+    "patientName": "Rajesh Menon",
+    "type": "Germline",
+    "lab": "Strand Life Sciences",
+    "collectedDate": "2026-05-04",
+    "reportedDate": "2026-05-09",
+    "status": "Critical",
+    "critical": true,
+    "keyBiomarkers": [
+      {
+        "name": "TMB-high",
+        "finding": "8 mut/Mb (high)",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "NSCLC",
+    "specimen": "Peripheral blood",
+    "reviewedBy": null,
+    "turnaroundDays": 18,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0138",
+    "patientId": "PT-0029",
+    "patientName": "Meera Krishnan",
+    "type": "IHC",
+    "lab": "In-house Pathology",
+    "collectedDate": "2026-04-26",
+    "reportedDate": "2026-05-01",
+    "status": "Critical",
+    "critical": true,
+    "keyBiomarkers": [
+      {
+        "name": "PD-L1 TPS",
+        "finding": "<1% TPS",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "Positive",
+        "tier": "Tier III"
+      },
+      {
+        "name": "TMB-high",
+        "finding": "14 mut/Mb (high)",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Melanoma",
+    "specimen": "Core biopsy",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 7,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0139",
+    "patientId": "PT-0048",
+    "patientName": "Divya Malhotra",
+    "type": "Genomic Profiling",
+    "lab": "Datar Cancer Genetics",
+    "collectedDate": "2026-04-01",
+    "reportedDate": "2026-04-06",
+    "status": "Critical",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "BRCA1/2",
+        "finding": "Detected",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "Ovarian Cancer",
+    "specimen": "Core biopsy",
+    "reviewedBy": null,
+    "turnaroundDays": 14,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0140",
+    "patientId": "PT-0049",
+    "patientName": "Meera Menon",
+    "type": "Genomic Profiling",
+    "lab": "MedGenome",
+    "collectedDate": "2026-06-21",
+    "reportedDate": "2026-06-26",
+    "status": "Pending Review",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "MSI-high",
+        "finding": "Detected",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "Gastric Cancer",
+    "specimen": "Plasma (ctDNA)",
+    "reviewedBy": null,
+    "turnaroundDays": 15,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0141",
+    "patientId": "PT-0095",
+    "patientName": "Anjali Pillai",
+    "type": "IHC",
+    "lab": "MedGenome",
+    "collectedDate": "2026-06-04",
+    "reportedDate": "2026-06-09",
+    "status": "Amended",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "TMB-high",
+        "finding": "29 mut/Mb (intermediate)",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Head and Neck Cancer",
+    "specimen": "Bone marrow aspirate",
+    "reviewedBy": null,
+    "turnaroundDays": 5,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0142",
+    "patientId": "PT-0069",
+    "patientName": "Sushma Kapoor",
+    "type": "Liquid Biopsy",
+    "lab": "MedGenome",
+    "collectedDate": "2026-06-19",
+    "reportedDate": "2026-06-24",
+    "status": "Reviewed",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "PD-L1 TPS",
+        "finding": "≥50% TPS",
+        "tier": "Tier III"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "Not detected",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "HER2 amplification",
+        "finding": "VUS",
+        "tier": "Tier IIC"
+      }
+    ],
+    "tumorType": "Gastric Cancer",
+    "specimen": "Bone marrow aspirate",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 17,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0143",
+    "patientId": "PT-0004",
+    "patientName": "Prakash Joshi",
+    "type": "Pathology",
+    "lab": "Datar Cancer Genetics",
+    "collectedDate": "2026-06-12",
+    "reportedDate": "2026-06-17",
+    "status": "Reviewed",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "EGFR L858R",
+        "finding": "Amplified",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "NSCLC",
+    "specimen": "FFPE tissue block",
+    "reviewedBy": null,
+    "turnaroundDays": 10,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0144",
+    "patientId": "PT-0057",
+    "patientName": "Arjun Bose",
+    "type": "Pathology",
+    "lab": "MedGenome",
+    "collectedDate": "2026-06-03",
+    "reportedDate": "2026-06-08",
+    "status": "Pending Review",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "BRAF V600E",
+        "finding": "Positive",
+        "tier": "Tier IIC"
+      },
+      {
+        "name": "TMB-high",
+        "finding": "23 mut/Mb (intermediate)",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Melanoma",
+    "specimen": "Bone marrow aspirate",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 15,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0145",
+    "patientId": "PT-0067",
+    "patientName": "Kavya Malhotra",
+    "type": "Radiology",
+    "lab": "1Cell.Ai Genomics",
+    "collectedDate": "2026-05-05",
+    "reportedDate": "2026-05-10",
+    "status": "Amended",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "TMB-high",
+        "finding": "12 mut/Mb (high)",
+        "tier": "Tier III"
+      }
+    ],
+    "tumorType": "NSCLC",
+    "specimen": "FFPE tissue block",
+    "reviewedBy": "Dr. Arjun Rao",
+    "turnaroundDays": 18,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0146",
+    "patientId": "PT-0030",
+    "patientName": "Priya Gupta",
+    "type": "Pathology",
+    "lab": "Roche Foundation One",
+    "collectedDate": "2026-05-01",
+    "reportedDate": "2026-05-06",
+    "status": "Critical",
+    "critical": true,
+    "keyBiomarkers": [
+      {
+        "name": "BRCA1/2",
+        "finding": "Not detected",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "Ovarian Cancer",
+    "specimen": "Bone marrow aspirate",
+    "reviewedBy": "Dr. Arjun Menon",
+    "turnaroundDays": 16,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0147",
+    "patientId": "PT-0052",
+    "patientName": "Vikram Mehta",
+    "type": "Liquid Biopsy",
+    "lab": "1Cell.Ai Genomics",
+    "collectedDate": "2026-05-27",
+    "reportedDate": "2026-06-01",
+    "status": "Reviewed",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "KRAS G12C",
+        "finding": "Detected",
+        "tier": "Tier IB"
+      }
+    ],
+    "tumorType": "NSCLC",
+    "specimen": "Peripheral blood",
+    "reviewedBy": "Dr. Naveen Shetty",
+    "turnaroundDays": 15,
+    "hasTrialMatch": true
+  },
+  {
+    "id": "RPT-0148",
+    "patientId": "PT-0057",
+    "patientName": "Arjun Bose",
+    "type": "Liquid Biopsy",
+    "lab": "MedGenome",
+    "collectedDate": "2026-03-09",
+    "reportedDate": "2026-03-14",
+    "status": "Amended",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "PD-L1 TPS",
+        "finding": "1-49% TPS",
+        "tier": "Tier IB"
+      },
+      {
+        "name": "TMB-high",
+        "finding": "21 mut/Mb (high)",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Melanoma",
+    "specimen": "Core biopsy",
+    "reviewedBy": null,
+    "turnaroundDays": 12,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0149",
+    "patientId": "PT-0082",
+    "patientName": "Sneha Reddy",
+    "type": "IHC",
+    "lab": "Strand Life Sciences",
+    "collectedDate": "2026-04-20",
+    "reportedDate": "2026-04-25",
+    "status": "Awaiting Sample",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "BRCA1/2",
+        "finding": "Detected",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Ovarian Cancer",
+    "specimen": "FFPE tissue block",
+    "reviewedBy": null,
+    "turnaroundDays": 7,
+    "hasTrialMatch": false
+  },
+  {
+    "id": "RPT-0150",
+    "patientId": "PT-0075",
+    "patientName": "Sneha Shetty",
+    "type": "Radiology",
+    "lab": "In-house Pathology",
+    "collectedDate": "2026-06-29",
+    "reportedDate": "2026-07-04",
+    "status": "Reviewed",
+    "critical": false,
+    "keyBiomarkers": [
+      {
+        "name": "HRD positive",
+        "finding": "Positive",
+        "tier": "Tier III"
+      },
+      {
+        "name": "KRAS G12C",
+        "finding": "Positive",
+        "tier": "Tier III"
+      },
+      {
+        "name": "MSI-high",
+        "finding": "Positive",
+        "tier": "Tier IA"
+      }
+    ],
+    "tumorType": "Pancreatic Cancer",
+    "specimen": "Bone marrow aspirate",
+    "reviewedBy": null,
+    "turnaroundDays": 6,
+    "hasTrialMatch": true
+  }
+]

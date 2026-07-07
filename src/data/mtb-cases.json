@@ -1,0 +1,2143 @@
+[
+  {
+    "id": "MTB-0001",
+    "patientId": "PT-0080",
+    "patientName": "Anil Rao",
+    "cancerType": "Leukemia",
+    "stage": "Low risk",
+    "status": "Scheduled",
+    "scheduledDate": "2026-07-24",
+    "priorTreatments": [
+      "Imatinib",
+      "Dasatinib"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "BCR-ABL1",
+        "result": "Detected",
+        "actionability": "FDA-approved therapy"
+      },
+      {
+        "marker": "FLT3-ITD",
+        "result": "Detected",
+        "actionability": "FDA-approved therapy"
+      }
+    ],
+    "clinicalQuestions": [
+      "Sequencing of targeted vs immunotherapy?",
+      "Role of local therapy alongside systemic treatment?",
+      "Germline implications and cascade testing?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Midostaurin + 7+3",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "Matches driver alteration"
+      },
+      {
+        "therapy": "Dasatinib",
+        "evidenceLevel": "Level 1 (guideline)",
+        "rationale": "Matches driver alteration"
+      },
+      {
+        "therapy": "Imatinib",
+        "evidenceLevel": "Level 1 (guideline)",
+        "rationale": "Emerging biomarker match"
+      }
+    ],
+    "evidenceSummary": "Guideline-concordant options exist for the identified driver; trial enrollment strengthens the plan.",
+    "recommendation": "Proceed with immunotherapy combination; restage at 8 weeks.",
+    "panel": [
+      "Dr. Kavya Malhotra",
+      "Dr. Radha Chatterjee",
+      "Dr. Manoj Nair",
+      "Dr. Latha Joshi",
+      "Dr. Gopal Iyer"
+    ]
+  },
+  {
+    "id": "MTB-0002",
+    "patientId": "PT-0093",
+    "patientName": "Deepa Malhotra",
+    "cancerType": "Pancreatic Cancer",
+    "stage": "IV",
+    "status": "Scheduled",
+    "scheduledDate": "2026-08-15",
+    "priorTreatments": [
+      "FOLFIRINOX"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "MSI-high",
+        "result": "Positive",
+        "actionability": "Investigational"
+      },
+      {
+        "marker": "HRD positive",
+        "result": "Detected",
+        "actionability": "Investigational"
+      },
+      {
+        "marker": "KRAS G12C",
+        "result": "Amplified",
+        "actionability": "Investigational"
+      }
+    ],
+    "clinicalQuestions": [
+      "Role of local therapy alongside systemic treatment?",
+      "Trial eligibility for the identified alteration?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Olaparib maintenance",
+        "evidenceLevel": "Level 2B",
+        "rationale": "Matches driver alteration"
+      },
+      {
+        "therapy": "FOLFIRINOX",
+        "evidenceLevel": "Level 2A",
+        "rationale": "Emerging biomarker match"
+      },
+      {
+        "therapy": "Gemcitabine + Nab-paclitaxel",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "Phase III benefit"
+      }
+    ],
+    "evidenceSummary": "Molecular profile supports targeted therapy with category 1 evidence; monitor for resistance.",
+    "recommendation": "Initiate matched targeted therapy; screen for trial in parallel.",
+    "panel": [
+      "Dr. Pooja Gupta",
+      "Dr. Kavya Malhotra",
+      "Dr. Manoj Mehta"
+    ]
+  },
+  {
+    "id": "MTB-0003",
+    "patientId": "PT-0022",
+    "patientName": "Deepak Verma",
+    "cancerType": "Leukemia",
+    "stage": "Intermediate risk",
+    "status": "Scheduled",
+    "scheduledDate": "2026-08-03",
+    "priorTreatments": [
+      "Midostaurin + 7+3"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "FLT3-ITD",
+        "result": "Positive",
+        "actionability": "FDA-approved therapy"
+      },
+      {
+        "marker": "IDH1/2",
+        "result": "Detected",
+        "actionability": "Clinical trial option"
+      },
+      {
+        "marker": "TP53",
+        "result": "Amplified",
+        "actionability": "FDA-approved therapy"
+      }
+    ],
+    "clinicalQuestions": [
+      "Role of local therapy alongside systemic treatment?",
+      "Sequencing of targeted vs immunotherapy?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Dasatinib",
+        "evidenceLevel": "Level 2A",
+        "rationale": "NCCN category 1"
+      },
+      {
+        "therapy": "Imatinib",
+        "evidenceLevel": "Level 2B",
+        "rationale": "NCCN category 1"
+      }
+    ],
+    "evidenceSummary": "Limited standard options; investigational and trial pathways recommended.",
+    "recommendation": null,
+    "panel": [
+      "Dr. Rekha Shetty",
+      "Dr. Lakshmi Gupta",
+      "Dr. Radha Reddy",
+      "Dr. Shreya Desai"
+    ]
+  },
+  {
+    "id": "MTB-0004",
+    "patientId": "PT-0069",
+    "patientName": "Sushma Kapoor",
+    "cancerType": "Gastric Cancer",
+    "stage": "IVA",
+    "status": "Recommendation Finalized",
+    "scheduledDate": "2026-08-04",
+    "priorTreatments": [
+      "Nivolumab + FOLFOX"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "HER2 amplification",
+        "result": "Detected",
+        "actionability": "Investigational"
+      },
+      {
+        "marker": "MSI-high",
+        "result": "Detected",
+        "actionability": "Clinical trial option"
+      }
+    ],
+    "clinicalQuestions": [
+      "Germline implications and cascade testing?",
+      "Optimal next-line therapy given resistance?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Nivolumab + FOLFOX",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "Phase III benefit"
+      },
+      {
+        "therapy": "Trastuzumab + FOLFOX",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "Phase III benefit"
+      }
+    ],
+    "evidenceSummary": "Guideline-concordant options exist for the identified driver; trial enrollment strengthens the plan.",
+    "recommendation": "Refer for clinical trial; bridge with standard regimen.",
+    "panel": [
+      "Dr. Nisha Rao",
+      "Dr. Naveen Shetty",
+      "Dr. Rekha Sharma"
+    ]
+  },
+  {
+    "id": "MTB-0005",
+    "patientId": "PT-0066",
+    "patientName": "Vikram Kumar",
+    "cancerType": "Pancreatic Cancer",
+    "stage": "IVA",
+    "status": "Scheduled",
+    "scheduledDate": "2026-08-23",
+    "priorTreatments": [
+      "FOLFIRINOX",
+      "Gemcitabine + Nab-paclitaxel"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "BRCA1/2",
+        "result": "Detected",
+        "actionability": "Investigational"
+      },
+      {
+        "marker": "HRD positive",
+        "result": "Positive",
+        "actionability": "Off-label evidence"
+      }
+    ],
+    "clinicalQuestions": [
+      "Trial eligibility for the identified alteration?",
+      "Germline implications and cascade testing?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "FOLFIRINOX",
+        "evidenceLevel": "Level 2B",
+        "rationale": "Phase III benefit"
+      },
+      {
+        "therapy": "Olaparib maintenance",
+        "evidenceLevel": "Level 2A",
+        "rationale": "Phase III benefit"
+      }
+    ],
+    "evidenceSummary": "Guideline-concordant options exist for the identified driver; trial enrollment strengthens the plan.",
+    "recommendation": "Initiate matched targeted therapy; screen for trial in parallel.",
+    "panel": [
+      "Dr. Meera Shetty",
+      "Dr. Rekha Kumar",
+      "Dr. Sunita Gupta",
+      "Dr. Rekha Shetty"
+    ]
+  },
+  {
+    "id": "MTB-0006",
+    "patientId": "PT-0065",
+    "patientName": "Naveen Nair",
+    "cancerType": "Breast Cancer",
+    "stage": "IIA",
+    "status": "Pending",
+    "scheduledDate": "2026-07-18",
+    "priorTreatments": [
+      "Trastuzumab deruxtecan"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "HRD positive",
+        "result": "Positive",
+        "actionability": "Investigational"
+      },
+      {
+        "marker": "BRCA1/2",
+        "result": "Detected",
+        "actionability": "FDA-approved therapy"
+      }
+    ],
+    "clinicalQuestions": [
+      "Optimal next-line therapy given resistance?",
+      "Role of local therapy alongside systemic treatment?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Trastuzumab deruxtecan",
+        "evidenceLevel": "Level 1 (guideline)",
+        "rationale": "Matches driver alteration"
+      },
+      {
+        "therapy": "AC-T + Trastuzumab",
+        "evidenceLevel": "Level 1 (guideline)",
+        "rationale": "Phase III benefit"
+      }
+    ],
+    "evidenceSummary": "Limited standard options; investigational and trial pathways recommended.",
+    "recommendation": "Refer for clinical trial; bridge with standard regimen.",
+    "panel": [
+      "Dr. Latha Iyer",
+      "Dr. Priya Iyer",
+      "Dr. Sunita Gupta",
+      "Dr. Shreya Rao"
+    ]
+  },
+  {
+    "id": "MTB-0007",
+    "patientId": "PT-0020",
+    "patientName": "Sanjay Verma",
+    "cancerType": "Gastric Cancer",
+    "stage": "IIIB",
+    "status": "Discussed",
+    "scheduledDate": "2026-07-25",
+    "priorTreatments": [
+      "Trastuzumab deruxtecan"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "MSI-high",
+        "result": "Detected",
+        "actionability": "Investigational"
+      },
+      {
+        "marker": "PD-L1 TPS",
+        "result": "≥50% TPS",
+        "actionability": "Investigational"
+      },
+      {
+        "marker": "TMB-high",
+        "result": "Positive",
+        "actionability": "Clinical trial option"
+      }
+    ],
+    "clinicalQuestions": [
+      "Sequencing of targeted vs immunotherapy?",
+      "Trial eligibility for the identified alteration?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "FLOT",
+        "evidenceLevel": "Level 2B",
+        "rationale": "Emerging biomarker match"
+      },
+      {
+        "therapy": "Nivolumab + FOLFOX",
+        "evidenceLevel": "Level 2A",
+        "rationale": "NCCN category 1"
+      }
+    ],
+    "evidenceSummary": "Limited standard options; investigational and trial pathways recommended.",
+    "recommendation": null,
+    "panel": [
+      "Dr. Rekha Kumar",
+      "Dr. Radha Reddy",
+      "Dr. Manoj Nair"
+    ]
+  },
+  {
+    "id": "MTB-0008",
+    "patientId": "PT-0011",
+    "patientName": "Rajesh Menon",
+    "cancerType": "NSCLC",
+    "stage": "II",
+    "status": "Pending",
+    "scheduledDate": "2026-07-21",
+    "priorTreatments": [
+      "Carboplatin/Pemetrexed",
+      "Pembrolizumab + Carboplatin/Pemetrexed"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "ROS1 fusion",
+        "result": "Detected",
+        "actionability": "FDA-approved therapy"
+      },
+      {
+        "marker": "KRAS G12C",
+        "result": "Amplified",
+        "actionability": "FDA-approved therapy"
+      },
+      {
+        "marker": "TMB-high",
+        "result": "Amplified",
+        "actionability": "Clinical trial option"
+      }
+    ],
+    "clinicalQuestions": [
+      "Sequencing of targeted vs immunotherapy?",
+      "Optimal next-line therapy given resistance?",
+      "Role of local therapy alongside systemic treatment?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Pembrolizumab + Carboplatin/Pemetrexed",
+        "evidenceLevel": "Level 1 (guideline)",
+        "rationale": "Emerging biomarker match"
+      },
+      {
+        "therapy": "Durvalumab maintenance",
+        "evidenceLevel": "Level 2A",
+        "rationale": "Matches driver alteration"
+      }
+    ],
+    "evidenceSummary": "Limited standard options; investigational and trial pathways recommended.",
+    "recommendation": null,
+    "panel": [
+      "Dr. Arjun Menon",
+      "Dr. Latha Iyer",
+      "Dr. Manoj Nair"
+    ]
+  },
+  {
+    "id": "MTB-0009",
+    "patientId": "PT-0007",
+    "patientName": "Ananya Pillai",
+    "cancerType": "Leukemia",
+    "stage": "Relapsed",
+    "status": "Pending",
+    "scheduledDate": "2026-07-19",
+    "priorTreatments": [
+      "Venetoclax + Azacitidine",
+      "Imatinib"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "NPM1",
+        "result": "Positive",
+        "actionability": "Off-label evidence"
+      },
+      {
+        "marker": "TP53",
+        "result": "Amplified",
+        "actionability": "Investigational"
+      }
+    ],
+    "clinicalQuestions": [
+      "Germline implications and cascade testing?",
+      "Optimal next-line therapy given resistance?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Midostaurin + 7+3",
+        "evidenceLevel": "Level 2A",
+        "rationale": "Emerging biomarker match"
+      },
+      {
+        "therapy": "Dasatinib",
+        "evidenceLevel": "Level 1 (guideline)",
+        "rationale": "NCCN category 1"
+      }
+    ],
+    "evidenceSummary": "Limited standard options; investigational and trial pathways recommended.",
+    "recommendation": null,
+    "panel": [
+      "Dr. Gopal Iyer",
+      "Dr. Radha Chatterjee",
+      "Dr. Vikram Shetty",
+      "Dr. Radha Reddy"
+    ]
+  },
+  {
+    "id": "MTB-0010",
+    "patientId": "PT-0076",
+    "patientName": "Geetha Joshi",
+    "cancerType": "Colorectal Cancer",
+    "stage": "IVA",
+    "status": "Discussed",
+    "scheduledDate": "2026-07-31",
+    "priorTreatments": [
+      "FOLFOX + Bevacizumab"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "TMB-high",
+        "result": "Amplified",
+        "actionability": "FDA-approved therapy"
+      },
+      {
+        "marker": "HER2 amplification",
+        "result": "Detected",
+        "actionability": "Clinical trial option"
+      }
+    ],
+    "clinicalQuestions": [
+      "Role of local therapy alongside systemic treatment?",
+      "Trial eligibility for the identified alteration?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "FOLFIRI + Cetuximab",
+        "evidenceLevel": "Level 2B",
+        "rationale": "NCCN category 1"
+      },
+      {
+        "therapy": "FOLFOX + Bevacizumab",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "Phase III benefit"
+      }
+    ],
+    "evidenceSummary": "Guideline-concordant options exist for the identified driver; trial enrollment strengthens the plan.",
+    "recommendation": null,
+    "panel": [
+      "Dr. Naveen Shetty",
+      "Dr. Karthik Pillai",
+      "Dr. Sunita Gupta"
+    ]
+  },
+  {
+    "id": "MTB-0011",
+    "patientId": "PT-0010",
+    "patientName": "Ashok Desai",
+    "cancerType": "Pancreatic Cancer",
+    "stage": "IV",
+    "status": "Scheduled",
+    "scheduledDate": "2026-08-29",
+    "priorTreatments": [
+      "Gemcitabine + Nab-paclitaxel"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "HRD positive",
+        "result": "Amplified",
+        "actionability": "Clinical trial option"
+      },
+      {
+        "marker": "KRAS G12C",
+        "result": "Detected",
+        "actionability": "Off-label evidence"
+      }
+    ],
+    "clinicalQuestions": [
+      "Germline implications and cascade testing?",
+      "Sequencing of targeted vs immunotherapy?",
+      "Trial eligibility for the identified alteration?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Olaparib maintenance",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "Matches driver alteration"
+      },
+      {
+        "therapy": "FOLFIRINOX",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "NCCN category 1"
+      }
+    ],
+    "evidenceSummary": "Guideline-concordant options exist for the identified driver; trial enrollment strengthens the plan.",
+    "recommendation": null,
+    "panel": [
+      "Dr. Harish Verma",
+      "Dr. Rekha Shetty",
+      "Dr. Lakshmi Gupta",
+      "Dr. Rekha Kumar"
+    ]
+  },
+  {
+    "id": "MTB-0012",
+    "patientId": "PT-0079",
+    "patientName": "Gopal Iyer",
+    "cancerType": "Gastric Cancer",
+    "stage": "IIIA",
+    "status": "Scheduled",
+    "scheduledDate": "2026-08-20",
+    "priorTreatments": [
+      "Trastuzumab deruxtecan"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "TMB-high",
+        "result": "Positive",
+        "actionability": "FDA-approved therapy"
+      },
+      {
+        "marker": "HER2 amplification",
+        "result": "Positive",
+        "actionability": "Clinical trial option"
+      }
+    ],
+    "clinicalQuestions": [
+      "Germline implications and cascade testing?",
+      "Optimal next-line therapy given resistance?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Trastuzumab + FOLFOX",
+        "evidenceLevel": "Level 2B",
+        "rationale": "Emerging biomarker match"
+      },
+      {
+        "therapy": "FLOT",
+        "evidenceLevel": "Level 2A",
+        "rationale": "NCCN category 1"
+      },
+      {
+        "therapy": "Trastuzumab deruxtecan",
+        "evidenceLevel": "Level 1 (guideline)",
+        "rationale": "Emerging biomarker match"
+      }
+    ],
+    "evidenceSummary": "Limited standard options; investigational and trial pathways recommended.",
+    "recommendation": null,
+    "panel": [
+      "Dr. Harish Verma",
+      "Dr. Sunita Gupta",
+      "Dr. Radha Chatterjee",
+      "Dr. Pooja Gupta",
+      "Dr. Arjun Menon"
+    ]
+  },
+  {
+    "id": "MTB-0013",
+    "patientId": "PT-0004",
+    "patientName": "Prakash Joshi",
+    "cancerType": "NSCLC",
+    "stage": "IIIA",
+    "status": "Pending",
+    "scheduledDate": "2026-07-17",
+    "priorTreatments": [
+      "Pembrolizumab + Carboplatin/Pemetrexed",
+      "Durvalumab maintenance"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "ALK fusion",
+        "result": "Positive",
+        "actionability": "Off-label evidence"
+      },
+      {
+        "marker": "KRAS G12C",
+        "result": "Detected",
+        "actionability": "Clinical trial option"
+      }
+    ],
+    "clinicalQuestions": [
+      "Sequencing of targeted vs immunotherapy?",
+      "Trial eligibility for the identified alteration?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Osimertinib",
+        "evidenceLevel": "Level 2B",
+        "rationale": "Matches driver alteration"
+      },
+      {
+        "therapy": "Carboplatin/Pemetrexed",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "Emerging biomarker match"
+      }
+    ],
+    "evidenceSummary": "Molecular profile supports targeted therapy with category 1 evidence; monitor for resistance.",
+    "recommendation": "Proceed with immunotherapy combination; restage at 8 weeks.",
+    "panel": [
+      "Dr. Shreya Desai",
+      "Dr. Vidya Kapoor",
+      "Dr. Arjun Menon",
+      "Dr. Rekha Sharma",
+      "Dr. Pooja Gupta"
+    ]
+  },
+  {
+    "id": "MTB-0014",
+    "patientId": "PT-0019",
+    "patientName": "Kavya Kumar",
+    "cancerType": "Ovarian Cancer",
+    "stage": "IV",
+    "status": "Pending",
+    "scheduledDate": "2026-08-05",
+    "priorTreatments": [
+      "Niraparib maintenance"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "HRD positive",
+        "result": "Detected",
+        "actionability": "Off-label evidence"
+      },
+      {
+        "marker": "BRCA1/2",
+        "result": "Detected",
+        "actionability": "Investigational"
+      }
+    ],
+    "clinicalQuestions": [
+      "Germline implications and cascade testing?",
+      "Optimal next-line therapy given resistance?",
+      "Role of local therapy alongside systemic treatment?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Olaparib maintenance",
+        "evidenceLevel": "Level 2A",
+        "rationale": "NCCN category 1"
+      },
+      {
+        "therapy": "Niraparib maintenance",
+        "evidenceLevel": "Level 2B",
+        "rationale": "NCCN category 1"
+      }
+    ],
+    "evidenceSummary": "Guideline-concordant options exist for the identified driver; trial enrollment strengthens the plan.",
+    "recommendation": "Proceed with immunotherapy combination; restage at 8 weeks.",
+    "panel": [
+      "Dr. Harish Verma",
+      "Dr. Gopal Patel",
+      "Dr. Karthik Pillai",
+      "Dr. Kavya Malhotra"
+    ]
+  },
+  {
+    "id": "MTB-0015",
+    "patientId": "PT-0090",
+    "patientName": "Vivek Joshi",
+    "cancerType": "Melanoma",
+    "stage": "IVA",
+    "status": "Discussed",
+    "scheduledDate": "2026-08-19",
+    "priorTreatments": [
+      "Encorafenib + Binimetinib",
+      "Dabrafenib + Trametinib"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "PD-L1 TPS",
+        "result": "≥50% TPS",
+        "actionability": "Clinical trial option"
+      },
+      {
+        "marker": "MSI-high",
+        "result": "Detected",
+        "actionability": "Investigational"
+      }
+    ],
+    "clinicalQuestions": [
+      "Sequencing of targeted vs immunotherapy?",
+      "Germline implications and cascade testing?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Dabrafenib + Trametinib",
+        "evidenceLevel": "Level 2A",
+        "rationale": "Matches driver alteration"
+      },
+      {
+        "therapy": "Encorafenib + Binimetinib",
+        "evidenceLevel": "Level 2B",
+        "rationale": "Matches driver alteration"
+      },
+      {
+        "therapy": "Nivolumab + Ipilimumab",
+        "evidenceLevel": "Level 2A",
+        "rationale": "Matches driver alteration"
+      }
+    ],
+    "evidenceSummary": "Guideline-concordant options exist for the identified driver; trial enrollment strengthens the plan.",
+    "recommendation": "Refer for clinical trial; bridge with standard regimen.",
+    "panel": [
+      "Dr. Radha Chatterjee",
+      "Dr. Latha Joshi",
+      "Dr. Kavya Malhotra",
+      "Dr. Rekha Kumar",
+      "Dr. Manoj Mehta"
+    ]
+  },
+  {
+    "id": "MTB-0016",
+    "patientId": "PT-0052",
+    "patientName": "Vikram Mehta",
+    "cancerType": "NSCLC",
+    "stage": "IIA",
+    "status": "Scheduled",
+    "scheduledDate": "2026-07-21",
+    "priorTreatments": [
+      "Durvalumab maintenance",
+      "Alectinib"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "ROS1 fusion",
+        "result": "Positive",
+        "actionability": "Investigational"
+      },
+      {
+        "marker": "ALK fusion",
+        "result": "Amplified",
+        "actionability": "Clinical trial option"
+      }
+    ],
+    "clinicalQuestions": [
+      "Sequencing of targeted vs immunotherapy?",
+      "Role of local therapy alongside systemic treatment?",
+      "Optimal next-line therapy given resistance?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Pembrolizumab + Carboplatin/Pemetrexed",
+        "evidenceLevel": "Level 2A",
+        "rationale": "NCCN category 1"
+      },
+      {
+        "therapy": "Sotorasib",
+        "evidenceLevel": "Level 2B",
+        "rationale": "NCCN category 1"
+      },
+      {
+        "therapy": "Osimertinib",
+        "evidenceLevel": "Level 2A",
+        "rationale": "Phase III benefit"
+      }
+    ],
+    "evidenceSummary": "Guideline-concordant options exist for the identified driver; trial enrollment strengthens the plan.",
+    "recommendation": "Refer for clinical trial; bridge with standard regimen.",
+    "panel": [
+      "Dr. Rekha Shetty",
+      "Dr. Manoj Nair",
+      "Dr. Pooja Gupta",
+      "Dr. Latha Joshi",
+      "Dr. Radha Reddy"
+    ]
+  },
+  {
+    "id": "MTB-0017",
+    "patientId": "PT-0023",
+    "patientName": "Vivek Joshi",
+    "cancerType": "Multiple Myeloma",
+    "stage": "Low risk",
+    "status": "Recommendation Finalized",
+    "scheduledDate": "2026-07-11",
+    "priorTreatments": [
+      "DaraVRd"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "1q gain",
+        "result": "Detected",
+        "actionability": "Investigational"
+      },
+      {
+        "marker": "t(11;14)",
+        "result": "Amplified",
+        "actionability": "Investigational"
+      }
+    ],
+    "clinicalQuestions": [
+      "Germline implications and cascade testing?",
+      "Sequencing of targeted vs immunotherapy?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Carfilzomib-based",
+        "evidenceLevel": "Level 1 (guideline)",
+        "rationale": "Emerging biomarker match"
+      },
+      {
+        "therapy": "VRd",
+        "evidenceLevel": "Level 2B",
+        "rationale": "NCCN category 1"
+      }
+    ],
+    "evidenceSummary": "Guideline-concordant options exist for the identified driver; trial enrollment strengthens the plan.",
+    "recommendation": "Initiate matched targeted therapy; screen for trial in parallel.",
+    "panel": [
+      "Dr. Vikram Sharma",
+      "Dr. Pooja Gupta",
+      "Dr. Harish Verma",
+      "Dr. Arjun Rao",
+      "Dr. Vidya Kapoor"
+    ]
+  },
+  {
+    "id": "MTB-0018",
+    "patientId": "PT-0067",
+    "patientName": "Kavya Malhotra",
+    "cancerType": "NSCLC",
+    "stage": "IIIA",
+    "status": "Pending",
+    "scheduledDate": "2026-07-20",
+    "priorTreatments": [
+      "Alectinib",
+      "Carboplatin/Pemetrexed"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "EGFR L858R",
+        "result": "Detected",
+        "actionability": "Clinical trial option"
+      },
+      {
+        "marker": "PD-L1 TPS",
+        "result": "≥50% TPS",
+        "actionability": "Off-label evidence"
+      }
+    ],
+    "clinicalQuestions": [
+      "Role of local therapy alongside systemic treatment?",
+      "Germline implications and cascade testing?",
+      "Sequencing of targeted vs immunotherapy?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Sotorasib",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "Matches driver alteration"
+      },
+      {
+        "therapy": "Durvalumab maintenance",
+        "evidenceLevel": "Level 2B",
+        "rationale": "Emerging biomarker match"
+      }
+    ],
+    "evidenceSummary": "Limited standard options; investigational and trial pathways recommended.",
+    "recommendation": null,
+    "panel": [
+      "Dr. Meera Shetty",
+      "Dr. Radha Chatterjee",
+      "Dr. Rekha Sharma",
+      "Dr. Priya Iyer",
+      "Dr. Harish Verma"
+    ]
+  },
+  {
+    "id": "MTB-0019",
+    "patientId": "PT-0064",
+    "patientName": "Nikhil Pillai",
+    "cancerType": "Head and Neck Cancer",
+    "stage": "II",
+    "status": "Discussed",
+    "scheduledDate": "2026-08-15",
+    "priorTreatments": [
+      "Nivolumab"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "PD-L1 TPS",
+        "result": "≥50% TPS",
+        "actionability": "Investigational"
+      },
+      {
+        "marker": "TMB-high",
+        "result": "Amplified",
+        "actionability": "Investigational"
+      },
+      {
+        "marker": "MSI-high",
+        "result": "Positive",
+        "actionability": "Investigational"
+      }
+    ],
+    "clinicalQuestions": [
+      "Sequencing of targeted vs immunotherapy?",
+      "Germline implications and cascade testing?",
+      "Optimal next-line therapy given resistance?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Nivolumab",
+        "evidenceLevel": "Level 2B",
+        "rationale": "Phase III benefit"
+      },
+      {
+        "therapy": "Cetuximab + RT",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "Emerging biomarker match"
+      }
+    ],
+    "evidenceSummary": "Molecular profile supports targeted therapy with category 1 evidence; monitor for resistance.",
+    "recommendation": "Refer for clinical trial; bridge with standard regimen.",
+    "panel": [
+      "Dr. Karthik Pillai",
+      "Dr. Naveen Shetty",
+      "Dr. Manoj Mehta",
+      "Dr. Manoj Nair"
+    ]
+  },
+  {
+    "id": "MTB-0020",
+    "patientId": "PT-0084",
+    "patientName": "Vidya Gupta",
+    "cancerType": "Colorectal Cancer",
+    "stage": "IIIA",
+    "status": "Pending",
+    "scheduledDate": "2026-08-16",
+    "priorTreatments": [
+      "FOLFIRI + Cetuximab",
+      "Pembrolizumab (MSI-H)"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "KRAS G12C",
+        "result": "Detected",
+        "actionability": "Clinical trial option"
+      },
+      {
+        "marker": "MSI-high",
+        "result": "Positive",
+        "actionability": "Off-label evidence"
+      },
+      {
+        "marker": "TMB-high",
+        "result": "Detected",
+        "actionability": "FDA-approved therapy"
+      }
+    ],
+    "clinicalQuestions": [
+      "Sequencing of targeted vs immunotherapy?",
+      "Trial eligibility for the identified alteration?",
+      "Germline implications and cascade testing?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Pembrolizumab (MSI-H)",
+        "evidenceLevel": "Level 2B",
+        "rationale": "Emerging biomarker match"
+      },
+      {
+        "therapy": "Encorafenib + Cetuximab",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "Phase III benefit"
+      },
+      {
+        "therapy": "FOLFOX + Bevacizumab",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "Phase III benefit"
+      }
+    ],
+    "evidenceSummary": "Guideline-concordant options exist for the identified driver; trial enrollment strengthens the plan.",
+    "recommendation": "Initiate matched targeted therapy; screen for trial in parallel.",
+    "panel": [
+      "Dr. Rekha Shetty",
+      "Dr. Nisha Rao",
+      "Dr. Radha Chatterjee",
+      "Dr. Latha Joshi",
+      "Dr. Karthik Pillai"
+    ]
+  },
+  {
+    "id": "MTB-0021",
+    "patientId": "PT-0051",
+    "patientName": "Naveen Verma",
+    "cancerType": "Leukemia",
+    "stage": "Low risk",
+    "status": "Pending",
+    "scheduledDate": "2026-07-16",
+    "priorTreatments": [
+      "Venetoclax + Azacitidine",
+      "Imatinib"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "NPM1",
+        "result": "Amplified",
+        "actionability": "FDA-approved therapy"
+      },
+      {
+        "marker": "BCR-ABL1",
+        "result": "Amplified",
+        "actionability": "Off-label evidence"
+      },
+      {
+        "marker": "IDH1/2",
+        "result": "Detected",
+        "actionability": "FDA-approved therapy"
+      }
+    ],
+    "clinicalQuestions": [
+      "Role of local therapy alongside systemic treatment?",
+      "Optimal next-line therapy given resistance?",
+      "Germline implications and cascade testing?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Imatinib",
+        "evidenceLevel": "Level 2A",
+        "rationale": "Matches driver alteration"
+      },
+      {
+        "therapy": "Dasatinib",
+        "evidenceLevel": "Level 1 (guideline)",
+        "rationale": "NCCN category 1"
+      }
+    ],
+    "evidenceSummary": "Guideline-concordant options exist for the identified driver; trial enrollment strengthens the plan.",
+    "recommendation": "Proceed with immunotherapy combination; restage at 8 weeks.",
+    "panel": [
+      "Dr. Karthik Pillai",
+      "Dr. Lakshmi Gupta",
+      "Dr. Naveen Shetty",
+      "Dr. Manoj Mehta",
+      "Dr. Latha Joshi"
+    ]
+  },
+  {
+    "id": "MTB-0022",
+    "patientId": "PT-0018",
+    "patientName": "Nisha Shetty",
+    "cancerType": "Gastric Cancer",
+    "stage": "IIIA",
+    "status": "Recommendation Finalized",
+    "scheduledDate": "2026-07-25",
+    "priorTreatments": [
+      "Trastuzumab deruxtecan",
+      "Trastuzumab + FOLFOX"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "MSI-high",
+        "result": "Amplified",
+        "actionability": "Off-label evidence"
+      },
+      {
+        "marker": "PD-L1 TPS",
+        "result": "1-49% TPS",
+        "actionability": "Clinical trial option"
+      }
+    ],
+    "clinicalQuestions": [
+      "Sequencing of targeted vs immunotherapy?",
+      "Germline implications and cascade testing?",
+      "Trial eligibility for the identified alteration?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Trastuzumab deruxtecan",
+        "evidenceLevel": "Level 2B",
+        "rationale": "Matches driver alteration"
+      },
+      {
+        "therapy": "Trastuzumab + FOLFOX",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "NCCN category 1"
+      },
+      {
+        "therapy": "Nivolumab + FOLFOX",
+        "evidenceLevel": "Level 2A",
+        "rationale": "Matches driver alteration"
+      }
+    ],
+    "evidenceSummary": "Molecular profile supports targeted therapy with category 1 evidence; monitor for resistance.",
+    "recommendation": null,
+    "panel": [
+      "Dr. Radha Chatterjee",
+      "Dr. Harish Verma",
+      "Dr. Latha Iyer",
+      "Dr. Pooja Gupta",
+      "Dr. Vikram Sharma"
+    ]
+  },
+  {
+    "id": "MTB-0023",
+    "patientId": "PT-0010",
+    "patientName": "Ashok Desai",
+    "cancerType": "Pancreatic Cancer",
+    "stage": "IV",
+    "status": "Recommendation Finalized",
+    "scheduledDate": "2026-08-08",
+    "priorTreatments": [
+      "Gemcitabine + Nab-paclitaxel",
+      "Olaparib maintenance"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "BRCA1/2",
+        "result": "Amplified",
+        "actionability": "FDA-approved therapy"
+      },
+      {
+        "marker": "KRAS G12C",
+        "result": "Detected",
+        "actionability": "Off-label evidence"
+      },
+      {
+        "marker": "MSI-high",
+        "result": "Positive",
+        "actionability": "Clinical trial option"
+      }
+    ],
+    "clinicalQuestions": [
+      "Sequencing of targeted vs immunotherapy?",
+      "Optimal next-line therapy given resistance?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "FOLFIRINOX",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "Emerging biomarker match"
+      },
+      {
+        "therapy": "Olaparib maintenance",
+        "evidenceLevel": "Level 2B",
+        "rationale": "Phase III benefit"
+      },
+      {
+        "therapy": "Gemcitabine + Nab-paclitaxel",
+        "evidenceLevel": "Level 2A",
+        "rationale": "NCCN category 1"
+      }
+    ],
+    "evidenceSummary": "Limited standard options; investigational and trial pathways recommended.",
+    "recommendation": "Refer for clinical trial; bridge with standard regimen.",
+    "panel": [
+      "Dr. Pooja Gupta",
+      "Dr. Radha Reddy",
+      "Dr. Rekha Shetty",
+      "Dr. Pooja Gupta",
+      "Dr. Meera Shetty"
+    ]
+  },
+  {
+    "id": "MTB-0024",
+    "patientId": "PT-0067",
+    "patientName": "Kavya Malhotra",
+    "cancerType": "NSCLC",
+    "stage": "IIIA",
+    "status": "Scheduled",
+    "scheduledDate": "2026-08-12",
+    "priorTreatments": [
+      "Alectinib"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "ROS1 fusion",
+        "result": "Positive",
+        "actionability": "Off-label evidence"
+      },
+      {
+        "marker": "BRAF V600E",
+        "result": "Amplified",
+        "actionability": "Investigational"
+      },
+      {
+        "marker": "ALK fusion",
+        "result": "Amplified",
+        "actionability": "Investigational"
+      }
+    ],
+    "clinicalQuestions": [
+      "Sequencing of targeted vs immunotherapy?",
+      "Role of local therapy alongside systemic treatment?",
+      "Trial eligibility for the identified alteration?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Carboplatin/Pemetrexed",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "Matches driver alteration"
+      },
+      {
+        "therapy": "Durvalumab maintenance",
+        "evidenceLevel": "Level 2A",
+        "rationale": "Matches driver alteration"
+      }
+    ],
+    "evidenceSummary": "Molecular profile supports targeted therapy with category 1 evidence; monitor for resistance.",
+    "recommendation": null,
+    "panel": [
+      "Dr. Rekha Sharma",
+      "Dr. Kavya Malhotra",
+      "Dr. Manoj Nair",
+      "Dr. Gopal Patel"
+    ]
+  },
+  {
+    "id": "MTB-0025",
+    "patientId": "PT-0060",
+    "patientName": "Lakshmi Verma",
+    "cancerType": "Melanoma",
+    "stage": "IIIB",
+    "status": "Discussed",
+    "scheduledDate": "2026-08-09",
+    "priorTreatments": [
+      "Dabrafenib + Trametinib"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "BRAF V600E",
+        "result": "Amplified",
+        "actionability": "Clinical trial option"
+      },
+      {
+        "marker": "MSI-high",
+        "result": "Amplified",
+        "actionability": "Investigational"
+      },
+      {
+        "marker": "PD-L1 TPS",
+        "result": "≥50% TPS",
+        "actionability": "Clinical trial option"
+      }
+    ],
+    "clinicalQuestions": [
+      "Sequencing of targeted vs immunotherapy?",
+      "Role of local therapy alongside systemic treatment?",
+      "Germline implications and cascade testing?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Nivolumab + Ipilimumab",
+        "evidenceLevel": "Level 2B",
+        "rationale": "Emerging biomarker match"
+      },
+      {
+        "therapy": "Pembrolizumab",
+        "evidenceLevel": "Level 2A",
+        "rationale": "Matches driver alteration"
+      },
+      {
+        "therapy": "Encorafenib + Binimetinib",
+        "evidenceLevel": "Level 1 (guideline)",
+        "rationale": "NCCN category 1"
+      }
+    ],
+    "evidenceSummary": "Molecular profile supports targeted therapy with category 1 evidence; monitor for resistance.",
+    "recommendation": "Refer for clinical trial; bridge with standard regimen.",
+    "panel": [
+      "Dr. Meera Shetty",
+      "Dr. Rekha Kumar",
+      "Dr. Naveen Shetty",
+      "Dr. Shreya Desai",
+      "Dr. Pooja Gupta"
+    ]
+  },
+  {
+    "id": "MTB-0026",
+    "patientId": "PT-0066",
+    "patientName": "Vikram Kumar",
+    "cancerType": "Pancreatic Cancer",
+    "stage": "IVA",
+    "status": "Scheduled",
+    "scheduledDate": "2026-07-17",
+    "priorTreatments": [
+      "Olaparib maintenance",
+      "FOLFIRINOX"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "HRD positive",
+        "result": "Amplified",
+        "actionability": "Off-label evidence"
+      },
+      {
+        "marker": "MSI-high",
+        "result": "Detected",
+        "actionability": "FDA-approved therapy"
+      }
+    ],
+    "clinicalQuestions": [
+      "Trial eligibility for the identified alteration?",
+      "Role of local therapy alongside systemic treatment?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "FOLFIRINOX",
+        "evidenceLevel": "Level 1 (guideline)",
+        "rationale": "NCCN category 1"
+      },
+      {
+        "therapy": "Gemcitabine + Nab-paclitaxel",
+        "evidenceLevel": "Level 2B",
+        "rationale": "Phase III benefit"
+      },
+      {
+        "therapy": "Olaparib maintenance",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "Phase III benefit"
+      }
+    ],
+    "evidenceSummary": "Limited standard options; investigational and trial pathways recommended.",
+    "recommendation": null,
+    "panel": [
+      "Dr. Vikram Sharma",
+      "Dr. Radha Reddy",
+      "Dr. Vikram Shetty"
+    ]
+  },
+  {
+    "id": "MTB-0027",
+    "patientId": "PT-0064",
+    "patientName": "Nikhil Pillai",
+    "cancerType": "Head and Neck Cancer",
+    "stage": "II",
+    "status": "Discussed",
+    "scheduledDate": "2026-08-05",
+    "priorTreatments": [
+      "Nivolumab",
+      "Pembrolizumab + Chemo"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "TMB-high",
+        "result": "Positive",
+        "actionability": "Investigational"
+      },
+      {
+        "marker": "PD-L1 TPS",
+        "result": "1-49% TPS",
+        "actionability": "Clinical trial option"
+      }
+    ],
+    "clinicalQuestions": [
+      "Germline implications and cascade testing?",
+      "Role of local therapy alongside systemic treatment?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Cisplatin + RT",
+        "evidenceLevel": "Level 2B",
+        "rationale": "NCCN category 1"
+      },
+      {
+        "therapy": "Nivolumab",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "Phase III benefit"
+      },
+      {
+        "therapy": "Pembrolizumab + Chemo",
+        "evidenceLevel": "Level 1 (guideline)",
+        "rationale": "Matches driver alteration"
+      }
+    ],
+    "evidenceSummary": "Molecular profile supports targeted therapy with category 1 evidence; monitor for resistance.",
+    "recommendation": "Refer for clinical trial; bridge with standard regimen.",
+    "panel": [
+      "Dr. Gopal Iyer",
+      "Dr. Sanjay Pillai",
+      "Dr. Shreya Rao",
+      "Dr. Meera Shetty"
+    ]
+  },
+  {
+    "id": "MTB-0028",
+    "patientId": "PT-0060",
+    "patientName": "Lakshmi Verma",
+    "cancerType": "Melanoma",
+    "stage": "IIIB",
+    "status": "Pending",
+    "scheduledDate": "2026-07-15",
+    "priorTreatments": [
+      "Pembrolizumab",
+      "Encorafenib + Binimetinib"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "BRAF V600E",
+        "result": "Amplified",
+        "actionability": "Clinical trial option"
+      },
+      {
+        "marker": "TMB-high",
+        "result": "Amplified",
+        "actionability": "FDA-approved therapy"
+      }
+    ],
+    "clinicalQuestions": [
+      "Role of local therapy alongside systemic treatment?",
+      "Optimal next-line therapy given resistance?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Encorafenib + Binimetinib",
+        "evidenceLevel": "Level 2A",
+        "rationale": "Matches driver alteration"
+      },
+      {
+        "therapy": "Nivolumab + Ipilimumab",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "NCCN category 1"
+      }
+    ],
+    "evidenceSummary": "Guideline-concordant options exist for the identified driver; trial enrollment strengthens the plan.",
+    "recommendation": null,
+    "panel": [
+      "Dr. Shreya Rao",
+      "Dr. Pooja Gupta",
+      "Dr. Shreya Desai",
+      "Dr. Harish Verma"
+    ]
+  },
+  {
+    "id": "MTB-0029",
+    "patientId": "PT-0089",
+    "patientName": "Geetha Gupta",
+    "cancerType": "Breast Cancer",
+    "stage": "IIA",
+    "status": "Discussed",
+    "scheduledDate": "2026-08-23",
+    "priorTreatments": [
+      "T-DM1",
+      "AC-T + Trastuzumab"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "MSI-high",
+        "result": "Amplified",
+        "actionability": "Clinical trial option"
+      },
+      {
+        "marker": "PD-L1 TPS",
+        "result": "1-49% TPS",
+        "actionability": "Clinical trial option"
+      }
+    ],
+    "clinicalQuestions": [
+      "Germline implications and cascade testing?",
+      "Role of local therapy alongside systemic treatment?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "CDK4/6 inhibitor + AI",
+        "evidenceLevel": "Level 2A",
+        "rationale": "Phase III benefit"
+      },
+      {
+        "therapy": "AC-T + Trastuzumab",
+        "evidenceLevel": "Level 1 (guideline)",
+        "rationale": "NCCN category 1"
+      },
+      {
+        "therapy": "Olaparib",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "NCCN category 1"
+      }
+    ],
+    "evidenceSummary": "Guideline-concordant options exist for the identified driver; trial enrollment strengthens the plan.",
+    "recommendation": null,
+    "panel": [
+      "Dr. Sanjay Pillai",
+      "Dr. Shreya Desai",
+      "Dr. Rekha Kumar"
+    ]
+  },
+  {
+    "id": "MTB-0030",
+    "patientId": "PT-0064",
+    "patientName": "Nikhil Pillai",
+    "cancerType": "Head and Neck Cancer",
+    "stage": "II",
+    "status": "Recommendation Finalized",
+    "scheduledDate": "2026-08-02",
+    "priorTreatments": [
+      "Pembrolizumab + Chemo",
+      "Cisplatin + RT"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "TMB-high",
+        "result": "Positive",
+        "actionability": "FDA-approved therapy"
+      },
+      {
+        "marker": "MSI-high",
+        "result": "Amplified",
+        "actionability": "Off-label evidence"
+      }
+    ],
+    "clinicalQuestions": [
+      "Role of local therapy alongside systemic treatment?",
+      "Germline implications and cascade testing?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Cisplatin + RT",
+        "evidenceLevel": "Level 1 (guideline)",
+        "rationale": "Phase III benefit"
+      },
+      {
+        "therapy": "Pembrolizumab + Chemo",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "Matches driver alteration"
+      },
+      {
+        "therapy": "Nivolumab",
+        "evidenceLevel": "Level 2B",
+        "rationale": "Emerging biomarker match"
+      }
+    ],
+    "evidenceSummary": "Guideline-concordant options exist for the identified driver; trial enrollment strengthens the plan.",
+    "recommendation": null,
+    "panel": [
+      "Dr. Pooja Gupta",
+      "Dr. Arjun Menon",
+      "Dr. Shreya Rao",
+      "Dr. Sanjay Pillai"
+    ]
+  },
+  {
+    "id": "MTB-0031",
+    "patientId": "PT-0051",
+    "patientName": "Naveen Verma",
+    "cancerType": "Leukemia",
+    "stage": "Low risk",
+    "status": "Discussed",
+    "scheduledDate": "2026-07-25",
+    "priorTreatments": [
+      "Dasatinib"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "IDH1/2",
+        "result": "Amplified",
+        "actionability": "FDA-approved therapy"
+      },
+      {
+        "marker": "FLT3-ITD",
+        "result": "Positive",
+        "actionability": "FDA-approved therapy"
+      }
+    ],
+    "clinicalQuestions": [
+      "Sequencing of targeted vs immunotherapy?",
+      "Optimal next-line therapy given resistance?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Venetoclax + Azacitidine",
+        "evidenceLevel": "Level 2B",
+        "rationale": "Phase III benefit"
+      },
+      {
+        "therapy": "Imatinib",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "Emerging biomarker match"
+      },
+      {
+        "therapy": "Midostaurin + 7+3",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "Matches driver alteration"
+      }
+    ],
+    "evidenceSummary": "Molecular profile supports targeted therapy with category 1 evidence; monitor for resistance.",
+    "recommendation": "Initiate matched targeted therapy; screen for trial in parallel.",
+    "panel": [
+      "Dr. Manoj Nair",
+      "Dr. Sunita Gupta",
+      "Dr. Radha Chatterjee",
+      "Dr. Karthik Pillai",
+      "Dr. Gopal Iyer"
+    ]
+  },
+  {
+    "id": "MTB-0032",
+    "patientId": "PT-0079",
+    "patientName": "Gopal Iyer",
+    "cancerType": "Gastric Cancer",
+    "stage": "IIIA",
+    "status": "Recommendation Finalized",
+    "scheduledDate": "2026-08-21",
+    "priorTreatments": [
+      "Trastuzumab deruxtecan"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "HER2 amplification",
+        "result": "Positive",
+        "actionability": "Off-label evidence"
+      },
+      {
+        "marker": "MSI-high",
+        "result": "Amplified",
+        "actionability": "FDA-approved therapy"
+      },
+      {
+        "marker": "TMB-high",
+        "result": "Positive",
+        "actionability": "Clinical trial option"
+      }
+    ],
+    "clinicalQuestions": [
+      "Optimal next-line therapy given resistance?",
+      "Trial eligibility for the identified alteration?",
+      "Role of local therapy alongside systemic treatment?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "FLOT",
+        "evidenceLevel": "Level 2A",
+        "rationale": "Phase III benefit"
+      },
+      {
+        "therapy": "Nivolumab + FOLFOX",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "Phase III benefit"
+      }
+    ],
+    "evidenceSummary": "Molecular profile supports targeted therapy with category 1 evidence; monitor for resistance.",
+    "recommendation": null,
+    "panel": [
+      "Dr. Pooja Gupta",
+      "Dr. Vidya Kapoor",
+      "Dr. Sanjay Pillai"
+    ]
+  },
+  {
+    "id": "MTB-0033",
+    "patientId": "PT-0097",
+    "patientName": "Vikram Kumar",
+    "cancerType": "Pancreatic Cancer",
+    "stage": "IIB",
+    "status": "Recommendation Finalized",
+    "scheduledDate": "2026-07-31",
+    "priorTreatments": [
+      "Olaparib maintenance"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "BRCA1/2",
+        "result": "Positive",
+        "actionability": "Investigational"
+      },
+      {
+        "marker": "KRAS G12C",
+        "result": "Detected",
+        "actionability": "FDA-approved therapy"
+      }
+    ],
+    "clinicalQuestions": [
+      "Role of local therapy alongside systemic treatment?",
+      "Sequencing of targeted vs immunotherapy?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "FOLFIRINOX",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "NCCN category 1"
+      },
+      {
+        "therapy": "Olaparib maintenance",
+        "evidenceLevel": "Level 2A",
+        "rationale": "Emerging biomarker match"
+      },
+      {
+        "therapy": "Gemcitabine + Nab-paclitaxel",
+        "evidenceLevel": "Level 2A",
+        "rationale": "NCCN category 1"
+      }
+    ],
+    "evidenceSummary": "Limited standard options; investigational and trial pathways recommended.",
+    "recommendation": null,
+    "panel": [
+      "Dr. Lakshmi Gupta",
+      "Dr. Shreya Rao",
+      "Dr. Naveen Shetty",
+      "Dr. Nisha Rao",
+      "Dr. Kavya Malhotra"
+    ]
+  },
+  {
+    "id": "MTB-0034",
+    "patientId": "PT-0054",
+    "patientName": "Meera Nair",
+    "cancerType": "Breast Cancer",
+    "stage": "IIB",
+    "status": "Pending",
+    "scheduledDate": "2026-07-28",
+    "priorTreatments": [
+      "Olaparib"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "HRD positive",
+        "result": "Detected",
+        "actionability": "Off-label evidence"
+      },
+      {
+        "marker": "BRCA1/2",
+        "result": "Detected",
+        "actionability": "Clinical trial option"
+      }
+    ],
+    "clinicalQuestions": [
+      "Trial eligibility for the identified alteration?",
+      "Optimal next-line therapy given resistance?",
+      "Sequencing of targeted vs immunotherapy?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Trastuzumab deruxtecan",
+        "evidenceLevel": "Level 2B",
+        "rationale": "Phase III benefit"
+      },
+      {
+        "therapy": "Olaparib",
+        "evidenceLevel": "Level 1 (guideline)",
+        "rationale": "Emerging biomarker match"
+      }
+    ],
+    "evidenceSummary": "Limited standard options; investigational and trial pathways recommended.",
+    "recommendation": null,
+    "panel": [
+      "Dr. Karthik Pillai",
+      "Dr. Arjun Rao",
+      "Dr. Sunita Gupta",
+      "Dr. Gopal Iyer"
+    ]
+  },
+  {
+    "id": "MTB-0035",
+    "patientId": "PT-0061",
+    "patientName": "Naveen Nair",
+    "cancerType": "Leukemia",
+    "stage": "Low risk",
+    "status": "Discussed",
+    "scheduledDate": "2026-07-11",
+    "priorTreatments": [
+      "Venetoclax + Azacitidine",
+      "Imatinib"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "NPM1",
+        "result": "Detected",
+        "actionability": "Clinical trial option"
+      },
+      {
+        "marker": "FLT3-ITD",
+        "result": "Detected",
+        "actionability": "FDA-approved therapy"
+      },
+      {
+        "marker": "TP53",
+        "result": "Detected",
+        "actionability": "FDA-approved therapy"
+      }
+    ],
+    "clinicalQuestions": [
+      "Optimal next-line therapy given resistance?",
+      "Sequencing of targeted vs immunotherapy?",
+      "Germline implications and cascade testing?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Midostaurin + 7+3",
+        "evidenceLevel": "Level 2B",
+        "rationale": "Matches driver alteration"
+      },
+      {
+        "therapy": "Imatinib",
+        "evidenceLevel": "Level 1 (guideline)",
+        "rationale": "Matches driver alteration"
+      },
+      {
+        "therapy": "Dasatinib",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "Emerging biomarker match"
+      }
+    ],
+    "evidenceSummary": "Molecular profile supports targeted therapy with category 1 evidence; monitor for resistance.",
+    "recommendation": null,
+    "panel": [
+      "Dr. Meera Shetty",
+      "Dr. Arjun Menon",
+      "Dr. Vikram Sharma",
+      "Dr. Manoj Nair"
+    ]
+  },
+  {
+    "id": "MTB-0036",
+    "patientId": "PT-0009",
+    "patientName": "Latha Rao",
+    "cancerType": "Leukemia",
+    "stage": "Relapsed",
+    "status": "Recommendation Finalized",
+    "scheduledDate": "2026-07-19",
+    "priorTreatments": [
+      "Imatinib"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "NPM1",
+        "result": "Detected",
+        "actionability": "FDA-approved therapy"
+      },
+      {
+        "marker": "IDH1/2",
+        "result": "Positive",
+        "actionability": "Clinical trial option"
+      },
+      {
+        "marker": "BCR-ABL1",
+        "result": "Positive",
+        "actionability": "FDA-approved therapy"
+      }
+    ],
+    "clinicalQuestions": [
+      "Trial eligibility for the identified alteration?",
+      "Role of local therapy alongside systemic treatment?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Midostaurin + 7+3",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "NCCN category 1"
+      },
+      {
+        "therapy": "Venetoclax + Azacitidine",
+        "evidenceLevel": "Level 1 (guideline)",
+        "rationale": "Matches driver alteration"
+      },
+      {
+        "therapy": "Imatinib",
+        "evidenceLevel": "Level 2B",
+        "rationale": "NCCN category 1"
+      }
+    ],
+    "evidenceSummary": "Limited standard options; investigational and trial pathways recommended.",
+    "recommendation": null,
+    "panel": [
+      "Dr. Harish Verma",
+      "Dr. Meera Shetty",
+      "Dr. Sanjay Pillai"
+    ]
+  },
+  {
+    "id": "MTB-0037",
+    "patientId": "PT-0053",
+    "patientName": "Arjun Menon",
+    "cancerType": "NSCLC",
+    "stage": "II",
+    "status": "Recommendation Finalized",
+    "scheduledDate": "2026-07-23",
+    "priorTreatments": [
+      "Pembrolizumab + Carboplatin/Pemetrexed",
+      "Carboplatin/Pemetrexed"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "EGFR exon 19 deletion",
+        "result": "Amplified",
+        "actionability": "Clinical trial option"
+      },
+      {
+        "marker": "EGFR L858R",
+        "result": "Detected",
+        "actionability": "Clinical trial option"
+      },
+      {
+        "marker": "ALK fusion",
+        "result": "Detected",
+        "actionability": "Off-label evidence"
+      }
+    ],
+    "clinicalQuestions": [
+      "Sequencing of targeted vs immunotherapy?",
+      "Optimal next-line therapy given resistance?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Pembrolizumab + Carboplatin/Pemetrexed",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "NCCN category 1"
+      },
+      {
+        "therapy": "Carboplatin/Pemetrexed",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "Matches driver alteration"
+      },
+      {
+        "therapy": "Osimertinib",
+        "evidenceLevel": "Level 2B",
+        "rationale": "NCCN category 1"
+      }
+    ],
+    "evidenceSummary": "Guideline-concordant options exist for the identified driver; trial enrollment strengthens the plan.",
+    "recommendation": "Initiate matched targeted therapy; screen for trial in parallel.",
+    "panel": [
+      "Dr. Arjun Rao",
+      "Dr. Priya Iyer",
+      "Dr. Nisha Rao",
+      "Dr. Gopal Patel",
+      "Dr. Radha Reddy"
+    ]
+  },
+  {
+    "id": "MTB-0038",
+    "patientId": "PT-0099",
+    "patientName": "Deepak Desai",
+    "cancerType": "Head and Neck Cancer",
+    "stage": "IV",
+    "status": "Pending",
+    "scheduledDate": "2026-07-28",
+    "priorTreatments": [
+      "Cetuximab + RT"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "MSI-high",
+        "result": "Positive",
+        "actionability": "Investigational"
+      },
+      {
+        "marker": "TMB-high",
+        "result": "Positive",
+        "actionability": "Clinical trial option"
+      },
+      {
+        "marker": "PD-L1 TPS",
+        "result": "≥50% TPS",
+        "actionability": "FDA-approved therapy"
+      }
+    ],
+    "clinicalQuestions": [
+      "Role of local therapy alongside systemic treatment?",
+      "Trial eligibility for the identified alteration?",
+      "Optimal next-line therapy given resistance?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Cisplatin + RT",
+        "evidenceLevel": "Level 2B",
+        "rationale": "Emerging biomarker match"
+      },
+      {
+        "therapy": "Nivolumab",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "NCCN category 1"
+      },
+      {
+        "therapy": "Pembrolizumab + Chemo",
+        "evidenceLevel": "Level 2A",
+        "rationale": "Phase III benefit"
+      }
+    ],
+    "evidenceSummary": "Limited standard options; investigational and trial pathways recommended.",
+    "recommendation": "Refer for clinical trial; bridge with standard regimen.",
+    "panel": [
+      "Dr. Karthik Pillai",
+      "Dr. Rekha Kumar",
+      "Dr. Naveen Shetty",
+      "Dr. Harish Verma",
+      "Dr. Latha Joshi"
+    ]
+  },
+  {
+    "id": "MTB-0039",
+    "patientId": "PT-0091",
+    "patientName": "Divya Malhotra",
+    "cancerType": "Breast Cancer",
+    "stage": "II",
+    "status": "Recommendation Finalized",
+    "scheduledDate": "2026-08-23",
+    "priorTreatments": [
+      "CDK4/6 inhibitor + AI",
+      "Olaparib"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "MSI-high",
+        "result": "Positive",
+        "actionability": "Clinical trial option"
+      },
+      {
+        "marker": "BRCA1/2",
+        "result": "Amplified",
+        "actionability": "FDA-approved therapy"
+      }
+    ],
+    "clinicalQuestions": [
+      "Role of local therapy alongside systemic treatment?",
+      "Germline implications and cascade testing?",
+      "Sequencing of targeted vs immunotherapy?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "AC-T + Trastuzumab",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "Emerging biomarker match"
+      },
+      {
+        "therapy": "CDK4/6 inhibitor + AI",
+        "evidenceLevel": "Clinical trial",
+        "rationale": "Emerging biomarker match"
+      },
+      {
+        "therapy": "Trastuzumab deruxtecan",
+        "evidenceLevel": "Level 1 (guideline)",
+        "rationale": "NCCN category 1"
+      }
+    ],
+    "evidenceSummary": "Molecular profile supports targeted therapy with category 1 evidence; monitor for resistance.",
+    "recommendation": "Initiate matched targeted therapy; screen for trial in parallel.",
+    "panel": [
+      "Dr. Naveen Shetty",
+      "Dr. Shreya Desai",
+      "Dr. Pooja Gupta",
+      "Dr. Vikram Shetty",
+      "Dr. Radha Chatterjee"
+    ]
+  },
+  {
+    "id": "MTB-0040",
+    "patientId": "PT-0027",
+    "patientName": "Ashok Iyer",
+    "cancerType": "Colorectal Cancer",
+    "stage": "IVB",
+    "status": "Scheduled",
+    "scheduledDate": "2026-07-26",
+    "priorTreatments": [
+      "Encorafenib + Cetuximab",
+      "Pembrolizumab (MSI-H)"
+    ],
+    "molecularFindings": [
+      {
+        "marker": "KRAS G12C",
+        "result": "Detected",
+        "actionability": "Off-label evidence"
+      },
+      {
+        "marker": "MSI-high",
+        "result": "Positive",
+        "actionability": "Investigational"
+      }
+    ],
+    "clinicalQuestions": [
+      "Trial eligibility for the identified alteration?",
+      "Role of local therapy alongside systemic treatment?",
+      "Germline implications and cascade testing?"
+    ],
+    "treatmentOptions": [
+      {
+        "therapy": "Encorafenib + Cetuximab",
+        "evidenceLevel": "Level 2B",
+        "rationale": "Emerging biomarker match"
+      },
+      {
+        "therapy": "FOLFOX + Bevacizumab",
+        "evidenceLevel": "Level 2A",
+        "rationale": "NCCN category 1"
+      }
+    ],
+    "evidenceSummary": "Limited standard options; investigational and trial pathways recommended.",
+    "recommendation": "Initiate matched targeted therapy; screen for trial in parallel.",
+    "panel": [
+      "Dr. Pooja Gupta",
+      "Dr. Radha Chatterjee",
+      "Dr. Rekha Shetty"
+    ]
+  }
+]

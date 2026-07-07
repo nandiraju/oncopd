@@ -1,0 +1,178 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* LIGHT THEME (default) — soft lavender canvas, white cards, indigo + coral accents */
+  :root {
+    --radius: 2px;
+
+    --background: 240 44% 97%;
+    --foreground: 233 25% 22%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 233 25% 22%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 233 25% 22%;
+
+    --primary: 231 74% 62%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 240 40% 95%;
+    --secondary-foreground: 233 30% 30%;
+
+    --muted: 240 33% 96%;
+    --muted-foreground: 233 12% 52%;
+
+    --accent: 240 44% 95%;
+    --accent-foreground: 233 25% 22%;
+
+    --destructive: 4 84% 62%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 240 30% 91%;
+    --input: 240 30% 88%;
+    --ring: 231 74% 62%;
+
+    /* accent token (formerly gold) — now periwinkle indigo */
+    --gold: 231 74% 62%;
+    --gold-foreground: 0 0% 100%;
+    --gold-muted: 231 55% 78%;
+
+    /* warm secondary accent */
+    --coral: 4 92% 72%;
+    --coral-foreground: 0 0% 100%;
+
+    --navy: 233 46% 42%;
+    --navy-light: 240 40% 94%;
+    --navy-dark: 233 30% 24%;
+
+    --surface: 240 44% 98%;
+    --scrollbar: 240 22% 85%;
+
+    --success: 152 52% 42%;
+    --warning: 33 88% 52%;
+    --danger: 4 84% 62%;
+    --info: 231 74% 62%;
+  }
+
+  /* DARK THEME — lifted slate, not pure black */
+  .dark {
+    --background: 220 28% 14%;
+    --foreground: 210 32% 94%;
+
+    --card: 220 26% 18%;
+    --card-foreground: 210 32% 94%;
+
+    --popover: 220 27% 17%;
+    --popover-foreground: 210 32% 94%;
+
+    --primary: 231 82% 72%;
+    --primary-foreground: 233 40% 14%;
+
+    --secondary: 232 20% 24%;
+    --secondary-foreground: 226 32% 94%;
+
+    --muted: 232 20% 22%;
+    --muted-foreground: 226 18% 72%;
+
+    --accent: 232 20% 26%;
+    --accent-foreground: 226 32% 96%;
+
+    --destructive: 4 74% 60%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 232 18% 28%;
+    --input: 232 18% 30%;
+    --ring: 231 82% 72%;
+
+    --gold: 231 82% 72%;
+    --gold-foreground: 233 40% 14%;
+    --gold-muted: 231 40% 46%;
+
+    --coral: 4 86% 72%;
+    --coral-foreground: 233 40% 14%;
+
+    --navy: 232 24% 18%;
+    --navy-light: 232 20% 24%;
+    --navy-dark: 233 28% 12%;
+
+    --surface: 232 22% 20%;
+    --scrollbar: 232 18% 36%;
+
+    --success: 152 52% 56%;
+    --warning: 38 90% 64%;
+    --danger: 4 80% 66%;
+    --info: 231 82% 74%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  html,
+  body,
+  #root {
+    height: 100%;
+  }
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-feature-settings: "cv11", "ss01";
+    background-image:
+      radial-gradient(1100px 540px at 8% -12%, hsl(var(--gold) / 0.07), transparent),
+      radial-gradient(950px 520px at 100% -8%, hsl(var(--coral) / 0.07), transparent);
+    background-attachment: fixed;
+  }
+
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: hsl(var(--scrollbar));
+    border-radius: 6px;
+    border: 2px solid transparent;
+    background-clip: content-box;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: hsl(var(--muted-foreground) / 0.5);
+    background-clip: content-box;
+  }
+}
+
+@layer components {
+  .glass-panel {
+    @apply border border-border/70 bg-card/80 backdrop-blur-sm;
+  }
+  .gold-gradient-text {
+    background: linear-gradient(135deg, hsl(231 78% 62%), hsl(250 74% 60%));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .dark .gold-gradient-text {
+    background: linear-gradient(135deg, hsl(231 84% 74%), hsl(250 78% 74%));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .ai-panel {
+    @apply border border-gold/20;
+    background: hsl(var(--gold) / 0.06);
+  }
+  .coral-panel {
+    border: 1px solid hsl(var(--coral) / 0.22);
+    background: hsl(var(--coral) / 0.1);
+  }
+  .stat-glow {
+    box-shadow: 0 0 0 1px hsl(var(--gold) / 0.15), 0 12px 34px -14px hsl(var(--gold) / 0.32);
+  }
+  .card-shadow {
+    box-shadow: 0 1px 2px hsl(233 40% 30% / 0.04), 0 10px 30px -18px hsl(233 40% 30% / 0.16);
+  }
+}

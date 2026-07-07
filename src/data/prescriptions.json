@@ -1,0 +1,4076 @@
+[
+  {
+    "id": "RX-0001",
+    "patientId": "PT-0063",
+    "patientName": "Vidya Sharma",
+    "regimen": "R-CHOP q3w x6",
+    "intent": "Palliative",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 0,
+    "startDate": "2026-05-21",
+    "nextCycleDate": "2026-07-07",
+    "supportiveCare": [
+      "Allopurinol 300mg",
+      "Pantoprazole 40mg"
+    ],
+    "monitoringLabs": [
+      "CBC with differential",
+      "RFT"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "Completed",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0002",
+    "patientId": "PT-0029",
+    "patientName": "Meera Krishnan",
+    "regimen": "Dabrafenib 150mg BID + Trametinib 2mg",
+    "intent": "Neoadjuvant",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 4,
+    "startDate": "2026-06-08",
+    "nextCycleDate": "2026-07-14",
+    "supportiveCare": [
+      "Pegfilgrastim",
+      "Pantoprazole 40mg",
+      "Dexamethasone 8mg"
+    ],
+    "monitoringLabs": [
+      "LDH",
+      "RFT",
+      "Tumor markers"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Under Review",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0003",
+    "patientId": "PT-0042",
+    "patientName": "Nisha Desai",
+    "regimen": "KRd 28d cycle",
+    "intent": "Adjuvant",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 8,
+    "cyclesDone": 5,
+    "startDate": "2026-04-30",
+    "nextCycleDate": "2026-07-15",
+    "supportiveCare": [
+      "Dexamethasone 8mg",
+      "Loperamide PRN"
+    ],
+    "monitoringLabs": [
+      "Serum electrolytes",
+      "TSH",
+      "RFT",
+      "CBC with differential"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Under Review",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0004",
+    "patientId": "PT-0063",
+    "patientName": "Vidya Sharma",
+    "regimen": "R-CHOP q3w x6",
+    "intent": "Palliative",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 0,
+    "startDate": "2026-05-09",
+    "nextCycleDate": "2026-07-13",
+    "supportiveCare": [
+      "Loperamide PRN",
+      "Paracetamol 650mg"
+    ],
+    "monitoringLabs": [
+      "LDH",
+      "RFT"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Completed",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0005",
+    "patientId": "PT-0032",
+    "patientName": "Ananya Kumar",
+    "regimen": "Imatinib 400mg daily",
+    "intent": "Palliative",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 3,
+    "startDate": "2026-06-16",
+    "nextCycleDate": "2026-07-16",
+    "supportiveCare": [
+      "Pantoprazole 40mg",
+      "Loperamide PRN",
+      "Paracetamol 650mg",
+      "Ondansetron 8mg"
+    ],
+    "monitoringLabs": [
+      "Serum electrolytes",
+      "CBC with differential",
+      "LFT",
+      "RFT"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Under Review",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Shreya Rao"
+  },
+  {
+    "id": "RX-0006",
+    "patientId": "PT-0075",
+    "patientName": "Sneha Shetty",
+    "regimen": "Gemcitabine + Nab-paclitaxel weekly",
+    "intent": "Adjuvant",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 2,
+    "startDate": "2026-06-24",
+    "nextCycleDate": "2026-07-13",
+    "supportiveCare": [
+      "Allopurinol 300mg",
+      "Loperamide PRN"
+    ],
+    "monitoringLabs": [
+      "Serum electrolytes",
+      "RFT",
+      "CBC with differential",
+      "LDH"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "Completed",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0007",
+    "patientId": "PT-0071",
+    "patientName": "Deepak Reddy",
+    "regimen": "Abiraterone 1000mg + Prednisone",
+    "intent": "Adjuvant",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 12,
+    "cyclesDone": 5,
+    "startDate": "2026-04-08",
+    "nextCycleDate": "2026-07-24",
+    "supportiveCare": [
+      "Loperamide PRN",
+      "Pegfilgrastim",
+      "Ondansetron 8mg",
+      "Dexamethasone 8mg"
+    ],
+    "monitoringLabs": [
+      "Serum electrolytes",
+      "LFT",
+      "CBC with differential"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "Not Started",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Gopal Patel"
+  },
+  {
+    "id": "RX-0008",
+    "patientId": "PT-0003",
+    "patientName": "Meera Mehta",
+    "regimen": "Olaparib 300mg BID",
+    "intent": "Curative",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 8,
+    "cyclesDone": 3,
+    "startDate": "2026-04-16",
+    "nextCycleDate": "2026-07-19",
+    "supportiveCare": [
+      "Pegfilgrastim",
+      "Loperamide PRN",
+      "Pantoprazole 40mg",
+      "Allopurinol 300mg"
+    ],
+    "monitoringLabs": [
+      "ECHO (LVEF)",
+      "TSH"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "Active",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0009",
+    "patientId": "PT-0018",
+    "patientName": "Nisha Shetty",
+    "regimen": "Nivolumab q2w",
+    "intent": "Palliative",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 1,
+    "startDate": "2026-06-26",
+    "nextCycleDate": "2026-07-19",
+    "supportiveCare": [
+      "Pantoprazole 40mg",
+      "Paracetamol 650mg",
+      "Ondansetron 8mg",
+      "Loperamide PRN"
+    ],
+    "monitoringLabs": [
+      "ECHO (LVEF)",
+      "CBC with differential"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "Under Review",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Sanjay Pillai"
+  },
+  {
+    "id": "RX-0010",
+    "patientId": "PT-0014",
+    "patientName": "Rohan Rao",
+    "regimen": "Brentuximab + AVD q2w",
+    "intent": "Neoadjuvant",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 1,
+    "startDate": "2026-06-16",
+    "nextCycleDate": "2026-07-10",
+    "supportiveCare": [
+      "Ondansetron 8mg",
+      "Pantoprazole 40mg",
+      "Dexamethasone 8mg",
+      "Pegfilgrastim"
+    ],
+    "monitoringLabs": [
+      "ECHO (LVEF)",
+      "CBC with differential"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "Not Started",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Nisha Rao"
+  },
+  {
+    "id": "RX-0011",
+    "patientId": "PT-0084",
+    "patientName": "Vidya Gupta",
+    "regimen": "FOLFIRI + Cetuximab q2w",
+    "intent": "Maintenance",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 1,
+    "startDate": "2026-06-10",
+    "nextCycleDate": "2026-07-20",
+    "supportiveCare": [
+      "Loperamide PRN",
+      "Ondansetron 8mg"
+    ],
+    "monitoringLabs": [
+      "CBC with differential",
+      "RFT",
+      "Serum electrolytes",
+      "ECHO (LVEF)"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "Not Started",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Sanjay Pillai"
+  },
+  {
+    "id": "RX-0012",
+    "patientId": "PT-0068",
+    "patientName": "Divya Joshi",
+    "regimen": "T-DXd q3w",
+    "intent": "Palliative",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 12,
+    "cyclesDone": 4,
+    "startDate": "2026-06-19",
+    "nextCycleDate": "2026-07-21",
+    "supportiveCare": [
+      "Paracetamol 650mg",
+      "Ondansetron 8mg",
+      "Pantoprazole 40mg",
+      "Allopurinol 300mg"
+    ],
+    "monitoringLabs": [
+      "Serum electrolytes",
+      "CBC with differential",
+      "ECHO (LVEF)",
+      "RFT"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "On Hold",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0013",
+    "patientId": "PT-0025",
+    "patientName": "Anil Verma",
+    "regimen": "Pola-R-CHP q3w",
+    "intent": "Curative",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 3,
+    "startDate": "2026-05-30",
+    "nextCycleDate": "2026-07-08",
+    "supportiveCare": [
+      "Ondansetron 8mg",
+      "Allopurinol 300mg"
+    ],
+    "monitoringLabs": [
+      "CBC with differential",
+      "Tumor markers",
+      "ECHO (LVEF)"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Under Review",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0014",
+    "patientId": "PT-0067",
+    "patientName": "Kavya Malhotra",
+    "regimen": "Sotorasib 960mg daily",
+    "intent": "Adjuvant",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 12,
+    "cyclesDone": 7,
+    "startDate": "2026-07-01",
+    "nextCycleDate": "2026-07-17",
+    "supportiveCare": [
+      "Ondansetron 8mg",
+      "Dexamethasone 8mg",
+      "Loperamide PRN",
+      "Pantoprazole 40mg"
+    ],
+    "monitoringLabs": [
+      "RFT",
+      "CBC with differential",
+      "Serum electrolytes"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Completed",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Rao"
+  },
+  {
+    "id": "RX-0015",
+    "patientId": "PT-0054",
+    "patientName": "Meera Nair",
+    "regimen": "Olaparib 300mg BID",
+    "intent": "Palliative",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 1,
+    "startDate": "2026-07-04",
+    "nextCycleDate": "2026-07-26",
+    "supportiveCare": [
+      "Loperamide PRN",
+      "Dexamethasone 8mg"
+    ],
+    "monitoringLabs": [
+      "LFT",
+      "LDH",
+      "ECHO (LVEF)",
+      "CBC with differential"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Not Started",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0016",
+    "patientId": "PT-0011",
+    "patientName": "Rajesh Menon",
+    "regimen": "Alectinib 600mg BID",
+    "intent": "Palliative",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 3,
+    "startDate": "2026-05-01",
+    "nextCycleDate": "2026-07-14",
+    "supportiveCare": [
+      "Dexamethasone 8mg",
+      "Pantoprazole 40mg"
+    ],
+    "monitoringLabs": [
+      "ECHO (LVEF)",
+      "RFT",
+      "TSH",
+      "LDH"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "Not Started",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Latha Iyer"
+  },
+  {
+    "id": "RX-0017",
+    "patientId": "PT-0069",
+    "patientName": "Sushma Kapoor",
+    "regimen": "Trastuzumab + FOLFOX q2w",
+    "intent": "Maintenance",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 8,
+    "cyclesDone": 4,
+    "startDate": "2026-04-09",
+    "nextCycleDate": "2026-07-14",
+    "supportiveCare": [
+      "Pegfilgrastim",
+      "Allopurinol 300mg",
+      "Paracetamol 650mg",
+      "Dexamethasone 8mg"
+    ],
+    "monitoringLabs": [
+      "RFT",
+      "CBC with differential",
+      "ECHO (LVEF)",
+      "Tumor markers"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Active",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0018",
+    "patientId": "PT-0022",
+    "patientName": "Deepak Verma",
+    "regimen": "7+3 induction",
+    "intent": "Adjuvant",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 2,
+    "startDate": "2026-07-01",
+    "nextCycleDate": "2026-07-09",
+    "supportiveCare": [
+      "Paracetamol 650mg",
+      "Allopurinol 300mg",
+      "Pegfilgrastim",
+      "Ondansetron 8mg"
+    ],
+    "monitoringLabs": [
+      "Tumor markers",
+      "LDH"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "On Hold",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "RX-0019",
+    "patientId": "PT-0055",
+    "patientName": "Anjali Desai",
+    "regimen": "Niraparib 300mg daily",
+    "intent": "Adjuvant",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 7,
+    "startDate": "2026-04-30",
+    "nextCycleDate": "2026-07-20",
+    "supportiveCare": [
+      "Paracetamol 650mg",
+      "Pegfilgrastim"
+    ],
+    "monitoringLabs": [
+      "RFT",
+      "Serum electrolytes",
+      "Tumor markers"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Completed",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "RX-0020",
+    "patientId": "PT-0051",
+    "patientName": "Naveen Verma",
+    "regimen": "7+3 induction",
+    "intent": "Neoadjuvant",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 4,
+    "startDate": "2026-05-05",
+    "nextCycleDate": "2026-07-11",
+    "supportiveCare": [
+      "Allopurinol 300mg",
+      "Pantoprazole 40mg",
+      "Pegfilgrastim",
+      "Paracetamol 650mg"
+    ],
+    "monitoringLabs": [
+      "CBC with differential",
+      "LDH",
+      "Serum electrolytes"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Completed",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0021",
+    "patientId": "PT-0046",
+    "patientName": "Kavya Verma",
+    "regimen": "Pembrolizumab q3w",
+    "intent": "Palliative",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 2,
+    "startDate": "2026-06-24",
+    "nextCycleDate": "2026-07-17",
+    "supportiveCare": [
+      "Allopurinol 300mg",
+      "Pantoprazole 40mg"
+    ],
+    "monitoringLabs": [
+      "Serum electrolytes",
+      "RFT"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Not Started",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Naveen Shetty"
+  },
+  {
+    "id": "RX-0022",
+    "patientId": "PT-0021",
+    "patientName": "Radha Desai",
+    "regimen": "Sotorasib 960mg daily",
+    "intent": "Adjuvant",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 3,
+    "startDate": "2026-05-09",
+    "nextCycleDate": "2026-07-15",
+    "supportiveCare": [
+      "Pantoprazole 40mg",
+      "Paracetamol 650mg"
+    ],
+    "monitoringLabs": [
+      "Tumor markers",
+      "Serum electrolytes",
+      "RFT",
+      "CBC with differential"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "On Hold",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0023",
+    "patientId": "PT-0011",
+    "patientName": "Rajesh Menon",
+    "regimen": "Alectinib 600mg BID",
+    "intent": "Curative",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 3,
+    "startDate": "2026-06-27",
+    "nextCycleDate": "2026-07-24",
+    "supportiveCare": [
+      "Pegfilgrastim",
+      "Allopurinol 300mg",
+      "Ondansetron 8mg",
+      "Loperamide PRN"
+    ],
+    "monitoringLabs": [
+      "ECHO (LVEF)",
+      "Serum electrolytes",
+      "RFT",
+      "LDH"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Not Started",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Latha Iyer"
+  },
+  {
+    "id": "RX-0024",
+    "patientId": "PT-0046",
+    "patientName": "Kavya Verma",
+    "regimen": "Pembrolizumab q3w",
+    "intent": "Adjuvant",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 2,
+    "startDate": "2026-06-21",
+    "nextCycleDate": "2026-07-13",
+    "supportiveCare": [
+      "Dexamethasone 8mg",
+      "Loperamide PRN"
+    ],
+    "monitoringLabs": [
+      "LFT",
+      "Serum electrolytes",
+      "Tumor markers"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "Not Started",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Naveen Shetty"
+  },
+  {
+    "id": "RX-0025",
+    "patientId": "PT-0091",
+    "patientName": "Divya Malhotra",
+    "regimen": "T-DXd q3w",
+    "intent": "Maintenance",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 7,
+    "startDate": "2026-05-19",
+    "nextCycleDate": "2026-07-11",
+    "supportiveCare": [
+      "Dexamethasone 8mg",
+      "Loperamide PRN",
+      "Allopurinol 300mg",
+      "Paracetamol 650mg"
+    ],
+    "monitoringLabs": [
+      "RFT",
+      "LDH",
+      "Serum electrolytes",
+      "ECHO (LVEF)"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Completed",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0026",
+    "patientId": "PT-0088",
+    "patientName": "Vidya Bose",
+    "regimen": "Olaparib 300mg BID",
+    "intent": "Curative",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 12,
+    "cyclesDone": 0,
+    "startDate": "2026-04-17",
+    "nextCycleDate": "2026-07-15",
+    "supportiveCare": [
+      "Dexamethasone 8mg",
+      "Pegfilgrastim",
+      "Pantoprazole 40mg",
+      "Paracetamol 650mg"
+    ],
+    "monitoringLabs": [
+      "ECHO (LVEF)",
+      "RFT",
+      "Serum electrolytes",
+      "LDH"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "Active",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Rekha Sharma"
+  },
+  {
+    "id": "RX-0027",
+    "patientId": "PT-0037",
+    "patientName": "Anil Verma",
+    "regimen": "Abiraterone 1000mg + Prednisone",
+    "intent": "Palliative",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 0,
+    "startDate": "2026-05-05",
+    "nextCycleDate": "2026-07-27",
+    "supportiveCare": [
+      "Pegfilgrastim",
+      "Paracetamol 650mg"
+    ],
+    "monitoringLabs": [
+      "ECHO (LVEF)",
+      "Serum electrolytes"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Not Started",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0028",
+    "patientId": "PT-0054",
+    "patientName": "Meera Nair",
+    "regimen": "Olaparib 300mg BID",
+    "intent": "Adjuvant",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 1,
+    "startDate": "2026-04-22",
+    "nextCycleDate": "2026-07-22",
+    "supportiveCare": [
+      "Loperamide PRN",
+      "Pegfilgrastim",
+      "Ondansetron 8mg",
+      "Paracetamol 650mg"
+    ],
+    "monitoringLabs": [
+      "TSH",
+      "LDH",
+      "Tumor markers"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Not Started",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0029",
+    "patientId": "PT-0080",
+    "patientName": "Anil Rao",
+    "regimen": "7+3 induction",
+    "intent": "Maintenance",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 1,
+    "startDate": "2026-05-04",
+    "nextCycleDate": "2026-07-09",
+    "supportiveCare": [
+      "Allopurinol 300mg",
+      "Loperamide PRN",
+      "Dexamethasone 8mg",
+      "Ondansetron 8mg"
+    ],
+    "monitoringLabs": [
+      "Tumor markers",
+      "Serum electrolytes"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "Under Review",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0030",
+    "patientId": "PT-0006",
+    "patientName": "Geetha Verma",
+    "regimen": "Niraparib 300mg daily",
+    "intent": "Curative",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 8,
+    "cyclesDone": 6,
+    "startDate": "2026-06-17",
+    "nextCycleDate": "2026-07-24",
+    "supportiveCare": [
+      "Allopurinol 300mg",
+      "Ondansetron 8mg",
+      "Paracetamol 650mg",
+      "Dexamethasone 8mg"
+    ],
+    "monitoringLabs": [
+      "ECHO (LVEF)",
+      "CBC with differential",
+      "LDH",
+      "TSH"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Under Review",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0031",
+    "patientId": "PT-0001",
+    "patientName": "Karthik Rao",
+    "regimen": "Abiraterone 1000mg + Prednisone",
+    "intent": "Adjuvant",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 3,
+    "startDate": "2026-06-03",
+    "nextCycleDate": "2026-07-13",
+    "supportiveCare": [
+      "Pegfilgrastim",
+      "Ondansetron 8mg",
+      "Pantoprazole 40mg"
+    ],
+    "monitoringLabs": [
+      "ECHO (LVEF)",
+      "TSH",
+      "Tumor markers",
+      "LDH"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Active",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0032",
+    "patientId": "PT-0083",
+    "patientName": "Harish Kumar",
+    "regimen": "Abiraterone 1000mg + Prednisone",
+    "intent": "Adjuvant",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 8,
+    "cyclesDone": 3,
+    "startDate": "2026-04-28",
+    "nextCycleDate": "2026-07-14",
+    "supportiveCare": [
+      "Allopurinol 300mg",
+      "Pegfilgrastim",
+      "Dexamethasone 8mg",
+      "Paracetamol 650mg"
+    ],
+    "monitoringLabs": [
+      "LFT",
+      "RFT",
+      "TSH",
+      "LDH"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Completed",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0033",
+    "patientId": "PT-0066",
+    "patientName": "Vikram Kumar",
+    "regimen": "Gemcitabine + Nab-paclitaxel weekly",
+    "intent": "Palliative",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 7,
+    "startDate": "2026-05-08",
+    "nextCycleDate": "2026-07-08",
+    "supportiveCare": [
+      "Ondansetron 8mg",
+      "Pegfilgrastim",
+      "Pantoprazole 40mg",
+      "Dexamethasone 8mg"
+    ],
+    "monitoringLabs": [
+      "LFT",
+      "ECHO (LVEF)",
+      "RFT",
+      "TSH"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "Active",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "RX-0034",
+    "patientId": "PT-0066",
+    "patientName": "Vikram Kumar",
+    "regimen": "Gemcitabine + Nab-paclitaxel weekly",
+    "intent": "Neoadjuvant",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 7,
+    "startDate": "2026-05-19",
+    "nextCycleDate": "2026-07-14",
+    "supportiveCare": [
+      "Pantoprazole 40mg",
+      "Allopurinol 300mg"
+    ],
+    "monitoringLabs": [
+      "ECHO (LVEF)",
+      "LFT",
+      "TSH",
+      "Serum electrolytes"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Active",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "RX-0035",
+    "patientId": "PT-0064",
+    "patientName": "Nikhil Pillai",
+    "regimen": "Cisplatin 100mg/m2 q3w + RT",
+    "intent": "Palliative",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 8,
+    "cyclesDone": 5,
+    "startDate": "2026-05-27",
+    "nextCycleDate": "2026-07-15",
+    "supportiveCare": [
+      "Paracetamol 650mg",
+      "Loperamide PRN",
+      "Ondansetron 8mg",
+      "Allopurinol 300mg"
+    ],
+    "monitoringLabs": [
+      "ECHO (LVEF)",
+      "Tumor markers",
+      "Serum electrolytes"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Not Started",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Priya Iyer"
+  },
+  {
+    "id": "RX-0036",
+    "patientId": "PT-0052",
+    "patientName": "Vikram Mehta",
+    "regimen": "Sotorasib 960mg daily",
+    "intent": "Adjuvant",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 8,
+    "cyclesDone": 5,
+    "startDate": "2026-04-19",
+    "nextCycleDate": "2026-07-10",
+    "supportiveCare": [
+      "Pegfilgrastim",
+      "Loperamide PRN",
+      "Pantoprazole 40mg"
+    ],
+    "monitoringLabs": [
+      "TSH",
+      "Tumor markers",
+      "LDH"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "On Hold",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Naveen Shetty"
+  },
+  {
+    "id": "RX-0037",
+    "patientId": "PT-0038",
+    "patientName": "Suresh Desai",
+    "regimen": "Docetaxel q3w",
+    "intent": "Neoadjuvant",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 0,
+    "startDate": "2026-06-22",
+    "nextCycleDate": "2026-07-14",
+    "supportiveCare": [
+      "Paracetamol 650mg",
+      "Dexamethasone 8mg"
+    ],
+    "monitoringLabs": [
+      "Tumor markers",
+      "LDH"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Completed",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Shreya Desai"
+  },
+  {
+    "id": "RX-0038",
+    "patientId": "PT-0071",
+    "patientName": "Deepak Reddy",
+    "regimen": "Abiraterone 1000mg + Prednisone",
+    "intent": "Curative",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 12,
+    "cyclesDone": 5,
+    "startDate": "2026-04-09",
+    "nextCycleDate": "2026-07-16",
+    "supportiveCare": [
+      "Ondansetron 8mg",
+      "Pegfilgrastim"
+    ],
+    "monitoringLabs": [
+      "ECHO (LVEF)",
+      "CBC with differential",
+      "LFT"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Not Started",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Gopal Patel"
+  },
+  {
+    "id": "RX-0039",
+    "patientId": "PT-0021",
+    "patientName": "Radha Desai",
+    "regimen": "Sotorasib 960mg daily",
+    "intent": "Neoadjuvant",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 3,
+    "startDate": "2026-06-30",
+    "nextCycleDate": "2026-07-22",
+    "supportiveCare": [
+      "Loperamide PRN",
+      "Ondansetron 8mg",
+      "Paracetamol 650mg",
+      "Pantoprazole 40mg"
+    ],
+    "monitoringLabs": [
+      "Tumor markers",
+      "RFT"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "On Hold",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0040",
+    "patientId": "PT-0074",
+    "patientName": "Vidya Menon",
+    "regimen": "Imatinib 400mg daily",
+    "intent": "Palliative",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 5,
+    "startDate": "2026-04-13",
+    "nextCycleDate": "2026-07-21",
+    "supportiveCare": [
+      "Loperamide PRN",
+      "Pegfilgrastim",
+      "Paracetamol 650mg"
+    ],
+    "monitoringLabs": [
+      "TSH",
+      "LDH",
+      "Serum electrolytes"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "Under Review",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0041",
+    "patientId": "PT-0088",
+    "patientName": "Vidya Bose",
+    "regimen": "Olaparib 300mg BID",
+    "intent": "Curative",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 12,
+    "cyclesDone": 0,
+    "startDate": "2026-04-24",
+    "nextCycleDate": "2026-07-18",
+    "supportiveCare": [
+      "Pegfilgrastim",
+      "Paracetamol 650mg",
+      "Allopurinol 300mg"
+    ],
+    "monitoringLabs": [
+      "Serum electrolytes",
+      "LFT",
+      "TSH",
+      "ECHO (LVEF)"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "Active",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Rekha Sharma"
+  },
+  {
+    "id": "RX-0042",
+    "patientId": "PT-0066",
+    "patientName": "Vikram Kumar",
+    "regimen": "Gemcitabine + Nab-paclitaxel weekly",
+    "intent": "Maintenance",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 7,
+    "startDate": "2026-06-18",
+    "nextCycleDate": "2026-07-09",
+    "supportiveCare": [
+      "Loperamide PRN",
+      "Pegfilgrastim",
+      "Pantoprazole 40mg"
+    ],
+    "monitoringLabs": [
+      "CBC with differential",
+      "TSH"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Active",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "RX-0043",
+    "patientId": "PT-0024",
+    "patientName": "Harish Menon",
+    "regimen": "VRd 28d cycle",
+    "intent": "Neoadjuvant",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 12,
+    "cyclesDone": 7,
+    "startDate": "2026-06-22",
+    "nextCycleDate": "2026-07-11",
+    "supportiveCare": [
+      "Pantoprazole 40mg",
+      "Allopurinol 300mg",
+      "Pegfilgrastim"
+    ],
+    "monitoringLabs": [
+      "TSH",
+      "Tumor markers",
+      "LFT",
+      "Serum electrolytes"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Not Started",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Shreya Desai"
+  },
+  {
+    "id": "RX-0044",
+    "patientId": "PT-0081",
+    "patientName": "Pooja Iyer",
+    "regimen": "Niraparib 300mg daily",
+    "intent": "Neoadjuvant",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 3,
+    "startDate": "2026-05-21",
+    "nextCycleDate": "2026-07-27",
+    "supportiveCare": [
+      "Ondansetron 8mg",
+      "Pegfilgrastim",
+      "Loperamide PRN"
+    ],
+    "monitoringLabs": [
+      "Tumor markers",
+      "RFT"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Not Started",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0045",
+    "patientId": "PT-0038",
+    "patientName": "Suresh Desai",
+    "regimen": "Docetaxel q3w",
+    "intent": "Palliative",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 0,
+    "startDate": "2026-05-16",
+    "nextCycleDate": "2026-07-17",
+    "supportiveCare": [
+      "Allopurinol 300mg",
+      "Pantoprazole 40mg"
+    ],
+    "monitoringLabs": [
+      "TSH",
+      "Serum electrolytes",
+      "CBC with differential",
+      "RFT"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Completed",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Shreya Desai"
+  },
+  {
+    "id": "RX-0046",
+    "patientId": "PT-0019",
+    "patientName": "Kavya Kumar",
+    "regimen": "Olaparib 300mg BID",
+    "intent": "Curative",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 8,
+    "cyclesDone": 1,
+    "startDate": "2026-06-07",
+    "nextCycleDate": "2026-07-20",
+    "supportiveCare": [
+      "Ondansetron 8mg",
+      "Pantoprazole 40mg"
+    ],
+    "monitoringLabs": [
+      "LDH",
+      "TSH"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Under Review",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Vidya Kapoor"
+  },
+  {
+    "id": "RX-0047",
+    "patientId": "PT-0021",
+    "patientName": "Radha Desai",
+    "regimen": "Sotorasib 960mg daily",
+    "intent": "Palliative",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 3,
+    "startDate": "2026-07-02",
+    "nextCycleDate": "2026-07-26",
+    "supportiveCare": [
+      "Ondansetron 8mg",
+      "Dexamethasone 8mg",
+      "Allopurinol 300mg"
+    ],
+    "monitoringLabs": [
+      "LDH",
+      "CBC with differential",
+      "LFT"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "On Hold",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0048",
+    "patientId": "PT-0026",
+    "patientName": "Nisha Sharma",
+    "regimen": "Venetoclax + Azacitidine 28d cycle",
+    "intent": "Curative",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 12,
+    "cyclesDone": 7,
+    "startDate": "2026-06-24",
+    "nextCycleDate": "2026-07-23",
+    "supportiveCare": [
+      "Ondansetron 8mg",
+      "Paracetamol 650mg",
+      "Pantoprazole 40mg",
+      "Allopurinol 300mg"
+    ],
+    "monitoringLabs": [
+      "LFT",
+      "TSH",
+      "RFT",
+      "ECHO (LVEF)"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "On Hold",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Karthik Pillai"
+  },
+  {
+    "id": "RX-0049",
+    "patientId": "PT-0011",
+    "patientName": "Rajesh Menon",
+    "regimen": "Alectinib 600mg BID",
+    "intent": "Palliative",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 3,
+    "startDate": "2026-04-17",
+    "nextCycleDate": "2026-07-14",
+    "supportiveCare": [
+      "Dexamethasone 8mg",
+      "Ondansetron 8mg",
+      "Pegfilgrastim"
+    ],
+    "monitoringLabs": [
+      "Tumor markers",
+      "RFT",
+      "LDH",
+      "Serum electrolytes"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "Not Started",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Latha Iyer"
+  },
+  {
+    "id": "RX-0050",
+    "patientId": "PT-0058",
+    "patientName": "Aditya Verma",
+    "regimen": "Palbociclib 125mg + Letrozole",
+    "intent": "Curative",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 2,
+    "startDate": "2026-05-14",
+    "nextCycleDate": "2026-07-18",
+    "supportiveCare": [
+      "Pantoprazole 40mg",
+      "Dexamethasone 8mg",
+      "Paracetamol 650mg",
+      "Pegfilgrastim"
+    ],
+    "monitoringLabs": [
+      "Serum electrolytes",
+      "ECHO (LVEF)",
+      "LDH"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Completed",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Kavya Malhotra"
+  },
+  {
+    "id": "RX-0051",
+    "patientId": "PT-0030",
+    "patientName": "Priya Gupta",
+    "regimen": "Niraparib 300mg daily",
+    "intent": "Maintenance",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 8,
+    "cyclesDone": 4,
+    "startDate": "2026-04-17",
+    "nextCycleDate": "2026-07-14",
+    "supportiveCare": [
+      "Pantoprazole 40mg",
+      "Allopurinol 300mg",
+      "Ondansetron 8mg"
+    ],
+    "monitoringLabs": [
+      "TSH",
+      "RFT",
+      "ECHO (LVEF)",
+      "LDH"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "Completed",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0052",
+    "patientId": "PT-0003",
+    "patientName": "Meera Mehta",
+    "regimen": "Olaparib 300mg BID",
+    "intent": "Curative",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 8,
+    "cyclesDone": 3,
+    "startDate": "2026-05-07",
+    "nextCycleDate": "2026-07-19",
+    "supportiveCare": [
+      "Loperamide PRN",
+      "Pegfilgrastim"
+    ],
+    "monitoringLabs": [
+      "LDH",
+      "TSH",
+      "RFT",
+      "Tumor markers"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Active",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0053",
+    "patientId": "PT-0014",
+    "patientName": "Rohan Rao",
+    "regimen": "Brentuximab + AVD q2w",
+    "intent": "Maintenance",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 1,
+    "startDate": "2026-06-04",
+    "nextCycleDate": "2026-07-07",
+    "supportiveCare": [
+      "Loperamide PRN",
+      "Dexamethasone 8mg",
+      "Pantoprazole 40mg"
+    ],
+    "monitoringLabs": [
+      "Serum electrolytes",
+      "ECHO (LVEF)",
+      "LFT",
+      "LDH"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "Not Started",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Nisha Rao"
+  },
+  {
+    "id": "RX-0054",
+    "patientId": "PT-0004",
+    "patientName": "Prakash Joshi",
+    "regimen": "Sotorasib 960mg daily",
+    "intent": "Neoadjuvant",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 12,
+    "cyclesDone": 2,
+    "startDate": "2026-06-07",
+    "nextCycleDate": "2026-07-18",
+    "supportiveCare": [
+      "Pegfilgrastim",
+      "Pantoprazole 40mg",
+      "Ondansetron 8mg"
+    ],
+    "monitoringLabs": [
+      "Serum electrolytes",
+      "LFT",
+      "TSH"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Not Started",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0055",
+    "patientId": "PT-0073",
+    "patientName": "Sanjay Menon",
+    "regimen": "Pembrolizumab q3w",
+    "intent": "Neoadjuvant",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 3,
+    "startDate": "2026-05-03",
+    "nextCycleDate": "2026-07-21",
+    "supportiveCare": [
+      "Dexamethasone 8mg",
+      "Ondansetron 8mg",
+      "Allopurinol 300mg",
+      "Pegfilgrastim"
+    ],
+    "monitoringLabs": [
+      "TSH",
+      "CBC with differential",
+      "Tumor markers",
+      "LFT"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "Under Review",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Gopal Patel"
+  },
+  {
+    "id": "RX-0056",
+    "patientId": "PT-0013",
+    "patientName": "Latha Nair",
+    "regimen": "Palbociclib 125mg + Letrozole",
+    "intent": "Palliative",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 1,
+    "startDate": "2026-04-20",
+    "nextCycleDate": "2026-07-27",
+    "supportiveCare": [
+      "Pantoprazole 40mg",
+      "Ondansetron 8mg",
+      "Loperamide PRN"
+    ],
+    "monitoringLabs": [
+      "RFT",
+      "ECHO (LVEF)",
+      "Serum electrolytes"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "Not Started",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Kavya Malhotra"
+  },
+  {
+    "id": "RX-0057",
+    "patientId": "PT-0051",
+    "patientName": "Naveen Verma",
+    "regimen": "7+3 induction",
+    "intent": "Neoadjuvant",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 4,
+    "startDate": "2026-04-15",
+    "nextCycleDate": "2026-07-15",
+    "supportiveCare": [
+      "Allopurinol 300mg",
+      "Pantoprazole 40mg",
+      "Pegfilgrastim"
+    ],
+    "monitoringLabs": [
+      "Tumor markers",
+      "Serum electrolytes",
+      "LDH"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Completed",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0058",
+    "patientId": "PT-0062",
+    "patientName": "Geetha Reddy",
+    "regimen": "Olaparib 300mg BID",
+    "intent": "Maintenance",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 4,
+    "startDate": "2026-06-26",
+    "nextCycleDate": "2026-07-15",
+    "supportiveCare": [
+      "Loperamide PRN",
+      "Ondansetron 8mg"
+    ],
+    "monitoringLabs": [
+      "LFT",
+      "TSH"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "Under Review",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0059",
+    "patientId": "PT-0086",
+    "patientName": "Sanjay Nair",
+    "regimen": "Pembrolizumab q3w",
+    "intent": "Neoadjuvant",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 0,
+    "startDate": "2026-05-06",
+    "nextCycleDate": "2026-07-23",
+    "supportiveCare": [
+      "Paracetamol 650mg",
+      "Loperamide PRN",
+      "Dexamethasone 8mg"
+    ],
+    "monitoringLabs": [
+      "ECHO (LVEF)",
+      "Tumor markers",
+      "LDH"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "Completed",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0060",
+    "patientId": "PT-0033",
+    "patientName": "Sunita Verma",
+    "regimen": "Carboplatin AUC5 + Paclitaxel q3w",
+    "intent": "Curative",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 8,
+    "cyclesDone": 0,
+    "startDate": "2026-06-13",
+    "nextCycleDate": "2026-07-14",
+    "supportiveCare": [
+      "Dexamethasone 8mg",
+      "Allopurinol 300mg"
+    ],
+    "monitoringLabs": [
+      "TSH",
+      "CBC with differential",
+      "LDH",
+      "LFT"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "Not Started",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Kavya Malhotra"
+  },
+  {
+    "id": "RX-0061",
+    "patientId": "PT-0075",
+    "patientName": "Sneha Shetty",
+    "regimen": "Gemcitabine + Nab-paclitaxel weekly",
+    "intent": "Curative",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 2,
+    "startDate": "2026-06-16",
+    "nextCycleDate": "2026-07-21",
+    "supportiveCare": [
+      "Dexamethasone 8mg",
+      "Allopurinol 300mg"
+    ],
+    "monitoringLabs": [
+      "TSH",
+      "CBC with differential",
+      "LDH",
+      "LFT"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Completed",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0062",
+    "patientId": "PT-0055",
+    "patientName": "Anjali Desai",
+    "regimen": "Niraparib 300mg daily",
+    "intent": "Curative",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 7,
+    "startDate": "2026-06-07",
+    "nextCycleDate": "2026-07-08",
+    "supportiveCare": [
+      "Ondansetron 8mg",
+      "Loperamide PRN",
+      "Paracetamol 650mg",
+      "Allopurinol 300mg"
+    ],
+    "monitoringLabs": [
+      "LFT",
+      "TSH",
+      "CBC with differential"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "Completed",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "RX-0063",
+    "patientId": "PT-0033",
+    "patientName": "Sunita Verma",
+    "regimen": "Carboplatin AUC5 + Paclitaxel q3w",
+    "intent": "Maintenance",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 8,
+    "cyclesDone": 0,
+    "startDate": "2026-05-21",
+    "nextCycleDate": "2026-07-23",
+    "supportiveCare": [
+      "Dexamethasone 8mg",
+      "Ondansetron 8mg",
+      "Pantoprazole 40mg"
+    ],
+    "monitoringLabs": [
+      "TSH",
+      "Serum electrolytes"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Not Started",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Kavya Malhotra"
+  },
+  {
+    "id": "RX-0064",
+    "patientId": "PT-0007",
+    "patientName": "Ananya Pillai",
+    "regimen": "7+3 induction",
+    "intent": "Curative",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 3,
+    "startDate": "2026-06-19",
+    "nextCycleDate": "2026-07-16",
+    "supportiveCare": [
+      "Paracetamol 650mg",
+      "Pantoprazole 40mg",
+      "Dexamethasone 8mg",
+      "Allopurinol 300mg"
+    ],
+    "monitoringLabs": [
+      "RFT",
+      "Tumor markers",
+      "LFT"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Active",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0065",
+    "patientId": "PT-0022",
+    "patientName": "Deepak Verma",
+    "regimen": "7+3 induction",
+    "intent": "Curative",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 2,
+    "startDate": "2026-05-16",
+    "nextCycleDate": "2026-07-23",
+    "supportiveCare": [
+      "Dexamethasone 8mg",
+      "Ondansetron 8mg"
+    ],
+    "monitoringLabs": [
+      "ECHO (LVEF)",
+      "LDH",
+      "TSH"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "On Hold",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "RX-0066",
+    "patientId": "PT-0072",
+    "patientName": "Vikram Joshi",
+    "regimen": "Cisplatin 100mg/m2 q3w + RT",
+    "intent": "Maintenance",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 6,
+    "startDate": "2026-04-21",
+    "nextCycleDate": "2026-07-26",
+    "supportiveCare": [
+      "Pantoprazole 40mg",
+      "Dexamethasone 8mg",
+      "Pegfilgrastim"
+    ],
+    "monitoringLabs": [
+      "ECHO (LVEF)",
+      "CBC with differential"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Active",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0067",
+    "patientId": "PT-0048",
+    "patientName": "Divya Malhotra",
+    "regimen": "Niraparib 300mg daily",
+    "intent": "Neoadjuvant",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 12,
+    "cyclesDone": 0,
+    "startDate": "2026-06-18",
+    "nextCycleDate": "2026-07-14",
+    "supportiveCare": [
+      "Dexamethasone 8mg",
+      "Allopurinol 300mg",
+      "Loperamide PRN",
+      "Paracetamol 650mg"
+    ],
+    "monitoringLabs": [
+      "Tumor markers",
+      "CBC with differential",
+      "TSH"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "On Hold",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Gopal Iyer"
+  },
+  {
+    "id": "RX-0068",
+    "patientId": "PT-0008",
+    "patientName": "Meera Nair",
+    "regimen": "Venetoclax + Azacitidine 28d cycle",
+    "intent": "Palliative",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 8,
+    "cyclesDone": 5,
+    "startDate": "2026-04-07",
+    "nextCycleDate": "2026-07-21",
+    "supportiveCare": [
+      "Dexamethasone 8mg",
+      "Ondansetron 8mg"
+    ],
+    "monitoringLabs": [
+      "LDH",
+      "Serum electrolytes"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Under Review",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "RX-0069",
+    "patientId": "PT-0041",
+    "patientName": "Bhavana Rao",
+    "regimen": "R-CHOP q3w x6",
+    "intent": "Curative",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 0,
+    "startDate": "2026-06-11",
+    "nextCycleDate": "2026-07-14",
+    "supportiveCare": [
+      "Allopurinol 300mg",
+      "Ondansetron 8mg"
+    ],
+    "monitoringLabs": [
+      "LFT",
+      "Serum electrolytes",
+      "LDH"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "On Hold",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Rekha Shetty"
+  },
+  {
+    "id": "RX-0070",
+    "patientId": "PT-0069",
+    "patientName": "Sushma Kapoor",
+    "regimen": "Trastuzumab + FOLFOX q2w",
+    "intent": "Palliative",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 8,
+    "cyclesDone": 4,
+    "startDate": "2026-05-07",
+    "nextCycleDate": "2026-07-26",
+    "supportiveCare": [
+      "Paracetamol 650mg",
+      "Ondansetron 8mg",
+      "Loperamide PRN"
+    ],
+    "monitoringLabs": [
+      "Tumor markers",
+      "RFT"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "Active",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0071",
+    "patientId": "PT-0086",
+    "patientName": "Sanjay Nair",
+    "regimen": "Pembrolizumab q3w",
+    "intent": "Maintenance",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 0,
+    "startDate": "2026-04-22",
+    "nextCycleDate": "2026-07-17",
+    "supportiveCare": [
+      "Dexamethasone 8mg",
+      "Paracetamol 650mg",
+      "Pegfilgrastim"
+    ],
+    "monitoringLabs": [
+      "Tumor markers",
+      "ECHO (LVEF)",
+      "TSH"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Completed",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0072",
+    "patientId": "PT-0056",
+    "patientName": "Ananya Nair",
+    "regimen": "FOLFOX q2w",
+    "intent": "Adjuvant",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 2,
+    "startDate": "2026-04-19",
+    "nextCycleDate": "2026-07-27",
+    "supportiveCare": [
+      "Ondansetron 8mg",
+      "Pegfilgrastim"
+    ],
+    "monitoringLabs": [
+      "RFT",
+      "LFT",
+      "ECHO (LVEF)",
+      "Serum electrolytes"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "On Hold",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0073",
+    "patientId": "PT-0078",
+    "patientName": "Sneha Verma",
+    "regimen": "Trastuzumab + FOLFOX q2w",
+    "intent": "Maintenance",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 2,
+    "startDate": "2026-06-24",
+    "nextCycleDate": "2026-07-19",
+    "supportiveCare": [
+      "Pantoprazole 40mg",
+      "Paracetamol 650mg"
+    ],
+    "monitoringLabs": [
+      "Tumor markers",
+      "Serum electrolytes",
+      "RFT",
+      "LFT"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "Not Started",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Vidya Kapoor"
+  },
+  {
+    "id": "RX-0074",
+    "patientId": "PT-0026",
+    "patientName": "Nisha Sharma",
+    "regimen": "Venetoclax + Azacitidine 28d cycle",
+    "intent": "Curative",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 12,
+    "cyclesDone": 7,
+    "startDate": "2026-04-27",
+    "nextCycleDate": "2026-07-15",
+    "supportiveCare": [
+      "Ondansetron 8mg",
+      "Pegfilgrastim",
+      "Loperamide PRN",
+      "Pantoprazole 40mg"
+    ],
+    "monitoringLabs": [
+      "TSH",
+      "ECHO (LVEF)",
+      "RFT"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "On Hold",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Karthik Pillai"
+  },
+  {
+    "id": "RX-0075",
+    "patientId": "PT-0060",
+    "patientName": "Lakshmi Verma",
+    "regimen": "Dabrafenib 150mg BID + Trametinib 2mg",
+    "intent": "Neoadjuvant",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 3,
+    "startDate": "2026-07-04",
+    "nextCycleDate": "2026-07-19",
+    "supportiveCare": [
+      "Pantoprazole 40mg",
+      "Pegfilgrastim",
+      "Dexamethasone 8mg"
+    ],
+    "monitoringLabs": [
+      "LFT",
+      "LDH",
+      "RFT",
+      "CBC with differential"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "Not Started",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Vikram Shetty"
+  },
+  {
+    "id": "RX-0076",
+    "patientId": "PT-0011",
+    "patientName": "Rajesh Menon",
+    "regimen": "Alectinib 600mg BID",
+    "intent": "Neoadjuvant",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 3,
+    "startDate": "2026-05-13",
+    "nextCycleDate": "2026-07-08",
+    "supportiveCare": [
+      "Ondansetron 8mg",
+      "Dexamethasone 8mg"
+    ],
+    "monitoringLabs": [
+      "LFT",
+      "Tumor markers",
+      "TSH",
+      "CBC with differential"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Not Started",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Latha Iyer"
+  },
+  {
+    "id": "RX-0077",
+    "patientId": "PT-0065",
+    "patientName": "Naveen Nair",
+    "regimen": "T-DXd q3w",
+    "intent": "Curative",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 1,
+    "startDate": "2026-06-13",
+    "nextCycleDate": "2026-07-12",
+    "supportiveCare": [
+      "Loperamide PRN",
+      "Pantoprazole 40mg"
+    ],
+    "monitoringLabs": [
+      "RFT",
+      "Tumor markers",
+      "LFT",
+      "CBC with differential"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "Active",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Rekha Shetty"
+  },
+  {
+    "id": "RX-0078",
+    "patientId": "PT-0061",
+    "patientName": "Naveen Nair",
+    "regimen": "Venetoclax + Azacitidine 28d cycle",
+    "intent": "Palliative",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 12,
+    "cyclesDone": 5,
+    "startDate": "2026-06-29",
+    "nextCycleDate": "2026-07-15",
+    "supportiveCare": [
+      "Loperamide PRN",
+      "Pantoprazole 40mg",
+      "Allopurinol 300mg",
+      "Dexamethasone 8mg"
+    ],
+    "monitoringLabs": [
+      "ECHO (LVEF)",
+      "RFT",
+      "CBC with differential",
+      "Tumor markers"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "On Hold",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Rekha Sharma"
+  },
+  {
+    "id": "RX-0079",
+    "patientId": "PT-0100",
+    "patientName": "Harish Pillai",
+    "regimen": "Nivolumab q2w",
+    "intent": "Adjuvant",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 0,
+    "startDate": "2026-05-26",
+    "nextCycleDate": "2026-07-09",
+    "supportiveCare": [
+      "Pegfilgrastim",
+      "Ondansetron 8mg",
+      "Pantoprazole 40mg"
+    ],
+    "monitoringLabs": [
+      "RFT",
+      "CBC with differential"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Not Started",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0080",
+    "patientId": "PT-0028",
+    "patientName": "Vivek Menon",
+    "regimen": "Dara-VRd 28d cycle",
+    "intent": "Curative",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 7,
+    "startDate": "2026-05-13",
+    "nextCycleDate": "2026-07-13",
+    "supportiveCare": [
+      "Loperamide PRN",
+      "Paracetamol 650mg",
+      "Pantoprazole 40mg"
+    ],
+    "monitoringLabs": [
+      "CBC with differential",
+      "LDH",
+      "Serum electrolytes",
+      "RFT"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Not Started",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Meera Shetty"
+  },
+  {
+    "id": "RX-0081",
+    "patientId": "PT-0071",
+    "patientName": "Deepak Reddy",
+    "regimen": "Abiraterone 1000mg + Prednisone",
+    "intent": "Neoadjuvant",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 12,
+    "cyclesDone": 5,
+    "startDate": "2026-05-28",
+    "nextCycleDate": "2026-07-26",
+    "supportiveCare": [
+      "Pantoprazole 40mg",
+      "Loperamide PRN",
+      "Pegfilgrastim",
+      "Ondansetron 8mg"
+    ],
+    "monitoringLabs": [
+      "LDH",
+      "ECHO (LVEF)",
+      "CBC with differential",
+      "LFT"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "Not Started",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Gopal Patel"
+  },
+  {
+    "id": "RX-0082",
+    "patientId": "PT-0003",
+    "patientName": "Meera Mehta",
+    "regimen": "Olaparib 300mg BID",
+    "intent": "Palliative",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 8,
+    "cyclesDone": 3,
+    "startDate": "2026-05-26",
+    "nextCycleDate": "2026-07-08",
+    "supportiveCare": [
+      "Allopurinol 300mg",
+      "Ondansetron 8mg",
+      "Loperamide PRN"
+    ],
+    "monitoringLabs": [
+      "TSH",
+      "ECHO (LVEF)"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Active",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0083",
+    "patientId": "PT-0085",
+    "patientName": "Suresh Sharma",
+    "regimen": "Nivolumab q2w",
+    "intent": "Curative",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 12,
+    "cyclesDone": 3,
+    "startDate": "2026-05-10",
+    "nextCycleDate": "2026-07-16",
+    "supportiveCare": [
+      "Paracetamol 650mg",
+      "Pegfilgrastim",
+      "Loperamide PRN",
+      "Dexamethasone 8mg"
+    ],
+    "monitoringLabs": [
+      "Serum electrolytes",
+      "Tumor markers",
+      "TSH",
+      "CBC with differential"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "Active",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Rao"
+  },
+  {
+    "id": "RX-0084",
+    "patientId": "PT-0004",
+    "patientName": "Prakash Joshi",
+    "regimen": "Sotorasib 960mg daily",
+    "intent": "Neoadjuvant",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 12,
+    "cyclesDone": 2,
+    "startDate": "2026-04-09",
+    "nextCycleDate": "2026-07-25",
+    "supportiveCare": [
+      "Ondansetron 8mg",
+      "Paracetamol 650mg"
+    ],
+    "monitoringLabs": [
+      "RFT",
+      "TSH",
+      "LDH"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "Not Started",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0085",
+    "patientId": "PT-0028",
+    "patientName": "Vivek Menon",
+    "regimen": "Dara-VRd 28d cycle",
+    "intent": "Neoadjuvant",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 7,
+    "startDate": "2026-05-12",
+    "nextCycleDate": "2026-07-20",
+    "supportiveCare": [
+      "Ondansetron 8mg",
+      "Dexamethasone 8mg",
+      "Pantoprazole 40mg"
+    ],
+    "monitoringLabs": [
+      "ECHO (LVEF)",
+      "Tumor markers",
+      "TSH",
+      "RFT"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "Not Started",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Meera Shetty"
+  },
+  {
+    "id": "RX-0086",
+    "patientId": "PT-0069",
+    "patientName": "Sushma Kapoor",
+    "regimen": "Trastuzumab + FOLFOX q2w",
+    "intent": "Adjuvant",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 8,
+    "cyclesDone": 4,
+    "startDate": "2026-05-05",
+    "nextCycleDate": "2026-07-14",
+    "supportiveCare": [
+      "Dexamethasone 8mg",
+      "Ondansetron 8mg",
+      "Loperamide PRN",
+      "Pegfilgrastim"
+    ],
+    "monitoringLabs": [
+      "Tumor markers",
+      "Serum electrolytes",
+      "ECHO (LVEF)"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Active",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0087",
+    "patientId": "PT-0068",
+    "patientName": "Divya Joshi",
+    "regimen": "T-DXd q3w",
+    "intent": "Adjuvant",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 12,
+    "cyclesDone": 4,
+    "startDate": "2026-06-17",
+    "nextCycleDate": "2026-07-17",
+    "supportiveCare": [
+      "Pegfilgrastim",
+      "Paracetamol 650mg",
+      "Loperamide PRN",
+      "Dexamethasone 8mg"
+    ],
+    "monitoringLabs": [
+      "CBC with differential",
+      "RFT",
+      "TSH"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "On Hold",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0088",
+    "patientId": "PT-0074",
+    "patientName": "Vidya Menon",
+    "regimen": "Imatinib 400mg daily",
+    "intent": "Neoadjuvant",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 5,
+    "startDate": "2026-05-24",
+    "nextCycleDate": "2026-07-17",
+    "supportiveCare": [
+      "Allopurinol 300mg",
+      "Pegfilgrastim",
+      "Ondansetron 8mg",
+      "Dexamethasone 8mg"
+    ],
+    "monitoringLabs": [
+      "RFT",
+      "Tumor markers",
+      "ECHO (LVEF)"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Under Review",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0089",
+    "patientId": "PT-0050",
+    "patientName": "Anil Patel",
+    "regimen": "Abiraterone 1000mg + Prednisone",
+    "intent": "Neoadjuvant",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 4,
+    "startDate": "2026-05-13",
+    "nextCycleDate": "2026-07-27",
+    "supportiveCare": [
+      "Paracetamol 650mg",
+      "Loperamide PRN",
+      "Allopurinol 300mg",
+      "Pantoprazole 40mg"
+    ],
+    "monitoringLabs": [
+      "ECHO (LVEF)",
+      "Serum electrolytes"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Not Started",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0090",
+    "patientId": "PT-0080",
+    "patientName": "Anil Rao",
+    "regimen": "7+3 induction",
+    "intent": "Palliative",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 1,
+    "startDate": "2026-06-07",
+    "nextCycleDate": "2026-07-08",
+    "supportiveCare": [
+      "Loperamide PRN",
+      "Allopurinol 300mg"
+    ],
+    "monitoringLabs": [
+      "RFT",
+      "Tumor markers"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "Under Review",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0091",
+    "patientId": "PT-0015",
+    "patientName": "Latha Gupta",
+    "regimen": "Imatinib 400mg daily",
+    "intent": "Curative",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 6,
+    "startDate": "2026-06-03",
+    "nextCycleDate": "2026-07-18",
+    "supportiveCare": [
+      "Allopurinol 300mg",
+      "Pantoprazole 40mg"
+    ],
+    "monitoringLabs": [
+      "CBC with differential",
+      "Tumor markers"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "Active",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Meera Shetty"
+  },
+  {
+    "id": "RX-0092",
+    "patientId": "PT-0001",
+    "patientName": "Karthik Rao",
+    "regimen": "Abiraterone 1000mg + Prednisone",
+    "intent": "Maintenance",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 3,
+    "startDate": "2026-07-05",
+    "nextCycleDate": "2026-07-21",
+    "supportiveCare": [
+      "Pantoprazole 40mg",
+      "Paracetamol 650mg",
+      "Pegfilgrastim"
+    ],
+    "monitoringLabs": [
+      "LDH",
+      "Serum electrolytes"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "Active",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0093",
+    "patientId": "PT-0090",
+    "patientName": "Vivek Joshi",
+    "regimen": "Dabrafenib 150mg BID + Trametinib 2mg",
+    "intent": "Curative",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 12,
+    "cyclesDone": 2,
+    "startDate": "2026-06-15",
+    "nextCycleDate": "2026-07-25",
+    "supportiveCare": [
+      "Pantoprazole 40mg",
+      "Ondansetron 8mg",
+      "Paracetamol 650mg"
+    ],
+    "monitoringLabs": [
+      "Serum electrolytes",
+      "ECHO (LVEF)",
+      "Tumor markers",
+      "RFT"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Under Review",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0094",
+    "patientId": "PT-0073",
+    "patientName": "Sanjay Menon",
+    "regimen": "Pembrolizumab q3w",
+    "intent": "Palliative",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 3,
+    "startDate": "2026-05-16",
+    "nextCycleDate": "2026-07-09",
+    "supportiveCare": [
+      "Pegfilgrastim",
+      "Paracetamol 650mg",
+      "Ondansetron 8mg"
+    ],
+    "monitoringLabs": [
+      "Tumor markers",
+      "TSH",
+      "RFT"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Under Review",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Gopal Patel"
+  },
+  {
+    "id": "RX-0095",
+    "patientId": "PT-0028",
+    "patientName": "Vivek Menon",
+    "regimen": "Dara-VRd 28d cycle",
+    "intent": "Adjuvant",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 7,
+    "startDate": "2026-06-09",
+    "nextCycleDate": "2026-07-19",
+    "supportiveCare": [
+      "Dexamethasone 8mg",
+      "Ondansetron 8mg",
+      "Pegfilgrastim"
+    ],
+    "monitoringLabs": [
+      "LDH",
+      "Serum electrolytes"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Not Started",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Meera Shetty"
+  },
+  {
+    "id": "RX-0096",
+    "patientId": "PT-0054",
+    "patientName": "Meera Nair",
+    "regimen": "Olaparib 300mg BID",
+    "intent": "Maintenance",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 1,
+    "startDate": "2026-04-16",
+    "nextCycleDate": "2026-07-21",
+    "supportiveCare": [
+      "Loperamide PRN",
+      "Pantoprazole 40mg"
+    ],
+    "monitoringLabs": [
+      "LFT",
+      "RFT",
+      "Tumor markers"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "Not Started",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0097",
+    "patientId": "PT-0010",
+    "patientName": "Ashok Desai",
+    "regimen": "FOLFIRINOX q2w",
+    "intent": "Palliative",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 12,
+    "cyclesDone": 1,
+    "startDate": "2026-04-18",
+    "nextCycleDate": "2026-07-10",
+    "supportiveCare": [
+      "Pantoprazole 40mg",
+      "Dexamethasone 8mg"
+    ],
+    "monitoringLabs": [
+      "Serum electrolytes",
+      "RFT",
+      "CBC with differential"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Completed",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Rao"
+  },
+  {
+    "id": "RX-0098",
+    "patientId": "PT-0090",
+    "patientName": "Vivek Joshi",
+    "regimen": "Dabrafenib 150mg BID + Trametinib 2mg",
+    "intent": "Palliative",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 12,
+    "cyclesDone": 2,
+    "startDate": "2026-04-17",
+    "nextCycleDate": "2026-07-25",
+    "supportiveCare": [
+      "Pantoprazole 40mg",
+      "Paracetamol 650mg",
+      "Dexamethasone 8mg"
+    ],
+    "monitoringLabs": [
+      "Tumor markers",
+      "CBC with differential"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Under Review",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0099",
+    "patientId": "PT-0031",
+    "patientName": "Aravind Rao",
+    "regimen": "Pembrolizumab q3w",
+    "intent": "Palliative",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 8,
+    "cyclesDone": 4,
+    "startDate": "2026-07-01",
+    "nextCycleDate": "2026-07-24",
+    "supportiveCare": [
+      "Paracetamol 650mg",
+      "Allopurinol 300mg",
+      "Loperamide PRN",
+      "Pegfilgrastim"
+    ],
+    "monitoringLabs": [
+      "CBC with differential",
+      "Tumor markers",
+      "Serum electrolytes"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "On Hold",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Rekha Sharma"
+  },
+  {
+    "id": "RX-0100",
+    "patientId": "PT-0077",
+    "patientName": "Harish Desai",
+    "regimen": "Enzalutamide 160mg daily",
+    "intent": "Palliative",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 12,
+    "cyclesDone": 6,
+    "startDate": "2026-04-09",
+    "nextCycleDate": "2026-07-12",
+    "supportiveCare": [
+      "Loperamide PRN",
+      "Allopurinol 300mg",
+      "Ondansetron 8mg",
+      "Pegfilgrastim"
+    ],
+    "monitoringLabs": [
+      "LDH",
+      "TSH",
+      "LFT",
+      "Tumor markers"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "Not Started",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Radha Chatterjee"
+  },
+  {
+    "id": "RX-0101",
+    "patientId": "PT-0046",
+    "patientName": "Kavya Verma",
+    "regimen": "Pembrolizumab q3w",
+    "intent": "Neoadjuvant",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 2,
+    "startDate": "2026-04-30",
+    "nextCycleDate": "2026-07-24",
+    "supportiveCare": [
+      "Pantoprazole 40mg",
+      "Pegfilgrastim"
+    ],
+    "monitoringLabs": [
+      "Tumor markers",
+      "TSH",
+      "CBC with differential"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "Not Started",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Naveen Shetty"
+  },
+  {
+    "id": "RX-0102",
+    "patientId": "PT-0009",
+    "patientName": "Latha Rao",
+    "regimen": "Imatinib 400mg daily",
+    "intent": "Neoadjuvant",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 8,
+    "cyclesDone": 7,
+    "startDate": "2026-04-08",
+    "nextCycleDate": "2026-07-10",
+    "supportiveCare": [
+      "Loperamide PRN",
+      "Ondansetron 8mg"
+    ],
+    "monitoringLabs": [
+      "CBC with differential",
+      "Tumor markers",
+      "Serum electrolytes",
+      "ECHO (LVEF)"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Completed",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0103",
+    "patientId": "PT-0049",
+    "patientName": "Meera Menon",
+    "regimen": "Trastuzumab + FOLFOX q2w",
+    "intent": "Palliative",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 6,
+    "startDate": "2026-04-21",
+    "nextCycleDate": "2026-07-14",
+    "supportiveCare": [
+      "Pantoprazole 40mg",
+      "Loperamide PRN"
+    ],
+    "monitoringLabs": [
+      "Tumor markers",
+      "RFT",
+      "LDH"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Not Started",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0104",
+    "patientId": "PT-0093",
+    "patientName": "Deepa Malhotra",
+    "regimen": "FOLFIRINOX q2w",
+    "intent": "Neoadjuvant",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 2,
+    "startDate": "2026-04-30",
+    "nextCycleDate": "2026-07-24",
+    "supportiveCare": [
+      "Dexamethasone 8mg",
+      "Pegfilgrastim",
+      "Ondansetron 8mg",
+      "Loperamide PRN"
+    ],
+    "monitoringLabs": [
+      "TSH",
+      "CBC with differential",
+      "ECHO (LVEF)",
+      "Serum electrolytes"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "Completed",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "RX-0105",
+    "patientId": "PT-0031",
+    "patientName": "Aravind Rao",
+    "regimen": "Pembrolizumab q3w",
+    "intent": "Curative",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 8,
+    "cyclesDone": 4,
+    "startDate": "2026-06-30",
+    "nextCycleDate": "2026-07-18",
+    "supportiveCare": [
+      "Paracetamol 650mg",
+      "Pegfilgrastim",
+      "Ondansetron 8mg",
+      "Allopurinol 300mg"
+    ],
+    "monitoringLabs": [
+      "Serum electrolytes",
+      "LFT",
+      "RFT"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "On Hold",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Rekha Sharma"
+  },
+  {
+    "id": "RX-0106",
+    "patientId": "PT-0082",
+    "patientName": "Sneha Reddy",
+    "regimen": "Olaparib 300mg BID",
+    "intent": "Curative",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 2,
+    "startDate": "2026-06-26",
+    "nextCycleDate": "2026-07-15",
+    "supportiveCare": [
+      "Ondansetron 8mg",
+      "Allopurinol 300mg",
+      "Pantoprazole 40mg",
+      "Dexamethasone 8mg"
+    ],
+    "monitoringLabs": [
+      "Serum electrolytes",
+      "TSH",
+      "Tumor markers",
+      "ECHO (LVEF)"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Completed",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Meera Shetty"
+  },
+  {
+    "id": "RX-0107",
+    "patientId": "PT-0007",
+    "patientName": "Ananya Pillai",
+    "regimen": "7+3 induction",
+    "intent": "Adjuvant",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 3,
+    "startDate": "2026-04-22",
+    "nextCycleDate": "2026-07-16",
+    "supportiveCare": [
+      "Ondansetron 8mg",
+      "Pantoprazole 40mg"
+    ],
+    "monitoringLabs": [
+      "Serum electrolytes",
+      "ECHO (LVEF)",
+      "Tumor markers"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Active",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0108",
+    "patientId": "PT-0032",
+    "patientName": "Ananya Kumar",
+    "regimen": "Imatinib 400mg daily",
+    "intent": "Maintenance",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 3,
+    "startDate": "2026-06-01",
+    "nextCycleDate": "2026-07-19",
+    "supportiveCare": [
+      "Loperamide PRN",
+      "Ondansetron 8mg",
+      "Dexamethasone 8mg"
+    ],
+    "monitoringLabs": [
+      "Serum electrolytes",
+      "TSH",
+      "CBC with differential"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "Under Review",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Shreya Rao"
+  },
+  {
+    "id": "RX-0109",
+    "patientId": "PT-0088",
+    "patientName": "Vidya Bose",
+    "regimen": "Olaparib 300mg BID",
+    "intent": "Neoadjuvant",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 12,
+    "cyclesDone": 0,
+    "startDate": "2026-04-23",
+    "nextCycleDate": "2026-07-14",
+    "supportiveCare": [
+      "Paracetamol 650mg",
+      "Ondansetron 8mg",
+      "Loperamide PRN",
+      "Pantoprazole 40mg"
+    ],
+    "monitoringLabs": [
+      "LFT",
+      "CBC with differential",
+      "Serum electrolytes",
+      "RFT"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "Active",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Rekha Sharma"
+  },
+  {
+    "id": "RX-0110",
+    "patientId": "PT-0003",
+    "patientName": "Meera Mehta",
+    "regimen": "Olaparib 300mg BID",
+    "intent": "Palliative",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 8,
+    "cyclesDone": 3,
+    "startDate": "2026-06-17",
+    "nextCycleDate": "2026-07-27",
+    "supportiveCare": [
+      "Allopurinol 300mg",
+      "Paracetamol 650mg",
+      "Pantoprazole 40mg"
+    ],
+    "monitoringLabs": [
+      "ECHO (LVEF)",
+      "LFT",
+      "Serum electrolytes"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Active",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0111",
+    "patientId": "PT-0084",
+    "patientName": "Vidya Gupta",
+    "regimen": "FOLFIRI + Cetuximab q2w",
+    "intent": "Curative",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 1,
+    "startDate": "2026-04-14",
+    "nextCycleDate": "2026-07-20",
+    "supportiveCare": [
+      "Allopurinol 300mg",
+      "Paracetamol 650mg"
+    ],
+    "monitoringLabs": [
+      "CBC with differential",
+      "Serum electrolytes",
+      "LFT",
+      "Tumor markers"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "Not Started",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Sanjay Pillai"
+  },
+  {
+    "id": "RX-0112",
+    "patientId": "PT-0017",
+    "patientName": "Naveen Verma",
+    "regimen": "FOLFIRI + Cetuximab q2w",
+    "intent": "Maintenance",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 12,
+    "cyclesDone": 4,
+    "startDate": "2026-04-23",
+    "nextCycleDate": "2026-07-27",
+    "supportiveCare": [
+      "Pantoprazole 40mg",
+      "Dexamethasone 8mg"
+    ],
+    "monitoringLabs": [
+      "ECHO (LVEF)",
+      "LDH",
+      "RFT",
+      "Serum electrolytes"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "On Hold",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0113",
+    "patientId": "PT-0023",
+    "patientName": "Vivek Joshi",
+    "regimen": "VRd 28d cycle",
+    "intent": "Maintenance",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 4,
+    "startDate": "2026-06-12",
+    "nextCycleDate": "2026-07-20",
+    "supportiveCare": [
+      "Ondansetron 8mg",
+      "Pantoprazole 40mg",
+      "Loperamide PRN"
+    ],
+    "monitoringLabs": [
+      "LDH",
+      "Tumor markers",
+      "Serum electrolytes"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "On Hold",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Vikram Shetty"
+  },
+  {
+    "id": "RX-0114",
+    "patientId": "PT-0054",
+    "patientName": "Meera Nair",
+    "regimen": "Olaparib 300mg BID",
+    "intent": "Maintenance",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 1,
+    "startDate": "2026-05-17",
+    "nextCycleDate": "2026-07-25",
+    "supportiveCare": [
+      "Paracetamol 650mg",
+      "Loperamide PRN",
+      "Pantoprazole 40mg",
+      "Pegfilgrastim"
+    ],
+    "monitoringLabs": [
+      "CBC with differential",
+      "LDH",
+      "RFT",
+      "Tumor markers"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "Not Started",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0115",
+    "patientId": "PT-0096",
+    "patientName": "Geetha Joshi",
+    "regimen": "Cisplatin 100mg/m2 q3w + RT",
+    "intent": "Curative",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 7,
+    "startDate": "2026-05-31",
+    "nextCycleDate": "2026-07-17",
+    "supportiveCare": [
+      "Ondansetron 8mg",
+      "Dexamethasone 8mg",
+      "Paracetamol 650mg"
+    ],
+    "monitoringLabs": [
+      "LFT",
+      "CBC with differential",
+      "ECHO (LVEF)"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "Under Review",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0116",
+    "patientId": "PT-0075",
+    "patientName": "Sneha Shetty",
+    "regimen": "Gemcitabine + Nab-paclitaxel weekly",
+    "intent": "Maintenance",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 2,
+    "startDate": "2026-06-17",
+    "nextCycleDate": "2026-07-16",
+    "supportiveCare": [
+      "Dexamethasone 8mg",
+      "Paracetamol 650mg",
+      "Ondansetron 8mg"
+    ],
+    "monitoringLabs": [
+      "RFT",
+      "LDH",
+      "Tumor markers"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "Completed",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0117",
+    "patientId": "PT-0085",
+    "patientName": "Suresh Sharma",
+    "regimen": "Nivolumab q2w",
+    "intent": "Neoadjuvant",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 12,
+    "cyclesDone": 3,
+    "startDate": "2026-05-17",
+    "nextCycleDate": "2026-07-13",
+    "supportiveCare": [
+      "Ondansetron 8mg",
+      "Pantoprazole 40mg",
+      "Allopurinol 300mg"
+    ],
+    "monitoringLabs": [
+      "LFT",
+      "LDH"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Active",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Rao"
+  },
+  {
+    "id": "RX-0118",
+    "patientId": "PT-0046",
+    "patientName": "Kavya Verma",
+    "regimen": "Pembrolizumab q3w",
+    "intent": "Adjuvant",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 2,
+    "startDate": "2026-05-14",
+    "nextCycleDate": "2026-07-13",
+    "supportiveCare": [
+      "Loperamide PRN",
+      "Dexamethasone 8mg"
+    ],
+    "monitoringLabs": [
+      "ECHO (LVEF)",
+      "LDH"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Not Started",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Naveen Shetty"
+  },
+  {
+    "id": "RX-0119",
+    "patientId": "PT-0033",
+    "patientName": "Sunita Verma",
+    "regimen": "Carboplatin AUC5 + Paclitaxel q3w",
+    "intent": "Neoadjuvant",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 8,
+    "cyclesDone": 0,
+    "startDate": "2026-04-24",
+    "nextCycleDate": "2026-07-27",
+    "supportiveCare": [
+      "Pegfilgrastim",
+      "Pantoprazole 40mg",
+      "Loperamide PRN",
+      "Paracetamol 650mg"
+    ],
+    "monitoringLabs": [
+      "LDH",
+      "Tumor markers"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Not Started",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Kavya Malhotra"
+  },
+  {
+    "id": "RX-0120",
+    "patientId": "PT-0012",
+    "patientName": "Lakshmi Sharma",
+    "regimen": "FOLFOX q2w",
+    "intent": "Adjuvant",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 7,
+    "startDate": "2026-04-09",
+    "nextCycleDate": "2026-07-13",
+    "supportiveCare": [
+      "Loperamide PRN",
+      "Ondansetron 8mg"
+    ],
+    "monitoringLabs": [
+      "RFT",
+      "TSH",
+      "LDH"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Completed",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Shreya Rao"
+  },
+  {
+    "id": "RX-0121",
+    "patientId": "PT-0100",
+    "patientName": "Harish Pillai",
+    "regimen": "Nivolumab q2w",
+    "intent": "Adjuvant",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 0,
+    "startDate": "2026-06-29",
+    "nextCycleDate": "2026-07-12",
+    "supportiveCare": [
+      "Pantoprazole 40mg",
+      "Pegfilgrastim",
+      "Ondansetron 8mg",
+      "Allopurinol 300mg"
+    ],
+    "monitoringLabs": [
+      "TSH",
+      "CBC with differential",
+      "Tumor markers",
+      "Serum electrolytes"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "Not Started",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0122",
+    "patientId": "PT-0003",
+    "patientName": "Meera Mehta",
+    "regimen": "Olaparib 300mg BID",
+    "intent": "Maintenance",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 8,
+    "cyclesDone": 3,
+    "startDate": "2026-06-10",
+    "nextCycleDate": "2026-07-26",
+    "supportiveCare": [
+      "Ondansetron 8mg",
+      "Pegfilgrastim"
+    ],
+    "monitoringLabs": [
+      "TSH",
+      "Serum electrolytes",
+      "ECHO (LVEF)",
+      "RFT"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Active",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0123",
+    "patientId": "PT-0063",
+    "patientName": "Vidya Sharma",
+    "regimen": "R-CHOP q3w x6",
+    "intent": "Palliative",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 0,
+    "startDate": "2026-05-19",
+    "nextCycleDate": "2026-07-17",
+    "supportiveCare": [
+      "Ondansetron 8mg",
+      "Pegfilgrastim",
+      "Allopurinol 300mg",
+      "Pantoprazole 40mg"
+    ],
+    "monitoringLabs": [
+      "TSH",
+      "RFT",
+      "CBC with differential",
+      "ECHO (LVEF)"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Completed",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0124",
+    "patientId": "PT-0081",
+    "patientName": "Pooja Iyer",
+    "regimen": "Niraparib 300mg daily",
+    "intent": "Neoadjuvant",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 3,
+    "startDate": "2026-05-10",
+    "nextCycleDate": "2026-07-16",
+    "supportiveCare": [
+      "Paracetamol 650mg",
+      "Loperamide PRN",
+      "Dexamethasone 8mg",
+      "Pegfilgrastim"
+    ],
+    "monitoringLabs": [
+      "TSH",
+      "LDH",
+      "ECHO (LVEF)"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "Not Started",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0125",
+    "patientId": "PT-0052",
+    "patientName": "Vikram Mehta",
+    "regimen": "Sotorasib 960mg daily",
+    "intent": "Maintenance",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 8,
+    "cyclesDone": 5,
+    "startDate": "2026-04-07",
+    "nextCycleDate": "2026-07-15",
+    "supportiveCare": [
+      "Pegfilgrastim",
+      "Paracetamol 650mg"
+    ],
+    "monitoringLabs": [
+      "Serum electrolytes",
+      "LDH",
+      "Tumor markers",
+      "ECHO (LVEF)"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "On Hold",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Naveen Shetty"
+  },
+  {
+    "id": "RX-0126",
+    "patientId": "PT-0029",
+    "patientName": "Meera Krishnan",
+    "regimen": "Dabrafenib 150mg BID + Trametinib 2mg",
+    "intent": "Adjuvant",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 4,
+    "startDate": "2026-04-14",
+    "nextCycleDate": "2026-07-09",
+    "supportiveCare": [
+      "Ondansetron 8mg",
+      "Allopurinol 300mg",
+      "Loperamide PRN",
+      "Dexamethasone 8mg"
+    ],
+    "monitoringLabs": [
+      "LFT",
+      "TSH"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "Under Review",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0127",
+    "patientId": "PT-0040",
+    "patientName": "Sanjay Kapoor",
+    "regimen": "Trastuzumab + FOLFOX q2w",
+    "intent": "Adjuvant",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 1,
+    "startDate": "2026-04-18",
+    "nextCycleDate": "2026-07-12",
+    "supportiveCare": [
+      "Dexamethasone 8mg",
+      "Ondansetron 8mg",
+      "Paracetamol 650mg"
+    ],
+    "monitoringLabs": [
+      "LDH",
+      "RFT"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Not Started",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Rekha Shetty"
+  },
+  {
+    "id": "RX-0128",
+    "patientId": "PT-0020",
+    "patientName": "Sanjay Verma",
+    "regimen": "Trastuzumab + FOLFOX q2w",
+    "intent": "Palliative",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 5,
+    "startDate": "2026-04-08",
+    "nextCycleDate": "2026-07-07",
+    "supportiveCare": [
+      "Paracetamol 650mg",
+      "Pegfilgrastim",
+      "Ondansetron 8mg"
+    ],
+    "monitoringLabs": [
+      "ECHO (LVEF)",
+      "LDH",
+      "RFT",
+      "CBC with differential"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Under Review",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0129",
+    "patientId": "PT-0059",
+    "patientName": "Ashok Joshi",
+    "regimen": "Docetaxel q3w",
+    "intent": "Palliative",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 8,
+    "cyclesDone": 0,
+    "startDate": "2026-05-15",
+    "nextCycleDate": "2026-07-20",
+    "supportiveCare": [
+      "Ondansetron 8mg",
+      "Paracetamol 650mg",
+      "Dexamethasone 8mg",
+      "Pantoprazole 40mg"
+    ],
+    "monitoringLabs": [
+      "LDH",
+      "RFT",
+      "Tumor markers",
+      "ECHO (LVEF)"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Completed",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0130",
+    "patientId": "PT-0098",
+    "patientName": "Vidya Menon",
+    "regimen": "Brentuximab + AVD q2w",
+    "intent": "Maintenance",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 4,
+    "startDate": "2026-04-12",
+    "nextCycleDate": "2026-07-27",
+    "supportiveCare": [
+      "Pantoprazole 40mg",
+      "Loperamide PRN",
+      "Pegfilgrastim"
+    ],
+    "monitoringLabs": [
+      "Serum electrolytes",
+      "CBC with differential",
+      "LDH"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "On Hold",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Radha Reddy"
+  },
+  {
+    "id": "RX-0131",
+    "patientId": "PT-0045",
+    "patientName": "Priya Shetty",
+    "regimen": "Olaparib 300mg BID",
+    "intent": "Curative",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 5,
+    "startDate": "2026-04-07",
+    "nextCycleDate": "2026-07-23",
+    "supportiveCare": [
+      "Dexamethasone 8mg",
+      "Loperamide PRN",
+      "Pegfilgrastim",
+      "Allopurinol 300mg"
+    ],
+    "monitoringLabs": [
+      "Tumor markers",
+      "TSH",
+      "LDH",
+      "ECHO (LVEF)"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "Not Started",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0132",
+    "patientId": "PT-0010",
+    "patientName": "Ashok Desai",
+    "regimen": "FOLFIRINOX q2w",
+    "intent": "Curative",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 12,
+    "cyclesDone": 1,
+    "startDate": "2026-04-12",
+    "nextCycleDate": "2026-07-17",
+    "supportiveCare": [
+      "Pantoprazole 40mg",
+      "Loperamide PRN",
+      "Dexamethasone 8mg",
+      "Pegfilgrastim"
+    ],
+    "monitoringLabs": [
+      "CBC with differential",
+      "TSH"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Completed",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Rao"
+  },
+  {
+    "id": "RX-0133",
+    "patientId": "PT-0055",
+    "patientName": "Anjali Desai",
+    "regimen": "Niraparib 300mg daily",
+    "intent": "Palliative",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 7,
+    "startDate": "2026-06-02",
+    "nextCycleDate": "2026-07-22",
+    "supportiveCare": [
+      "Paracetamol 650mg",
+      "Pantoprazole 40mg",
+      "Ondansetron 8mg",
+      "Dexamethasone 8mg"
+    ],
+    "monitoringLabs": [
+      "ECHO (LVEF)",
+      "Serum electrolytes",
+      "LFT"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Completed",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "RX-0134",
+    "patientId": "PT-0086",
+    "patientName": "Sanjay Nair",
+    "regimen": "Pembrolizumab q3w",
+    "intent": "Adjuvant",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 0,
+    "startDate": "2026-04-25",
+    "nextCycleDate": "2026-07-23",
+    "supportiveCare": [
+      "Loperamide PRN",
+      "Allopurinol 300mg",
+      "Paracetamol 650mg"
+    ],
+    "monitoringLabs": [
+      "Tumor markers",
+      "ECHO (LVEF)",
+      "LDH"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Completed",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0135",
+    "patientId": "PT-0016",
+    "patientName": "Sunita Kumar",
+    "regimen": "Cisplatin 100mg/m2 q3w + RT",
+    "intent": "Palliative",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 12,
+    "cyclesDone": 0,
+    "startDate": "2026-06-17",
+    "nextCycleDate": "2026-07-16",
+    "supportiveCare": [
+      "Pantoprazole 40mg",
+      "Paracetamol 650mg",
+      "Pegfilgrastim"
+    ],
+    "monitoringLabs": [
+      "RFT",
+      "CBC with differential"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "On Hold",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Meera Shetty"
+  },
+  {
+    "id": "RX-0136",
+    "patientId": "PT-0007",
+    "patientName": "Ananya Pillai",
+    "regimen": "7+3 induction",
+    "intent": "Curative",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 3,
+    "startDate": "2026-04-24",
+    "nextCycleDate": "2026-07-17",
+    "supportiveCare": [
+      "Allopurinol 300mg",
+      "Paracetamol 650mg",
+      "Pegfilgrastim",
+      "Dexamethasone 8mg"
+    ],
+    "monitoringLabs": [
+      "Tumor markers",
+      "TSH",
+      "Serum electrolytes"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "Active",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0137",
+    "patientId": "PT-0024",
+    "patientName": "Harish Menon",
+    "regimen": "VRd 28d cycle",
+    "intent": "Palliative",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 12,
+    "cyclesDone": 7,
+    "startDate": "2026-04-14",
+    "nextCycleDate": "2026-07-08",
+    "supportiveCare": [
+      "Pegfilgrastim",
+      "Pantoprazole 40mg",
+      "Paracetamol 650mg"
+    ],
+    "monitoringLabs": [
+      "RFT",
+      "LFT"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Not Started",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Shreya Desai"
+  },
+  {
+    "id": "RX-0138",
+    "patientId": "PT-0057",
+    "patientName": "Arjun Bose",
+    "regimen": "Pembrolizumab q3w",
+    "intent": "Palliative",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 5,
+    "startDate": "2026-05-27",
+    "nextCycleDate": "2026-07-16",
+    "supportiveCare": [
+      "Pegfilgrastim",
+      "Paracetamol 650mg"
+    ],
+    "monitoringLabs": [
+      "LDH",
+      "LFT",
+      "CBC with differential"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Not Started",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0139",
+    "patientId": "PT-0018",
+    "patientName": "Nisha Shetty",
+    "regimen": "Nivolumab q2w",
+    "intent": "Curative",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 1,
+    "startDate": "2026-04-09",
+    "nextCycleDate": "2026-07-21",
+    "supportiveCare": [
+      "Pegfilgrastim",
+      "Loperamide PRN",
+      "Paracetamol 650mg",
+      "Allopurinol 300mg"
+    ],
+    "monitoringLabs": [
+      "RFT",
+      "ECHO (LVEF)",
+      "CBC with differential"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Under Review",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Sanjay Pillai"
+  },
+  {
+    "id": "RX-0140",
+    "patientId": "PT-0057",
+    "patientName": "Arjun Bose",
+    "regimen": "Pembrolizumab q3w",
+    "intent": "Adjuvant",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 5,
+    "startDate": "2026-05-19",
+    "nextCycleDate": "2026-07-27",
+    "supportiveCare": [
+      "Allopurinol 300mg",
+      "Pantoprazole 40mg",
+      "Ondansetron 8mg"
+    ],
+    "monitoringLabs": [
+      "LFT",
+      "RFT",
+      "TSH"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "Not Started",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0141",
+    "patientId": "PT-0016",
+    "patientName": "Sunita Kumar",
+    "regimen": "Cisplatin 100mg/m2 q3w + RT",
+    "intent": "Adjuvant",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 12,
+    "cyclesDone": 0,
+    "startDate": "2026-05-21",
+    "nextCycleDate": "2026-07-17",
+    "supportiveCare": [
+      "Dexamethasone 8mg",
+      "Paracetamol 650mg"
+    ],
+    "monitoringLabs": [
+      "TSH",
+      "RFT"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "On Hold",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Meera Shetty"
+  },
+  {
+    "id": "RX-0142",
+    "patientId": "PT-0025",
+    "patientName": "Anil Verma",
+    "regimen": "Pola-R-CHP q3w",
+    "intent": "Palliative",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 3,
+    "startDate": "2026-04-12",
+    "nextCycleDate": "2026-07-17",
+    "supportiveCare": [
+      "Pantoprazole 40mg",
+      "Pegfilgrastim",
+      "Dexamethasone 8mg",
+      "Loperamide PRN"
+    ],
+    "monitoringLabs": [
+      "TSH",
+      "LFT"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "Under Review",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0143",
+    "patientId": "PT-0069",
+    "patientName": "Sushma Kapoor",
+    "regimen": "Trastuzumab + FOLFOX q2w",
+    "intent": "Adjuvant",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 8,
+    "cyclesDone": 4,
+    "startDate": "2026-06-01",
+    "nextCycleDate": "2026-07-26",
+    "supportiveCare": [
+      "Paracetamol 650mg",
+      "Dexamethasone 8mg"
+    ],
+    "monitoringLabs": [
+      "LFT",
+      "CBC with differential"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "Active",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0144",
+    "patientId": "PT-0029",
+    "patientName": "Meera Krishnan",
+    "regimen": "Dabrafenib 150mg BID + Trametinib 2mg",
+    "intent": "Maintenance",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 4,
+    "startDate": "2026-05-11",
+    "nextCycleDate": "2026-07-12",
+    "supportiveCare": [
+      "Pegfilgrastim",
+      "Pantoprazole 40mg",
+      "Ondansetron 8mg"
+    ],
+    "monitoringLabs": [
+      "TSH",
+      "RFT"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Under Review",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0145",
+    "patientId": "PT-0016",
+    "patientName": "Sunita Kumar",
+    "regimen": "Cisplatin 100mg/m2 q3w + RT",
+    "intent": "Adjuvant",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 12,
+    "cyclesDone": 0,
+    "startDate": "2026-04-20",
+    "nextCycleDate": "2026-07-08",
+    "supportiveCare": [
+      "Pantoprazole 40mg",
+      "Dexamethasone 8mg"
+    ],
+    "monitoringLabs": [
+      "ECHO (LVEF)",
+      "CBC with differential",
+      "Tumor markers",
+      "Serum electrolytes"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Watch for diarrhea; start loperamide and report if >4 stools/day.",
+    "status": "On Hold",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Meera Shetty"
+  },
+  {
+    "id": "RX-0146",
+    "patientId": "PT-0054",
+    "patientName": "Meera Nair",
+    "regimen": "Olaparib 300mg BID",
+    "intent": "Maintenance",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 4,
+    "cyclesDone": 1,
+    "startDate": "2026-06-14",
+    "nextCycleDate": "2026-07-20",
+    "supportiveCare": [
+      "Paracetamol 650mg",
+      "Loperamide PRN",
+      "Dexamethasone 8mg"
+    ],
+    "monitoringLabs": [
+      "CBC with differential",
+      "ECHO (LVEF)",
+      "TSH"
+    ],
+    "imagingFollowUp": "PET-CT after 3 cycles",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Not Started",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0147",
+    "patientId": "PT-0090",
+    "patientName": "Vivek Joshi",
+    "regimen": "Dabrafenib 150mg BID + Trametinib 2mg",
+    "intent": "Maintenance",
+    "cycleLength": "21 days",
+    "cyclesPlanned": 12,
+    "cyclesDone": 2,
+    "startDate": "2026-04-13",
+    "nextCycleDate": "2026-07-11",
+    "supportiveCare": [
+      "Allopurinol 300mg",
+      "Pegfilgrastim",
+      "Loperamide PRN",
+      "Paracetamol 650mg"
+    ],
+    "monitoringLabs": [
+      "LDH",
+      "Serum electrolytes"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Under Review",
+    "osakhiReminders": true,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0148",
+    "patientId": "PT-0086",
+    "patientName": "Sanjay Nair",
+    "regimen": "Pembrolizumab q3w",
+    "intent": "Curative",
+    "cycleLength": "28 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 0,
+    "startDate": "2026-05-04",
+    "nextCycleDate": "2026-07-26",
+    "supportiveCare": [
+      "Pantoprazole 40mg",
+      "Loperamide PRN",
+      "Allopurinol 300mg"
+    ],
+    "monitoringLabs": [
+      "CBC with differential",
+      "LDH",
+      "Tumor markers",
+      "TSH"
+    ],
+    "imagingFollowUp": "CT after 2 cycles",
+    "patientInstructions": "Take anti-emetics 30 min before meals. Avoid raw foods.",
+    "status": "Completed",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0149",
+    "patientId": "PT-0075",
+    "patientName": "Sneha Shetty",
+    "regimen": "Gemcitabine + Nab-paclitaxel weekly",
+    "intent": "Palliative",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 6,
+    "cyclesDone": 2,
+    "startDate": "2026-06-13",
+    "nextCycleDate": "2026-07-27",
+    "supportiveCare": [
+      "Paracetamol 650mg",
+      "Pantoprazole 40mg",
+      "Loperamide PRN",
+      "Ondansetron 8mg"
+    ],
+    "monitoringLabs": [
+      "LDH",
+      "ECHO (LVEF)",
+      "Serum electrolytes"
+    ],
+    "imagingFollowUp": "Restaging at cycle 4",
+    "patientInstructions": "Report fever >100.4°F immediately. Stay hydrated.",
+    "status": "Completed",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  },
+  {
+    "id": "RX-0150",
+    "patientId": "PT-0099",
+    "patientName": "Deepak Desai",
+    "regimen": "Cisplatin 100mg/m2 q3w + RT",
+    "intent": "Curative",
+    "cycleLength": "14 days",
+    "cyclesPlanned": 8,
+    "cyclesDone": 6,
+    "startDate": "2026-06-27",
+    "nextCycleDate": "2026-07-19",
+    "supportiveCare": [
+      "Dexamethasone 8mg",
+      "Loperamide PRN",
+      "Allopurinol 300mg"
+    ],
+    "monitoringLabs": [
+      "Tumor markers",
+      "LDH",
+      "LFT",
+      "ECHO (LVEF)"
+    ],
+    "imagingFollowUp": "MRI at 8 weeks",
+    "patientInstructions": "Daily oral drug at same time. Do not skip doses.",
+    "status": "Completed",
+    "osakhiReminders": false,
+    "prescribedBy": "Dr. Arjun Menon"
+  }
+]

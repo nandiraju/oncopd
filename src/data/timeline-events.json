@@ -1,0 +1,3278 @@
+[
+  {
+    "id": "EVT-0001",
+    "patientId": "PT-0001",
+    "type": "report",
+    "title": "Report available",
+    "date": "2025-02-08",
+    "detail": "Prostate Cancer — ADT + Abiraterone",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0002",
+    "patientId": "PT-0001",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2025-11-28",
+    "detail": "ECOG 1; toxicity grade 3",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0003",
+    "patientId": "PT-0001",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2024-10-19",
+    "detail": "RECIST: Complete response",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0004",
+    "patientId": "PT-0001",
+    "type": "report",
+    "title": "Report available",
+    "date": "2026-06-05",
+    "detail": "RECIST: Complete response",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0005",
+    "patientId": "PT-0001",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2024-11-07",
+    "detail": "Cycle 1 of 6",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0006",
+    "patientId": "PT-0002",
+    "type": "visit",
+    "title": "OPD visit",
+    "date": "2024-09-08",
+    "detail": "ECOG 1; toxicity grade 3",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0007",
+    "patientId": "PT-0002",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2025-01-07",
+    "detail": "Biomarker: MSI-high",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0008",
+    "patientId": "PT-0002",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2025-10-22",
+    "detail": "RECIST: Stable disease",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0009",
+    "patientId": "PT-0003",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2025-11-14",
+    "detail": "Ovarian Cancer — Bevacizumab",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0010",
+    "patientId": "PT-0003",
+    "type": "mtb",
+    "title": "MTB discussion",
+    "date": "2025-08-11",
+    "detail": "Ovarian Cancer — Bevacizumab",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0011",
+    "patientId": "PT-0003",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2025-11-25",
+    "detail": "Cycle 3 of 8",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0012",
+    "patientId": "PT-0003",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2025-05-04",
+    "detail": "ECOG 3; toxicity grade 2",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0013",
+    "patientId": "PT-0004",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2025-02-25",
+    "detail": "NSCLC — Osimertinib",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0014",
+    "patientId": "PT-0004",
+    "type": "response",
+    "title": "Response assessment",
+    "date": "2025-08-21",
+    "detail": "Cycle 9 of 12",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0015",
+    "patientId": "PT-0004",
+    "type": "response",
+    "title": "Response assessment",
+    "date": "2025-06-01",
+    "detail": "Biomarker: MET exon 14 skipping",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0016",
+    "patientId": "PT-0004",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2024-09-26",
+    "detail": "ECOG 1; toxicity grade 3",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0017",
+    "patientId": "PT-0004",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2025-04-15",
+    "detail": "NSCLC — Osimertinib",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0018",
+    "patientId": "PT-0005",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2025-03-19",
+    "detail": "Cycle 7 of 8",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0019",
+    "patientId": "PT-0005",
+    "type": "mtb",
+    "title": "MTB discussion",
+    "date": "2024-09-18",
+    "detail": "Cycle 1 of 8",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0020",
+    "patientId": "PT-0005",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2026-04-03",
+    "detail": "Biomarker: TMB-high",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0021",
+    "patientId": "PT-0006",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2024-09-03",
+    "detail": "Cycle 3 of 8",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0022",
+    "patientId": "PT-0006",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2025-10-11",
+    "detail": "RECIST: Progressive disease",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0023",
+    "patientId": "PT-0006",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2025-08-07",
+    "detail": "RECIST: Progressive disease",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0024",
+    "patientId": "PT-0006",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2026-01-09",
+    "detail": "RECIST: Progressive disease",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0025",
+    "patientId": "PT-0006",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2024-09-15",
+    "detail": "Cycle 1 of 8",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0026",
+    "patientId": "PT-0007",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2025-05-22",
+    "detail": "Cycle 1 of 4",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0027",
+    "patientId": "PT-0007",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2026-06-20",
+    "detail": "Biomarker: IDH1/2",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0028",
+    "patientId": "PT-0007",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2024-08-19",
+    "detail": "ECOG 0; toxicity grade 3",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0029",
+    "patientId": "PT-0007",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2025-11-18",
+    "detail": "Cycle 2 of 4",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0030",
+    "patientId": "PT-0007",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2024-09-27",
+    "detail": "RECIST: Complete response",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0031",
+    "patientId": "PT-0008",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2025-07-09",
+    "detail": "Leukemia — Dasatinib",
+    "author": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "EVT-0032",
+    "patientId": "PT-0008",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2026-02-13",
+    "detail": "Leukemia — Dasatinib",
+    "author": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "EVT-0033",
+    "patientId": "PT-0008",
+    "type": "visit",
+    "title": "OPD visit",
+    "date": "2026-04-03",
+    "detail": "Biomarker: BCR-ABL1",
+    "author": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "EVT-0034",
+    "patientId": "PT-0008",
+    "type": "response",
+    "title": "Response assessment",
+    "date": "2024-10-11",
+    "detail": "Cycle 5 of 8",
+    "author": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "EVT-0035",
+    "patientId": "PT-0008",
+    "type": "report",
+    "title": "Report available",
+    "date": "2025-12-01",
+    "detail": "Biomarker: BCR-ABL1",
+    "author": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "EVT-0036",
+    "patientId": "PT-0009",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2024-08-27",
+    "detail": "Leukemia — Imatinib",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0037",
+    "patientId": "PT-0009",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2024-10-03",
+    "detail": "Cycle 4 of 8",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0038",
+    "patientId": "PT-0009",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2026-06-23",
+    "detail": "RECIST: Stable disease",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0039",
+    "patientId": "PT-0009",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2026-04-26",
+    "detail": "Leukemia — Imatinib",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0040",
+    "patientId": "PT-0010",
+    "type": "report",
+    "title": "Report available",
+    "date": "2026-03-13",
+    "detail": "RECIST: Progressive disease",
+    "author": "Dr. Arjun Rao"
+  },
+  {
+    "id": "EVT-0041",
+    "patientId": "PT-0010",
+    "type": "mtb",
+    "title": "MTB discussion",
+    "date": "2025-09-20",
+    "detail": "Biomarker: MSI-high",
+    "author": "Dr. Arjun Rao"
+  },
+  {
+    "id": "EVT-0042",
+    "patientId": "PT-0010",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2026-02-25",
+    "detail": "RECIST: Progressive disease",
+    "author": "Dr. Arjun Rao"
+  },
+  {
+    "id": "EVT-0043",
+    "patientId": "PT-0010",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2025-07-05",
+    "detail": "Cycle 9 of 12",
+    "author": "Dr. Arjun Rao"
+  },
+  {
+    "id": "EVT-0044",
+    "patientId": "PT-0010",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2025-08-26",
+    "detail": "Biomarker: MSI-high",
+    "author": "Dr. Arjun Rao"
+  },
+  {
+    "id": "EVT-0045",
+    "patientId": "PT-0011",
+    "type": "mtb",
+    "title": "MTB discussion",
+    "date": "2025-02-04",
+    "detail": "RECIST: Partial response",
+    "author": "Dr. Latha Iyer"
+  },
+  {
+    "id": "EVT-0046",
+    "patientId": "PT-0011",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2026-01-27",
+    "detail": "ECOG 1; toxicity grade 2",
+    "author": "Dr. Latha Iyer"
+  },
+  {
+    "id": "EVT-0047",
+    "patientId": "PT-0011",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2025-04-23",
+    "detail": "Biomarker: MET exon 14 skipping",
+    "author": "Dr. Latha Iyer"
+  },
+  {
+    "id": "EVT-0048",
+    "patientId": "PT-0012",
+    "type": "visit",
+    "title": "OPD visit",
+    "date": "2024-11-21",
+    "detail": "Cycle 3 of 6",
+    "author": "Dr. Shreya Rao"
+  },
+  {
+    "id": "EVT-0049",
+    "patientId": "PT-0012",
+    "type": "response",
+    "title": "Response assessment",
+    "date": "2025-09-11",
+    "detail": "Colorectal Cancer — FOLFOX + Bevacizumab",
+    "author": "Dr. Shreya Rao"
+  },
+  {
+    "id": "EVT-0050",
+    "patientId": "PT-0012",
+    "type": "response",
+    "title": "Response assessment",
+    "date": "2026-05-03",
+    "detail": "RECIST: Progressive disease",
+    "author": "Dr. Shreya Rao"
+  },
+  {
+    "id": "EVT-0051",
+    "patientId": "PT-0012",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2025-07-27",
+    "detail": "Cycle 1 of 6",
+    "author": "Dr. Shreya Rao"
+  },
+  {
+    "id": "EVT-0052",
+    "patientId": "PT-0012",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2025-08-22",
+    "detail": "Colorectal Cancer — FOLFOX + Bevacizumab",
+    "author": "Dr. Shreya Rao"
+  },
+  {
+    "id": "EVT-0053",
+    "patientId": "PT-0013",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2025-11-29",
+    "detail": "Biomarker: BRCA1/2",
+    "author": "Dr. Kavya Malhotra"
+  },
+  {
+    "id": "EVT-0054",
+    "patientId": "PT-0013",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2024-10-27",
+    "detail": "Breast Cancer — CDK4/6 inhibitor + AI",
+    "author": "Dr. Kavya Malhotra"
+  },
+  {
+    "id": "EVT-0055",
+    "patientId": "PT-0013",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2024-08-05",
+    "detail": "Biomarker: HER2 amplification",
+    "author": "Dr. Kavya Malhotra"
+  },
+  {
+    "id": "EVT-0056",
+    "patientId": "PT-0013",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2025-08-23",
+    "detail": "ECOG 0; toxicity grade 2",
+    "author": "Dr. Kavya Malhotra"
+  },
+  {
+    "id": "EVT-0057",
+    "patientId": "PT-0014",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2025-01-29",
+    "detail": "RECIST: Progressive disease",
+    "author": "Dr. Nisha Rao"
+  },
+  {
+    "id": "EVT-0058",
+    "patientId": "PT-0014",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2024-12-24",
+    "detail": "Cycle 3 of 4",
+    "author": "Dr. Nisha Rao"
+  },
+  {
+    "id": "EVT-0059",
+    "patientId": "PT-0014",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2026-05-24",
+    "detail": "Cycle 4 of 4",
+    "author": "Dr. Nisha Rao"
+  },
+  {
+    "id": "EVT-0060",
+    "patientId": "PT-0014",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2025-05-03",
+    "detail": "RECIST: Partial response",
+    "author": "Dr. Nisha Rao"
+  },
+  {
+    "id": "EVT-0061",
+    "patientId": "PT-0014",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2025-05-07",
+    "detail": "RECIST: Stable disease",
+    "author": "Dr. Nisha Rao"
+  },
+  {
+    "id": "EVT-0062",
+    "patientId": "PT-0015",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2024-12-30",
+    "detail": "ECOG 1; toxicity grade 2",
+    "author": "Dr. Meera Shetty"
+  },
+  {
+    "id": "EVT-0063",
+    "patientId": "PT-0015",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2025-11-02",
+    "detail": "Cycle 2 of 4",
+    "author": "Dr. Meera Shetty"
+  },
+  {
+    "id": "EVT-0064",
+    "patientId": "PT-0015",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2024-11-06",
+    "detail": "Leukemia — Imatinib",
+    "author": "Dr. Meera Shetty"
+  },
+  {
+    "id": "EVT-0065",
+    "patientId": "PT-0015",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2024-10-25",
+    "detail": "Leukemia — Imatinib",
+    "author": "Dr. Meera Shetty"
+  },
+  {
+    "id": "EVT-0066",
+    "patientId": "PT-0015",
+    "type": "visit",
+    "title": "OPD visit",
+    "date": "2026-03-15",
+    "detail": "ECOG 1; toxicity grade 2",
+    "author": "Dr. Meera Shetty"
+  },
+  {
+    "id": "EVT-0067",
+    "patientId": "PT-0016",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2024-08-20",
+    "detail": "Biomarker: PD-L1 TPS",
+    "author": "Dr. Meera Shetty"
+  },
+  {
+    "id": "EVT-0068",
+    "patientId": "PT-0016",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2025-06-28",
+    "detail": "ECOG 0; toxicity grade 1",
+    "author": "Dr. Meera Shetty"
+  },
+  {
+    "id": "EVT-0069",
+    "patientId": "PT-0016",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2025-07-31",
+    "detail": "Head and Neck Cancer — Cetuximab + RT",
+    "author": "Dr. Meera Shetty"
+  },
+  {
+    "id": "EVT-0070",
+    "patientId": "PT-0016",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2024-08-20",
+    "detail": "ECOG 0; toxicity grade 1",
+    "author": "Dr. Meera Shetty"
+  },
+  {
+    "id": "EVT-0071",
+    "patientId": "PT-0016",
+    "type": "visit",
+    "title": "OPD visit",
+    "date": "2025-08-20",
+    "detail": "Head and Neck Cancer — Cetuximab + RT",
+    "author": "Dr. Meera Shetty"
+  },
+  {
+    "id": "EVT-0072",
+    "patientId": "PT-0017",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2024-12-11",
+    "detail": "ECOG 1; toxicity grade 3",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0073",
+    "patientId": "PT-0017",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2025-11-10",
+    "detail": "RECIST: Stable disease",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0074",
+    "patientId": "PT-0017",
+    "type": "visit",
+    "title": "OPD visit",
+    "date": "2026-03-06",
+    "detail": "RECIST: Stable disease",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0075",
+    "patientId": "PT-0017",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2025-01-28",
+    "detail": "Cycle 11 of 12",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0076",
+    "patientId": "PT-0018",
+    "type": "response",
+    "title": "Response assessment",
+    "date": "2025-04-21",
+    "detail": "ECOG 0; toxicity grade 3",
+    "author": "Dr. Sanjay Pillai"
+  },
+  {
+    "id": "EVT-0077",
+    "patientId": "PT-0018",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2026-05-09",
+    "detail": "RECIST: Partial response",
+    "author": "Dr. Sanjay Pillai"
+  },
+  {
+    "id": "EVT-0078",
+    "patientId": "PT-0018",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2026-02-28",
+    "detail": "Cycle 4 of 6",
+    "author": "Dr. Sanjay Pillai"
+  },
+  {
+    "id": "EVT-0079",
+    "patientId": "PT-0018",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2025-12-11",
+    "detail": "ECOG 0; toxicity grade 1",
+    "author": "Dr. Sanjay Pillai"
+  },
+  {
+    "id": "EVT-0080",
+    "patientId": "PT-0018",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2025-07-03",
+    "detail": "ECOG 0; toxicity grade 2",
+    "author": "Dr. Sanjay Pillai"
+  },
+  {
+    "id": "EVT-0081",
+    "patientId": "PT-0019",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2025-02-08",
+    "detail": "Cycle 4 of 8",
+    "author": "Dr. Vidya Kapoor"
+  },
+  {
+    "id": "EVT-0082",
+    "patientId": "PT-0019",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2025-02-02",
+    "detail": "RECIST: Complete response",
+    "author": "Dr. Vidya Kapoor"
+  },
+  {
+    "id": "EVT-0083",
+    "patientId": "PT-0019",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2025-05-26",
+    "detail": "RECIST: Partial response",
+    "author": "Dr. Vidya Kapoor"
+  },
+  {
+    "id": "EVT-0084",
+    "patientId": "PT-0019",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2024-11-01",
+    "detail": "RECIST: Progressive disease",
+    "author": "Dr. Vidya Kapoor"
+  },
+  {
+    "id": "EVT-0085",
+    "patientId": "PT-0020",
+    "type": "report",
+    "title": "Report available",
+    "date": "2025-02-14",
+    "detail": "Gastric Cancer — Trastuzumab deruxtecan",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0086",
+    "patientId": "PT-0020",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2025-07-30",
+    "detail": "Biomarker: HER2 amplification",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0087",
+    "patientId": "PT-0020",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2025-06-16",
+    "detail": "RECIST: Stable disease",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0088",
+    "patientId": "PT-0021",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2024-10-12",
+    "detail": "Biomarker: ROS1 fusion",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0089",
+    "patientId": "PT-0021",
+    "type": "mtb",
+    "title": "MTB discussion",
+    "date": "2025-04-18",
+    "detail": "RECIST: Progressive disease",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0090",
+    "patientId": "PT-0022",
+    "type": "response",
+    "title": "Response assessment",
+    "date": "2025-07-16",
+    "detail": "ECOG 3; toxicity grade 2",
+    "author": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "EVT-0091",
+    "patientId": "PT-0022",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2026-01-29",
+    "detail": "Biomarker: IDH1/2",
+    "author": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "EVT-0092",
+    "patientId": "PT-0022",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2026-05-08",
+    "detail": "Cycle 1 of 6",
+    "author": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "EVT-0093",
+    "patientId": "PT-0022",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2025-03-13",
+    "detail": "Cycle 5 of 6",
+    "author": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "EVT-0094",
+    "patientId": "PT-0022",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2024-12-27",
+    "detail": "Biomarker: IDH1/2",
+    "author": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "EVT-0095",
+    "patientId": "PT-0023",
+    "type": "mtb",
+    "title": "MTB discussion",
+    "date": "2024-12-02",
+    "detail": "RECIST: Stable disease",
+    "author": "Dr. Vikram Shetty"
+  },
+  {
+    "id": "EVT-0096",
+    "patientId": "PT-0023",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2026-03-01",
+    "detail": "Multiple Myeloma — VRd",
+    "author": "Dr. Vikram Shetty"
+  },
+  {
+    "id": "EVT-0097",
+    "patientId": "PT-0023",
+    "type": "report",
+    "title": "Report available",
+    "date": "2026-01-26",
+    "detail": "Cycle 4 of 4",
+    "author": "Dr. Vikram Shetty"
+  },
+  {
+    "id": "EVT-0098",
+    "patientId": "PT-0024",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2025-09-01",
+    "detail": "Biomarker: t(4;14)",
+    "author": "Dr. Shreya Desai"
+  },
+  {
+    "id": "EVT-0099",
+    "patientId": "PT-0024",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2026-05-02",
+    "detail": "Biomarker: del(17p)",
+    "author": "Dr. Shreya Desai"
+  },
+  {
+    "id": "EVT-0100",
+    "patientId": "PT-0024",
+    "type": "visit",
+    "title": "OPD visit",
+    "date": "2025-06-14",
+    "detail": "ECOG 1; toxicity grade 3",
+    "author": "Dr. Shreya Desai"
+  },
+  {
+    "id": "EVT-0101",
+    "patientId": "PT-0025",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2025-05-09",
+    "detail": "Biomarker: TP53",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0102",
+    "patientId": "PT-0025",
+    "type": "response",
+    "title": "Response assessment",
+    "date": "2024-09-15",
+    "detail": "RECIST: Partial response",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0103",
+    "patientId": "PT-0025",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2025-05-26",
+    "detail": "Biomarker: TMB-high",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0104",
+    "patientId": "PT-0025",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2025-12-15",
+    "detail": "Biomarker: TMB-high",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0105",
+    "patientId": "PT-0026",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2025-02-12",
+    "detail": "ECOG 2; toxicity grade 1",
+    "author": "Dr. Karthik Pillai"
+  },
+  {
+    "id": "EVT-0106",
+    "patientId": "PT-0026",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2026-02-20",
+    "detail": "ECOG 2; toxicity grade 1",
+    "author": "Dr. Karthik Pillai"
+  },
+  {
+    "id": "EVT-0107",
+    "patientId": "PT-0026",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2025-11-09",
+    "detail": "RECIST: Progressive disease",
+    "author": "Dr. Karthik Pillai"
+  },
+  {
+    "id": "EVT-0108",
+    "patientId": "PT-0026",
+    "type": "report",
+    "title": "Report available",
+    "date": "2024-10-13",
+    "detail": "Biomarker: IDH1/2",
+    "author": "Dr. Karthik Pillai"
+  },
+  {
+    "id": "EVT-0109",
+    "patientId": "PT-0026",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2025-11-30",
+    "detail": "Leukemia — Midostaurin + 7+3",
+    "author": "Dr. Karthik Pillai"
+  },
+  {
+    "id": "EVT-0110",
+    "patientId": "PT-0027",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2024-09-11",
+    "detail": "ECOG 2; toxicity grade 2",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0111",
+    "patientId": "PT-0027",
+    "type": "report",
+    "title": "Report available",
+    "date": "2024-12-05",
+    "detail": "RECIST: Partial response",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0112",
+    "patientId": "PT-0027",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2025-02-23",
+    "detail": "Biomarker: KRAS G12C",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0113",
+    "patientId": "PT-0028",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2026-02-10",
+    "detail": "Multiple Myeloma — ASCT consolidation",
+    "author": "Dr. Meera Shetty"
+  },
+  {
+    "id": "EVT-0114",
+    "patientId": "PT-0028",
+    "type": "visit",
+    "title": "OPD visit",
+    "date": "2026-01-11",
+    "detail": "ECOG 3; toxicity grade 1",
+    "author": "Dr. Meera Shetty"
+  },
+  {
+    "id": "EVT-0115",
+    "patientId": "PT-0028",
+    "type": "mtb",
+    "title": "MTB discussion",
+    "date": "2026-04-15",
+    "detail": "Biomarker: 1q gain",
+    "author": "Dr. Meera Shetty"
+  },
+  {
+    "id": "EVT-0116",
+    "patientId": "PT-0029",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2025-03-08",
+    "detail": "Cycle 4 of 6",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0117",
+    "patientId": "PT-0029",
+    "type": "report",
+    "title": "Report available",
+    "date": "2024-08-30",
+    "detail": "Biomarker: PD-L1 TPS",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0118",
+    "patientId": "PT-0030",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2024-08-09",
+    "detail": "Ovarian Cancer — Carboplatin/Paclitaxel",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0119",
+    "patientId": "PT-0030",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2024-11-12",
+    "detail": "Biomarker: MSI-high",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0120",
+    "patientId": "PT-0030",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2025-09-04",
+    "detail": "ECOG 1; toxicity grade 3",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0121",
+    "patientId": "PT-0030",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2025-11-12",
+    "detail": "RECIST: Complete response",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0122",
+    "patientId": "PT-0031",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2026-02-25",
+    "detail": "Melanoma — Encorafenib + Binimetinib",
+    "author": "Dr. Rekha Sharma"
+  },
+  {
+    "id": "EVT-0123",
+    "patientId": "PT-0031",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2026-01-16",
+    "detail": "RECIST: Partial response",
+    "author": "Dr. Rekha Sharma"
+  },
+  {
+    "id": "EVT-0124",
+    "patientId": "PT-0031",
+    "type": "report",
+    "title": "Report available",
+    "date": "2024-09-07",
+    "detail": "RECIST: Complete response",
+    "author": "Dr. Rekha Sharma"
+  },
+  {
+    "id": "EVT-0125",
+    "patientId": "PT-0031",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2024-09-13",
+    "detail": "ECOG 0; toxicity grade 3",
+    "author": "Dr. Rekha Sharma"
+  },
+  {
+    "id": "EVT-0126",
+    "patientId": "PT-0032",
+    "type": "report",
+    "title": "Report available",
+    "date": "2024-11-18",
+    "detail": "Cycle 2 of 6",
+    "author": "Dr. Shreya Rao"
+  },
+  {
+    "id": "EVT-0127",
+    "patientId": "PT-0032",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2025-07-01",
+    "detail": "Biomarker: FLT3-ITD",
+    "author": "Dr. Shreya Rao"
+  },
+  {
+    "id": "EVT-0128",
+    "patientId": "PT-0033",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2024-09-22",
+    "detail": "ECOG 0; toxicity grade 1",
+    "author": "Dr. Kavya Malhotra"
+  },
+  {
+    "id": "EVT-0129",
+    "patientId": "PT-0033",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2024-10-28",
+    "detail": "Ovarian Cancer — Niraparib maintenance",
+    "author": "Dr. Kavya Malhotra"
+  },
+  {
+    "id": "EVT-0130",
+    "patientId": "PT-0033",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2024-12-18",
+    "detail": "Cycle 7 of 8",
+    "author": "Dr. Kavya Malhotra"
+  },
+  {
+    "id": "EVT-0131",
+    "patientId": "PT-0034",
+    "type": "visit",
+    "title": "OPD visit",
+    "date": "2025-12-31",
+    "detail": "Cycle 2 of 4",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0132",
+    "patientId": "PT-0034",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2025-01-04",
+    "detail": "Breast Cancer — Olaparib",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0133",
+    "patientId": "PT-0034",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2025-10-30",
+    "detail": "Cycle 4 of 4",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0134",
+    "patientId": "PT-0034",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2024-09-11",
+    "detail": "ECOG 1; toxicity grade 2",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0135",
+    "patientId": "PT-0034",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2026-06-06",
+    "detail": "ECOG 1; toxicity grade 2",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0136",
+    "patientId": "PT-0035",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2025-02-19",
+    "detail": "Pancreatic Cancer — FOLFIRINOX",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0137",
+    "patientId": "PT-0035",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2025-01-13",
+    "detail": "ECOG 1; toxicity grade 1",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0138",
+    "patientId": "PT-0035",
+    "type": "mtb",
+    "title": "MTB discussion",
+    "date": "2026-06-20",
+    "detail": "Biomarker: KRAS G12C",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0139",
+    "patientId": "PT-0035",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2024-10-10",
+    "detail": "RECIST: Complete response",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0140",
+    "patientId": "PT-0036",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2026-06-18",
+    "detail": "Cycle 2 of 6",
+    "author": "Dr. Nisha Rao"
+  },
+  {
+    "id": "EVT-0141",
+    "patientId": "PT-0036",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2024-08-18",
+    "detail": "RECIST: Stable disease",
+    "author": "Dr. Nisha Rao"
+  },
+  {
+    "id": "EVT-0142",
+    "patientId": "PT-0036",
+    "type": "mtb",
+    "title": "MTB discussion",
+    "date": "2025-01-29",
+    "detail": "Cycle 5 of 6",
+    "author": "Dr. Nisha Rao"
+  },
+  {
+    "id": "EVT-0143",
+    "patientId": "PT-0037",
+    "type": "report",
+    "title": "Report available",
+    "date": "2024-12-11",
+    "detail": "Biomarker: HRD positive",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0144",
+    "patientId": "PT-0037",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2024-09-20",
+    "detail": "Biomarker: HRD positive",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0145",
+    "patientId": "PT-0037",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2025-01-13",
+    "detail": "ECOG 0; toxicity grade 1",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0146",
+    "patientId": "PT-0038",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2025-03-13",
+    "detail": "Cycle 2 of 6",
+    "author": "Dr. Shreya Desai"
+  },
+  {
+    "id": "EVT-0147",
+    "patientId": "PT-0038",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2024-12-02",
+    "detail": "Prostate Cancer — Enzalutamide",
+    "author": "Dr. Shreya Desai"
+  },
+  {
+    "id": "EVT-0148",
+    "patientId": "PT-0038",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2025-10-02",
+    "detail": "Cycle 3 of 6",
+    "author": "Dr. Shreya Desai"
+  },
+  {
+    "id": "EVT-0149",
+    "patientId": "PT-0038",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2024-11-09",
+    "detail": "Biomarker: MSI-high",
+    "author": "Dr. Shreya Desai"
+  },
+  {
+    "id": "EVT-0150",
+    "patientId": "PT-0039",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2024-08-30",
+    "detail": "Multiple Myeloma — ASCT consolidation",
+    "author": "Dr. Harish Verma"
+  },
+  {
+    "id": "EVT-0151",
+    "patientId": "PT-0039",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2025-11-27",
+    "detail": "RECIST: Stable disease",
+    "author": "Dr. Harish Verma"
+  },
+  {
+    "id": "EVT-0152",
+    "patientId": "PT-0040",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2026-04-25",
+    "detail": "Cycle 5 of 6",
+    "author": "Dr. Rekha Shetty"
+  },
+  {
+    "id": "EVT-0153",
+    "patientId": "PT-0040",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2024-09-13",
+    "detail": "Biomarker: PD-L1 TPS",
+    "author": "Dr. Rekha Shetty"
+  },
+  {
+    "id": "EVT-0154",
+    "patientId": "PT-0040",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2026-03-09",
+    "detail": "ECOG 1; toxicity grade 2",
+    "author": "Dr. Rekha Shetty"
+  },
+  {
+    "id": "EVT-0155",
+    "patientId": "PT-0041",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2025-06-05",
+    "detail": "RECIST: Stable disease",
+    "author": "Dr. Rekha Shetty"
+  },
+  {
+    "id": "EVT-0156",
+    "patientId": "PT-0041",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2026-06-14",
+    "detail": "ECOG 2; toxicity grade 1",
+    "author": "Dr. Rekha Shetty"
+  },
+  {
+    "id": "EVT-0157",
+    "patientId": "PT-0041",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2024-12-13",
+    "detail": "RECIST: Complete response",
+    "author": "Dr. Rekha Shetty"
+  },
+  {
+    "id": "EVT-0158",
+    "patientId": "PT-0041",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2024-09-16",
+    "detail": "RECIST: Complete response",
+    "author": "Dr. Rekha Shetty"
+  },
+  {
+    "id": "EVT-0159",
+    "patientId": "PT-0041",
+    "type": "mtb",
+    "title": "MTB discussion",
+    "date": "2025-01-03",
+    "detail": "Cycle 6 of 6",
+    "author": "Dr. Rekha Shetty"
+  },
+  {
+    "id": "EVT-0160",
+    "patientId": "PT-0042",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2025-10-08",
+    "detail": "Biomarker: t(4;14)",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0161",
+    "patientId": "PT-0042",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2026-07-02",
+    "detail": "Biomarker: t(4;14)",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0162",
+    "patientId": "PT-0042",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2026-04-13",
+    "detail": "RECIST: Stable disease",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0163",
+    "patientId": "PT-0042",
+    "type": "report",
+    "title": "Report available",
+    "date": "2025-02-23",
+    "detail": "Biomarker: t(4;14)",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0164",
+    "patientId": "PT-0043",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2025-10-31",
+    "detail": "Lymphoma — CAR-T referral",
+    "author": "Dr. Lakshmi Gupta"
+  },
+  {
+    "id": "EVT-0165",
+    "patientId": "PT-0043",
+    "type": "report",
+    "title": "Report available",
+    "date": "2025-01-19",
+    "detail": "Lymphoma — CAR-T referral",
+    "author": "Dr. Lakshmi Gupta"
+  },
+  {
+    "id": "EVT-0166",
+    "patientId": "PT-0044",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2024-11-02",
+    "detail": "RECIST: Progressive disease",
+    "author": "Dr. Vikram Sharma"
+  },
+  {
+    "id": "EVT-0167",
+    "patientId": "PT-0044",
+    "type": "report",
+    "title": "Report available",
+    "date": "2025-05-05",
+    "detail": "Biomarker: MSI-high",
+    "author": "Dr. Vikram Sharma"
+  },
+  {
+    "id": "EVT-0168",
+    "patientId": "PT-0044",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2025-12-13",
+    "detail": "Cycle 4 of 4",
+    "author": "Dr. Vikram Sharma"
+  },
+  {
+    "id": "EVT-0169",
+    "patientId": "PT-0044",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2025-12-29",
+    "detail": "ECOG 0; toxicity grade 3",
+    "author": "Dr. Vikram Sharma"
+  },
+  {
+    "id": "EVT-0170",
+    "patientId": "PT-0044",
+    "type": "mtb",
+    "title": "MTB discussion",
+    "date": "2026-05-20",
+    "detail": "RECIST: Complete response",
+    "author": "Dr. Vikram Sharma"
+  },
+  {
+    "id": "EVT-0171",
+    "patientId": "PT-0045",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2025-09-27",
+    "detail": "Biomarker: BRCA1/2",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0172",
+    "patientId": "PT-0045",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2025-11-01",
+    "detail": "Ovarian Cancer — Olaparib maintenance",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0173",
+    "patientId": "PT-0045",
+    "type": "mtb",
+    "title": "MTB discussion",
+    "date": "2026-03-14",
+    "detail": "RECIST: Complete response",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0174",
+    "patientId": "PT-0046",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2025-06-10",
+    "detail": "RECIST: Complete response",
+    "author": "Dr. Naveen Shetty"
+  },
+  {
+    "id": "EVT-0175",
+    "patientId": "PT-0046",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2025-02-12",
+    "detail": "Cycle 6 of 6",
+    "author": "Dr. Naveen Shetty"
+  },
+  {
+    "id": "EVT-0176",
+    "patientId": "PT-0046",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2025-04-18",
+    "detail": "RECIST: Partial response",
+    "author": "Dr. Naveen Shetty"
+  },
+  {
+    "id": "EVT-0177",
+    "patientId": "PT-0046",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2024-09-23",
+    "detail": "Melanoma — Nivolumab + Ipilimumab",
+    "author": "Dr. Naveen Shetty"
+  },
+  {
+    "id": "EVT-0178",
+    "patientId": "PT-0046",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2025-08-02",
+    "detail": "Biomarker: BRAF V600E",
+    "author": "Dr. Naveen Shetty"
+  },
+  {
+    "id": "EVT-0179",
+    "patientId": "PT-0047",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2025-07-19",
+    "detail": "Biomarker: TP53",
+    "author": "Dr. Latha Iyer"
+  },
+  {
+    "id": "EVT-0180",
+    "patientId": "PT-0047",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2024-11-08",
+    "detail": "ECOG 0; toxicity grade 1",
+    "author": "Dr. Latha Iyer"
+  },
+  {
+    "id": "EVT-0181",
+    "patientId": "PT-0047",
+    "type": "mtb",
+    "title": "MTB discussion",
+    "date": "2025-12-08",
+    "detail": "ECOG 0; toxicity grade 1",
+    "author": "Dr. Latha Iyer"
+  },
+  {
+    "id": "EVT-0182",
+    "patientId": "PT-0047",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2024-11-07",
+    "detail": "Biomarker: TP53",
+    "author": "Dr. Latha Iyer"
+  },
+  {
+    "id": "EVT-0183",
+    "patientId": "PT-0048",
+    "type": "report",
+    "title": "Report available",
+    "date": "2025-06-18",
+    "detail": "ECOG 1; toxicity grade 1",
+    "author": "Dr. Gopal Iyer"
+  },
+  {
+    "id": "EVT-0184",
+    "patientId": "PT-0048",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2025-05-19",
+    "detail": "ECOG 1; toxicity grade 3",
+    "author": "Dr. Gopal Iyer"
+  },
+  {
+    "id": "EVT-0185",
+    "patientId": "PT-0049",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2024-10-22",
+    "detail": "Cycle 4 of 6",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0186",
+    "patientId": "PT-0049",
+    "type": "report",
+    "title": "Report available",
+    "date": "2024-11-01",
+    "detail": "Gastric Cancer — Trastuzumab deruxtecan",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0187",
+    "patientId": "PT-0050",
+    "type": "report",
+    "title": "Report available",
+    "date": "2025-10-28",
+    "detail": "Prostate Cancer — Lu-177 PSMA",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0188",
+    "patientId": "PT-0050",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2024-11-18",
+    "detail": "Cycle 1 of 4",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0189",
+    "patientId": "PT-0051",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2025-04-23",
+    "detail": "ECOG 2; toxicity grade 2",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0190",
+    "patientId": "PT-0051",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2024-11-12",
+    "detail": "Leukemia — Dasatinib",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0191",
+    "patientId": "PT-0051",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2025-12-11",
+    "detail": "Cycle 1 of 4",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0192",
+    "patientId": "PT-0051",
+    "type": "report",
+    "title": "Report available",
+    "date": "2026-06-18",
+    "detail": "Biomarker: BCR-ABL1",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0193",
+    "patientId": "PT-0052",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2024-11-14",
+    "detail": "ECOG 1; toxicity grade 2",
+    "author": "Dr. Naveen Shetty"
+  },
+  {
+    "id": "EVT-0194",
+    "patientId": "PT-0052",
+    "type": "response",
+    "title": "Response assessment",
+    "date": "2025-02-28",
+    "detail": "NSCLC — Pembrolizumab + Carboplatin/Pemetrexed",
+    "author": "Dr. Naveen Shetty"
+  },
+  {
+    "id": "EVT-0195",
+    "patientId": "PT-0053",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2025-05-18",
+    "detail": "NSCLC — Sotorasib",
+    "author": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "EVT-0196",
+    "patientId": "PT-0053",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2025-09-07",
+    "detail": "Cycle 1 of 6",
+    "author": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "EVT-0197",
+    "patientId": "PT-0053",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2024-10-30",
+    "detail": "Cycle 3 of 6",
+    "author": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "EVT-0198",
+    "patientId": "PT-0053",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2025-07-09",
+    "detail": "ECOG 0; toxicity grade 3",
+    "author": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "EVT-0199",
+    "patientId": "PT-0054",
+    "type": "visit",
+    "title": "OPD visit",
+    "date": "2025-03-22",
+    "detail": "RECIST: Partial response",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0200",
+    "patientId": "PT-0054",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2025-07-10",
+    "detail": "Biomarker: BRCA1/2",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0201",
+    "patientId": "PT-0054",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2026-03-30",
+    "detail": "RECIST: Stable disease",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0202",
+    "patientId": "PT-0054",
+    "type": "response",
+    "title": "Response assessment",
+    "date": "2024-11-25",
+    "detail": "ECOG 2; toxicity grade 3",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0203",
+    "patientId": "PT-0054",
+    "type": "response",
+    "title": "Response assessment",
+    "date": "2025-02-18",
+    "detail": "ECOG 2; toxicity grade 1",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0204",
+    "patientId": "PT-0055",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2024-08-29",
+    "detail": "Biomarker: HRD positive",
+    "author": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "EVT-0205",
+    "patientId": "PT-0055",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2026-02-28",
+    "detail": "Ovarian Cancer — Bevacizumab",
+    "author": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "EVT-0206",
+    "patientId": "PT-0056",
+    "type": "visit",
+    "title": "OPD visit",
+    "date": "2025-04-11",
+    "detail": "Colorectal Cancer — FOLFOX + Bevacizumab",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0207",
+    "patientId": "PT-0056",
+    "type": "visit",
+    "title": "OPD visit",
+    "date": "2025-06-15",
+    "detail": "RECIST: Complete response",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0208",
+    "patientId": "PT-0057",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2025-11-06",
+    "detail": "Biomarker: TMB-high",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0209",
+    "patientId": "PT-0057",
+    "type": "visit",
+    "title": "OPD visit",
+    "date": "2025-04-19",
+    "detail": "Biomarker: BRAF V600E",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0210",
+    "patientId": "PT-0057",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2026-06-30",
+    "detail": "ECOG 2; toxicity grade 2",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0211",
+    "patientId": "PT-0057",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2025-09-26",
+    "detail": "Biomarker: BRAF V600E",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0212",
+    "patientId": "PT-0058",
+    "type": "mtb",
+    "title": "MTB discussion",
+    "date": "2024-12-01",
+    "detail": "RECIST: Complete response",
+    "author": "Dr. Kavya Malhotra"
+  },
+  {
+    "id": "EVT-0213",
+    "patientId": "PT-0058",
+    "type": "report",
+    "title": "Report available",
+    "date": "2025-11-11",
+    "detail": "RECIST: Complete response",
+    "author": "Dr. Kavya Malhotra"
+  },
+  {
+    "id": "EVT-0214",
+    "patientId": "PT-0059",
+    "type": "response",
+    "title": "Response assessment",
+    "date": "2025-09-09",
+    "detail": "Cycle 6 of 8",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0215",
+    "patientId": "PT-0059",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2025-06-27",
+    "detail": "RECIST: Partial response",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0216",
+    "patientId": "PT-0059",
+    "type": "response",
+    "title": "Response assessment",
+    "date": "2025-02-23",
+    "detail": "ECOG 1; toxicity grade 2",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0217",
+    "patientId": "PT-0060",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2025-10-12",
+    "detail": "ECOG 2; toxicity grade 1",
+    "author": "Dr. Vikram Shetty"
+  },
+  {
+    "id": "EVT-0218",
+    "patientId": "PT-0060",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2026-03-08",
+    "detail": "ECOG 2; toxicity grade 2",
+    "author": "Dr. Vikram Shetty"
+  },
+  {
+    "id": "EVT-0219",
+    "patientId": "PT-0060",
+    "type": "response",
+    "title": "Response assessment",
+    "date": "2025-02-20",
+    "detail": "Cycle 3 of 6",
+    "author": "Dr. Vikram Shetty"
+  },
+  {
+    "id": "EVT-0220",
+    "patientId": "PT-0061",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2025-02-10",
+    "detail": "Biomarker: FLT3-ITD",
+    "author": "Dr. Rekha Sharma"
+  },
+  {
+    "id": "EVT-0221",
+    "patientId": "PT-0061",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2024-10-30",
+    "detail": "Leukemia — Venetoclax + Azacitidine",
+    "author": "Dr. Rekha Sharma"
+  },
+  {
+    "id": "EVT-0222",
+    "patientId": "PT-0061",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2024-08-29",
+    "detail": "Cycle 3 of 12",
+    "author": "Dr. Rekha Sharma"
+  },
+  {
+    "id": "EVT-0223",
+    "patientId": "PT-0062",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2024-12-25",
+    "detail": "Ovarian Cancer — Niraparib maintenance",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0224",
+    "patientId": "PT-0062",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2025-05-16",
+    "detail": "Ovarian Cancer — Niraparib maintenance",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0225",
+    "patientId": "PT-0062",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2024-09-06",
+    "detail": "Cycle 1 of 6",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0226",
+    "patientId": "PT-0063",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2025-04-27",
+    "detail": "Lymphoma — Pola-R-CHP",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0227",
+    "patientId": "PT-0063",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2025-10-01",
+    "detail": "Cycle 6 of 6",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0228",
+    "patientId": "PT-0063",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2024-11-14",
+    "detail": "Lymphoma — Pola-R-CHP",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0229",
+    "patientId": "PT-0064",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2025-05-01",
+    "detail": "ECOG 3; toxicity grade 3",
+    "author": "Dr. Priya Iyer"
+  },
+  {
+    "id": "EVT-0230",
+    "patientId": "PT-0064",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2024-12-06",
+    "detail": "ECOG 3; toxicity grade 3",
+    "author": "Dr. Priya Iyer"
+  },
+  {
+    "id": "EVT-0231",
+    "patientId": "PT-0064",
+    "type": "mtb",
+    "title": "MTB discussion",
+    "date": "2024-10-02",
+    "detail": "RECIST: Progressive disease",
+    "author": "Dr. Priya Iyer"
+  },
+  {
+    "id": "EVT-0232",
+    "patientId": "PT-0065",
+    "type": "response",
+    "title": "Response assessment",
+    "date": "2024-09-17",
+    "detail": "Cycle 1 of 4",
+    "author": "Dr. Rekha Shetty"
+  },
+  {
+    "id": "EVT-0233",
+    "patientId": "PT-0065",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2026-06-06",
+    "detail": "Breast Cancer — Trastuzumab deruxtecan",
+    "author": "Dr. Rekha Shetty"
+  },
+  {
+    "id": "EVT-0234",
+    "patientId": "PT-0066",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2024-10-14",
+    "detail": "Biomarker: MSI-high",
+    "author": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "EVT-0235",
+    "patientId": "PT-0066",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2025-02-04",
+    "detail": "Cycle 4 of 6",
+    "author": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "EVT-0236",
+    "patientId": "PT-0066",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2024-09-01",
+    "detail": "Biomarker: MSI-high",
+    "author": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "EVT-0237",
+    "patientId": "PT-0067",
+    "type": "report",
+    "title": "Report available",
+    "date": "2024-09-24",
+    "detail": "Biomarker: PD-L1 TPS",
+    "author": "Dr. Arjun Rao"
+  },
+  {
+    "id": "EVT-0238",
+    "patientId": "PT-0067",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2025-01-19",
+    "detail": "ECOG 1; toxicity grade 2",
+    "author": "Dr. Arjun Rao"
+  },
+  {
+    "id": "EVT-0239",
+    "patientId": "PT-0067",
+    "type": "report",
+    "title": "Report available",
+    "date": "2025-01-13",
+    "detail": "NSCLC — Sotorasib",
+    "author": "Dr. Arjun Rao"
+  },
+  {
+    "id": "EVT-0240",
+    "patientId": "PT-0067",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2026-04-04",
+    "detail": "ECOG 1; toxicity grade 3",
+    "author": "Dr. Arjun Rao"
+  },
+  {
+    "id": "EVT-0241",
+    "patientId": "PT-0068",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2025-11-07",
+    "detail": "Breast Cancer — CDK4/6 inhibitor + AI",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0242",
+    "patientId": "PT-0068",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2025-09-29",
+    "detail": "RECIST: Stable disease",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0243",
+    "patientId": "PT-0068",
+    "type": "visit",
+    "title": "OPD visit",
+    "date": "2024-09-16",
+    "detail": "Breast Cancer — CDK4/6 inhibitor + AI",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0244",
+    "patientId": "PT-0069",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2026-02-21",
+    "detail": "Biomarker: HER2 amplification",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0245",
+    "patientId": "PT-0069",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2026-04-26",
+    "detail": "Cycle 4 of 8",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0246",
+    "patientId": "PT-0070",
+    "type": "visit",
+    "title": "OPD visit",
+    "date": "2025-04-09",
+    "detail": "ECOG 3; toxicity grade 2",
+    "author": "Dr. Vikram Sharma"
+  },
+  {
+    "id": "EVT-0247",
+    "patientId": "PT-0070",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2025-11-03",
+    "detail": "RECIST: Stable disease",
+    "author": "Dr. Vikram Sharma"
+  },
+  {
+    "id": "EVT-0248",
+    "patientId": "PT-0070",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2024-08-09",
+    "detail": "Head and Neck Cancer — Cisplatin + RT",
+    "author": "Dr. Vikram Sharma"
+  },
+  {
+    "id": "EVT-0249",
+    "patientId": "PT-0070",
+    "type": "report",
+    "title": "Report available",
+    "date": "2026-06-28",
+    "detail": "Biomarker: MSI-high",
+    "author": "Dr. Vikram Sharma"
+  },
+  {
+    "id": "EVT-0250",
+    "patientId": "PT-0070",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2026-05-18",
+    "detail": "ECOG 3; toxicity grade 1",
+    "author": "Dr. Vikram Sharma"
+  },
+  {
+    "id": "EVT-0251",
+    "patientId": "PT-0071",
+    "type": "mtb",
+    "title": "MTB discussion",
+    "date": "2024-09-30",
+    "detail": "ECOG 3; toxicity grade 2",
+    "author": "Dr. Gopal Patel"
+  },
+  {
+    "id": "EVT-0252",
+    "patientId": "PT-0071",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2025-09-17",
+    "detail": "ECOG 3; toxicity grade 3",
+    "author": "Dr. Gopal Patel"
+  },
+  {
+    "id": "EVT-0253",
+    "patientId": "PT-0072",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2024-09-22",
+    "detail": "Cycle 6 of 6",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0254",
+    "patientId": "PT-0072",
+    "type": "mtb",
+    "title": "MTB discussion",
+    "date": "2025-11-01",
+    "detail": "RECIST: Complete response",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0255",
+    "patientId": "PT-0072",
+    "type": "visit",
+    "title": "OPD visit",
+    "date": "2026-01-26",
+    "detail": "Biomarker: MSI-high",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0256",
+    "patientId": "PT-0073",
+    "type": "response",
+    "title": "Response assessment",
+    "date": "2026-04-28",
+    "detail": "RECIST: Partial response",
+    "author": "Dr. Gopal Patel"
+  },
+  {
+    "id": "EVT-0257",
+    "patientId": "PT-0073",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2025-05-27",
+    "detail": "Biomarker: PD-L1 TPS",
+    "author": "Dr. Gopal Patel"
+  },
+  {
+    "id": "EVT-0258",
+    "patientId": "PT-0073",
+    "type": "response",
+    "title": "Response assessment",
+    "date": "2025-05-15",
+    "detail": "Biomarker: PD-L1 TPS",
+    "author": "Dr. Gopal Patel"
+  },
+  {
+    "id": "EVT-0259",
+    "patientId": "PT-0073",
+    "type": "mtb",
+    "title": "MTB discussion",
+    "date": "2025-08-05",
+    "detail": "Biomarker: PD-L1 TPS",
+    "author": "Dr. Gopal Patel"
+  },
+  {
+    "id": "EVT-0260",
+    "patientId": "PT-0073",
+    "type": "report",
+    "title": "Report available",
+    "date": "2025-03-20",
+    "detail": "ECOG 2; toxicity grade 1",
+    "author": "Dr. Gopal Patel"
+  },
+  {
+    "id": "EVT-0261",
+    "patientId": "PT-0074",
+    "type": "visit",
+    "title": "OPD visit",
+    "date": "2026-05-27",
+    "detail": "Cycle 6 of 6",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0262",
+    "patientId": "PT-0074",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2024-08-30",
+    "detail": "ECOG 0; toxicity grade 1",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0263",
+    "patientId": "PT-0074",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2026-06-14",
+    "detail": "Leukemia — Venetoclax + Azacitidine",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0264",
+    "patientId": "PT-0075",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2024-09-20",
+    "detail": "RECIST: Complete response",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0265",
+    "patientId": "PT-0075",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2026-05-14",
+    "detail": "Biomarker: BRCA1/2",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0266",
+    "patientId": "PT-0075",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2026-04-16",
+    "detail": "Cycle 6 of 6",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0267",
+    "patientId": "PT-0075",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2025-11-24",
+    "detail": "Cycle 4 of 6",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0268",
+    "patientId": "PT-0076",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2025-11-13",
+    "detail": "Colorectal Cancer — FOLFIRI + Cetuximab",
+    "author": "Dr. Rekha Kumar"
+  },
+  {
+    "id": "EVT-0269",
+    "patientId": "PT-0076",
+    "type": "response",
+    "title": "Response assessment",
+    "date": "2024-11-17",
+    "detail": "RECIST: Complete response",
+    "author": "Dr. Rekha Kumar"
+  },
+  {
+    "id": "EVT-0270",
+    "patientId": "PT-0076",
+    "type": "visit",
+    "title": "OPD visit",
+    "date": "2025-11-02",
+    "detail": "Biomarker: MSI-high",
+    "author": "Dr. Rekha Kumar"
+  },
+  {
+    "id": "EVT-0271",
+    "patientId": "PT-0076",
+    "type": "response",
+    "title": "Response assessment",
+    "date": "2026-01-22",
+    "detail": "ECOG 0; toxicity grade 1",
+    "author": "Dr. Rekha Kumar"
+  },
+  {
+    "id": "EVT-0272",
+    "patientId": "PT-0076",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2026-06-13",
+    "detail": "ECOG 0; toxicity grade 2",
+    "author": "Dr. Rekha Kumar"
+  },
+  {
+    "id": "EVT-0273",
+    "patientId": "PT-0077",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2026-07-05",
+    "detail": "Biomarker: BRCA1/2",
+    "author": "Dr. Radha Chatterjee"
+  },
+  {
+    "id": "EVT-0274",
+    "patientId": "PT-0077",
+    "type": "visit",
+    "title": "OPD visit",
+    "date": "2025-12-10",
+    "detail": "Biomarker: BRCA1/2",
+    "author": "Dr. Radha Chatterjee"
+  },
+  {
+    "id": "EVT-0275",
+    "patientId": "PT-0077",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2025-02-17",
+    "detail": "ECOG 1; toxicity grade 2",
+    "author": "Dr. Radha Chatterjee"
+  },
+  {
+    "id": "EVT-0276",
+    "patientId": "PT-0077",
+    "type": "visit",
+    "title": "OPD visit",
+    "date": "2025-09-11",
+    "detail": "RECIST: Partial response",
+    "author": "Dr. Radha Chatterjee"
+  },
+  {
+    "id": "EVT-0277",
+    "patientId": "PT-0078",
+    "type": "mtb",
+    "title": "MTB discussion",
+    "date": "2024-12-12",
+    "detail": "ECOG 2; toxicity grade 2",
+    "author": "Dr. Vidya Kapoor"
+  },
+  {
+    "id": "EVT-0278",
+    "patientId": "PT-0078",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2025-11-23",
+    "detail": "Gastric Cancer — FLOT",
+    "author": "Dr. Vidya Kapoor"
+  },
+  {
+    "id": "EVT-0279",
+    "patientId": "PT-0078",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2025-01-25",
+    "detail": "Cycle 2 of 6",
+    "author": "Dr. Vidya Kapoor"
+  },
+  {
+    "id": "EVT-0280",
+    "patientId": "PT-0078",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2025-12-17",
+    "detail": "Biomarker: MSI-high",
+    "author": "Dr. Vidya Kapoor"
+  },
+  {
+    "id": "EVT-0281",
+    "patientId": "PT-0078",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2024-09-08",
+    "detail": "Gastric Cancer — FLOT",
+    "author": "Dr. Vidya Kapoor"
+  },
+  {
+    "id": "EVT-0282",
+    "patientId": "PT-0079",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2026-05-19",
+    "detail": "RECIST: Progressive disease",
+    "author": "Dr. Latha Joshi"
+  },
+  {
+    "id": "EVT-0283",
+    "patientId": "PT-0079",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2025-02-27",
+    "detail": "ECOG 2; toxicity grade 3",
+    "author": "Dr. Latha Joshi"
+  },
+  {
+    "id": "EVT-0284",
+    "patientId": "PT-0079",
+    "type": "response",
+    "title": "Response assessment",
+    "date": "2026-02-07",
+    "detail": "RECIST: Partial response",
+    "author": "Dr. Latha Joshi"
+  },
+  {
+    "id": "EVT-0285",
+    "patientId": "PT-0079",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2024-11-06",
+    "detail": "Cycle 4 of 6",
+    "author": "Dr. Latha Joshi"
+  },
+  {
+    "id": "EVT-0286",
+    "patientId": "PT-0079",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2024-11-01",
+    "detail": "Cycle 3 of 6",
+    "author": "Dr. Latha Joshi"
+  },
+  {
+    "id": "EVT-0287",
+    "patientId": "PT-0080",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2026-06-28",
+    "detail": "Biomarker: TP53",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0288",
+    "patientId": "PT-0080",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2026-02-05",
+    "detail": "RECIST: Partial response",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0289",
+    "patientId": "PT-0080",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2026-07-05",
+    "detail": "RECIST: Progressive disease",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0290",
+    "patientId": "PT-0081",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2025-02-10",
+    "detail": "Cycle 2 of 6",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0291",
+    "patientId": "PT-0081",
+    "type": "visit",
+    "title": "OPD visit",
+    "date": "2025-10-19",
+    "detail": "Cycle 2 of 6",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0292",
+    "patientId": "PT-0081",
+    "type": "visit",
+    "title": "OPD visit",
+    "date": "2026-03-06",
+    "detail": "Cycle 4 of 6",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0293",
+    "patientId": "PT-0081",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2025-10-11",
+    "detail": "RECIST: Stable disease",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0294",
+    "patientId": "PT-0081",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2025-04-28",
+    "detail": "RECIST: Progressive disease",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0295",
+    "patientId": "PT-0082",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2025-08-24",
+    "detail": "RECIST: Progressive disease",
+    "author": "Dr. Meera Shetty"
+  },
+  {
+    "id": "EVT-0296",
+    "patientId": "PT-0082",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2024-08-14",
+    "detail": "ECOG 2; toxicity grade 3",
+    "author": "Dr. Meera Shetty"
+  },
+  {
+    "id": "EVT-0297",
+    "patientId": "PT-0082",
+    "type": "visit",
+    "title": "OPD visit",
+    "date": "2025-08-07",
+    "detail": "RECIST: Partial response",
+    "author": "Dr. Meera Shetty"
+  },
+  {
+    "id": "EVT-0298",
+    "patientId": "PT-0083",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2025-09-21",
+    "detail": "Biomarker: MSI-high",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0299",
+    "patientId": "PT-0083",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2024-08-23",
+    "detail": "Prostate Cancer — ADT + Abiraterone",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0300",
+    "patientId": "PT-0083",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2025-05-28",
+    "detail": "ECOG 2; toxicity grade 2",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0301",
+    "patientId": "PT-0084",
+    "type": "response",
+    "title": "Response assessment",
+    "date": "2025-02-06",
+    "detail": "ECOG 2; toxicity grade 2",
+    "author": "Dr. Sanjay Pillai"
+  },
+  {
+    "id": "EVT-0302",
+    "patientId": "PT-0084",
+    "type": "report",
+    "title": "Report available",
+    "date": "2026-01-17",
+    "detail": "ECOG 2; toxicity grade 1",
+    "author": "Dr. Sanjay Pillai"
+  },
+  {
+    "id": "EVT-0303",
+    "patientId": "PT-0084",
+    "type": "report",
+    "title": "Report available",
+    "date": "2025-07-19",
+    "detail": "ECOG 2; toxicity grade 3",
+    "author": "Dr. Sanjay Pillai"
+  },
+  {
+    "id": "EVT-0304",
+    "patientId": "PT-0084",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2026-01-10",
+    "detail": "Colorectal Cancer — FOLFOX + Bevacizumab",
+    "author": "Dr. Sanjay Pillai"
+  },
+  {
+    "id": "EVT-0305",
+    "patientId": "PT-0084",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2025-05-01",
+    "detail": "ECOG 2; toxicity grade 2",
+    "author": "Dr. Sanjay Pillai"
+  },
+  {
+    "id": "EVT-0306",
+    "patientId": "PT-0085",
+    "type": "visit",
+    "title": "OPD visit",
+    "date": "2024-11-12",
+    "detail": "RECIST: Progressive disease",
+    "author": "Dr. Arjun Rao"
+  },
+  {
+    "id": "EVT-0307",
+    "patientId": "PT-0085",
+    "type": "visit",
+    "title": "OPD visit",
+    "date": "2025-05-30",
+    "detail": "RECIST: Partial response",
+    "author": "Dr. Arjun Rao"
+  },
+  {
+    "id": "EVT-0308",
+    "patientId": "PT-0085",
+    "type": "report",
+    "title": "Report available",
+    "date": "2025-07-31",
+    "detail": "RECIST: Progressive disease",
+    "author": "Dr. Arjun Rao"
+  },
+  {
+    "id": "EVT-0309",
+    "patientId": "PT-0085",
+    "type": "report",
+    "title": "Report available",
+    "date": "2026-06-05",
+    "detail": "RECIST: Complete response",
+    "author": "Dr. Arjun Rao"
+  },
+  {
+    "id": "EVT-0310",
+    "patientId": "PT-0085",
+    "type": "response",
+    "title": "Response assessment",
+    "date": "2026-04-15",
+    "detail": "Gastric Cancer — Trastuzumab deruxtecan",
+    "author": "Dr. Arjun Rao"
+  },
+  {
+    "id": "EVT-0311",
+    "patientId": "PT-0086",
+    "type": "response",
+    "title": "Response assessment",
+    "date": "2025-09-12",
+    "detail": "RECIST: Partial response",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0312",
+    "patientId": "PT-0086",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2025-04-22",
+    "detail": "RECIST: Stable disease",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0313",
+    "patientId": "PT-0086",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2025-09-12",
+    "detail": "ECOG 2; toxicity grade 3",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0314",
+    "patientId": "PT-0086",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2025-09-19",
+    "detail": "ECOG 2; toxicity grade 2",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0315",
+    "patientId": "PT-0086",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2025-05-08",
+    "detail": "Biomarker: TMB-high",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0316",
+    "patientId": "PT-0087",
+    "type": "response",
+    "title": "Response assessment",
+    "date": "2024-09-26",
+    "detail": "RECIST: Progressive disease",
+    "author": "Dr. Gopal Iyer"
+  },
+  {
+    "id": "EVT-0317",
+    "patientId": "PT-0087",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2026-02-20",
+    "detail": "RECIST: Stable disease",
+    "author": "Dr. Gopal Iyer"
+  },
+  {
+    "id": "EVT-0318",
+    "patientId": "PT-0088",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2026-01-04",
+    "detail": "Cycle 3 of 12",
+    "author": "Dr. Rekha Sharma"
+  },
+  {
+    "id": "EVT-0319",
+    "patientId": "PT-0088",
+    "type": "visit",
+    "title": "OPD visit",
+    "date": "2026-01-14",
+    "detail": "RECIST: Partial response",
+    "author": "Dr. Rekha Sharma"
+  },
+  {
+    "id": "EVT-0320",
+    "patientId": "PT-0089",
+    "type": "mtb",
+    "title": "MTB discussion",
+    "date": "2025-03-11",
+    "detail": "Breast Cancer — Olaparib",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0321",
+    "patientId": "PT-0089",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2024-12-20",
+    "detail": "Breast Cancer — Olaparib",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0322",
+    "patientId": "PT-0089",
+    "type": "report",
+    "title": "Report available",
+    "date": "2024-12-21",
+    "detail": "RECIST: Progressive disease",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0323",
+    "patientId": "PT-0089",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2025-10-15",
+    "detail": "Cycle 2 of 6",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0324",
+    "patientId": "PT-0089",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2024-09-13",
+    "detail": "RECIST: Stable disease",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0325",
+    "patientId": "PT-0090",
+    "type": "report",
+    "title": "Report available",
+    "date": "2025-10-20",
+    "detail": "Biomarker: BRAF V600E",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0326",
+    "patientId": "PT-0090",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2026-01-19",
+    "detail": "Biomarker: PD-L1 TPS",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0327",
+    "patientId": "PT-0090",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2024-12-16",
+    "detail": "ECOG 2; toxicity grade 3",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0328",
+    "patientId": "PT-0091",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2025-11-11",
+    "detail": "RECIST: Partial response",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0329",
+    "patientId": "PT-0091",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2026-03-24",
+    "detail": "ECOG 1; toxicity grade 1",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0330",
+    "patientId": "PT-0092",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2025-01-01",
+    "detail": "ECOG 1; toxicity grade 1",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0331",
+    "patientId": "PT-0092",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2025-11-15",
+    "detail": "Biomarker: PD-L1 TPS",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0332",
+    "patientId": "PT-0092",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2025-08-18",
+    "detail": "ECOG 1; toxicity grade 1",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0333",
+    "patientId": "PT-0092",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2025-06-13",
+    "detail": "RECIST: Stable disease",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0334",
+    "patientId": "PT-0093",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2024-10-26",
+    "detail": "RECIST: Partial response",
+    "author": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "EVT-0335",
+    "patientId": "PT-0093",
+    "type": "report",
+    "title": "Report available",
+    "date": "2025-08-17",
+    "detail": "Cycle 5 of 6",
+    "author": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "EVT-0336",
+    "patientId": "PT-0093",
+    "type": "response",
+    "title": "Response assessment",
+    "date": "2025-07-13",
+    "detail": "Biomarker: KRAS G12C",
+    "author": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "EVT-0337",
+    "patientId": "PT-0093",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2024-12-04",
+    "detail": "Cycle 3 of 6",
+    "author": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "EVT-0338",
+    "patientId": "PT-0093",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2025-02-13",
+    "detail": "ECOG 2; toxicity grade 3",
+    "author": "Dr. Pooja Gupta"
+  },
+  {
+    "id": "EVT-0339",
+    "patientId": "PT-0094",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2024-09-01",
+    "detail": "ECOG 0; toxicity grade 2",
+    "author": "Dr. Harish Verma"
+  },
+  {
+    "id": "EVT-0340",
+    "patientId": "PT-0094",
+    "type": "report",
+    "title": "Report available",
+    "date": "2026-01-03",
+    "detail": "ECOG 0; toxicity grade 3",
+    "author": "Dr. Harish Verma"
+  },
+  {
+    "id": "EVT-0341",
+    "patientId": "PT-0094",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2026-01-03",
+    "detail": "ECOG 0; toxicity grade 1",
+    "author": "Dr. Harish Verma"
+  },
+  {
+    "id": "EVT-0342",
+    "patientId": "PT-0095",
+    "type": "response",
+    "title": "Response assessment",
+    "date": "2026-02-16",
+    "detail": "Head and Neck Cancer — Nivolumab",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0343",
+    "patientId": "PT-0095",
+    "type": "mtb",
+    "title": "MTB discussion",
+    "date": "2025-10-05",
+    "detail": "Cycle 6 of 6",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0344",
+    "patientId": "PT-0095",
+    "type": "report",
+    "title": "Report available",
+    "date": "2026-05-13",
+    "detail": "Head and Neck Cancer — Nivolumab",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0345",
+    "patientId": "PT-0095",
+    "type": "diagnosis",
+    "title": "Diagnosis confirmed",
+    "date": "2025-09-06",
+    "detail": "ECOG 1; toxicity grade 2",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0346",
+    "patientId": "PT-0096",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2026-02-24",
+    "detail": "ECOG 1; toxicity grade 3",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0347",
+    "patientId": "PT-0096",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2024-12-16",
+    "detail": "ECOG 1; toxicity grade 3",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0348",
+    "patientId": "PT-0096",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2025-03-17",
+    "detail": "ECOG 1; toxicity grade 2",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0349",
+    "patientId": "PT-0097",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2025-11-08",
+    "detail": "ECOG 0; toxicity grade 3",
+    "author": "Dr. Gopal Patel"
+  },
+  {
+    "id": "EVT-0350",
+    "patientId": "PT-0097",
+    "type": "toxicity",
+    "title": "Toxicity event",
+    "date": "2026-02-05",
+    "detail": "Pancreatic Cancer — Gemcitabine + Nab-paclitaxel",
+    "author": "Dr. Gopal Patel"
+  },
+  {
+    "id": "EVT-0351",
+    "patientId": "PT-0097",
+    "type": "mtb",
+    "title": "MTB discussion",
+    "date": "2025-06-23",
+    "detail": "ECOG 0; toxicity grade 2",
+    "author": "Dr. Gopal Patel"
+  },
+  {
+    "id": "EVT-0352",
+    "patientId": "PT-0097",
+    "type": "order",
+    "title": "Order placed",
+    "date": "2025-03-12",
+    "detail": "Cycle 3 of 6",
+    "author": "Dr. Gopal Patel"
+  },
+  {
+    "id": "EVT-0353",
+    "patientId": "PT-0098",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2025-04-14",
+    "detail": "RECIST: Partial response",
+    "author": "Dr. Radha Reddy"
+  },
+  {
+    "id": "EVT-0354",
+    "patientId": "PT-0098",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2026-06-27",
+    "detail": "ECOG 1; toxicity grade 1",
+    "author": "Dr. Radha Reddy"
+  },
+  {
+    "id": "EVT-0355",
+    "patientId": "PT-0098",
+    "type": "mtb",
+    "title": "MTB discussion",
+    "date": "2024-12-16",
+    "detail": "Biomarker: CD30",
+    "author": "Dr. Radha Reddy"
+  },
+  {
+    "id": "EVT-0356",
+    "patientId": "PT-0098",
+    "type": "visit",
+    "title": "OPD visit",
+    "date": "2025-10-31",
+    "detail": "Biomarker: CD30",
+    "author": "Dr. Radha Reddy"
+  },
+  {
+    "id": "EVT-0357",
+    "patientId": "PT-0099",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2025-04-01",
+    "detail": "RECIST: Partial response",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0358",
+    "patientId": "PT-0099",
+    "type": "cycle",
+    "title": "Chemotherapy cycle administered",
+    "date": "2025-11-17",
+    "detail": "Biomarker: PD-L1 TPS",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0359",
+    "patientId": "PT-0099",
+    "type": "message",
+    "title": "Patient message",
+    "date": "2026-01-14",
+    "detail": "ECOG 0; toxicity grade 3",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0360",
+    "patientId": "PT-0099",
+    "type": "treatment",
+    "title": "Treatment started",
+    "date": "2025-05-07",
+    "detail": "Biomarker: TMB-high",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0361",
+    "patientId": "PT-0100",
+    "type": "mtb",
+    "title": "MTB discussion",
+    "date": "2025-11-22",
+    "detail": "Biomarker: HER2 amplification",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0362",
+    "patientId": "PT-0100",
+    "type": "report",
+    "title": "Report available",
+    "date": "2025-03-22",
+    "detail": "Cycle 3 of 6",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0363",
+    "patientId": "PT-0100",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2025-04-05",
+    "detail": "Biomarker: HER2 amplification",
+    "author": "Dr. Arjun Menon"
+  },
+  {
+    "id": "EVT-0364",
+    "patientId": "PT-0100",
+    "type": "imaging",
+    "title": "Imaging performed",
+    "date": "2025-02-04",
+    "detail": "ECOG 0; toxicity grade 1",
+    "author": "Dr. Arjun Menon"
+  }
+]
